@@ -11,13 +11,13 @@ ___
 *Fighters are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the Fighter’s role is to battle monsters and to defend their allies.*
 ___
 **Prime requisite:** STR<br>**Hit Dice:** 1d8<br>**Armour:** Any, including shields<br>**Weapons:** Any<br>**Languages:** Common
-
+___
 | Level |  XP   | HD  | Deed |     |  D  |  W  |  P  |  B  |  S  |
 |:-----:|:-----:|:---:|:----:| --- |:---:|:---:|:---:|:---:|:---:|
 |   1   |   0   | 1d8 |  d3  |     | 12  | 13  | 14  | 15  | 16  |
 |   2   | 2,000 | 2d8 |  d4  |     | 12  | 13  | 14  | 15  | 16  |
 |   3   | 4,000 | 3d8 |  d5  |     | 12  | 13  | 14  | 15  | 16  |
-___
+
 ### Attack Bonus
 Unlike other Classes, Fighters do not have a fixed Attack Bonus at each Level. Instead, their Attack Bonus comes from their **Deed Die**.
 
