@@ -12,6 +12,7 @@ ___
 ___
 **Prime requisite:** STR<br>**Hit Dice:** 1d8<br>**Armour:** Any, including shields<br>**Weapons:** Any<br>**Languages:** Common
 ___
+### Fighter Level Progression
 | Level |  XP   | HD  | Deed |     |  D  |  W  |  P  |  B  |  S  |
 |:-----:|:-----:|:---:|:----:| --- |:---:|:---:|:---:|:---:|:---:|
 |   1   |   0   | 1d8 |  d3  |     | 12  | 13  | 14  | 15  | 16  |
