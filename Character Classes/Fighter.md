@@ -10,7 +10,7 @@ creation_date: [2022-03-25]
 ___
 *Fighters are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the Fighter’s role is to battle monsters and to defend their allies.*
 ___
-**Requirements:** None<br>**Prime requisite:** STR<br>**Hit Dice:** 1d8<br>**Maximum level:** 14<br>**Armour:** Any, including shields<br>**Weapons:** Any<br>**Languages:** Alignment, Common
+**Prime requisite:** STR<br>**Hit Dice:** 1d8<br>**Armour:** Any, including shields<br>**Weapons:** Any<br>**Languages:** Common
 | Level |  XP   | HD  | Deed |     |  D  |  W  |  P  |  B  |  S  |
 |:-----:|:-----:|:---:|:----:| --- |:---:|:---:|:---:|:---:|:---:|
 |   1   |   0   | 1d8 |  d3  |     | 12  | 13  | 14  | 15  | 16  |
@@ -35,6 +35,6 @@ Once per combat, the Fighter may turn a missed attack they have made into a hit.
 Combat instincts cannot be used for or against spells, nor can it be used if the attack could never hit, such as attacking something out of range.
 
 ### [[Disciplines - Fighter Class|Disciplines]]
-Fighters choose a [[Disciplines - Fighter Class|Discipline]] at 1st level, and gain relevant aspects and abilities based on that training. Each time the Fighter gains a Level, they progress to the next step of their Discipline: First **A** then **B**, then **C**, and finally **D**.
+Fighters choose a [[Disciplines - Fighter Class|Discipline]] at 1st level, and gain relevant aspects and abilities based on that training. Each time the Fighter gains a Level, they progress to the next step of their Discipline: First **A**, then **B**, then **C**, and finally **D**.
 
 Fighters may study multiple [[Disciplines - Fighter Class|Disciplines]], but only progress in one Discipline per Level, and cannot skip steps in any Discipline.
