@@ -15,14 +15,7 @@ ___
 **A:** For Glory<br>**B:** Boast, Battle Cry<br>**C:** Shield Bash<br>**D:** Song of Swords
 ___
 
-### [[Discipline A Abilities|A.]] For Glory
-  
-Your speeches resound with the music of the skalds. At the beginning of combat, all allies (including you) who can hear you gain Ld4 HP if they follow you into battle *(where L is the number of levels you have taken in Swashbuckler)*.
-
-If they are already at full HP, they instead gain +2 to-hit on their next Attack.
-
----
-Your war cries resound with the music of the skalds. If you charge at the beginning of combat, gain Ld4 HP *(where L is the number of levels you have taken in Swashbuckler)*. If allies who can hear you follow you into battle, they also gain Ld4 HP .
+### [[Discipline A Abilities|A.]] For Glory<br>Your war cries resound with the music of the skalds. If you charge at the beginning of combat, gain Ld4 HP *(where L is the number of levels you have taken in Swashbuckler)*. If allies who can hear you follow you into battle, they also gain Ld4 HP .
 
 If any creature that would gain HP this way is undamaged, they instead gain +2 to-hit on their next melee attack.
 
