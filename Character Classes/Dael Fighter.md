@@ -36,6 +36,6 @@ You inspire allies or terrify enemies with a vigorous shout. Once per combat, re
 A successful shield bash briefly knocks an enemy off balance. Until their next turn, they take -2 AC and you gain +2 AC against their attacks.
 
 ### [[Discipline D Abilities|D.]] Song of Swords
-~~You’re loud, but you’re not just some ruffian anymore.~~ Once per day, you can make swords sing. You and each ally may immediately make a melee attack, even if you or they have already attacked this round. If your allies cannot attack, they may instead move towards an enemy, even if they have already moved this round. 
+Once per day, you can make swords sing. You and each ally may immediately make a melee attack, even if you or they have already attacked this round. If your allies cannot attack, they may instead move towards an enemy, even if they have already moved this round. 
 
 For each ally that attacks due to this effect, you gain +1 AC until the end of your next round. 
