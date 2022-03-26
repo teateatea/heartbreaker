@@ -10,13 +10,9 @@ creation_date: [2022-03-25]
 ___
 *Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.*
 
-**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12)]], [[Longsword|Longsword (1d10)]], [[Shield|Shield (AC +1)]], Precious drinking horn.
-**Starting Ken (1d3): 1)** Poetry **2)** Mountaineer **3)** Foreign Parts.
+**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12)]], [[Longsword|Longsword (1d10)]], [[Shield|Shield (AC +1)]], Precious drinking horn.<br>**Starting Ken (1d3): 1)** Poetry **2)** Mountaineer **3)** Foreign Parts.
 ___
-**A:** For Glory
-**B:** Boast, Battle Cry
-**C:** Shield Bash
-**D:** Song of Swords
+**A:** For Glory<br>**B:** Boast, Battle Cry<br>**C:** Shield Bash<br>**D:** Song of Swords
 ___
 
 ### [[Discipline A Abilities|A.]] For Glory
