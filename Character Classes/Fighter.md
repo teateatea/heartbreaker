@@ -11,6 +11,7 @@ ___
 *Fighters are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the Fighter’s role is to battle monsters and to defend their allies.*
 ___
 **Prime requisite:** STR<br>**Hit Dice:** 1d8<br>**Armour:** Any, including shields<br>**Weapons:** Any<br>**Languages:** Common
+
 | Level |  XP   | HD  | Deed |     |  D  |  W  |  P  |  B  |  S  |
 |:-----:|:-----:|:---:|:----:| --- |:---:|:---:|:---:|:---:|:---:|
 |   1   |   0   | 1d8 |  d3  |     | 12  | 13  | 14  | 15  | 16  |
