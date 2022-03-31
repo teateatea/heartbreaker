@@ -29,12 +29,13 @@ ___
 
 | Maroian&nbsp;Disciplines | Description                                                                                                                                                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| *House Champion*         |                                                                                                                                                                                                                                            |
+| [[House Champion]]         |                                                                                                                                                                                                                                            |
 | [[Swordwife]]            | Dedicated to the study of combat, you take violent work as a means of developing your skill. You seldom have the clarity to realize that your relationship with your sword is more important than your relationship with any other person. |
 | [[Bravo]]                | Your skill with a saber is only outmatched by your ability to induce ire in your hapless foes. You often bite off more than you can chew, but you'll stop at nothing to be recognized for your devilish escapades.                         |
 
 | Caspian&nbsp;Disciplines | Description |
 | ------------------------ | ----------- |
+| [[War Dancer]]           |             |
 | [[Blue Blade]]           |             |
 
 | Mur&nbsp;Disciplines | Description |
@@ -50,7 +51,7 @@ ___
 
 | Caspian&nbsp;Disciplines  | Description |
 | -------------------- | ----------- |
-| [[Temple Adept]]     |             |
+| [[Temple Adept]] or maybe [[War Dancer]]     |             |
 | [[Blue Blade]]       |             |
 | [[Third Discipline]] |             |
 
