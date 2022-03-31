@@ -9,12 +9,9 @@ creation_date: [2022-03-25]
 [[Fighter]] | [[Disciplines - Fighter Class|Disciplines]]
 ___
 *Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.*
-
-**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12)]], [[Longsword|Longsword (1d10)]], [[Shield|Shield (AC +1)]], Precious drinking horn.<br>**Starting Ken (1d3): 1)** Poetry **2)** Mountaineer **3)** Foreign Parts.
 ___
-**A:** For Glory<br>**B:** Boast, Battle Cry<br>**C:** Shield Bash<br>**D:** Song of Swords
+**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12)]], [[Longsword|Longsword (1d10)]], [[Shield|Shield (AC +1)]], Precious drinking horn.<br>**Starting Ken (1d3): 1)** Poetry **2)** Mountaineer **3)** Foreign Parts.<br>**A:** For Glory<br>**B:** Boast, Battle Cry<br>**C:** Shield Bash<br>**D:** Song of Swords
 ___
-
 ### [[Discipline A Abilities|A.]] For Glory
 Your war cries resound with the music of the skalds. If you charge at the beginning of combat, gain Ld4 HP *(where L is the number of levels you have taken in Swashbuckler)*. If allies who can hear you follow you into battle, they also gain Ld4 HP .
 
