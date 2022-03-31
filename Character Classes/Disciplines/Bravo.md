@@ -23,7 +23,7 @@ Each time an attack targets only you, but misses, you gain +$1$ AC. This bonus r
 ### [[Discipline B Abilities|B.]] Charming Bastard
 Once per combat, when you miss an attack, grin and taunt your target. The nearest $L$+$1$ opponents roll Morale: On a success, they spend their turn moving to encircle you, but only the nearest opponent can attack you. If their attack(s) misses, you may use this ability again next round.
 
-*($L$ is the number of levels you have taken in Swashbuckler.)*
+*($L$ is the number of levels you have taken in Bravo.)*
 
 ### [[Discipline C Abilities|C.]] Sacrifice
 When any source of damage would reduce you to 0 HP, you may sacrifice an adjacent ally to escape. That ally must **Save vs Death**: On a success, they take the damage instead of you. On a fail, they take damage instead of you, then take additional damage until their HP is equal to or lower than your HP.

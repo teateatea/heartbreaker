@@ -62,9 +62,11 @@ See Alloy above for details.
 | 1.&nbsp;Aluminum | Weapon can be folded, taking up half the usual inventory slots (minimum 1). |
 | 2. Bone          | +1 to hit and damage creatures of the same species as the bones.            |
 | 3. Gold          | +1d6 damage against creatures that channel magic.                           |
-| 4. Mercury       | 1d20 hours later, target saves vs poison, or suffer madness.                |
-| 5. Nickel        | Weapon can store magical charges.                                           |
+| 4. Mercury       | 1d20 hours later, target must **Save vs Poison**, or suffer madness.                |
+| 5. Nickel        | Weapon can store $L$ magical charges.                                           |
 | 6. Zinc          | Weapon never rusts or tarnishes.                                            |
+*($L$ is the number of levels you have taken in Swordwife.)*
+
 
 | MITHRIL BASE    | Cuts any metal softer than iron.                         |
 |:--------------- |:-------------------------------------------------------- |

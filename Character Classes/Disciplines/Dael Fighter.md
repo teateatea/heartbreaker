@@ -13,7 +13,7 @@ ___
 **Starting Equipment:** [[Leather Armour|Leather Armour (AC 12)]], [[Longsword|Longsword (1d10)]], [[Shield|Shield (AC +1)]], Precious drinking horn.<br>**Starting Ken (1d3): 1)** Poetry **2)** Mountaineer **3)** Foreign Parts.<br><br>**A:** For Glory<br>**B:** Boast, Battle Cry<br>**C:** Shield Bash<br>**D:** Song of Swords
 ___
 ### [[Discipline A Abilities|A.]] For Glory
-Your war cries resound with the music of the skalds. If you charge at the beginning of combat, gain Ld4 HP *(where L is the number of levels you have taken in Swashbuckler)*. If allies who can hear you follow you into battle, they also gain Ld4 HP .
+Your war cries resound with the music of the skalds. If you charge at the beginning of combat, gain Ld4 HP *(where L is the number of levels you have taken in Dael Fighter)*. If allies who can hear you follow you into battle, they also gain Ld4 HP .
 
 If any creature that would gain HP this way is undamaged, they instead gain +2 to-hit on their next melee attack.
 
