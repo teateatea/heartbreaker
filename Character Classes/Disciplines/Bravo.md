@@ -8,7 +8,7 @@ creation_date: [2022-03-31]
 ---
 [[Fighter]] | [[Fighter Disciplines|Disciplines]]
 ___
-*Your skill with a saber is only outmatched by your ability to induce ire in your hapless foes. You occasionally bite off more than you can chew, but you'll stop at nothing to be recognized for your devilish escapades.*
+*Your skill with a saber is only outmatched by your ability to induce ire in your hapless foes. You often bite off more than you can chew, but you'll stop at nothing to be recognized for your devilish escapades.*
 <!--Your skill with a saber is only outmatched by your ability to induce ire in your foes. You'll stop at nothing to be recognized for your devilish escapades.
 
 You look out for yourself at all costs. 
