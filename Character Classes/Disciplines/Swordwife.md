@@ -13,24 +13,55 @@ ___
 
 You look out for yourself at all costs. 
 
-Duelling Schlager https://www.dannydutch.com/post/the-traditional-german-sword-fighting-tradition-called-mensur-->
+Duelling Schlager https://www.dannydutch.com/post/the-traditional-german-sword-fighting-tradition-called-mensur
+
+Based on the Swordwife by Whose Measure God Could Not Take.-->
 ___
-**Starting Equipment:** [[Sword|One-handed sword (1d8)]], [[Short sword|Dueling knife (1d6)]], Distinct outfit.<br>**Starting Ken (1d3): 1)** Rumours **2)** Sailing **3)** Horses.<br><br>**A:** Whirling Blade<br>**B:** Charming Bastard<br>**C:** Sacrifice<br>**D:** Dangerous Reputation
+**Starting Equipment:** [Khopesh](https://www.google.com/search?q=khopesh&hl=en&sxsrf=APq-WBuVK4O2Rhb46JnDsTFJ8rz02UrtuA:1648748449816&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjHirPN8vD2AhWNVs0KHb5IAOwQ_AUoAXoECAIQAw&biw=1920&bih=955) or [xiphos sword](https://www.google.com/search?q=xiphos&hl=en&sxsrf=APq-WBv7FrsvYQGUU_662dIprNr5q9YI2A:1648748573182&source=lnms&tbm=isch&sa=X&ved=2ahUKEwja5pyI8_D2AhWVXc0KHfB_BQIQ_AUoAXoECAIQAw&biw=1920&bih=955&dpr=1) [[Sword|(1d8)]], [Mattock](https://en.wikipedia.org/wiki/Mattock), [Hemione](https://en.wikipedia.org/wiki/Onager) with a lead *(treat as a mule with 2 fewer inventory slots)*.<br>**Starting Ken:** Artifice.<br><br>**A:** Desperate Dodge, Find the Opening<br>**B:** Bronze Tongue<br>**C:** Alloy<br>**D:** 'Til Death Do We Part
 ___
-### [[Discipline A Abilities|A.]] Whirling Blade
-Each time an attack targets only you, but misses, you gain +$1$ AC. This bonus resets to 0 when you take a short rest.
+### [[Discipline A Abilities|A.]] Desperate Dodge
+Once per combat, you may drop 1d4 items to negate the damage of an incoming attack. These items are randomly selected from among what you are carrying, other than your held weapon and any armor. If you do not have enough items to drop, you fail to dodge.
 
-### [[Discipline B Abilities|B.]] Charming Bastard
-Once per combat, when you miss an attack, grin and taunt your target. The nearest $L$+$1$ opponents roll Morale: On a success, they spend their turn moving to encircle you, but only the nearest opponent can attack you. If their attack(s) misses, you may use this ability again next round.
+### [[Discipline A Abilities|A.]] Find the Opening
+When attacking foes who attacked you on their last turn, you strike against their unarmoured AC, and deal +1d6 damage.
 
-*($L$ is the number of levels you have taken in Swashbuckler.)*
 
-### [[Discipline C Abilities|C.]] Sacrifice
-When any source of damage would reduce you to 0 HP, you may sacrifice an adjacent ally to escape. That ally must **Save vs Death**: On a success, they take the damage instead of you. On a fail, they take damage instead of you, then take additional damage until their HP is equal to or lower than your HP.
+### [[Discipline B Abilities|B.]] Bronze Tongue
+You can speak with metal weapons of all types, and have a natural affinity with all blades.
 
-Instead of rolling a Death Save, your ally may choose to die for you (regardless of whether the damage would actually kill them). If they do, immediately gain a level.
+### [[Discipline C Abilities|C.]] Alloy
+You can freely mix materials in any weapon you forge or reforge, introducing new attributes with each. See below for a list of materials.
 
-### [[Discipline D Abilities|D.]] Dangerous Reputation
-When you leave your mark at the end of a battle, stories about you spread. If you return to your mark, the locals remember you and send an unreasonable number of people to attend to you.
+For each additional material beyond the base, your weapon gains a point of Brittleness. Upon rolling a 1 to make an attack roll with the weapon, it shatters but still deals damage. For each further point of Brittleness, this range increases by 1. If you can collect all of the weapon’s pieces, it can be reforged.
 
-<!--Based on the Bravo by A Distant Chime.-->
+### [[Discipline D Abilities|D.]] ‘Til Death Do We Part
+As long as you are holding a sword of your own power, you may ignore fatal wounds.
+
+<!--Based on the Swordwife by Whose Measure God Could Not Take.-->
+___
+| COPPER BASE | Prevent first weapon shatter. |
+| ----------- | ----------------------------- |
+| 1. Antimony | Weapon is with you in all dreams and visions. |
+| 2. Arsenic | Roll damage with advantage. |
+| 3. Bismuth | Weapon is reflective as a mirror. |
+| 4. Gigre particulate | +1 to hit while under the effects of drugs. |
+| 5. Lead | +1 inventory slot. On hit, target **Saves vs Paralysis** or take a -1 exhaustion penalty. |
+| 6. Tin | +1 damage to all creatures. |
+
+| IRON BASE | Weapon severs the soul of all it kills. |
+| --------- | --------------------------------------- |
+| 1. Aluminum | Weapon can be folded, taking up half the usual inventory slots (minimum 1). |
+| 2. Bone | +1 to hit and damage creatures of the same species as the bones. |
+| 3. Gold | +1d6 damage against creatures that channel magic. |
+| 4. Mercury | 1d20 hours later, target saves vs poison, or suffer madness. |
+| 5. Nickel | Weapon can store magical charges. |
+| 6. Zinc | Weapon never rusts or tarnishes. |
+
+| MITHRIL BASE | Cuts any metal softer than iron. |
+| ------------ | -------------------------------- |
+| 1. Phosphorus | Weapon glows in the dark, as a torch. |
+| 2. Silver | +1d6 damage against magical creatures. |
+| 3. Cold Iron | Weapon deals double damage vs Fey. |
+| 4. Mindglass | The souls of those killed are trapped within the weapon. |
+| 5. Obsidian | Damage dealt is repeated next round. |
+| 6. Living Steel | Weapon will self-repair in 1d6 days. |
