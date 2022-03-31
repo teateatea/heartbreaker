@@ -21,18 +21,32 @@ Fighters may study multiple Disciplines, but only progress in one Discipline per
 
 | Maroian&nbsp;Disciplines  | Description                                                                                                                                                                                                               |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <!--[[House Champion]]--> |                                                                                                                                                                                                                           |
-| [[Swordwife]]             |                                                                                                                                                                                                                           |
 | [[Bravo]]                 | Your skill with a saber is only outmatched by your ability to induce ire in your hapless foes. You often bite off more than you can chew, but you'll stop at nothing to be recognized for your devilish escapades. |
+
+| Caspian&nbsp;Disciplines  | Description |
+| -------------------- | ----------- |
+| [[Blue Blade]]       |             |
+
+| Mur&nbsp;Disciplines      | Description |
+| -------------------- | ----------- |
+| [[Barbarian]]        |             |
+
 <!--
+| Maroian&nbsp;Disciplines  | Description                                                                                                                                                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *House Champion* |                                                                                                                                                                                                                           |
+| *Swordwife*             |                                                                                                                                                                                                                           |
+| [[Bravo]]                 | Your skill with a saber is only outmatched by your ability to induce ire in your hapless foes. You often bite off more than you can chew, but you'll stop at nothing to be recognized for your devilish escapades. |
+
 | Caspian&nbsp;Disciplines  | Description |
 | -------------------- | ----------- |
 | [[Temple Adept]]     |             |
 | [[Blue Blade]]       |             |
 | [[Third Discipline]] |             |
--->
+
 | Mur&nbsp;Disciplines      | Description |
 | -------------------- | ----------- |
-| [[Hunter]]           |             |
+| *Hunter*           |             |
 | [[Barbarian]]        |             |
-| [[Third Discipline]] |             |
+| *Third Discipline* |             |
+-->
