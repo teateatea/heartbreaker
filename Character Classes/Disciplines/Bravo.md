@@ -8,7 +8,12 @@ creation_date: [2022-03-31]
 ---
 [[Fighter]] | [[Fighter Disciplines|Disciplines]]
 ___
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet molestie risus, in congue libero. Praesent vitae libero sapien. Praesent eu felis maximus, rutrum ante non, accumsan libero.*
+*Your skill with a saber is only outmatched by your ability to induce ire in your hapless foes. You occasionally bite off more than you can chew, but you'll stop at nothing to be recognized for your devilish escapades.*
+<!--Your skill with a saber is only outmatched by your ability to induce ire in your foes. You'll stop at nothing to be recognized for your devilish escapades.
+
+You look out for yourself at all costs. 
+
+Duelling Schlager https://www.dannydutch.com/post/the-traditional-german-sword-fighting-tradition-called-mensur-->
 ___
 **Starting Equipment:** [[Sword|One-handed sword (1d8)]], [[Short sword|Dueling knife (1d6)]], Distinct outfit.<br>**Starting Ken (1d3): 1)** Rumours **2)** Sailing **3)** Horses.<br><br>**A:** Whirling Blade<br>**B:** Charming Bastard<br>**C:** Sacrifice<br>**D:** Dangerous Reputation
 ___
