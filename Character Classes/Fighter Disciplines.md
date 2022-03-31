@@ -13,7 +13,7 @@ Fighters choose a Discipline at 1st level, and gain relevant aspects and abiliti
 Fighters may study multiple Disciplines, but only progress in one Discipline per Level, and cannot skip steps in any Discipline.
 
 ---
-| Torian Disciplines      | Description                                                                                                                                                                                                                     |
+| Torian&nbsp;Disciplines      | Description                                                                                                                                                                                                                     |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Village Hero]] | You answered the call to action, and you intend to finish that call. No matter what happens, you’ll be different when you finally return to your home.                                                                        |
 | [[Merrow Guard]] | You’ve entered the ranks of the Church of [[Saint Merrow - Strength & Passion\|Saint Merrow]], and as such, are guardian to the civilized. You represent a bastion of strength, passion, and perseverance against stagnation. |
