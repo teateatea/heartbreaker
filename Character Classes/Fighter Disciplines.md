@@ -12,12 +12,13 @@ Fighters choose a Discipline at 1st level, and gain relevant aspects and abiliti
 
 Fighters may study multiple Disciplines, but only progress in one Discipline per Level, and cannot skip steps in any Discipline.
 
-# Disciplines
+---
 ### Tor
 - [[Village Hero - Fighter Discipline]]
 - [[Merrow Guard - Fighter Discipline]]
-- [[Dael Fighter - Fighter Discipline]]
 
+###### [[Dael Fighter]]
+*Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.*
 
 ---
 # Disciplines (Work In Progress)
