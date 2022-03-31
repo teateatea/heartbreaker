@@ -15,7 +15,7 @@ You look out for yourself at all costs.
 
 Duelling Schlager https://www.dannydutch.com/post/the-traditional-german-sword-fighting-tradition-called-mensur-->
 ___
-**Starting Equipment:** [[Sword|One-handed sword (1d8)]], [[Short sword|Dueling knife (1d6)]], Distinct outfit.<br>**Starting Ken (1d3): 1)** Rumours **2)** Sailing **3)** Horses.<br><br>**A:** Whirling Blade<br>**B:** Charming Bastard<br>**C:** Sacrifice<br>**D:** Dangerous Reputation
+**Starting Equipment:** [One-handed sword](https://en.wikipedia.org/wiki/Rapier) [[Sword|(1d8)]], [[Short sword|Dueling knife (1d6)]], Distinct outfit.<br>**Starting Ken (1d3): 1)** Rumours **2)** Sailing **3)** Horses.<br><br>**A:** Whirling Blade<br>**B:** Charming Bastard<br>**C:** Sacrifice<br>**D:** Dangerous Reputation
 ___
 ### [[Discipline A Abilities|A.]] Whirling Blade
 Each time an attack targets only you, but misses, you gain +$1$ AC. This bonus resets to 0 when you take a short rest.
