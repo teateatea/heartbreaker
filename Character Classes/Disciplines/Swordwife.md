@@ -50,7 +50,7 @@ ___
 
 | IRON BASE | Weapon severs the soul of all it kills. |
 | --------- | --------------------------------------- |
-| 1. Aluminum | Weapon can be folded, taking up half the usual inventory slots (minimum 1). |
+| 1.&nbsp;Aluminum | Weapon can be folded, taking up half the usual inventory slots (minimum 1). |
 | 2. Bone | +1 to hit and damage creatures of the same species as the bones. |
 | 3. Gold | +1d6 damage against creatures that channel magic. |
 | 4. Mercury | 1d20 hours later, target saves vs poison, or suffer madness. |
