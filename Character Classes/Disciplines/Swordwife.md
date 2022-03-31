@@ -54,7 +54,7 @@ See Alloy above for details.
 | 2. Arsenic           | Roll damage with advantage.                                                               |
 | 3. Bismuth           | Weapon is reflective as a mirror.                                                         |
 | 4. Gigre particulate | +1 to hit while under the effects of drugs.                                               |
-| 5. Lead              | +1 inventory slot. On hit, target **Saves vs Paralysis** or take a -1 exhaustion penalty. |
+| 5. Lead              | +1 inventory slot. On hit, target **Saves vs Paralysis** or takes a -1 exhaustion penalty. |
 | 6. Tin               | +1 damage to all creatures.                                                               |
 
 | IRON BASE        | Weapon severs the soul of all it kills.                                     |
