@@ -17,12 +17,12 @@ Fighters may study multiple Disciplines, but only progress in one Discipline per
 - [[Village Hero - Fighter Discipline]]
 - [[Merrow Guard - Fighter Discipline]]
 
-###### [[Dael Fighter]]
-*Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.*
 
-| Discipline       | Description                                                                                                                                                                                                       |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Dael Fighter]] | *Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.* |
+| Disciplines      | Description                                                                                                                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Village Hero]] | *You answered the call to action, and you intend to finish that call. No matter what happens, you’ll be different when you finally return to your home.*                                                                        |
+| [[Merrow Guard]] | *You’ve entered the ranks of the Church of [[Saint Merrow - Strength & Passion\|Saint Merrow]], and as such, are guardian to the civilized. You represent a bastion of strength, passion, and perseverance against stagnation.* |
+| [[Dael Fighter]] | *Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.*               |
 
 ---
 # Disciplines (Work In Progress)
