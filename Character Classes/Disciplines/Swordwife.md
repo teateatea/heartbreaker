@@ -39,29 +39,38 @@ As long as you are holding a sword of your own power, you may ignore fatal wound
 
 <!--Based on the Swordwife by Whose Measure God Could Not Take.-->
 ___
-| COPPER BASE | Prevent first weapon shatter. |
-| ----------- | ----------------------------- |
-| 1. Antimony | Weapon is with you in all dreams and visions. |
-| 2. Arsenic | Roll damage with advantage. |
-| 3. Bismuth | Weapon is reflective as a mirror. |
-| 4. Gigre particulate | +1 to hit while under the effects of drugs. |
-| 5. Lead | +1 inventory slot. On hit, target **Saves vs Paralysis** or take a -1 exhaustion penalty. |
-| 6. Tin | +1 damage to all creatures. |
+##### Smithing Materials
+Copper base materials are easily found in most settlements, while mithril base materials are more exotic, and usually found only in major cities.
 
-| IRON BASE | Weapon severs the soul of all it kills. |
-| --------- | --------------------------------------- |
+Choose a base. A weapon forged from just the base (i.e. an iron sword) has 0 Brittleness, and no risk of shattering. For each additional material (including other bases), the weapon gains 1 Brittleness, and shatters if you roll less than or equal to Brittleness.
+
+Materials can only exist in a weapon if the base is added first, which can make for unreliable weapons. For example, a weapon that has Antimony, Aluminum, and Phosphorus would need to have Copper, Iron, and Mithril, resulting in 5 Brittleness.
+
+See Alloy above for details.
+
+| COPPER BASE          | Prevent first weapon shatter.                                                             |
+|:-------------------- |:----------------------------------------------------------------------------------------- |
+| 1. Antimony          | Weapon is with you in all dreams and visions.                                             |
+| 2. Arsenic           | Roll damage with advantage.                                                               |
+| 3. Bismuth           | Weapon is reflective as a mirror.                                                         |
+| 4. Gigre particulate | +1 to hit while under the effects of drugs.                                               |
+| 5. Lead              | +1 inventory slot. On hit, target **Saves vs Paralysis** or take a -1 exhaustion penalty. |
+| 6. Tin               | +1 damage to all creatures.                                                               |
+
+| IRON BASE        | Weapon severs the soul of all it kills.                                     |
+|:---------------- |:--------------------------------------------------------------------------- |
 | 1.&nbsp;Aluminum | Weapon can be folded, taking up half the usual inventory slots (minimum 1). |
-| 2. Bone | +1 to hit and damage creatures of the same species as the bones. |
-| 3. Gold | +1d6 damage against creatures that channel magic. |
-| 4. Mercury | 1d20 hours later, target saves vs poison, or suffer madness. |
-| 5. Nickel | Weapon can store magical charges. |
-| 6. Zinc | Weapon never rusts or tarnishes. |
+| 2. Bone          | +1 to hit and damage creatures of the same species as the bones.            |
+| 3. Gold          | +1d6 damage against creatures that channel magic.                           |
+| 4. Mercury       | 1d20 hours later, target saves vs poison, or suffer madness.                |
+| 5. Nickel        | Weapon can store magical charges.                                           |
+| 6. Zinc          | Weapon never rusts or tarnishes.                                            |
 
-| MITHRIL BASE | Cuts any metal softer than iron. |
-| ------------ | -------------------------------- |
-| 1. Phosphorus | Weapon glows in the dark, as a torch. |
-| 2. Silver | +1d6 damage against magical creatures. |
-| 3. Cold Iron | Weapon deals double damage vs Fey. |
-| 4. Mindglass | The souls of those killed are trapped within the weapon. |
-| 5. Obsidian | Damage dealt is repeated next round. |
-| 6. Living Steel | Weapon will self-repair in 1d6 days. |
+| MITHRIL BASE    | Cuts any metal softer than iron.                         |
+|:--------------- |:-------------------------------------------------------- |
+| 1. Phosphorus   | Weapon glows in the dark, as a torch.                    |
+| 2. Silver       | +1d6 damage against magical creatures.                   |
+| 3. Cold Iron    | Weapon deals double damage vs Fey.                       |
+| 4. Mindglass    | The souls of those killed are trapped within the weapon. |
+| 5. Obsidian     | Damage dealt is repeated next round.                     |
+| 6. Living Steel | Weapon will self-repair in 1d6 days.                     |
