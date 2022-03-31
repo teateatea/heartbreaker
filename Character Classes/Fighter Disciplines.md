@@ -8,9 +8,9 @@ creation_date: [2022-03-25]
 ---
 [[Fighter]]
 ___
-Fighters choose a Discipline at 1st level, and gain relevant aspects and abilities based on that training. When the Fighter gains a Level, they progress to the next step of their Discipline: First **A**, then **B**, then **C**, and finally **D**.
+Fighters choose a Discipline at 1st level, and gain relevant aspects and abilities based on that training. When the Fighter gains a Level, they progress to the next step of their Discipline: First **A**, then **B**, then **C**, and finally **D**. They also gain a Ken from each step of their Discipline.
 
-Fighters may study multiple Disciplines, but only progress in one Discipline per Level, and cannot skip steps in any Discipline.
+Fighters may study multiple Disciplines, but only progress in one Discipline per Level, and cannot skip steps in any Discipline. When a Fighter chooses a Discipline beyond their first, they gain one item from that Disciplines Starting Equipment list, and only gain a Ken the next time they progress in that Discipline.
 
 ---
 ##### Fighter Disciplines
