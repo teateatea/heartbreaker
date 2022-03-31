@@ -19,6 +19,7 @@ Fighters may study multiple Disciplines, but only progress in one Discipline per
 | [[Merrow Guard]] | You’ve entered the ranks of the Church of [[Saint Merrow - Strength & Passion\|Saint Merrow]], and as such, are guardian to the civilized. You represent a bastion of strength, passion, and perseverance against stagnation. |
 | [[Dael Fighter]] | Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.               |
 
+<!--
 | Maroian Disciplines | Description |
 | ------------------ | ----------- |
 | [[House Champion]] |             |
@@ -36,3 +37,4 @@ Fighters may study multiple Disciplines, but only progress in one Discipline per
 | [[Hunter]]           |             |
 | [[Barbarian]]        |             |
 | [[Third Discipline]] |             |
+-->
