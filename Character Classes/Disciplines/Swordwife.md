@@ -63,6 +63,7 @@ Materials can only exist in a weapon if the base is added first, which can make 
 | 4. Mercury       | 1d20 hours later, target must **Save vs Poison**, or suffer madness.                |
 | 5. Nickel        | Weapon can store $L$ magical charges.                                           |
 | 6. Zinc          | Weapon never rusts or tarnishes.                                            |
+
 *($L$ is the number of levels you have taken in Swordwife.)*
 
 | MITHRIL BASE    | Cuts any metal softer than iron.                         |
