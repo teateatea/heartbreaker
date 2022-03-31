@@ -20,19 +20,19 @@ Fighters may study multiple Disciplines, but only progress in one Discipline per
 | [[Dael Fighter]] | Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.               |
 
 <!--
-| Maroian Disciplines | Description |
+| Maroian&nbsp;Disciplines | Description |
 | ------------------ | ----------- |
 | [[House Champion]] |             |
 | [[Swordwife]]      |             |
 | [[Bravo]]          |             |
 
-| Caspian Disciplines  | Description |
+| Caspian&nbsp;Disciplines  | Description |
 | -------------------- | ----------- |
 | [[Temple Adept]]     |             |
 | [[Blue Blade]]       |             |
 | [[Third Discipline]] |             |
 
-| Mur Disciplines      | Description |
+| Mur&nbsp;Disciplines      | Description |
 | -------------------- | ----------- |
 | [[Hunter]]           |             |
 | [[Barbarian]]        |             |
