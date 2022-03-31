@@ -13,33 +13,26 @@ Fighters choose a Discipline at 1st level, and gain relevant aspects and abiliti
 Fighters may study multiple Disciplines, but only progress in one Discipline per Level, and cannot skip steps in any Discipline.
 
 ---
-### Tor
-- [[Village Hero - Fighter Discipline]]
-- [[Merrow Guard - Fighter Discipline]]
-
-
-| Disciplines      | Description                                                                                                                                                                                                                     |
+| Torian Disciplines      | Description                                                                                                                                                                                                                     |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Village Hero]] | *You answered the call to action, and you intend to finish that call. No matter what happens, you’ll be different when you finally return to your home.*                                                                        |
-| [[Merrow Guard]] | *You’ve entered the ranks of the Church of [[Saint Merrow - Strength & Passion\|Saint Merrow]], and as such, are guardian to the civilized. You represent a bastion of strength, passion, and perseverance against stagnation.* |
-| [[Dael Fighter]] | *Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.*               |
+| [[Village Hero]] | You answered the call to action, and you intend to finish that call. No matter what happens, you’ll be different when you finally return to your home.                                                                        |
+| [[Merrow Guard]] | You’ve entered the ranks of the Church of [[Saint Merrow - Strength & Passion\|Saint Merrow]], and as such, are guardian to the civilized. You represent a bastion of strength, passion, and perseverance against stagnation. |
+| [[Dael Fighter]] | Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.               |
 
----
-# Disciplines (Work In Progress)
-## Tor
+| Maroian Disciplines | Description |
+| ------------------ | ----------- |
+| [[House Champion]] |             |
+| [[Swordwife]]      |             |
+| [[Bravo]]          |             |
 
-## Maroi
-- The Maroi Village Hero? House Champion? Soldier?
-- [[Swordwife - Fighter Discipline]]
-- [[Bravo - Fighter Discipline]]
+| Caspian Disciplines  | Description |
+| -------------------- | ----------- |
+| [[Temple Adept]]     |             |
+| [[Blue Blade]]       |             |
+| [[Third Discipline]] |             |
 
-## Caspia
-- The Caspian Village Hero? Temple Adept?
-- [[Blue Blade - Fighter Discipline]]
-- Third Class
-
-## Mur
-- The Murian Village Hero? Hunter?
-- [[Barbarian - Fighter Discipline]]
-- Third class
-
+| Mur Disciplines      | Description |
+| -------------------- | ----------- |
+| [[Hunter]]           |             |
+| [[Barbarian]]        |             |
+| [[Third Discipline]] |             |
