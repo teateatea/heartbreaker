@@ -20,7 +20,7 @@ ___
 **Starting Equipment:** [Khopesh](https://www.google.com/search?q=khopesh&hl=en&sxsrf=APq-WBuVK4O2Rhb46JnDsTFJ8rz02UrtuA:1648748449816&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjHirPN8vD2AhWNVs0KHb5IAOwQ_AUoAXoECAIQAw&biw=1920&bih=955) or [xiphos sword](https://www.google.com/search?q=xiphos&hl=en&sxsrf=APq-WBv7FrsvYQGUU_662dIprNr5q9YI2A:1648748573182&source=lnms&tbm=isch&sa=X&ved=2ahUKEwja5pyI8_D2AhWVXc0KHfB_BQIQ_AUoAXoECAIQAw&biw=1920&bih=955&dpr=1) [[Sword|(1d8)]], [Mattock](https://en.wikipedia.org/wiki/Mattock), [Hemione](https://en.wikipedia.org/wiki/Onager) with a lead *(treat as a mule with 2 fewer inventory slots)*.<br>**Starting Ken:** Artifice.<br><br>**A:** Desperate Dodge, Find the Opening<br>**B:** Bronze Tongue<br>**C:** Alloy<br>**D:** 'Til Death Do We Part
 ___
 ### [[Discipline A Abilities|A.]] Desperate Dodge
-Once per combat, you may drop 1d4 items to negate the damage of an incoming attack. These items are randomly selected from among what you are carrying, other than your held weapon and any armor. If you do not have enough items to drop, you fail to dodge.
+Once per combat, you may drop 1d4 items to negate the damage of an incoming attack *(treat this as if the attack missed)*. These items are randomly selected from among what you are carrying, other than your held weapon and any armor. If you do not have enough items to drop, you fail to dodge.
 
 ### [[Discipline A Abilities|A.]] Find the Opening
 When attacking foes who attacked you on their last turn, you strike against their unarmoured AC, and deal +1d6 damage.
