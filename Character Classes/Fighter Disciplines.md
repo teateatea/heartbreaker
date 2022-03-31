@@ -17,7 +17,7 @@ ___
 
 *If you're overwhelmed, remember that you're generally limited to 3-4 Disciplines at first level: All the Disciplines from your Culture, plus one from your Ancestry. For example, a Fighter with Maroian culture and Torian ancestry chooses from House Champion, Swordwife, and Bravo, plus the Torian Village Hero.*
 
-*Training Disciplines at later levels generally requires the appropriate mentor, usually related to the relevant nations. You'll need a Caspian to teach you Blue Blade skills, etc.*
+*Training Disciplines at later levels generally requires the appropriate mentor, usually found in the relevant nations. You'll need a Caspian to teach you Blue Blade skills, etc.*
 
 ---
 ##### Fighter Disciplines
