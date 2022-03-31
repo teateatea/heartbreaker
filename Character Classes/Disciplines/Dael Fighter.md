@@ -6,7 +6,7 @@ date: [2022-03-25]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-03-25]
 ---
-[[Fighter]] | [[Disciplines - Fighter Class|Disciplines]]
+[[Fighter]] | [[Fighter Disciplines|Disciplines]]
 ___
 *Boastful, loud, rash warriors for whom making as much noise as possible is both a battle tactic and a way of life. Whether raiding and pillaging or campaigning for a lord, you’ll be heard before you’re seen.*
 ___

@@ -1,5 +1,5 @@
 ---
-aliases: [Fighter]
+aliases: [Fighter, Disciplines]
 tags: [Kettle]
 author: [Joseph Liao Gormley]
 date: [2022-03-25]

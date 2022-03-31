@@ -6,7 +6,7 @@ date: [2022-03-25]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-03-25]
 ---
-[[Fighter Disciplines]]
+[[Fighter Disciplines|Disciplines]]
 ___
 *Fighters are adventurers dedicated to mastering the arts of combat and war. In a group of adventurers, the Fighter’s role is to battle monsters and to defend their allies.*
 ___
