@@ -37,6 +37,6 @@ Once per combat, the Fighter may turn a missed attack they have made into a hit.
 Combat instincts cannot be used for or against spells, nor can it be used if the attack could never hit, such as attacking something out of range.
 
 ### [[Fighter Disciplines|Disciplines]]
-Fighters choose a Discipline at 1st level, and gain relevant aspects and abilities based on that training. Each time the Fighter gains a Level, they progress to the next step of their Discipline: First **A**, then **B**, then **C**, and finally **D**.
+Fighters choose a Discipline at 1st level, and gain relevant aspects and abilities based on that training. When the Fighter gains a Level, they progress to the next step of their Discipline: First **A**, then **B**, then **C**, and finally **D**.
 
 Fighters may study multiple Disciplines, but only progress in one Discipline per Level, and cannot skip steps in any Discipline.
