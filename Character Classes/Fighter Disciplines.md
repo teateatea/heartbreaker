@@ -21,7 +21,7 @@ Fighters may study multiple Disciplines, but only progress in one Discipline per
 
 | Maroian&nbsp;Disciplines | Description |
 | ------------------ | ----------- |
-<!--| [[House Champion]] |             |-->
+| <!--[[House Champion]]--> |             |
 | [[Swordwife]]      |             |
 | [[Bravo]]          |             |
 <!--
