@@ -39,14 +39,12 @@ As long as you are holding a sword of your own power, you may ignore fatal wound
 
 <!--Based on the Swordwife by Whose Measure God Could Not Take.-->
 ___
-##### Smithing Materials
+##### Alloy Smithing Materials
 Copper base materials are easily found in most settlements, while mithril base materials are more exotic, and usually found only in major cities.
 
 Choose a base. A weapon forged from just the base (i.e. an iron sword) has 0 Brittleness, and no risk of shattering. For each additional material (including other bases), the weapon gains 1 Brittleness, and shatters if you roll less than or equal to Brittleness.
 
 Materials can only exist in a weapon if the base is added first, which can make for unreliable weapons. For example, a weapon that has Antimony, Aluminum, and Phosphorus would need to have Copper, Iron, and Mithril, resulting in 5 Brittleness.
-
-See Alloy above for details.
 
 | COPPER BASE          | Prevent first weapon shatter.                                                             |
 |:-------------------- |:----------------------------------------------------------------------------------------- |
@@ -66,7 +64,6 @@ See Alloy above for details.
 | 5. Nickel        | Weapon can store $L$ magical charges.                                           |
 | 6. Zinc          | Weapon never rusts or tarnishes.                                            |
 *($L$ is the number of levels you have taken in Swordwife.)*
-
 
 | MITHRIL BASE    | Cuts any metal softer than iron.                         |
 |:--------------- |:-------------------------------------------------------- |
