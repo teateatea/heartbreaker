@@ -44,7 +44,7 @@ You spend 1 round consuming a special ration to regain 1d6+$1$ HP. You cannot do
 Examples include an alcoholic drink, a strange fruit or vegetable, or an unusual herb. Each ration costs 1 GP and can be purchased in any trading city. A single inventory slot holds 3 doses. 
 
 ### [[Discipline C Abilities|C.]] Feat of Strength
-As a free action $L$ times per day, your Strength score counts as 22 for $L$ rounds. This can be used during combat, and your Strength Bonus is +$4$.
+As a free action $L$ times per day, your Strength score counts as 22 for $L$ rounds. This can be used during combat, and your Strength Bonus for Melee attacks is +$4$.
 
 ### [[Discipline C Abilities|C.]] Tough
 Reduce all incoming damage by $1$ point. You gain a +$2$ to Save vs
