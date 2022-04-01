@@ -34,7 +34,7 @@ Training Disciplines at later levels generally requires the appropriate mentor, 
 
 | Caspian&nbsp;Disciplines | Description |
 | ------------------------ | ----------- |
-| [[Blue Blade]]           | You walk that thin line between heroism and folly, and never ask why. When you were just a shiftless bravo, a man spared your life, and you will make that act of kindness the foundation for a life of adventure for the Good. Devout but easy-going, you perform deeds that jaded soldiers call impossible.            |
+| [[Blue Blade]]           | When you were just a shiftless bravo, a man spared your life, and you will make that act of kindness the foundation for a life of adventure for the Good. Devout but easy-going, you perform deeds that jaded soldiers call impossible.            |
 
 | Mur&nbsp;Disciplines | Description |
 | -------------------- | ----------- |
