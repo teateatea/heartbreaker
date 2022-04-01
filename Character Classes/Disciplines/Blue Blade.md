@@ -28,5 +28,5 @@ If that challenge is overcome, your Purpose has been achieved. If you tell the s
 ### [[Discipline C Abilities|C.]] Sword Throwing
 You may throw any bladed weapon up to 30’ without penalty, as if it were a ranged weapon.
 
-### [[Discipline D Abilities|D.]] Song of Swords
+### [[Discipline D Abilities|D.]] Quixoticism
 If someone you’ve wounded survives combat with you, they must **Save vs Death**. If they fail, they become afflicted with a desire to live heroically and take needless risks. The next time they level up, they must level up as a Fighter in the Blue Blade discipline.
