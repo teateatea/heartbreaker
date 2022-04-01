@@ -15,22 +15,21 @@ You look out for yourself at all costs.
 
 Duelling Schlager https://www.dannydutch.com/post/the-traditional-german-sword-fighting-tradition-called-mensur-->
 ___
-**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12)]], Heavy Weapon.<br>**Starting Ken (1d6): 1)** Mountaineering **2)** Raiding **3)** Horses **4)** Soldier **5)** Sailor **6)** Unusual.<br><br>**A:** Rage, Danger Sense<br>**B:** A Taste of Home<br>**C:** Feat of Strength, Tough<br>**D:** Blood for Blood<br>
+**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12)]], Heavy Weapon.<br>**Starting Ken (1d6): 1)** Mountaineering **2)** Raiding **3)** Horses **4)** Soldier **5)** Sailing **6)** Unusual.<br><br>**A:** Rage, Danger Sense<br>**B:** A Taste of Home<br>**C:** Feat of Strength, Tough<br>**D:** Blood for Blood<br>
 You gain +$2$ HP for each Barbarian level you possess.
 ___
 ### [[Discipline A Abilities|A.]] Rage
-You can choose to enter a Rage at the start of your turn, or in response to taking damage. You can do this a number of times equal to your Bonus to HP *(usually 2 from Barbarian + CON)*.
+You can choose to enter a Rage at the start of your turn, or in response to taking damage. You can do this a number of times equal to your Bonus to HP *(usually CON + $2$ from Barbarian)*.
 
-You might froth, or stare in battle-focus, or merely let a facade drop and give in to ancient urges, brutal warrior training, or religious fanaticism.
+<!--You might scream and froth, or stare in battle-focus, or merely let a facade drop and give in to ancient urges, brutal warrior training, or religious fanaticism.-->
 
-While Raging, you gain +$1$ Attack, +$1$ Melee Damage, and are immune to pain and fear. You cannot do anything defensive, curative, and you must attack every turn if possible. <!--or tactical with your allies. All you can do is
-attempt to kill things. -->Spellcasting is not impossible, but your spells must be damaging spells,<!-- which deal +2
+While Raging, you gain +$1$ Attack, +$1$ Melee Damage, and are immune to pain and fear. You cannot do anything defensive or curative, and you must attack every turn if possible. <!--or tactical with your allies. All you can do is
+attempt to kill things. -->Spellcasting is not impossible, but your Spells must be damaging,<!-- which deal +2
 damage (if single target) or +1 damage
-(if multiple targets). --> and Spell Catastrophes <!--Mishaps and
-Dooms-->may be more severe.
+(if multiple targets). --> and you must **Save vs Spells** for each Spell to avoid Spell Catastrophes. <!--Mishaps and
+Dooms-->
 
-While Raging, you cannot stop fighting until you kill, subdue, or drive off all enemies. You can will yourself to stop raging with an $L$-in-6 chance of success at the start of your turn as a free
-action. If one of your allies has injured you this fight, they count as an enemy *(and must be killed if you cannot will yourself to stop raging)*.
+You stop Raging when you have killed, subdued, or driven off all your enemies. At the start of your turn, you can will yourself to stop Raging as a free action, with an $L$-in-6 chance of success. If one of your allies has injured you this fight, they count as an enemy *(and must be killed if you cannot will yourself to stop raging)*.
 
 *($L$ is the number of levels you have taken in Barbarian.)*
 
