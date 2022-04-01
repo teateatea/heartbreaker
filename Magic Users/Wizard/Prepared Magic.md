@@ -53,7 +53,8 @@ Cantrips are minor magical effects related to the Spells a Wizard has Prepared.
 The Spells a Wizard has Prepared allows them to produce Cantrips, minor magical effects akin to parlour tricks. These must be related in theme or ability to the Prepared Spell, but are otherwise undefined and the Wizard is free to imagine their own uses:
 - A Wizard with *Fireball* Prepared might casually light his pipe. 
 - A Wizard with *Rampant Growth* might produce roses for a date.
-- A Wizard with 
+- A Wizard with *example here.*
+
 Cantrips are subject to GM approval, but in general, they are weaker than Spells, and the effects should not require a roll.
 
 #### Conjure Calamity
