@@ -12,31 +12,31 @@ ___
 If a Wizard dies while Casting a Spell *(regardless of the cause of death)*, immediately roll Spell Catastrophe.
 
 ## Spontaneous Casting
-***Use this when you have Spell Slots available, but no time to Prepare.***
+**Use this when you have Spell Slots available, but no time to Prepare.**
 
 *Wizards are unable to safely Cast Spells they have not Prepared. However, some situations call for urgency.* 
 
-A Wizard may Spontaneously Cast a Spell from an available Spellbook or Spell Scroll, consuming either a Spell Slot or a Prepared Spell.
-
-During Casting, the Wizard must Save vs Spells, or suffer a Spell Catastrophe in addition to the intended effects of the Spell. ~~This often includes Conjuring Calamity on themselves.~~ If a Spell Scroll was used, it's destroyed after casting.
+As a full round action, a Wizard may Spontaneously Cast an available Spell from a Spellbook or Spell Scroll, consuming either a Spell Slot or a Prepared Spell. The Wizard must **Save vs Spells**, or suffer a Spell Catastrophe in addition to the intended effects of the Spell. <!--~~This often includes Conjuring Calamity on themselves.~~--> If a Spell Scroll was used, it's destroyed after casting.
 
 ## Over-Preparing
-***Use this to when you have no Spell Slots, but you do have time to Prepare.***
+**Use this to when you have no Spell Slots, but you do have time to Prepare.**
 
-*Wizards may be interested in Preparing beyond their ability. This is preferable over Spontaneously Casting, as the process is more of a controlled process.*
+*Wizards may be interested in Preparing beyond their ability. This is preferable to Spontaneously Casting, as this process is somewhat more controlled.*
 
-While Preparing, the Wizard may Save vs Spells to Prepare an additional Spell. On a failure, roll Spell Catastrophe. The effects of the Spell Catastrophe continue until that Spell is Cast.
+While Preparing, the Wizard may **Save vs Spells** to Prepare a Spell *without* an available Spell Slot. On a failure, roll Spell Catastrophe. There is a 50% chance the effects of the Spell Catastrophe end *(or are reversed)* when that Spell is Cast.
 
 ## Over-Casting
-*Use this when you have no Spell Slots, and no time to Prepare.*
+**Use this when you have no Spell Slots, and no time to Prepare.**
 
-Wizard magic is limited by the amount of energy they can safely harvest from the soul. As they progress, they harness can more of this energy, more efficiently.
+<!--*Wizard magic is limited by the amount of energy they can safely harvest from the soul. As they progress, they harness can more of this energy, more efficiently.*
+-->
+*Spell Slots represent the number of Spells a Wizard can safely Cast each day, not the full capacity of their soul. Wizards can keep drawing on their soul's energy to Cast, but risk death in doing so.*
 
-Spell Slots represent the number of Spells a Wizard can *safely* Cast each day, not the full capacity of their soul. Wizards can keep drawing on their soul's energy to Cast, but risk death in doing so.
+As a full round action, a Wizard may **Save vs Death** to Spontaneously Cast an available Spell from a Spellbook or Spell Scroll, without using an available Spell Slot. On a failure, roll Spell Catastrophe in addition to the intended effects of the Spell. 
 
-At any time, a Wizard may Save vs Death to Spontaneously Cast an available Spell. On a failure, roll Spell Catastrophe in addition to the intended effects of the Spell. (Regardless success or failure, the Wizard then proceeds to Save vs Spells to Spontaneously Cast).
+The Wizard then proceeds to **Save vs Spells** to Spontaneously Cast, as above.
 
-Note that an unlucky Wizard may produce *three* Spell Catastrophes:
-1. Failing their Save vs Death to Over-Cast.
-2. Failing their Save vs Spells to Spontaneously Cast.
-3. Either of the above Spell Catastrophes results in the Wizard's death.
+*Note that a very unlucky Wizard could produce three Spell Catastrophes:*
+1. By failing their Save vs Death to Over-Cast.
+2. By also failing their Save vs Spells to Spontaneously Cast.
+3. If either of the above Spell Catastrophes result in the Wizard's death.
