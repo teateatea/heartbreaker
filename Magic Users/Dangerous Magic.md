@@ -41,3 +41,4 @@ The Wizard then proceeds to **Save vs Spells** for their Spontaneous Casting. On
 1. By failing their Save vs Death to Over-Cast.
 2. By also failing their Save vs Spells to Spontaneously Cast.
 3. If either of the above Spell Catastrophes result in the Wizard's death.
+
