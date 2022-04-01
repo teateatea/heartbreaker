@@ -12,12 +12,12 @@ ___
 ___
 **Prime requisite:** WIS<br>**Hit Dice:** 1d4<br>**Armour:** None<br>**Weapons:** Dagger<br>**Languages:** Common
 ___
-### Fighter Level Progression
-| Level |  XP   | HD  | Deed |     |  D  |  W  |  P  |  B  |  S  |
+### Wizard Level Progression
+| Level |  XP   | HD  | AB |     |  D  |  W  |  P  |  B  |  S  |
 |:-----:|:-----:|:---:|:----:| --- |:---:|:---:|:---:|:---:|:---:|
-|   1   |   0   | 1d4 |  d3  |     | 12  | 13  | 14  | 15  | 16  |
-|   2   | 2,500 | 2d4 |  d4  |     | 12  | 13  | 14  | 15  | 16  |
-|   3   | 5,000 | 3d4 |  d5  |     | 12  | 13  | 14  | 15  | 16  |
+|   1   |   0   | 1d4 |  +0  |     | 13  | 14  | 13  | 16  | 15  |
+|   2   | 2,500 | 2d4 |  +0  |     | 13  | 14  | 13  | 16  | 15  |
+|   3   | 5,000 | 3d4 |  +0  |     | 13  | 14  | 13  | 16  | 15  |
 
 ### Combat
 Wizards can only wield Daggers, and are unable to cast Spells while using Shields or wearing any kind of Armour. This makes them very vulnerable in combat.
