@@ -9,10 +9,11 @@ creation_date: [2022-04-01]
 [[Wizard WIP]]
 ___
 ## Practical Magic
-### Spells
+___
+## Spells
 *Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence. Wizards train the ability to bind these magical "anima" to their brains: A well-trained brain is a mind-gun loaded with spell-bullets.*
 
-### Spellbooks 
+## Spellbooks 
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
 
 <!-- ##### Interactions with other Magic-Users -->
@@ -33,17 +34,17 @@ Make a WIS check vs DC 10. On a success, the following duration is measure in da
 
 Roll Ld6+INT, and subtract from 20. The result is the number of days/weeks required to add this Spell to the Spellbook. 
 
-### Spell Slots 
+## Spell Slots 
 *How many spell-creatures can you feed with your soul-energy?*
 
-### Preparing Spells
+## Preparing Spells
 The Wizard must spend an hour to Prepare Spells from their Spellbook *(usually in the morning)*.
 
 
 
 
 
-### Casting Spells
+## Casting Spells
 
 ##### Cantrips
 Parlour tricks 
@@ -57,10 +58,10 @@ The Spells a Wizard has Prepared allows them to produce Cantrips, minor magical 
 - A Wizard with 
 Cantrips are subject to GM approval, but in general, they are weaker than Spells, and the effects should not require a roll.
 
-##### Conjure Calamity
+#### Conjure Calamity
 At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casting regularly.
 
-##### Spell Scrolls
+### Spell Scrolls
 <!--~~Spell Scrolls are akin to individual entries in the Wizard's Spellbook, but are less durable.~~-->Spell Scrolls function identically to Spellbooks, with the following exceptions:
 - When Preparing Spells from a Scroll, make an WIS check. On a failure, the Scroll is destroyed.
 - When Spontaneous Casting from a Scroll, the Scroll is destroyed.
