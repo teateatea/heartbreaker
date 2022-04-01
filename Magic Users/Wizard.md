@@ -22,7 +22,7 @@ ___
 ### Combat
 Wizards can only wield Daggers, and are unable to cast Spells while using Shields or wearing any kind of Armour. This makes them very vulnerable in combat.
 
-### Arcane Magic - Prepared Casting
+### [[Prepared Magic]]
 *Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence. Wizards train the ability to bind these magical "anima" to their brains: A well-trained brain is a mind-gun loaded with spell-bullets.*
 
 - The Wizard has a [[Prepared Magic#Spellbooks|Spellbook]], from which they [[Prepared Magic#Preparing Spells|Prepare Spells]].
