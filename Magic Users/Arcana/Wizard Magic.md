@@ -6,59 +6,46 @@ date: [2022-04-01]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-04-01]
 ---
-[[Wizard]]
+[[Wizard WIP]]
 ___
+## Practical Magic
+### Spells
 *Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence. Wizards train the ability to bind these magical "anima" to their brains: A well-trained brain is a mind-gun loaded with spell-bullets.*
 
-- The Wizard has a Spellbook, from which they Prepare Spells.
-- The Wizard has a number of Spell Slots, indicating how many Spells then can safely Prepare each day. <!--%*, indicating how many spell-creatures they can safely feed soul-energy. %Start with 2 rolled, then choose 1 at first level.*-->
-- The Wizard must spend an hour to Prepare Spells from their Spellbook *(usually in the morning)*. <!--*temporarily binding the spell-creatures to their brains.*-->
-- To Prepare a Spell more than once, the Wizard's Spellbook must contain multiple copies of that Spell. 
-	<!-- - % Multiple copies of a spell are required for the wizard to prepare a spell more than once. *(If your spellbook only contains one Light spell-creature, you cannot cast it twice.)*-->
-- Once a Prepared Spell is cast, it becomes unavailable until the next dawn *(when the Wizard may again Prepare that Spell from their Spellbook).*
-- At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casting regularly.
-- The Wizard may benefit from minor magical effects related to the spells they have prepared, without actually expelling the spell *(i.e. casually lighting a pipe while Fireball is prepared).*
-- Wizards cannot Cast Spells they haven't Prepared, but they may Over-Prepare, binding more spells to themselves than their souls can actually feed. *(This carries associated risks.*) See *Over-Preparing*.
-
-*The following topic are explained in more detail on the reverse:*
-**Adventuring:** Spells; Spellbooks; Spell slots; Preparing Spells; Cantrips; Over-casting; Over-Preparing; Spell Scrolls, Magic Items.
-
-**Theoretical:** Learning New Spells; Transferring Spells; Duplicating Spells; Enchanting Items; Magical Research; Inventing New Spells.
-
-**Foreign:** Interactions with Maroian Magicians; Interactions with Caspian Maestros.
-
-
----
-*The following topic are explained in more detail on the reverse:*
-**Adventuring:** Spells; Spellbooks; Spell slots; Preparing Spells; Cantrips; Over-casting; Over-Preparing; Spell Scrolls, Magic Items.
-
-**Theoretical:** Learning New Spells; Transferring Spells; Duplicating Spells; Enchanting Items; Magical Research; Inventing New Spells.
-
-**Foreign:** Interactions with Maroian Magicians; Interactions with Caspian Maestros.
-
-### Spells
-Spells are spirits, etc.
-
 ### Spellbooks 
-Spellbooks are arcane menageries, prisons filled with magical spirits.
-#### Interactions with other Magic-Users 
+*Spellbooks are arcane menageries, prisons filled with magical spirits.*
+
+<!-- ##### Interactions with other Magic-Users -->
 Once a Wizard has Prepared a Spell, that Spell cannot be Cast or Prepared by any Magic-User, until the dawn after the Wizard Casts it. The spell-creature has been bound to the Wizard's soul, and no longer occupies the Spellbook.
 
 Wizards interfere with other Wizards in  this way, but non-Wizard Magic-Users have no effect on the Wizard's ability to Prepare Spells.
 
-~~will be unable to Cast or Prepare that Spell.~~ 
+<!--~~will be unable to Cast or Prepare that Spell.~~ 
 
 ~~canOther Magic-Users will be unable to Cast or Prepare Spells that a Wizard has  has Prepared, or has Cast today.~~
 
-~~However, non-Wizard Casters do not impose this limitation on Wizards.~~
+~~However, non-Wizard Casters do not impose this limitation on Wizards.~~ -->
+
+##### Adding Spells to Spellbooks
+Assuming a well-stocked magical laboratory, this process is laborious, but largely uncomplicated. Without appropriate facilities, double the duration required.
+
+Make a WIS check vs DC 10. On a success, the following duration is measure in days. On a failure, the following duration is measured in weeks (the Spell resists being bound).
+
+Roll Ld6+INT, and subtract from 20. The result is the number of days/weeks required to add this Spell to the Spellbook. 
 
 ### Spell Slots 
-How many spell-creatures can you feed with your soul-energy?
+*How many spell-creatures can you feed with your soul-energy?*
 
 ### Preparing Spells
 The Wizard must spend an hour to Prepare Spells from their Spellbook *(usually in the morning)*.
 
-#### Cantrips
+
+
+
+
+### Casting Spells
+
+##### Cantrips
 Parlour tricks 
 The Wizard may benefit from minor magical effects related to the spells they have prepared, without actually expelling the spell *(i.e. casually lighting a pipe while Fireball is prepared).*
 
@@ -70,36 +57,25 @@ The Spells a Wizard has Prepared allows them to produce Cantrips, minor magical 
 - A Wizard with 
 Cantrips are subject to GM approval, but in general, they are weaker than Spells, and the effects should not require a roll.
 
-
-
-### Casting Spells
-
-#### Cantrips
-
-#### Conjure Calamity
+##### Conjure Calamity
 At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casting regularly.
 
-#### Spell Scrolls
-~~Spell Scrolls are akin to individual entries in the Wizard's Spellbook, but are less durable.~~ Spell Scrolls function identically to Spellbooks, with the following exceptions:
+##### Spell Scrolls
+<!--~~Spell Scrolls are akin to individual entries in the Wizard's Spellbook, but are less durable.~~-->Spell Scrolls function identically to Spellbooks, with the following exceptions:
 - When Preparing Spells from a Scroll, make an WIS check. On a failure, the Scroll is destroyed.
 - When Spontaneous Casting from a Scroll, the Scroll is destroyed.
 
-#### Adding Spells to Spellbooks
-Assuming a well-stocked magical laboratory, this process is laborious, but largely uncomplicated. Without appropriate facilities, double the duration required.
 
-Make a WIS check vs DC 10. On a success, the following duration is measure in days. On a failure, the following duration is measured in weeks (the Spell resists being bound).
 
-Roll Ld6+INT, and subtract from 20. The result is the number of days/weeks required to add this Spell to the Spellbook. 
-
-~~A Prepared Spell may be consumed to cast a Spell from a Spell Scroll. This process takes 10 minutes to Cast safely, and the Spell Scroll becomes available again at the next sunrise (similar to Spellbook Refreshing).~~
+<!--~~A Prepared Spell may be consumed to cast a Spell from a Spell Scroll. This process takes 10 minutes to Cast safely, and the Spell Scroll becomes available again at the next sunrise (similar to Spellbook Refreshing).~~
 
 ~~Alternatively, the Spell Scroll can be cast as an action during combat. A Prepared Spell is consumed in the casting, and the Wizard must Save vs Spells. On a failure, they roll for Spell Catastrophe, and the Scroll is destroyed.~~
+-->
 
-
-
+---
 ## Dangerous Magic
 ### Death during Casting
-If a Wizard dies while Casting a Spell (regardless of the cause of death), immediately roll Spell Catastrophe.
+If a Wizard dies while Casting a Spell *(regardless of the cause of death)*, immediately roll Spell Catastrophe.
 
 ### Spontaneous Casting
 *Use this when you have Spell Slots but no time to Prepare!*
@@ -113,7 +89,7 @@ During Casting, the Wizard must Save vs Spells, or suffer a Spell Catastrophe in
 #### Over-Preparing
 *Use this to when you have no Spell Slots, but you do have time to Prepare.*
 
-Wizards may be interested in Preparing beyond their ability. This is preferable over Spontaneously Casting, as the process is more of a controlled process.
+*Wizards may be interested in Preparing beyond their ability. This is preferable over Spontaneously Casting, as the process is more of a controlled process.*
 
 While Preparing, the Wizard may Save vs Spells to Prepare an additional Spell. On a failure, roll Spell Catastrophe. The effects of the Spell Catastrophe continue until that Spell is Cast.
 
