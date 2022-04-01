@@ -34,3 +34,4 @@ Wizards can only wield Daggers, and are unable to cast Spells while using Shield
 - At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casting regularly.
 - The Wizard may benefit from minor magical effects related to the spells they have prepared, without actually expelling the spell *(i.e. casually lighting a pipe while Fireball is prepared).*
 - Wizards cannot Cast Spells they haven't Prepared, but they may Over-Prepare, binding more spells to themselves than their souls can actually feed. *(This carries associated risks.*) See *Over-Preparing*.
+- [[Wizard#Combat|Combat]]
