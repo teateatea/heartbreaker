@@ -15,9 +15,7 @@ ___
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
 
 <!-- ##### Interactions with other Magic-Users -->
-Once a Wizard has Prepared a Spell, that Spell cannot be Cast or Prepared by any Magic-User, until the dawn after the Wizard Casts it. The spell-creature has been bound to the Wizard's soul, and no longer occupies the Spellbook.
 
-Wizards interfere with other Wizards in  this way, but non-Wizard Magic-Users have no effect on the Wizard's ability to Prepare Spells.
 
 <!--~~will be unable to Cast or Prepare that Spell.~~ 
 
@@ -38,11 +36,19 @@ Roll Ld6+INT, and subtract from 20. The result is the number of days/weeks requi
 ## Preparing Spells
 The Wizard must spend an hour to Prepare Spells from their Spellbook *(usually in the morning)*.
 
+*See [[Dangerous Magic#Over-Preparing|Over-Preparing]] for Preparing without Spell Slots.*
+*See [[Dangerous Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*
 
+##### Empty Spellpages
+*The spell-creature has been bound to the Wizard's soul, and no longer occupies the Spellbook.*
+
+Once a Wizard has Prepared a Spell, that Spell cannot be Cast or Prepared by any Magic-User, until the dawn after the Wizard Casts it. Wizards interfere with other Wizards in this way, but non-Wizard Magic-Users have no effect on the Wizard's ability to Prepare Spells.
 
 
 
 ## Casting Spells
+*See [[Dangerous Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*
+*See [[Dangerous Magic#Over-Casting|Over-Casting]] for Casting without Spell Slots.*
 
 ##### Cantrips
 Parlour tricks 
@@ -71,3 +77,5 @@ At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casti
 
 ~~Alternatively, the Spell Scroll can be cast as an action during combat. A Prepared Spell is consumed in the casting, and the Wizard must Save vs Spells. On a failure, they roll for Spell Catastrophe, and the Scroll is destroyed.~~
 -->
+
+## Spell Catastrophe
