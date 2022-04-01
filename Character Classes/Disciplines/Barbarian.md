@@ -29,7 +29,7 @@ damage (if single target) or +1 damage
 (if multiple targets). --> and you must **Save vs Spells** for each Spell to avoid Spell Catastrophes. <!--Mishaps and
 Dooms-->
 
-You stop Raging when you have killed, subdued, or driven off all your enemies. At the start of your turn, you can will yourself to stop Raging as a free action, with an $L$-in-6 chance of success. If one of your allies has injured you this fight, they count as an enemy *(and must be killed if you cannot will yourself to stop raging)*.
+You stop Raging when you have killed, subdued, or driven off all your enemies. Alternatively, at the start of your turn, you can will yourself to stop Raging as a free action, with an $L$-in-6 chance of success. If one of your allies has injured you this fight, they count as an enemy *(and must be killed if you cannot will yourself to stop raging)*.
 
 *($L$ is the number of levels you have taken in Barbarian.)*
 
