@@ -10,21 +10,21 @@ creation_date: [2022-04-01]
 ___
 ## Death during Casting
 If a Wizard dies while Casting a Spell *(regardless of the cause of death)*, immediately roll Spell Catastrophe.
-
+___
 ## Spontaneous Casting
 **Use this when you have Spell Slots available, but no time to Prepare.**
 
 *Wizards must Prepare in order to Cast Spells safely, but some situations call for urgency at any cost.* 
 
 As a full round action, a Wizard may Spontaneously Cast an available Spell from a Spellbook or Spell Scroll, consuming either a Spell Slot or a Prepared Spell. The Wizard must **Save vs Spells**, or suffer a Spell Catastrophe in addition to the intended effects of the Spell. <!--~~This often includes Conjuring Calamity on themselves.~~--> If a Spell Scroll was used, it's destroyed after casting.
-
+___
 ## Over-Preparing
 **Use this to when you have no Spell Slots, but you do have time to Prepare.**
 
 *Some Wizards Prepare beyond their ability to manage soul essence, stepping closer to the edge of mortality.*
 
 While Preparing, the Wizard may **Save vs Death** to Prepare a Spell *without* an available Spell Slot. On a failure, roll Spell Catastrophe. The Spell Catastrophe effects end *(or are reversed)* when that Spell is Cast.
-
+___
 ## Over-Casting
 **Use this when you have no Spell Slots, and no time to Prepare.**
 
