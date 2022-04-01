@@ -40,7 +40,7 @@ Training Disciplines at later levels generally requires the appropriate mentor, 
 
 | Mur&nbsp;Disciplines | Description |
 | -------------------- | ----------- |
-| [[Barbarian]]        |             |
+| [[Barbarian]]        | You are from Foreign Parts. You have seen many things, and yet the people Around Here are still strange to you, and their customs are unusual (and sometimes amusing). They fear you, but you know they are right to defer when disagreements arise.            |
 
 <!--
 | Maroian&nbsp;Disciplines  | Description                                                                                                                                                                                                               |
