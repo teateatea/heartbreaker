@@ -78,4 +78,5 @@ At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casti
 ~~Alternatively, the Spell Scroll can be cast as an action during combat. A Prepared Spell is consumed in the casting, and the Wizard must Save vs Spells. On a failure, they roll for Spell Catastrophe, and the Scroll is destroyed.~~
 -->
 ___
-## Spell Catastrophe
+## Spell Catastrophes
+Test
