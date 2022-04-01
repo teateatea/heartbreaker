@@ -6,7 +6,7 @@ date: [2022-04-01]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-04-01]
 ---
-[[Wizard]]
+[[Wizard]] | [[Prepared Magic]] | [[Dangerous Magic]]
 ___
 ## Practical Magic
 ___
