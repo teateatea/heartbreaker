@@ -25,7 +25,7 @@ Wizards can only wield Daggers, and are unable to cast Spells while using Shield
 ### [[Prepared Magic]]
 *Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence. Wizards train the ability to bind these magical "anima" to their brains: A well-trained brain is a mind-gun loaded with spell-bullets.*
 
-- The Wizard has a [[Prepared Magic#Spellbooks|Spellbook]], from which they [[Prepared Magic#Preparing Spells|Prepare Spells]].
+- The Wizard has a [Prepared Magic#Spellbooks|Spellbook]], from which they [[Prepared Magic#Preparing Spells|Prepare Spells]].
 - The Wizard has a number of [[Prepared Magic#Spell Slots|Spell Slots]], indicating how many [[Prepared Magic#Spells|Spells]] then can safely Prepare each day. <!--%*, indicating how many spell-creatures they can safely feed soul-energy. %Start with 2 rolled, then choose 1 at first level.*-->
 - The Wizard must spend an hour to Prepare Spells from their Spellbook *(usually in the morning)*. <!--*temporarily binding the spell-creatures to their brains.*-->
 - To Prepare a Spell more than once, the Wizard's Spellbook must contain multiple copies of that Spell. 
