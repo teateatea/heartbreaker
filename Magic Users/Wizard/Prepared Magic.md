@@ -79,4 +79,4 @@ At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casti
 -->
 ___
 ## Spell Catastrophes
-Test
+*Something has gone wrong while you were using magic.*
