@@ -29,14 +29,12 @@ Training Disciplines at later levels generally requires the appropriate mentor, 
 
 | Maroian&nbsp;Disciplines | Description                                                                                                                                                                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[House Champion]]         |                                                                                                                                                                                                                                            |
 | [[Swordwife]]            | Dedicated to the study of combat, you take violent work as a means of developing your skill. You seldom have the clarity to realize that your relationship with your sword is more important than your relationship with any other person. |
 | [[Bravo]]                | Your skill with a saber is outmatched only by your ability to induce ire in your hapless foes. You often bite off more than you can chew, but you'll stop at nothing to be recognized for your devilish escapades.                         |
 
 | Caspian&nbsp;Disciplines | Description |
 | ------------------------ | ----------- |
-| [[War Dancer]]           |             |
-| [[Blue Blade]]           |             |
+| [[Blue Blade]]           | You walk that thin line between heroism and folly, and never ask why. When you were just a shiftless bravo, a man spared your life, and you will make that act of kindness the foundation for a life of adventure for the Good. Devout but easy-going, you perform deeds that jaded soldiers call impossible.            |
 
 | Mur&nbsp;Disciplines | Description |
 | -------------------- | ----------- |
