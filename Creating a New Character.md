@@ -14,25 +14,25 @@ Let me know if there’s anything you need!
 
 ___
 # The Cards You Were Dealt
-### 1 Roll Background & Appearance
-Choose or roll a d20 on each of the Background & Appearance tables. <!-- #Revisit -->
+### 1. Roll Background & Appearance
+Choose or roll a d20 on each of the ***Background & Appearance*** tables. <!-- #Revisit -->
 
-### 2. Roll ability scores
+### 2. Roll Ability Scores
 Roll 3d6 for each of your character’s ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
 
 For more information, see ***Ability Scores, OSE p16.***  <!-- #Revisit -->
 
 <!-- #### Online Character Generation
 Steps 1-3 involve a lot of rolling, so to have those results automatically generated, click here.-->
-##### Sub-Par Characters
+##### ***a) Sub-Par Characters***
 If you roll a character with very poor ability scores – such as 8 or less in every score, or a 6 or less in one score – you may reroll the lowest score.
 
-##### Adjust Ability Scores
+##### ***b) Adjust Ability Scores***
 If you wish, choose any two ability scores, and swap their scores.
 
 *For example, you could switch your scores for Strength and Intelligence.*
 
-##### Note Bonuses
+##### ***c) Note Bonuses***
 Note the associated bonuses or penalties for each ability score, based on the tables overleaf. <!-- #Revisit -->
 
 ___
@@ -40,29 +40,31 @@ ___
 ### 4. Choose a Class
 Select one of the classes available (see ***Character Classes, OSE p22***). <!-- #Revisit -->
 
-###### Note Level & XP
+###### ***a) Note Level & Experience (XP)***
 New characters begin play at 1st level, with 0 Experience Points (XP). Note the XP required for the next level too.
 
-##### Roll hit points
+##### ***b) Roll Hit Points (HP)***
 Your class lists your Hit Dice.
 
 At 1st level, your HP is equal to the highest possible result on that die, plus your Constitution modifier.
 
-##### Note Attack Bonus
+##### ***c) Note Attack Bonus***
 The level progression chart for your class lists your Attack Bonus. This indicates your chance of hitting opponents in combat.
 
 Note the modifier inside the square bracket as your Attack Bonus.
 
-##### Note Saving Throws
+##### ***d) Note Saving Throws***
 Note your saving throws, listed in the level progression chart for your class: Death, Wands, Paralysis, Breath, and Spells. These indicate your chance of avoiding different categories of danger (see ***Saving Throws, OSE p105***).
 
-##### Note Class Abilities
+##### ***e) Note Class Abilities***
 Record any special abilities gained as a result of your class. If you have a spellbook, ask the GM which spells are recorded in it. The GM may allow you to choose.
 
 ___
 # Your Tools For Survival
 ### 5. Mark Inventory Space
-On your inventory sheet, draw a horizontal line below the box equal to each ability score. Each box lets you carry one item, 100 coins, or bundles weighing around 10 pounds.
+On your inventory sheet, draw a horizontal line below the box equal to each ability score.
+
+Each box lets you carry one item, 100 coins, or bundles weighing around 10 pounds.
 
 ### 6. Roll Debts
 Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company.
@@ -70,11 +72,14 @@ Roll three d20s, and place the digits in consecutive order. This is your debt to
 *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 GP.*
 
 ### 7. Buy Equipment
-You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***. The cost of each item is added to your debt to the Martel Company. <!-- #Revisit -->
+You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***.
 
-##### Note Armour Class
-Your Armour Class indicates how hard to hurt you are, and is determined by:<br>- **Armour:** Your armour determines your base AC. If you have no armour, your base AC is [10].
-- **Dexterity:** See ***Ability Scores, p16.*** <!-- #Revisit -->
+The cost of each item is added to your debt to the Martel Company. <!-- #Revisit -->
+
+##### ***a) Note Armour Class (AC)***
+Your Armour Class (AC) indicates how hard to hurt you are, and is determined by your:
+- **Armour:** Your armour determines your base AC. If you have no armour, your base AC is [10].
+- **Dexterity bonus:** See ***Ability Scores, p16.*** <!-- #Revisit -->
 
 ### 8. Get Backup
 Treasure hunters often band beneath anybody with a decent plan. Your Charisma limits the number of retainers you may lead. Each person gets one share, but leaders get two.
