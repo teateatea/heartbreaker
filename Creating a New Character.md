@@ -74,7 +74,7 @@ You have access to the full Martel Armory. You may spend as much money as you wi
 
 ##### Note Armour Class
 Your Armour Class indicates how hard to hurt you are, and is determined by:<br>- **Armour:** Your armour determines your base AC. If you have no armour, your base AC is [10].
-- **Dexterity:** See ***Ability Scores, p16.***
+- **Dexterity:** See ***Ability Scores, p16.*** <!-- #Revisit -->
 
 ### 8. Get Backup
 Treasure hunters often band beneath anybody with a decent plan. Your Charisma limits the number of retainers you may lead. Each person gets one share, but leaders get two.
