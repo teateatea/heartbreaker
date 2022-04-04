@@ -1,11 +1,11 @@
-## Character Creation
-[[a) Creating a New Character|Character Creation]]
+## Characters
+##### [[a) Creating a New Character|Character Creation]]
+##### [[b) Gaining XP|Gaining XP]]
+##### [[c) Levelling Up|Levelling Up]]
 
-[[b) Gaining XP|Gaining XP]]
+## Classes
+##### [[Fighter]]
+- [[Fighter Disciplines]]
 
-[[c) Levelling Up|Levelling Up]]
+##### [[Wizard]]
 
-### Classes
-[[Fighter]]
-
-[[Wizard]]
