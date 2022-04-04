@@ -3,7 +3,7 @@
 
 ## Classes
 [[Fighter]]
-- [[Fighter Disciplines]]
+	[[Fighter Disciplines]]
 
 [[Wizard]]
 
