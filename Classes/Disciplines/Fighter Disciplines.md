@@ -6,7 +6,7 @@ date: [2022-03-25]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-03-25]
 ---
-[[Fighter|Fighter Class]]
+[[Fighter|Fighter Class]] | [[Fighter Disciplines|Disciplines]]
 ___
 Fighters choose a Discipline at 1st level, and gain relevant aspects and abilities based on that training. When the Fighter gains a Level, they progress to the next step of their Discipline and gain new abilities: First **A**, then **B**, then **C**, and finally **D**. They also gain a Ken at each step of their Discipline.
 
