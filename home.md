@@ -3,6 +3,7 @@
 
 ## Classes
 [[Fighter]] [[Fighter Disciplines|(Disciplines)]]
+<!-- Mystic, Gish, Thief, Face/Bard -->
 
 [[Wizard]]
 <br>
