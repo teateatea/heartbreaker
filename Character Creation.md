@@ -76,6 +76,6 @@ Treasure hunters often band beneath anybody with a decent plan. Your Charisma li
 ### 7. Name Character
 Finally, choose or roll for your character’s true name, as well as the company name they use on missions.
 
-You are now ready for adventure
+You are now ready for adventure!
 
 
