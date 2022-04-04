@@ -6,8 +6,9 @@
 
 [[Wizard]]
 
+___
 ## World Building
-*This section is literally just copy pasted notes. No effort has been make it readable by other people, but you're welcome to interpret my brain-storming!*
+*This section is literally just copy-pasted notes. No effort has been make it readable by other people, but you're welcome to interpret my brainstorming!*
 
 [[The Caspian Pantheon]]
 
