@@ -6,7 +6,7 @@ date: [2022-03-31]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-03-31]
 ---
-[[Fighter]] | [[Fighter Disciplines|Disciplines]]
+[[Fighter|Fighter Class]] | [[Fighter Disciplines|Disciplines]]
 ___
 *You are from Foreign Parts. You have seen many things, and yet the people Around Here are still strange to you, and their customs are unusual (and sometimes amusing). They fear you, but you know they are right to defer when disagreements arise.*
 <!--Your skill with a saber is only outmatched by your ability to induce ire in your foes. You'll stop at nothing to be recognized for your devilish escapades.

@@ -6,7 +6,7 @@ date: [2022-03-31]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-03-31]
 ---
-[[Fighter]] | [[Fighter Disciplines|Disciplines]]
+[[Fighter|Fighter Class]] | [[Fighter Disciplines|Disciplines]]
 ___
 *You answered the call to action, and you intend to finish that call. No matter what happens, you’ll be different when you finally return to your home.*
 <!-- Comment -->

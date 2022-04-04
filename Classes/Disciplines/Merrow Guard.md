@@ -6,7 +6,7 @@ date: [2022-03-31]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-03-31]
 ---
-[[Fighter]] | [[Fighter Disciplines|Disciplines]]
+[[Fighter|Fighter Class]] | [[Fighter Disciplines|Disciplines]]
 ___
 *You’ve entered the ranks of the Church of [[Saint Merrow - Strength & Passion|Saint Merrow]], and as such, are guardian to the civilized. You represent a bastion of strength, passion, and perseverance against stagnation.*
 <!-- Based on the Legionnaire by A Distant Chime. -->

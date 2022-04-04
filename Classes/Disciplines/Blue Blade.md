@@ -6,7 +6,7 @@ date: [2022-03-25]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-03-25]
 ---
-[[Fighter]] | [[Fighter Disciplines|Disciplines]]
+[[Fighter|Fighter Class]] | [[Fighter Disciplines|Disciplines]]
 ___
 *You walk that thin line between heroism and folly, and never ask why. When you were just a shiftless bravo, a man spared your life, and you will make that act of kindness the foundation for a life of adventure for the Good. Devout but easy-going, you perform deeds that jaded soldiers call impossible.*
 ___

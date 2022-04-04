@@ -6,7 +6,7 @@ date: [2022-03-31]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-03-31]
 ---
-[[Fighter]] | [[Fighter Disciplines|Disciplines]]
+[[Fighter|Fighter Class]] | [[Fighter Disciplines|Disciplines]]
 ___
 *Dedicated to the study of combat, you take violent work as a means of developing your skill. You seldom have the clarity to realize that your relationship with your sword is more important than your relationship with any other person.*
 <!--Your skill with a saber is only outmatched by your ability to induce ire in your foes. You'll stop at nothing to be recognized for your devilish escapades.
