@@ -1,5 +1,6 @@
 ## Character Creation
-[[Creating a New Character]]
+[[a) Creating a New Character]]
 
 ### Classes
 [[Fighter]]
+[[Wizard]]
