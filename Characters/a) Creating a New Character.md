@@ -6,6 +6,7 @@ date: [2022-04-04]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-04]
 ---
+[[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]]
 To create a new character, you need a **character sheet** to record info about your character, and an **inventory sheet** to record your equipment.
 
 A **blank map**, and somewhere to keep **notes** is useful, but optional.
