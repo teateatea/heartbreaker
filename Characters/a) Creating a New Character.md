@@ -8,7 +8,7 @@ creation_date: [2022-04-04]
 ---
 [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
 ___
-To create a new character, you need a **character sheet** to record info about your character, and an **inventory sheet** to record your equipment.
+To create a new Character, you need a **[[Character sheet]]** to record info about your character, and an **Inventory sheet** to record your equipment.
 
 A **blank map**, and somewhere to keep **notes** is useful, but optional.
 
@@ -20,42 +20,48 @@ ___
 Choose or roll a d20 on each of the ***Background & Appearance*** tables. <!-- #Revisit -->
 <br>
 ### 2. Roll Ability Scores
-Roll 3d6 for each of your character’s ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
+Roll 3d6 for each of your Character’s Ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
 
 For more information, see ***Ability Scores, OSE p16.***  <!-- #Revisit -->
 
 <!-- #### Online Character Generation
 Steps 1-3 involve a lot of rolling, so to have those results automatically generated, click here.-->
 ##### ***a) Sub-Par Characters***
-If you roll a character with very poor ability scores – such as 8 or less in every score, or a 6 or less in one score – you may reroll the lowest score.
+If you roll a Character with very poor Ability scores – such as 8 or less in every score, or a 6 or less in one score – you may reroll the lowest score.
 
 ##### ***b) Adjust Ability Scores***
-If you wish, choose any two ability scores, and swap their scores.
+If you wish, choose any two Ability scores, and swap their scores.
 
 *For example, you could switch your scores for Strength and Intelligence.*
 
 ##### ***c) Note Bonuses***
-Note the associated bonuses or penalties for each ability score, based on the tables overleaf. <!-- #Revisit -->
+Note the associated bonuses or penalties for each Ability score, based on the tables overleaf. <!-- #Revisit -->
 
 ___
 # The Path You Have Taken
 ### 4. Choose a Class
-Select one of the classes available (see ***Character Classes, OSE p22***). <!-- #Revisit -->
+Select one of the Classes available (see ***Character Classes, OSE p22***).
 
-###### ***a) Note Level & Experience (XP)***
-New characters begin play at 1st level, with 0 Experience Points (XP). Note the XP required for the next level too.
+You will need the **Class Level Progression** table for this step of Character creation.<!-- #Revisit -->
 
-If this is not your first character, [[b) Gaining XP#Funerals|it's possible to start with more than 0 XP.]]
+###### ***a) Note Level & Experience Points (XP)***
+New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the XP required for the next Level too.
+
+If this is not your first Character, [[b) Gaining XP#Funerals|it's possible to begin play with more than 0 XP.]]
 
 ##### ***b) Roll Hit Points (HP)***
-Your class lists your Hit Dice.
+Your Level Progression table lists your Hit Dice.
 
-At 1st level, your HP is equal to the highest possible result on that die, plus your Constitution modifier.
+**At 1st level, your HP is equal to the highest possible result of your Hit Die, plus your CON Bonus.**
 
-##### ***c) Note Attack Bonus***
-The level progression chart for your class lists your Attack Bonus. This indicates your chance of hitting opponents in combat.
+If you are beginning with more than 0 XP, roll all your Hit Dice for your Level, plus your CON $\times$ Level.
 
-Note the modifier inside the square bracket as your Attack Bonus.
+##### ***c) Note Attack Bonus (AB)***
+Your Level Progression table lists your Attack Bonus. 
+
+Note this bonus as your Attack Bonus, indicating your skill at hitting opponents in combat.
+
+If you are a Fighter, you do not have a fixed AB. [[Fighter#Attack Bonus|Please see your Class page for details.]]
 
 ##### ***d) Note Saving Throws***
 Note your saving throws, listed in the level progression chart for your class: Death, Wands, Paralysis, Breath, and Spells. These indicate your chance of avoiding different categories of danger (see ***Saving Throws, OSE p105***).
