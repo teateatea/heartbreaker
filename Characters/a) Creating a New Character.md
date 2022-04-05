@@ -50,7 +50,7 @@ Your Character's Class describes their role in the adventuring party. Select one
 
 You will need the **Class Level Progression** table for this step of Character creation.<!-- #Revisit -->
 
-###### ***a) Note Level & Experience Points (XP)***
+##### ***a) Note Level & Experience Points (XP)***
 New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the XP required for the next Level too.
 
 If this is not your first Character, [[b) Gaining XP#Funerals|it's possible to begin play with more than 0 XP.]]
