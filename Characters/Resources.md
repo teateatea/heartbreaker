@@ -1,4 +1,4 @@
-[[home]] | [[a) Creating a New Character|Character Creation]]
+[[home|Home]] | [[a) Creating a New Character|Character Creation]]
 ___
 [[Character sheet pdf 1.pdf|Character Sheet (Fillable PDF) - version 4-1 (March 2022)]] *(No Inventory sheet, revisit!)*
 

@@ -1,4 +1,5 @@
 ## Characters
+[[Resources]]
 [[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]
 
 ## Classes
@@ -6,6 +7,7 @@
 <!-- Mystic, Gish, Thief, Face/Bard -->
 
 [[Wizard]]
+
 <br>
 
 ___
