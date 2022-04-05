@@ -6,14 +6,9 @@ date: [2022-04-05]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-05]
 ---
-[[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
+##### ***An introduction to the Hot Springs Island***
+[[home|Home]] | [[a) Creating a New Character|Character Creation]]
 ___
-Your Character's Class describes their role in the adventuring party.
-
-
-## PROPERTY OF THE MARTEL COMPANY
-***An introduction to the Hot Springs Island***
-
 You are brand-new adventurers. Treasure hunters. Haulers. You might have been something else before, but not anymore. You are *Property of the Martel Company* now, and they expect returns on their investments.
 
 They’ve trained you for the one thing they care about: Hauling treasure.<br>“Leave nothing behind,” they said, “no matter what.” Pick it up and move it, so that when you die, it’ll be closer for the next team.
@@ -25,7 +20,8 @@ You may be a ***[[Fighter]]***. One day, you will have mastered every form of co
 You may be a ***[[Magic-User]]***. Your abilities border on the unfathomable to your team, but the risk you represent is clear to all. For now, you untangle the weird problems.
 
 You may be a ~~***Thief***~~. You intend to sneak past Death when she comes for you, and your team doesn’t realize that you’re serious. For now, you exploit weaknesses in traps, locks, and men.
-
+___
+![[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.jpg]]
 ___
 We’ll be playing Old School Essentials (OSE), a modern adaptation of Basic/Expert Dungeons & Dragons (B/X D&D). My goal is to make this a ‘sandbox’ game, meaning there is no predetermined story arc. Instead, you’re encouraged to make your own goals, and we’ll explore the results of your decisions in the world and the
 world’s reactions to you.

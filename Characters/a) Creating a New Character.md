@@ -40,7 +40,7 @@ Note the associated bonuses or penalties for each Ability score, based on the ta
 ___
 # The Path You Have Taken
 ### 4. Choose a Class
-Select one of the [[Classes]] available (see ***Character Classes, OSE p22***).
+Your Character's Class describes their role in the adventuring party. Select one of the available [[home#Classes|Classes]].
 
 You will need the **Class Level Progression** table for this step of Character creation.<!-- #Revisit -->
 
