@@ -45,7 +45,7 @@ Note the associated bonuses for each Ability score, based on the tables overleaf
 
 ___
 # The Path You Have Taken
-### 4. Choose a Class
+### 3. Choose a Class
 Your Character's Class describes their role in the adventuring party. Select one of the available [[home#Classes|Classes]].
 
 You will need the **Class Level Progression** table for this step of Character creation.<!-- #Revisit -->
@@ -77,17 +77,17 @@ Record any special abilities gained as a result of your class. If you have a spe
 
 ___
 # Your Tools For Survival
-### 5. Mark Inventory Space
+### 4. Mark Inventory Space
 On your inventory sheet, draw a horizontal line below the box equal to each ability score.
 
 Each box lets you carry one item, 100 coins, or bundles weighing around 10 pounds.
 <br>
-### 6. Roll Debts
+### 5. Roll Debts
 Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company.
 
 *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 GP.*
 <br>
-### 7. Buy Equipment
+### 6. Buy Equipment
 You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***.
 
 The cost of each item is added to your debt to the Martel Company. <!-- #Revisit -->
@@ -97,12 +97,12 @@ Your Armour Class (AC) indicates how hard to hurt you are, and is determined by 
 - **Armour:** Your armour determines your base AC. If you have no armour, your base AC is [10].
 - **Dexterity bonus:** See ***Ability Scores, p16.*** <!-- #Revisit -->
 <br>
-### 8. Get Backup
+### 7. Get Backup
 Treasure hunters often band beneath anybody with a decent plan. Your Charisma limits the number of retainers you may lead. Each person gets one share, but leaders get two.
 
 ___
 # Who Are You?
-### 9. Name Character
+### 8. Name Character
 Finally, choose or roll for your character’s true name, as well as the company name they use on missions.
 
 You are now ready for adventure!
