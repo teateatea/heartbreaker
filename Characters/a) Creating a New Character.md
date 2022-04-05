@@ -72,7 +72,7 @@ Note your Saving Throws<!--, listed in the Level Progression Chart for your clas
 
 ##### ***e) Note Class Abilities***
 Record any special abilities gained as a result of your class. If you have a Spellbook, ask the GM which Spells are recorded in it. The GM may allow you to choose.
-<br>
+<br><br>
 ___
 # Your Tools For Survival
 ### 4. Mark Inventory Space
@@ -91,7 +91,7 @@ Your Armour Class (AC) indicates how hard to hurt you are, and is determined by 
 <br>
 ### 7. Get Backup
 Treasure hunters often band beneath anybody with a decent plan. Your Charisma limits the number of retainers you may lead. Each person gets one share, but leaders get two.
-<br>
+<br><br>
 ___
 # Who Are You?
 ### 8. Name Character
