@@ -56,41 +56,33 @@ New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the 
 If this is not your first Character, [[b) Gaining XP#Funerals|it's possible to begin play with more than 0 XP.]]
 
 ##### ***b) Roll Hit Points (HP)***
-Your Level Progression table lists your Hit Dice.
-
+<!-- Your Level Progression table lists your Hit Dice.-->
 **At 1st level, your HP is equal to the highest possible result of your Hit Die, plus your CON Bonus.**
 
 If you are beginning with more than 0 XP, roll all your Hit Dice for your Level, plus your CON $\times$ Level.
 
 ##### ***c) Note Attack Bonus (AB)***
-Your Level Progression table lists your Attack Bonus. 
-
+<!-- Your Level Progression table lists your Attack Bonus. -->
 Note this bonus as your Attack Bonus, indicating your skill at hitting opponents in combat.
 
 [[Fighter#Attack Bonus|If you are a Fighter, you do not have a fixed AB. Please see your Class page for details.]]
 
 ##### ***d) Note Saving Throws***
-Note your saving throws, listed in the level progression chart for your class: Death, Wands, Paralysis, Breath, and Spells. These indicate your chance of avoiding different categories of danger (see ***Saving Throws, OSE p105***).
+Note your Saving Throws<!--, listed in the Level Progression Chart for your class-->: Death, Wands, Paralysis, Breath, and Spells. These indicate your skill at avoiding different categories of danger. <!-- (see ***Saving Throws, OSE p105***).-->
 
 ##### ***e) Note Class Abilities***
-Record any special abilities gained as a result of your class. If you have a spellbook, ask the GM which spells are recorded in it. The GM may allow you to choose.
+Record any special abilities gained as a result of your class. If you have a Spellbook, ask the GM which Spells are recorded in it. The GM may allow you to choose.
 
 ___
 # Your Tools For Survival
 ### 4. Mark Inventory Space
-On your inventory sheet, draw a horizontal line below the box equal to each ability score.
-
-Each box lets you carry one item, 100 coins, or bundles weighing around 10 pounds.
+On your Inventory sheet, draw a horizontal line below the box equal to each ability score. Each box is one Inventory Slot, and lets you carry one item, 100 coins, or bundles weighing around 10 pounds.
 <br>
 ### 5. Roll Debts
-Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company.
-
-*For example, if you roll 14, 16, and 8, then your debts amount to 14,168 GP.*
+Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 GP.*
 <br>
 ### 6. Buy Equipment
-You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***.
-
-The cost of each item is added to your debt to the Martel Company. <!-- #Revisit -->
+You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***.<!-- #Revisit --> The cost of each item is added to your debt to the Martel Company.
 
 ##### ***a) Note Armour Class (AC)***
 Your Armour Class (AC) indicates how hard to hurt you are, and is determined by your:
