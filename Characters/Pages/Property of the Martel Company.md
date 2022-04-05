@@ -34,3 +34,6 @@ I’m using house-rules whenever the game rules don’t match my intended experi
 Last but not least, you should know that the only way to gain Experience Points (XP) is by selling treasure back to the Martels. Killing monsters will only grant you XP if you bring valuable carcasses home.
 
 1 Gold Piece = 1 Experience Point
+
+<!-- test -->
+
