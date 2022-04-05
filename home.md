@@ -11,7 +11,7 @@
 
 ___
 ## World Building
-*This section is literally just copy-pasted notes. No effort has been make it readable by other people, but you're welcome to interpret my brainstorming!*
+*This section is just copy-pasted notes. No effort has been make it readable by other people, but you're welcome to interpret my brainstorming!*
 
 [[The Caspian Pantheon]]
 

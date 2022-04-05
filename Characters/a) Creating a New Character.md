@@ -8,7 +8,7 @@ creation_date: [2022-04-04]
 ---
 [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
 ___
-To create a new Character, you need a **Character sheet** to record info about your character, and an **Inventory sheet** to record your equipment. You'll also need a **pencil** to note things down if you're not playing digitally, and a set of **dice** *(**d20**, d12, d10, d8, **3d6**, d4)* to get started.
+To create a new Character, you need a **Character sheet** to record info about your character, and an **Inventory sheet** to record your equipment. You also need a **pencil** to note things down if you're not playing digitally, and a set of **dice** *(**d20**, d12, d10, d8, **3d6**, d4)* to get started.
 
 A **blank map**, and somewhere to keep **notes** will be useful during play, but not necessary for now.
 
@@ -17,17 +17,21 @@ Some or all of these pages can be found on the [[Resources]] page. Let me know i
 ___
 # The Cards You Were Dealt
 ### 1. Roll Background & Appearance
-Choose or roll a d20 on each of the ***Background & Appearance*** tables. <!-- #Revisit -->
+Choose or roll a **d20** on each of the ***Background & Appearance*** tables.
+
+*(Use the top-right box of the Character sheet for this.)*<!-- #Revisit -->
 <br>
 ### 2. Roll Ability Scores
-Roll 3d6 for each of your Character’s Ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
+Roll **3d6** for each of your Character’s Ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
 
-For more information, see ***Ability Scores, OSE p16.***  <!-- #Revisit -->
+*(Ability Scores are found a the top-left of the Character sheet. Use the wider rectangles to note the Ability Scores, and the squares for the Bonuses.)*
+
+<!--For more information, see ***Ability Scores, OSE p16.***   #Revisit -->
 
 <!-- #### Online Character Generation
 Steps 1-3 involve a lot of rolling, so to have those results automatically generated, click here.-->
 ##### ***a) Sub-Par Characters***
-If you roll a Character with very poor Ability scores – such as 8 or less in every score, or a 6 or less in one score – you may reroll the lowest score.
+If you roll a Character with very poor Ability scores (either 8 or less in every score, or 6 or less in one score) you may reroll the lowest score.
 
 ##### ***b) Adjust Ability Scores***
 If you wish, choose any two Ability scores, and swap their scores.
@@ -35,7 +39,9 @@ If you wish, choose any two Ability scores, and swap their scores.
 *For example, you could switch your scores for Strength and Intelligence.*
 
 ##### ***c) Note Bonuses***
-Note the associated bonuses or penalties for each Ability score, based on the tables overleaf. <!-- #Revisit -->
+Note the associated bonuses for each Ability score, based on the tables overleaf. ***(Revisit!)***
+
+*(Each Ability score gives a Bonus to other attributes, such as CON improving HP. Go around the sheet and fill in the relevant boxes now.)*<!-- #Revisit -->
 
 ___
 # The Path You Have Taken
