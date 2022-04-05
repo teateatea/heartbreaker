@@ -8,7 +8,7 @@ creation_date: [2022-04-04]
 ---
 [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
 ___
-To create a new Character, you need a **[[Character sheet]]** to record info about your character, and an **Inventory sheet** to record your equipment.
+To create a new Character, you need a **[[Resources]]** to record info about your character, and an **Inventory sheet** to record your equipment.
 
 A **blank map**, and somewhere to keep **notes** is useful, but optional.
 
