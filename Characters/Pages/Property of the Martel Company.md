@@ -35,6 +35,7 @@ Last but not least, you should know that the only way to gain Experience Points 
 
 **1 Gold Piece = 1 Experience Point**
 
-<!-- test -->
+<!--  -->
 ___
 *Illustration by [Gabriel Hernandez](https://www.instagram.com/worthyenemies/) in [Hot Springs Island](https://shop.swordfishislands.com/).*
+
