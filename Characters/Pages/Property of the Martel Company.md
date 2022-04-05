@@ -6,9 +6,10 @@ date: [2022-04-05]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-05]
 ---
-##### ***An introduction to the Hot Springs Island***
 [[home|Home]] | [[a) Creating a New Character|Character Creation]]
 ___
+##### ***An introduction to the Hot Springs Island***
+
 You are brand-new adventurers. Treasure hunters. Haulers. You might have been something else before, but not anymore. You are *Property of the Martel Company* now, and they expect returns on their investments.
 
 They’ve trained you for the one thing they care about: Hauling treasure.<br>“Leave nothing behind,” they said, “no matter what.” Pick it up and move it, so that when you die, it’ll be closer for the next team.
