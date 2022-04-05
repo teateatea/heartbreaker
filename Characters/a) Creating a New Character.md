@@ -65,7 +65,7 @@ If you are beginning with more than 0 XP, roll all your Hit Dice for your Level,
 <!-- Your Level Progression table lists your Attack Bonus. -->
 Note this bonus as your Attack Bonus, indicating your skill at hitting opponents in combat.
 
-[[Fighter#Attack Bonus|If you are a Fighter, you do not have a fixed AB. Please see your Class page for details.]]
+[[Fighter#Attack Bonus|If you are a Fighter, you have a Deed Die instead of an Attack Bonus.]]
 
 ##### ***d) Note Saving Throws***
 Note your Saving Throws<!--, listed in the Level Progression Chart for your class-->: Death, Wands, Paralysis, Breath, and Spells. These indicate your skill at avoiding different categories of danger. <!-- (see ***Saving Throws, OSE p105***).-->
