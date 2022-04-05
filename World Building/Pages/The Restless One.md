@@ -49,5 +49,5 @@ Many told him it was a path of evil, many of those he travelled with barely trus
 Tapping into the powers of death did dampen his formerly sunny demeanour but heightened his resolve to press further into his work; with every life force sapped, with every skeleton re-animated he could feel between his fingertips a clue, a hint, a way out of mortality.
 
 ___
-*Source: Entry by [[Mike Maxin]].
+*Source: Entry by [[Mike Maxin]].*
 
