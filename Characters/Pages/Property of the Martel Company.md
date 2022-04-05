@@ -20,9 +20,9 @@ You may be a ***[[Fighter]]***. One day, you will have mastered every form of co
 You may be a ***[[Magic-User]]***. Your abilities border on the unfathomable to your team, but the risk you represent is clear to all. For now, you untangle the weird problems.
 
 You may be a ~~***Thief***~~. You intend to sneak past Death when she comes for you, and your team doesn’t realize that you’re serious. For now, you exploit weaknesses in traps, locks, and men.
-<br>
+<br><br>
 ![[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.jpg]]
-<br>
+<br><br>
 We’ll be playing Old School Essentials (OSE), a modern adaptation of Basic/Expert Dungeons & Dragons (B/X D&D). My goal is to make this a ‘sandbox’ game, meaning there is no predetermined story arc. Instead, you’re encouraged to make your own goals, and we’ll explore the results of your decisions in the world and the
 world’s reactions to you.
 
@@ -36,4 +36,5 @@ Last but not least, you should know that the only way to gain Experience Points 
 1 Gold Piece = 1 Experience Point
 
 <!-- test -->
-
+___
+*Illustration by [Gabriel Hernandez](https://www.instagram.com/worthyenemies/) in [Hot Springs Island](https://shop.swordfishislands.com/).*
