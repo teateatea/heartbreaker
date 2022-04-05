@@ -1,6 +1,5 @@
 ## Characters
-[[Resources]]
-[[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]
+[[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Resources]]
 
 ## Classes
 [[Fighter]] [[Fighter Disciplines|(Disciplines)]]
