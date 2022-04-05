@@ -37,5 +37,5 @@ Last but not least, you should know that the only way to gain Experience Points 
 
 <!--  -->
 ___
-*Illustration by [Gabriel Hernandez](https://www.instagram.com/worthyenemies/) in [Hot Springs Island](https://shop.swordfishislands.com/).*
+*Illustration by [Gabriel Hernandez](https://www.instagram.com/worthyenemies/) for [Hot Springs Island](https://shop.swordfishislands.com/).*
 
