@@ -8,11 +8,11 @@ creation_date: [2022-04-04]
 ---
 [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
 ___
-To create a new Character, you need a **[[Resources]]** to record info about your character, and an **Inventory sheet** to record your equipment.
+To create a new Character, you need a **Character sheet** to record info about your character, and an **Inventory sheet** to record your equipment. You'll also need a **pencil** to note things down if you're not playing digitally, and a set of **dice** *(**d20**, d12, d10, d8, **3d6**, d4)* to get started.
 
-A **blank map**, and somewhere to keep **notes** is useful, but optional.
+A **blank map**, and somewhere to keep **notes** will be useful during play, but not necessary for now.
 
-Let me know if there’s anything you need!
+Some or all of these pages can be found on the [[Resources]] page. Let me know if there’s anything you need!
 
 ___
 # The Cards You Were Dealt
@@ -40,7 +40,7 @@ Note the associated bonuses or penalties for each Ability score, based on the ta
 ___
 # The Path You Have Taken
 ### 4. Choose a Class
-Select one of the Classes available (see ***Character Classes, OSE p22***).
+Select one of the [[Classes]] available (see ***Character Classes, OSE p22***).
 
 You will need the **Class Level Progression** table for this step of Character creation.<!-- #Revisit -->
 
@@ -61,7 +61,7 @@ Your Level Progression table lists your Attack Bonus.
 
 Note this bonus as your Attack Bonus, indicating your skill at hitting opponents in combat.
 
-If you are a Fighter, you do not have a fixed AB. [[Fighter#Attack Bonus|Please see your Class page for details.]]
+[[Fighter#Attack Bonus|If you are a Fighter, you do not have a fixed AB. Please see your Class page for details.]]
 
 ##### ***d) Note Saving Throws***
 Note your saving throws, listed in the level progression chart for your class: Death, Wands, Paralysis, Breath, and Spells. These indicate your chance of avoiding different categories of danger (see ***Saving Throws, OSE p105***).
