@@ -10,7 +10,7 @@ creation_date: [2022-04-04]
 *See also:* #Gods [[Death]], [[The Spiritual Plane]], [[The Dead]], [[Undead]], [[SHO - God of Faith|SHO(Faith)]], [[The Caspian Pantheon]], [[Knowledge]], [[Desire for Knowledge]], [[Caspian God of Knowledge]], 
 ___
 #### The Undying One
-#### Keeper of the Shadow Tome
+#### Keeper of the [[Shadow Tome]]
 #### The Restless One
 #### He Who Defied Fate
 

@@ -18,7 +18,7 @@ ___
 # The Cards You Were Dealt
 ### 1. Roll Background & Appearance
 Choose or roll a d20 on each of the ***Background & Appearance*** tables. <!-- #Revisit -->
-
+<br>
 ### 2. Roll Ability Scores
 Roll 3d6 for each of your character’s ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
 
@@ -67,12 +67,12 @@ ___
 On your inventory sheet, draw a horizontal line below the box equal to each ability score.
 
 Each box lets you carry one item, 100 coins, or bundles weighing around 10 pounds.
-
+<br>
 ### 6. Roll Debts
 Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company.
 
 *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 GP.*
-
+<br>
 ### 7. Buy Equipment
 You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***.
 
@@ -82,7 +82,7 @@ The cost of each item is added to your debt to the Martel Company. <!-- #Revisit
 Your Armour Class (AC) indicates how hard to hurt you are, and is determined by your:
 - **Armour:** Your armour determines your base AC. If you have no armour, your base AC is [10].
 - **Dexterity bonus:** See ***Ability Scores, p16.*** <!-- #Revisit -->
-
+<br>
 ### 8. Get Backup
 Treasure hunters often band beneath anybody with a decent plan. Your Charisma limits the number of retainers you may lead. Each person gets one share, but leaders get two.
 
