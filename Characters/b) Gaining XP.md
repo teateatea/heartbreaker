@@ -26,7 +26,9 @@ For each week you carouse, roll on the Drinking Mishap Table. <!-- #Revisit -->
 
 ___
 ## Funerals
-If the party brings your corpse back and holds a proper funeral, **they may spend Gold up to your XP.** If they do, your next character starts with half that XP. The other half of your XP is divided amongst the rest of the party.
+If the party brings your corpse back and holds a proper funeral, **they may spend Gold up to your XP.**
+
+If they do, your next character starts with half that XP. The other half of your XP is divided amongst the rest of the party.
 
 <!--Revisit-->
 

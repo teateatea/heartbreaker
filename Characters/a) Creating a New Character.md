@@ -45,6 +45,8 @@ Select one of the classes available (see ***Character Classes, OSE p22***). <!--
 ###### ***a) Note Level & Experience (XP)***
 New characters begin play at 1st level, with 0 Experience Points (XP). Note the XP required for the next level too.
 
+If this is not your first character, [[b) Gaining XP#Funerals|it's possible to start with more than 0 XP.]]
+
 ##### ***b) Roll Hit Points (HP)***
 Your class lists your Hit Dice.
 
