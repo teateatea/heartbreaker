@@ -53,7 +53,7 @@ You will need the **Class Level Progression** table for this step of Character c
 ##### ***a) Note Level & Experience Points (XP)***
 New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the XP required for the next Level too.
 
-If this is not your first Character, [[b) Gaining XP#Funerals|it's possible to begin play with more than 0 XP.]]
+[[b) Gaining XP#Funerals|If a Funeral was held for your previous Character, this Character may begin play with XP.]]
 
 ##### ***b) Roll Hit Points (HP)***
 <!-- Your Level Progression table lists your Hit Dice.-->
