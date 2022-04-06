@@ -15,13 +15,13 @@ You are a **Mystic**, your actions need no explanation.
 
 When you wish something to happen, roll below.
 
-| 4d6   | Invocation                              |
-| -----: | --------------------------------------- |
-| 18-24 | Success                                 |
-| 15-17 | **Situational or Minor Devotion**       |
-| 13-14 | **Major Pact**                          |
-| 7-12  | **Inopportune Favour**                  |
-| 4-6   | **Brilliant Manifestation of Divinity** |
+| | 4d6   | Invocation                              |
+|---| -----: | --------------------------------------- |
+|| 18-24 | Success                                 |
+|| 15-17 | **Situational or Minor Devotion**       |
+|| 13-14 | **Major Pact**                          |
+|| 7-12  | **Inopportune Favour**                  |
+|| 4-6   | **Brilliant Manifestation of Divinity** |
 
 **Invocations** begins the moment a result is accepted. **Favour** may be offered to reroll dice, but each reroll causes a one Round delay.<!-- The **Liturgies** of your faith are a contextual guide to the levels of power solicited during an Invocation.-->
 <!--**Favour** may be offered to reroll an Invocation:-->
@@ -36,7 +36,7 @@ If your Invocation has an ongoing effect, or you receive an Inopportune Favour, 
 If your Invocation has an ongoing effect, roll *Duration* to determine how long it lasts.
 
 | d12   | Duration                 |
-| ----- | ------------------------ |
+| -----: | ------------------------ |
 | 12    | d6 Days *(1-6 days)*       |
 | 10-11 | d6 Turns *(10-60 minutes)* |
 | 1-9   | d6 Rounds *(6-36 seconds)* |
