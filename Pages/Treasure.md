@@ -17,7 +17,7 @@ These coins standardized enough to ignore the minutiae for gameplay.
 - Gold Pieces (GP) are used mainly by royalty.
 
 |   Gold   | Silver | Copper |
-|:--------:|:------:|:------:|
+|:--------|:------|:------|
 | **1** | 10  | 50  |
 
 ##### Converting SP to other coins:
