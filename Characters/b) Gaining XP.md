@@ -9,7 +9,7 @@ creation_date: [2022-04-04]
 [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
 ___
 
-You gain Experience Points (XP) when you spend [[Treasure|money]].
+You gain Experience Points (XP) when you spend [[Money|money]].
 ___
 ## Spending
 *Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc.* 
