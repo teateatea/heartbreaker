@@ -16,7 +16,7 @@ You are a **Mystic**, your actions need no explanation.
 When you wish something to happen, roll below.
 
 | 4d6   | Invocation                              |
-| ----- | --------------------------------------- |
+| -----: | --------------------------------------- |
 | 18-24 | Success                                 |
 | 15-17 | **Situational or Minor Devotion**       |
 | 13-14 | **Major Pact**                          |
