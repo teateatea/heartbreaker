@@ -15,7 +15,7 @@ You are a **Mystic**, your actions need no explanation.
 
 When you wish something to happen, roll below.
 
-| | 4d6   | Invocation                              |
+| | 4d6 | Invocation                              |
 |---| -----: | --------------------------------------- |
 || 18-24 | Success                                 |
 || 15-17 | **Situational or Minor Devotion**       |
@@ -45,7 +45,7 @@ When an Invocation ends, you may offer a Favour point to roll *Duration* again a
 
 ___
 ##### *Situational or Minor Devotion*
-Your Invocation's success requires something immediately obvious that would please DunAstra, or roll *Minor Devotion*.
+Your Invocation's success requires something immediately obvious that would please Vymjir, or roll *Minor Devotion*.
 
 | d6  | Minor Devotion                           |
 | --- | ---------------------------------------- |
