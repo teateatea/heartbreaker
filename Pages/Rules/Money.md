@@ -45,4 +45,5 @@ Platinum (PP) and Electrum (EP) are reference coins, and are not in circulation.
 
 ___
 *See also:* [[b) Gaining XP|Gaining XP]], [[Martel Debt]], [[Downtime]].
+
 *References:* [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
