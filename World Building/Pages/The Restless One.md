@@ -13,7 +13,7 @@ ___
 #### Keeper of the [[Shadow Tome]]
 #### The Restless One
 #### He Who Defied Fate
-
+/vɪ'mir/
 ___
 #### Domains
 - [[Lost Knowledge|Lost]] / [[Forbidden Knowledge]]
@@ -64,7 +64,35 @@ Finally near the end of his life line he had done it. The cost of becoming a lic
 <!--(This area seems to be protected by magic and not many can read it), --> but by now… no one could say no to the legend that was **Vymjir**. No longer was he the lame commoner become scholar, now he was the most powerful being in the region. The heavy price that was paid was justified as many centuries followed with a prospering region under the guidance and protection of **Vymjir**.
 
 ___
-*Source: Entry by [[Mike Maxin]].*
+#### Tenets
+THERE ARE SEVEN FUNDAMENTAL TENETS
+
+**I**
+	One should strive to act with compassion and empathy toward all creatures in accordance with reason.
+
+**II**
+	The struggle for justice is an ongoing and necessary pursuit that should prevail over laws and institutions.
+
+**III**
+	One’s body is inviolable, subject to one’s own will alone. ***N.B. Removing this makes him  evil lol.***
+
+**IV**
+    The freedoms of others should be respected, including the freedom to offend. To willfully and unjustly encroach upon the freedoms of another is to forgo one's own.
+
+**V**
+    Beliefs should conform to one's best scientific understanding of the world. One should take care never to distort scientific facts to fit one's beliefs.
+
+**VI**
+    People are fallible. If one makes a mistake, one should do one's best to rectify it and resolve any harm that might have been caused.
+
+**VII**
+    Every tenet is a guiding principle designed to inspire nobility in action and thought. The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word.
+
+___
+*Source: Name, concept and Writings by [[Mike Maxin]].*
+
+*References:* [Seven Fundamental Tenets by the Satanic Temple](https://thesatanictemple.com/pages/about-us).
+
 
 <!--
 |     | ƨ̵̢̢̛̣̱͙̟̠̳̙͙̩̗̗̮̰̪̾̆̐̉͑͊̈́̋̈́̓̏̓̏͘̕͝͝ǝ̷̢̡̧̻̥̱̹̰̬̦̘͓̖̰̤͚͍͐̉̃̾͐̽͑̍̇̌͒̽͊̚͘͘͝b̴̧͚̟̘̖͖̝̦͈̩̣̙͍͈̗͈̋́͑̔͗̄̈́̈́̓͐̓̆́́̀́͝ ̵̨̢̗̜̜̻̲̳̭̼̣͙͎͎͎̟́̈̑̀̓͒̎̉̄͋͐̾̍̓̔̈́͝ḅ̴̡̧̛̪̱̬͕̹̟̟̖̥͚͔̤̭͂̋͂͊͛̀̇̐̇̈́͊͒̚̚͝͝ȍ̵̧̧̻̯̪͇̥̗̲̥͔̩̮̞̳̪̙̃̋͗̃͒̉̌̑̍́͊͋̑͜͝ ̸̨̨̛͕͇̪̥̖̭̲̝̹̳͈̞̖̟̺̄͛̌̃̓̏̂̏̓̏͛͂͌̈̏̑͠ǝ̵̢̛̥͓̱̗͕͚̥̟̱̮̪̖̳̲̐͛̄̾̆̍̃̔̈̓̄͐̊͘̚͜͜͝ͅi̸̡̧͖̳͖͈͈͕͇̗̗̲̠̠̟̟͎̬̅́̑͒̓̌̈̊͂̏̆̏͗̚͘͠͝ῠ̸̡̨̛͍͎̘̹̮̰̮̹̝͍̖͓̆͊̈́̈̀͛͆̐͛́͛̊͒̍̀̆͜ͅƨ̷̛̺͉͉͎̩̻̭̺̜͍̥͍͇̞̙͑̈̀̔̏̓̇͆͒̄̀͌̓̕̕͜͠ͅͅm̶̡̱̮̞̲͇̘͕͙̰̤̖̬̼̠͖̃͌̾̽͒̾̆̋̀̀̒̋͐̑̄̐̕͝ǫ̷̡̰͕͎͓͖͈̜̰̹̻̝̗̣̦͑̔͛̄͆͒̀̍́́̿̊́͂̀̂͜b̴̢̛̭͔̯̜͚̪̞̹̝̟̯̳͈͈̮̳͋̈́̑̔̌́̀̌̈́͊̓̀̕̕͠ ̴̡̨̛̹̹͖̳͉̺̹͎̬̞͉̩͈̭̗͙̄̌̍́̓́̀͋͗̒̉͌͊͗̚̕Ɉ̵̛̥͚̖̫̖͈̘͎̘͇͓̼̳͓̑̍̃̾̄͑̈̊̆͛̆͊͑̏̅̉͘͜ͅͅǝ̵̨̨̢̛͙̗̙̦̫̖͓̱̘̫̙̳͈̺͙̒̈́̎̄̄͋̏̀̅͋̓̔̌͘͠m̵̧̧̛̛̝͉͉̣̙̖̦̺̱͔̘̞̼͈̈́̂͒͑̏͛̇͊͂̀̑́̎̅͋͠ͅq̸̧̧̢̨͈͙̻̜̰̭͍̲̳͍̦̹͕́̃̋̒̒̅̄͒̂̾̅̂͆͘̚͠ò̶̧̡͎͔̙̙͎̼̖̟̘̫̖̭̩̍̎̊́̋̾͊̔͐̌͊̐͗̅͘͝ͅɿ̴̢̡̛̛̫̳̬͕̝͖̜̞͚̹̜͔͈̖͐̐̌͆̔̋̉͛̊̃̾̋͆̅̈́͜ͅ ̶̨̲͉̙͎̬̱͕̮̰̞̜̞͎̹̀̓̎͌̀͊͛͂͂͂̈̈̈͋̎̓͜ͅͅī̷̧̧̖͔͇̰̠͇̥̦̙̳̙̳̉́̆̒̾̊̐̐́̇̍͘̕̚͝͠ͅņ̶̨̨͙̬͔͈͙̺̞̺̠̱̟̙̟͗́̓̈́͌̏̀͌̈́̉͂͒̄̃͘̚͠ɔ̶̨̟̬͎̺̖̹͔̟͕̠͙̹͈͍̖̯̎̈̊̀̐̌̔̒͐̂́̂̀̍̈́́͆̚ͅi̸̱̻̭̤̳̪̪̪͖̞͚͕͍̫̠͖̯͋̔̿̊̓̈́̓̑͆͛͑̅̀͘͘̚͠ͅb̴̨̡̟̗̮̠̲̼̳͈̤͕̣͕͈̑́́̈̏͛̄̈́͋̽͛͆̆́̏̋͜i̷̧̡̛͎̙̱̟̫̗͚̥̖̥͈͚̖̼̫̽͂̽̐̔̌̃̀̂́̀̈́͠͝͠ͅb̷̡͎̖̗͓̟͍͍̮͖̖̭̘̥͍̻́͆̎͊͊͌̇͛̽̄̾͐͊̇͗̐͘͝ϋ̷̡̖̦̗̰̯̻̘̪̪͎̖͈̗̺̥̈́̾͂̍̀̈́̍͒̈́̽̾̄̈́̚͝n̶̛̛̦̱͕̥̻̻̩͈̖̜̞̰̗̝̭̲̪͍̓̓̈́̆̔̄͌̒̈́̍̾̂̕̚͘͝Ɉ̷̨̨̲̞̫̘͍̳̺̲̠̦̻̱̱̙̠͗͊̽̓̒̋͒̋͛̐̋̍̇̇̇̕͘ ̷̛̯̠̼̺̰͉̯̱̰̖͓͚͙̭̗̰͙̀̍͋̈́̐̈́̒̇̐̓̚͝͝͝υ̸̨̨͚̯̟̝̬̰̞͎̠͉̯͈̪̼̲̎̏̋̎͂́̂͌̅̐̊̌̕͜͝͠͝Ɉ̷̢̰̟̭̘̻̦̘̙̹͙͙̩̩̭̰͒̄̏̿́̀͋̄͑̈̌͌̇̉͘̚̕͘͜͜ ̶̨̢͚̪͍͍̫̟̰̣̣̬̮̮͉͕̅̋̓̌́̈͛̈́̓͂̆͆̇̾͑͘͘͜ļ̵̡̡̗̞̞̥̮͉̼̻̼̙̲͚͓͔͉̄̉͒̂̋͛̌̔̎̅͋͗̒̈́͂̈́́̚ɒ̷̧̧̠̖̙͓̪̟͙͉̪͚͖̄̋̊̓̓͌̿̀̽̿̈̋̔̆͘͜͜ͅd̸̢̢̯̳̤̖̤̠̗͎͚͕̭̭͎̈́̈́̿̌̋̄́̂́̒̅̎̓͛͗͆͜͝ͅő̵͚̲͇͔̖̯͖̗̪͕̪̬̯̭̜̙́̈́̓̾͌̍̄̋͂͐͊́̃́̂̓͠ͅͅɿ̶̛̛̻̭͚̰͖̪̭̯̱̝͉̬̯͉̰͓͑́̂͐͗́͛͒̈́̌̑̅͛̐͠͝ǝ̸̡̛̮̼̲̩̻̜͎̼̳̖͚̰̞̩̆́͊̏̑̈́̎̾̊̒̒̒͗͂̕͘͜ ̸̧̢̲͎̬̱͔̞̦̯̟͖̣̭̻̳͙̈́̐̈̓͑́̒̽͂͂̑̍̚̕͜͠͝͝ǝ̵̠͙̺̪̲̟̺̮̲̥̠̣͕̗̦̖͚̿̈́̿̏̂̐͒͆͛̈́͐͗͑͛̊̅̋̕Ɉ̵̰̬͔̜͓͓̼̼̝͉̳͍͉͙̬̰̞̍̂͆͒̄͛͂͒̍͌͌̊̋͆͘͠ ̴̡̛̛͉̘̝̟͓̫͔͕̜̱͇̃̓͋̒͐̃̽́̿̀̇̈́̒̈́̎͜͜͝ͅb̷͖̰̗̝̗͍̞̜͓͓̘̫̲̣̖͙͚͈̔̋̀̓̆̒̅̎̈́̀̓͆̏̋̚͘ờ̷̠̭̱̮̩̭͖̦͈̦̙̫̫̱̟̘͎͑̾͗̏̈́͊̊̃̋̄̓͛̀̀ͅl̸̡̡͓̯̘͓̣̥͕̙͕̩̤̣̯̹̈́͋̽͑͗̽͒̎̈́͂̑̿̌̽̓͘͠ͅǫ̸̨̡̨̥̼̹̥̗̫̥̙̝̪̦͙̻̋͂̃̄̑̄̆̅͆̓̔͌̚͠͝ͅɿ̸̢̧͕̬̟̮͓̳̹̙̜̩͕̝͉͔͎̓̋͐̇̽̈́͐͑͊̃̔̋̿̌͛̑̚͝ͅǝ̸͇̰̬͓̲͈̻̳̲̦̗̯͕̱͔̗͍̐̈́̂̂̿́̆̀͗̽̆̔͘͝͝͝ ̵̡̨̧̱̮̩̻̞̖̞͕̪̣̪̖̦͂̐͐̔̇͐̉̋̿̀̿̈́̀̈́͘̕̚̕͜m̶̨̡̥̬̥̫̻̯͓̭̖̰̲͚̝̝̾̉̐̓͋̔͋̍͒͌̒̍͒́̀̕͘͝ͅɒ̵̙͔̜̘͕̮̣̰̟̮̳͉̱͍͎͎͒̈̌̔̂̆̍́́͊̓͑̈́̕͘ϱ̴̡̧̧̢̛̲͕̤͍̭͉̫̰̫̼͚̰͍̓͆̔̋̍́̿̀͆͗̓̀̽̊̄͝n̸̡̢̛̛͎̮̥̟͎̭̦͔͙̘͇̹̟͑̂̒̿̐́̐̈́͋̉͂̇͌̍͝ͅɒ̴̧̡̩̟̮̠̙͈͖̞͙͙̬̣̜̹̈́̈̄͆̑͌̌̓̌̓̄͋̇͌͘͝ ̷̨̛̖̼̟̞̗͖̳̤̠̝̯̺͕̥̼͑̿̌̔̅̓̄́͐́̐̊̓̒̚ɒ̶̢̨̛͍͚͎̩̪̻̗̬̥̩̜̰̟̫͗̑͒̌̎̃͒̒͗̎̇͌̏̕͠ľ̵̨̧͕̻̗̻̹̼̞̞͙͓̠̲̹̥͛͐̇͂͛̽͐̆̀̈́̊̚͘̚̕͝͠ͅį̷̨̢̛̹̩̮̗͓̞̤͚̺͕̝̠͓͍̎̿͐͑̑̂͗͊́̋̅͊̐̚̚p̸̢̛̞̺̣̣̲͎̭͔̰͖̮̝͈͚̦͈̫̀̐̌̉͊͋́̎̌̓̃͆̈́̚̚ὺ̶̨̡̛̬͓͓̰̘̯͍̻̭͕̮̈́͒̑͌͂̐͛͛̎̍̒̈̚ͅͅɒ̷̡̛͖̜̤͎̘̺̘̹̥̥̭̤͓̣͒͒͐̑̈́́́͆͑̾͆̆͘̕͠ͅ.̸̢̨͎̭͈̦̤̻̲̬̟̤͕̠̳̑̓̆̓̋̍̈́̑̽̋̓̊̽̈́̎̚͜ͅ |     |
