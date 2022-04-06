@@ -14,7 +14,11 @@ creation_date: [2022-04-06]
 <!-- Mystic, Gish, Thief, Face/Bard -->
 
 [[Wizard]]
+<br>
 
+___
+## Rules
+[[Money]]
 <br>
 
 ___
