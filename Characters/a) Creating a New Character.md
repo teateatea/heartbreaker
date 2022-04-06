@@ -63,7 +63,7 @@ If you are beginning with more than 0 XP, roll all your Hit Dice for your Level,
 
 ##### ***c) Note Attack Bonus (AB)***
 <!-- Your Level Progression table lists your Attack Bonus. -->
-Note this bonus as your Attack Bonus, indicating your skill at hitting opponents in combat.
+Note this Bonus as your Attack Bonus, indicating your skill at hitting opponents in combat.
 
 [[Fighter#Attack Bonus|If you are a Fighter, you have a Deed Die instead of an Attack Bonus.]]
 
@@ -76,7 +76,7 @@ Record any special abilities gained as a result of your class. If you have a Spe
 ___
 # Your Tools For Survival
 ### 4. Mark Inventory Space
-On your Inventory sheet, draw a horizontal line below the box equal to each ability score. Each box is one Inventory Slot, and lets you carry one item, 100 coins, or bundles weighing around 10 pounds.
+On your Inventory sheet, draw a horizontal line below the box equal to each ability score. Each box is one Inventory Slot, and lets you carry one item, 500 coins, or bundles weighing around 10 pounds.
 <br>
 ### 5. Roll Debts
 Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 GP.*
