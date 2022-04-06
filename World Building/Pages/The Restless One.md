@@ -44,11 +44,11 @@ ___
 
 ___
 #### Writings
-Many told him it was a path of evil, many of those he travelled with barely trusted him and thought of him as deranged for taking up such dark powers. All he wanted was to find ways to cheat death, and he did not exclude undeath from his research.
+<!--Many told him it was a path of evil, many of those he travelled with barely trusted him and thought of him as deranged for taking up such dark powers. All he wanted was to find ways to cheat death, and he did not exclude undeath from his research.
 
 Tapping into the powers of death did dampen his formerly sunny demeanour but heightened his resolve to press further into his work; with every life force sapped, with every skeleton re-animated he could feel between his fingertips a clue, a hint, a way out of mortality.
 
-___
+___-->
 The tomes appear to be as old as time itself but they do tell a tale of a young Dramus Faecaryn, a half-elven man born a bright but lame commoner. He was of little help to his family and his life was difficult but what he lacked in physique he more than made up for in will. The tomes tell his endless and tireless efforts and studies to understand the world and uncover its secrets to answer the burning question of why he was made the way he is.
 
 He hoped to make sense of the flow of fate, to seize control and begin to guide his own story. Unfortunately it became too apparent that a single lifespan was not enough. He needed more time, power, and influence. It was time to consider the path that not many take, immortality was the only answer to solve the oldest of the universe... fate itself.
