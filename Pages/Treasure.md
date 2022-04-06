@@ -16,13 +16,13 @@ These coins standardized enough to ignore the minutiae for gameplay.
 - Silver Pieces (SP) are used by upper class urbanites. 
 - Gold Pieces (GP) are used mainly by royalty.
 
-|   Gold   | Silver | Copper |
-|:--------|:------|:------|
-| **1** | 10  | 50  |
+| Gold  | Silver | Copper |
+|:----- |:------ |:------ |
+| **1** | 10     | 50     |
 
 ##### Converting SP to other coins:
-|   Gold    |         Silver         |   Copper   |
-|:---------:|:----------------------:|:----------:|
+| Gold      | Silver                 | Copper     |
+|:--------- |:---------------------- |:---------- |
 | $\div 10$ | **(** $\times 1$ **)** | $\times 5$ |
 
 ___
@@ -30,12 +30,12 @@ ___
 Platinum (PP) and Electrum (EP) are reference coins, and are not in circulation. They might exist ceremonially, but they are mainly used by banks, for tracking accounts on paper.
 
 | Platinum | Electrum | Gold | Silver | Copper |
-|:--------:|:--------:|:----:|:------:|:------:|
-|    1    |    5    |  50  |  500  | 25,000 |
+|:-------- |:-------- |:---- |:------ |:------ |
+| 1        | 5        | 50   | 500    | 25,000 |
 
 ##### Convert Silver Pieces (SP) to other coins:
-| Platinum  | Electrum  |          Gold          |   Silver    |   Copper    |
-|:---------:|:---------:|:----------------------:|:-----------:|:-----------:|
+| Platinum   | Electrum   | Gold      | Silver                 | Copper      |
+|:---------- |:---------- |:--------- |:---------------------- |:----------- |
 | $\div 500$ | $\div 100$ | $\div 10$ | **(** $\times 1$ **)** | $\times 50$ |
 
 ***Examples***
