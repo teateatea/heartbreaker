@@ -1,5 +1,5 @@
 ---
-aliases: [Treasure]
+aliases: [Treasure, treasure, Gold, Silver, Copper, GP, SP, CP, Money, Economy]
 tags: []
 author: [Joseph Liao Gormley]
 date: [2022-04-06]
