@@ -45,4 +45,4 @@ Platinum (PP) and Electrum (EP) are reference coins, and are not in circulation.
 *100 SP* $\times 5$ = *500 CP*
 
 ___
-*See also:* [*On Money* ](https://deltasdnd.blogspot.com/2010/03/on-money.html)[*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html)[by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
+*References:* [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
