@@ -7,7 +7,7 @@ template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-06]
 ---
 ## Characters
-[[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Resources]]
+[[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Downloads]]
 
 ## Classes
 [[Fighter|Fighters]] ([[Fighter Disciplines|Disciplines]])
