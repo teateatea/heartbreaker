@@ -10,10 +10,12 @@ creation_date: [2022-04-06]
 [[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Resources]]
 
 ## Classes
-[[Fighter]] [[Fighter Disciplines|(Disciplines)]]
+[[Fighter|Fighters]] ([[Fighter Disciplines|Disciplines]])
 <!-- Mystic, Gish, Thief, Face/Bard -->
 
-[[Wizard]]
+[[Magic-User|Magic-Users]] ([[Wizard|Wizards]])
+
+Clerics ([[Mystic of Vymjir|Mystics]])
 <br>
 
 ___

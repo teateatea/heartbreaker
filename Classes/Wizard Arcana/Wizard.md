@@ -1,12 +1,12 @@
 ---
-aliases: [Wizard Kettle]
+aliases: [Wizards]
 tags: [Kettle]
 author: [Joseph Liao Gormley]
 date: [2022-04-01]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-04-01]
 ---
-[[Wizard]] | [[Prepared Magic]] | [[Dangerous Magic]]
+[[Magic-User]] | [[Wizard]] | [[Prepared Magic]] | [[Dangerous Magic]]
 ___
 *Wizards study the [[Principia Arcana]], the most advanced paradigm taught by the Torian [[Phandalin Schola Legio Arcana (PSLA)|Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.*
 ___
