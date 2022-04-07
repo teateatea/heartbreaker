@@ -10,6 +10,8 @@ creation_date: [2022-04-04]
 *See also:* [[Caspian Mystics]], [[The Restless One]]
 ___
 # VYMJIR-->
+[[home|Home]] | [[Cleric]] | *It's pronounced* /vɪ'mir/.
+___
 # INVOCATIONS
 You are a **Mystic**, your actions need no explanation.
 
