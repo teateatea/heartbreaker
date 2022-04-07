@@ -31,8 +31,9 @@ When you wish something to happen, roll below.
 
 <!--***Each reroll*** adds one Round to the time needed to invoke your wishes. Invocations begin this Round if no rerolls are made.
 
-#### Duration
+####  Duration
 If your Invocation has an ongoing effect, or you receive an Inopportune Favour, roll below to determine how long it lasts. When the time ends, you can offer another Favour point to roll Duration again and prolong the effect.-->
+#### Duration
 If your Invocation has an ongoing effect, roll *Duration* to determine how long it lasts.
 
 | d12   | Duration                 |
@@ -88,10 +89,11 @@ Gain **Favour** with the Restless One by studying his tenets, and choosing your 
 ***15 Points of Favour***
 - Return lost knowledge to a library.
 - Move the soul of a willing disciple to a Vessel.
+- *one more would be good.*
 
-· Conduct a live experiment
+<!-- · Conduct a live experiment
 · Create an intelligent undead.
-· 
+· -->
 
 ___
 ## LITURGIES <!-- Set Liturgy categories -->
@@ -101,34 +103,29 @@ The **Liturgies** of your faith are a guide to the levels of power solicited dur
 number of Favour points equal to double the levels you are missing to attempt to invoke it. Favour offered this way doesn't grant re-rolls.-->
 
 #### The First Liturgy
-*Mystic Level 1*
-In the order of a manifestation of pen and paper, learning the location of books known to mortal librarians, and beseeching curious minds to aid in research.
+*Mystic Level 1*<br>In the order of the manifestation of pen and paper, learning the location of books known to mortal librarians, and beseeching curious minds to aid in research.
 
 #### The Second Liturgy
-*Mystic Level 4*
-In the order of the perception of secrets, speaking with the recently deceased, and invoking minor aspects of **Vymjir, God of Fate & Forbidden Knowledge**.
+*Mystic Level 4*<br>In the order of the perception of secrets, speaking with the recently deceased, and invoking minor aspects of **Vymjir, God of Fate & Forbidden Knowledge**.
 
 #### The Third Liturgy
-*Mystic Level 7*
-In the order of the manifestation of skeletons, the bestowal of a major aspects of the Restless One, and the application of blessings or curses.
+*Mystic Level 7*<br>In the order of the manifestation of mundane skeletons and corpses, the bestowal of major aspects of the **Restless One**, and the application of blessings or curses.
 
 #### The Fourth Liturgy
-*Mystic Level 10*
-In the order of protection from physical harm, manipulating the souls of others, and raising a number of corpses up to Favour spent + your Level.
+*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and Raising a number of corpses up to Favour spent + your Level.
 
 #### The Fifth Liturgy
-*Mystic Level 13*
-In the order of rendering the body ageless, or choosing the result when rolling on a random table.
+*Mystic Level 13*<br>In the order of rendering the body ageless, or choosing any result when rolling on a random table.
+<br><br>
 
-
-To solicit a Liturgy beyond your level, offer Favour equal to *double* the levels you are missing. Favour offered this way does not grant rerolls.
+To solicit a Liturgy beyond your Level, offer Favour equal to *double* the Levels you are missing. Favour offered this way does not grant rerolls.
 
 ___
 ## ABILITIES
 ##### Oversight
-*Denomination Bonus*<br>When rolling on a random table, you may choose to reroll after seeing the result. You retain this effect indefinitely.
+*Denomination Bonus*<br>Once per day, you may reroll any one die after seeing the result. You retain this effect indefinitely.<!--When rolling on a random table, you may choose to reroll after seeing the result. You retain this effect indefinitely. -->
 
-You lose Oversight if you willfully and unjustly encroach upon the freedoms of another. Regain Easygoing by performing or observing a sermon.
+You lose *Oversight* if you willfully and unjustly encroach upon the freedoms of another. Regain *Oversight* by performing or observing a sermon.
 
 ##### *Create Vessel*
 You may impart a fragment of your soul to a corpse under your control. Give them any number of your HD, then reroll HP for both yourself and your Vessel.
