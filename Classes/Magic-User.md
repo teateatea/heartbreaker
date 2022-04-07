@@ -23,6 +23,17 @@ ___
 ### Combat
 Magic-Users can only wield Daggers, and are unable to cast Spells while using Shields or wearing any kind of Armour. This makes them very vulnerable in combat.
 
+### Paradigms
+Arcane Paradigms describe the various methods to learn magic, and are generally divided by country or ancestry. At first level, Magic-Users may choose the Paradigm associated with either their Culture, or their Ancestry.
+
+Magic-Users are able to study other Paradigms, but this is treated as [[d) Multiclassing|Multiclassing]] and progresses more slowly. However, Magic-Users can generally learn Spells based in other Paradigms without issue, so that's usually unnecessary.
+
+| Origin     | Paradigm   |
+| ---------- | ---------- |
+| **Tor**    | [[Wizard]] |
+| **Maroi**  | [[Maroian Magicians\|Magician]] |
+| **Caspia** | [[Caspian Maestros\|Maestro]] |
+| **Mur**    |   [[Seiðkona - Murian Mages\|Seiðkona]] \| [[Noita - Mura Mage\|Noita]]         |
 <br><br><br>
 ___
 ### Magic-User Level Progression, continued
