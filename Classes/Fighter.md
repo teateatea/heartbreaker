@@ -68,8 +68,8 @@ ___
 
 \* Modifiers from CON no longer apply.
 
+<br><br><br>
 ___
-
 *References:*
 - *Fighter Class* based on the [***Fighter*** from **Old-School Essentials (OSE)_**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter).
 - *Mighty Deeds* based on the [***Warrior*** from **Dungeon Crawl Classics (DCC)**](https://goodman-games.com/dungeon-crawl-classics-rpg/).
