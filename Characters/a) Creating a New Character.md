@@ -17,9 +17,9 @@ Some or all of these pages can be found on the [[Downloads]] page. Let me know i
 ___
 # The Cards You Were Dealt
 ### 1. Roll Background & Appearance
-Choose or roll a **d20** on each of the ***Background & Appearance*** tables.
+Choose or roll a **d20** on each of the ***Background & Appearance*** tables. <!-- #Revisit -->
 
-*(Use the top-right box of the Character sheet for this.)*<!-- #Revisit -->
+*(Use the top-right box of the Character sheet for this.)*
 <br>
 ### 2. Roll Ability Scores
 Roll **3d6** for each of your Character’s Ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
@@ -48,7 +48,7 @@ ___
 ### 3. Choose a Class
 Your Character's Class describes their role in the adventuring party. Select one of the available [[home#Classes|Classes]].
 
-You will need the **Class Level Progression** table for this step of Character creation.<!-- #Revisit -->
+You will need the **Class Level Progression** table for this step of Character creation.
 
 ##### ***a) Note Level & Experience Points (XP)***
 New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the XP required for the next Level too.
