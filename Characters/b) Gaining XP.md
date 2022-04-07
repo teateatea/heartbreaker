@@ -17,7 +17,6 @@ You gain Experience Points (XP) when you spend [[Money|money]]. The size of the 
 | Town       | 10,000 SP      |
 | Village    | 1,000 SP       |
 
-___
 ## Spending
 *Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc.* *As a general rule, if the Character would gain specific benefits, that's spending.*
 
