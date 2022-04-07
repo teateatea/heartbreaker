@@ -41,7 +41,7 @@ Combat instincts cannot be used for or against spells, nor can it be used if the
 Fighters choose a Discipline at 1st level, and gain relevant aspects and abilities based on that training. When the Fighter gains a Level, they progress to the next step of their Discipline: First **A**, then **B**, then **C**, and finally **D**.
 
 Fighters may study multiple Disciplines, but only progress in one Discipline per Level, and cannot skip steps in any Discipline.
-
+<br><br><br>
 ___
 
 ### Fighter Level Progression, continued
