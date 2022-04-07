@@ -123,7 +123,7 @@ To solicit a Liturgy beyond your Level, offer Favour equal to *double* the Level
 ___
 ## ABILITIES
 ##### Oversight
-*Denomination Bonus*<br>Once per day, you may reroll any one die after seeing the result. You retain this effect indefinitely.<!--When rolling on a random table, you may choose to reroll after seeing the result. You retain this effect indefinitely. -->
+*Denomination Bonus*<br>You are only loosely bound by fate. Once per day, you may reroll any one die after seeing the result. You retain this effect indefinitely.<!--When rolling on a random table, you may choose to reroll after seeing the result. You retain this effect indefinitely. -->
 
 You lose *Oversight* if you willfully and unjustly encroach upon the freedoms of another. Regain *Oversight* by performing or observing a sermon.
 
@@ -133,7 +133,7 @@ You may impart a fragment of your soul to a corpse under your control. Give them
 Vessels have basic survival instincts, and can move and attack in combat. More complicated actions require direct commands. Vessels automatically fail Death Saves.
 
 ##### *Deny Fate*
-You have forsaken Death. When you are reduced to 0 HP, do not roll Death Saves. Instead, your soul transfers into any standing Vessel. If no Vessels can be transferred to, you die.
+You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, your soul transfers into any standing Vessel. If no Vessels can be transferred to, you die.
 
 You may also attempt to heal wounds, sickness, and curses at any time. Roll *Benevolence*, using Favour in the same manner as Invocations.
 
