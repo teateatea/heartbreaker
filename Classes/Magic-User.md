@@ -49,7 +49,7 @@ ___
 ___
 *See also:* [[Classes MOC]]
 
-*References:* Based on the [***Magic-User*** from **Old-School Essentials**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User).
+*References:* *Magic-User Class* based on the [***Magic-User*** from **Old-School Essentials**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User).
 <!-- Sources, read more, links, etc. -->
 <!-- *Source: Entry by [[Mike Maxin]].* -->
 <!-- *References:* -->
