@@ -68,7 +68,7 @@ You are honoured with a manifestation of Vymjir's blessing, though the timing co
 Gain d4 points of Favour.
 
 ##### *Brilliant Manifestation of Divinity*
-Your body shreds in the birthing of a terrible avatar of **Vymjir, God of Fate & Forbidden Knowledge**.<!-- If this is a Restore/Purge roll, the target erupts instead.--> Roll *Duration* for the avatar's lifespan, then roll up a new character.
+Your body shreds in the birthing of a terrible avatar of **Vymjir, God of Fate & Forbidden Knowledge**.<!-- If this is a Restore/Purge roll, the target erupts instead.--> Roll *Duration* for the avatar's lifespan, then roll up a new Character.
 
 
 ___
@@ -135,7 +135,7 @@ You may impart a fragment of your soul to a corpse under your control. Give them
 Vessels have basic survival instincts, and can move and attack in combat. More complicated actions require direct commands. Vessels automatically fail Death Saves.
 
 ### *Deny Fate*
-You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, your soul transfers into any standing Vessel. If no Vessels can be transferred to, you die.
+You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, choose any standing Vessel. That Vessel gains all of your HD as your soul transfers into it. If you don't have any Vessels or no Vessels can be transferred to, roll up a new Character.
 
 You may also attempt to heal wounds, sickness, and curses at any time. Roll *Benevolence*, using Favour in the same manner as Invocations.
 
@@ -160,7 +160,7 @@ Vymjir's influence manifests as a mutation or phantasm attached to the subject. 
 Oh, gosh, this isn't quite what you meant to happen. Take a look at the DM, they're rolling on a table now. This isn't good.
 
 ##### *Brilliant Manifestation of Divinity*
-The target of your healing erupts in the birthing of a terrible avatar of **Vymjir, God of Fate & Forbidden Knowledge**. Roll *Duration* for the avatar's lifespan, then have the appropriate player roll up a new character.
+The target of your healing erupts in the birthing of a terrible avatar of **Vymjir, God of Fate & Forbidden Knowledge**. Roll *Duration* for the avatar's lifespan, then have the appropriate Player roll up a new Character.
 
 <br><br><br>
 
