@@ -6,7 +6,7 @@ date: [2022-04-01]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-04-01]
 ---
-[[Wizard]] | [[Prepared Magic]] | [[Dangerous Magic]]
+[[home|Home]] | [[Magic-User]] | [[Wizard]] | [[Prepared Magic]] | [[Dangerous Magic]]
 ___
 ## Death during Casting
 If a Wizard dies while Casting a Spell *(regardless of the cause of death)*, immediately roll Spell Catastrophe.
