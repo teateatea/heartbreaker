@@ -112,7 +112,7 @@ number of Favour points equal to double the levels you are missing to attempt to
 *Mystic Level 7*<br>In the order of the manifestation of mundane skeletons and corpses, the bestowal of major aspects of the **Restless One**, and the application of blessings or curses.
 
 ### The Fourth Liturgy
-*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and raising up to $L$+$F$ corpses as soul-less minions.*
+*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and raising up to $L$ + $F$ corpses as soul-less minions.*
 
 \**$L$ equals your Level, and $F$ equals the Favour offered for this invocation.*
 
