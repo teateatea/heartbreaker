@@ -13,11 +13,12 @@ ___
 **Prime requisite:** STR<br>**Hit Dice:** 1d8<br>**Armour:** Any, including shields<br>**Weapons:** Any<br>**Languages:** Common
 ___
 ### Fighter Level Progression
-| Level |  XP   | HD  | Deed |     |  D  |  W  |  P  |  B  |  S  |
-|:-----:|:-----:|:---:|:----:| --- |:---:|:---:|:---:|:---:|:---:|
-|   1   |   0   | 1d8 |  d3  |     | 12  | 13  | 14  | 15  | 16  |
-|   2   | 2,000 | 2d8 |  d4  |     | 12  | 13  | 14  | 15  | 16  |
-|   3   | 4,000 | 3d8 |  d5  |     | 12  | 13  | 14  | 15  | 16  |
+| Level |   XP   | HD  | Deed |     |  D  |  W  |  P  |  B  |  S  |
+|:-----:|:------:|:---:|:----:| --- |:---:|:---:|:---:|:---:|:---:|
+|   1   |   0    | 1d8 |  d3  |     | 12  | 13  | 14  | 15  | 16  |
+|   2   | 2,000  | 2d8 |  d4  |     | 12  | 13  | 14  | 15  | 16  |
+|   3   | 4,000  | 3d8 |  d5  |     | 12  | 13  | 14  | 15  | 16  |
+
 
 ### Attack Bonus
 Unlike other Classes, Fighters do not have a fixed Attack Bonus at each Level. Instead, their Attack Bonus comes from their **Deed Die**.
@@ -40,3 +41,29 @@ Combat instincts cannot be used for or against spells, nor can it be used if the
 Fighters choose a Discipline at 1st level, and gain relevant aspects and abilities based on that training. When the Fighter gains a Level, they progress to the next step of their Discipline: First **A**, then **B**, then **C**, and finally **D**.
 
 Fighters may study multiple Disciplines, but only progress in one Discipline per Level, and cannot skip steps in any Discipline.
+
+___
+
+### Fighter Level Progression, continued
+| Level |   XP    |   HD    |  Deed  |     |  D  |  W  |  P  |  B  |  S  |
+|:-----:|:-------:|:-------:|:------:| --- |:---:|:---:|:---:|:---:|:---:|
+|   1   |   0    | 1d8 |  d3  |     | 12  | 13  | 14  | 15  | 16  |
+|   2   | 2,000  | 2d8 |  d4  |     | 12  | 13  | 14  | 15  | 16  |
+|   3   | 4,000  | 3d8 |  d5  |     | 12  | 13  | 14  | 15  | 16  |
+|       |         |         |        |     |     |     |     |     |     |
+|   4   |  8,000  |   4d8   |   d6   |     | 10  | 11  | 12  | 13  | 14  |
+|   5   | 16,000  |   5d8   |   d7   |     | 10  | 11  | 12  | 13  | 14  |
+|   6   | 32,000  |   6d8   |   d8   |     | 10  | 11  | 12  | 13  | 14  |
+|       |         |         |        |     |     |     |     |     |     |
+|   7   | 64,000  |   7d8   |   d9   |     |  8  |  9  | 10  | 10  | 12  |
+|   8   | 120,000 |   8d8   |  d10   |     |  8  |  9  | 10  | 10  | 12  |
+|   9   | 240,000 |   9d9   |  d12   |     |  8  |  9  | 10  | 10  | 12  |
+|       |         |         |        |     |     |     |     |     |     |
+|  10   | 360,000 | 9d8+2*  | d12+2  |     |  6  |  7  |  8  |  8  | 10  |
+|  11   | 480,000 | 9d8+4*  | d12+4  |     |  6  |  7  |  8  |  8  | 10  |
+|  12   | 600,000 | 9d8+6*  | d12+6  |     |  6  |  7  |  8  |  8  | 10  |
+|       |         |         |        |     |     |     |     |     |     |
+|  13   | 720,000 | 9d8+8*  | d12+8  |     |  4  |  5  |  6  |  5  |  8  |
+|  14   | 840,000 | 9d8+10* | d12+10 |     |  4  |  5  |  6  |  5  |  8  |
+
+\* Modifiers from CON no longer apply.
