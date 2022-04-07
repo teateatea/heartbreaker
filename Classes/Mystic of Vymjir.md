@@ -6,11 +6,11 @@ date: [2022-04-04]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-04]
 ---
-# Mystic of Vymjir
+<!--# Mystic of Vymjir
 *See also:* [[Caspian Mystics]], [[The Restless One]]
 ___
-# VYMJIR
-## INVOCATIONS
+# VYMJIR-->
+# INVOCATIONS
 You are a **Mystic**, your actions need no explanation.
 
 When you wish something to happen, roll below.
@@ -33,7 +33,7 @@ When you wish something to happen, roll below.
 
 ####  Duration
 If your Invocation has an ongoing effect, or you receive an Inopportune Favour, roll below to determine how long it lasts. When the time ends, you can offer another Favour point to roll Duration again and prolong the effect.-->
-#### Duration
+##### Duration
 If your Invocation has an ongoing effect, roll *Duration* to determine how long it lasts.
 
 | d12   | Duration                 |
@@ -72,7 +72,7 @@ Your body shreds in the birthing of a terrible avatar of **Vymjir, God of Fate &
 
 
 ___
-## FAVOUR
+# FAVOUR
 Gain **Favour** with the Restless One by studying his tenets, and choosing your own destiny. To illustrate:
 
 ***1 Point of Favour***
@@ -96,43 +96,43 @@ Gain **Favour** with the Restless One by studying his tenets, and choosing your 
 · -->
 
 ___
-## LITURGIES <!-- Set Liturgy categories -->
+# LITURGIES <!-- Set Liturgy categories -->
 The **Liturgies** of your faith are a guide to the levels of power solicited during an Invocation.
 
 <!--If your level is lower than the requirement for a given Liturgy, you must offer a 
 number of Favour points equal to double the levels you are missing to attempt to invoke it. Favour offered this way doesn't grant re-rolls.-->
 
-#### The First Liturgy
+### The First Liturgy
 *Mystic Level 1*<br>In the order of the manifestation of pen and paper, learning the location of books known to mortal librarians, and beseeching curious minds to aid in research.
 
-#### The Second Liturgy
+### The Second Liturgy
 *Mystic Level 4*<br>In the order of the perception of secrets, speaking with the recently deceased, and invoking minor aspects of **Vymjir, God of Fate & Forbidden Knowledge**.
 
-#### The Third Liturgy
+### The Third Liturgy
 *Mystic Level 7*<br>In the order of the manifestation of mundane skeletons and corpses, the bestowal of major aspects of the **Restless One**, and the application of blessings or curses.
 
-#### The Fourth Liturgy
+### The Fourth Liturgy
 *Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and Raising a number of corpses up to Favour spent + your Level.
 
-#### The Fifth Liturgy
+### The Fifth Liturgy
 *Mystic Level 13*<br>In the order of rendering the body ageless, or choosing any result when rolling on a random table.
 <br><br>
 
 To solicit a Liturgy beyond your Level, offer Favour equal to *double* the Levels you are missing. Favour offered this way does not grant rerolls.
 
 ___
-## ABILITIES
-##### Oversight
+# ABILITIES
+### Oversight
 *Denomination Bonus*<br>You are only loosely bound by fate. Once per day, you may reroll any one die after seeing the result. You retain this effect indefinitely.<!--When rolling on a random table, you may choose to reroll after seeing the result. You retain this effect indefinitely. -->
 
 You lose *Oversight* if you willfully and unjustly encroach upon the freedoms of another. Regain *Oversight* by performing or observing a sermon.
 
-##### *Create Vessel*
+### *Create Vessel*
 You may impart a fragment of your soul to a corpse under your control. Give them any number of your HD, then reroll HP for both yourself and your Vessel.
 
 Vessels have basic survival instincts, and can move and attack in combat. More complicated actions require direct commands. Vessels automatically fail Death Saves.
 
-##### *Deny Fate*
+### *Deny Fate*
 You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, your soul transfers into any standing Vessel. If no Vessels can be transferred to, you die.
 
 You may also attempt to heal wounds, sickness, and curses at any time. Roll *Benevolence*, using Favour in the same manner as Invocations.
@@ -160,8 +160,8 @@ Oh, gosh, this isn't quite what you meant to happen. Take a look at the DM, they
 ##### *Brilliant Manifestation of Divinity*
 The target of your healing erupts in the birthing of a terrible avatar of **Vymjir, God of Fate & Forbidden Knowledge**. Roll *Duration* for the avatar's lifespan, then have the appropriate player roll up a new character.
 
-
+<br><br><br>
 
 ___
-Mystic of Vymjir Book v1-1 (2022-04-06) by tea, for ***Kettle Heartbreaker RPG***. Shared under a **[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Mystic and Cleric class content adapted or copied from [***"Religion is a Nest of Serpents"*** by **Logan Knight (2014) - The Last Gasp Grimoire**](https://www.lastgaspgrimoire.com/religion-is-a-nest-of-serpents/) ([**CC BY-NC-SA 3.0**](https://creativecommons.org/licenses/by-nc-sa/3.0/)), and [***"Cleric Rework - Miracles, Holy War, and You"*** by **James Young (2019) - Ten Foot Polemic**.](https://tenfootpolemic.blogspot.com/2019/04/cleric-rework-miracles-holy-war-and-you.html)
+*"Mystic of Vymjir Book v1-1 (2022-04-06)* by tea, for ***Kettle Heartbreaker RPG***. Shared under a **[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Mystic and Cleric class content adapted or copied from [***"Religion is a Nest of Serpents"*** by **Logan Knight (2014) - The Last Gasp Grimoire**](https://www.lastgaspgrimoire.com/religion-is-a-nest-of-serpents/) ([**CC BY-NC-SA 3.0**](https://creativecommons.org/licenses/by-nc-sa/3.0/)), and [***"Cleric Rework - Miracles, Holy War, and You"*** by **James Young (2019) - Ten Foot Polemic**.](https://tenfootpolemic.blogspot.com/2019/04/cleric-rework-miracles-holy-war-and-you.html)
 
