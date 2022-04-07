@@ -33,7 +33,7 @@ Magic-Users are able to study other Paradigms, but this is treated as [[d) Multi
 | **Tor**    | [[Wizard]] |
 | **Maroi**  | [[Maroian Magicians\|Magician]] |
 | **Caspia** | [[Caspian Maestros\|Maestro]] |
-| **Mur**    |   [[Seiðkona - Murian Mages\|Seiðkona]] \| [[Noita - Mura Mage\|Noita]]         |
+| **Mur**    |   [[Seiðkona - Murian Mages\|Seiðkona]] / [[Noita - Mura Mage\|Noita]]         |
 <br><br><br>
 ___
 ### Magic-User Level Progression, continued
