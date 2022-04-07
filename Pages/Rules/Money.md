@@ -32,7 +32,7 @@ Platinum (PP) and Electrum (EP) are *moneys-of-account*, and are not in circulat
 |:-------- |:-------- |:---- |:------ |:------ |
 | 1        | 5        | 50   | 500    | 25,000 |
 
-**Converting Silver Pieces (SP) to other coins**
+##### **Converting Silver to Other Coins**
 
 | Platinum   | Electrum   | Gold      | Silver                 | Copper      |
 |:---------- |:---------- |:--------- |:---------------------- |:----------- |
