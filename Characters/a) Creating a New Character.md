@@ -6,7 +6,7 @@ date: [2022-04-04]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-04]
 ---
-[[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
+[[home|Home]] | [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
 ___
 To create a new Character, you need a **Character sheet** to record info about your character, and an **Inventory sheet** to record your equipment. You also need a **pencil** to note things down if you're not playing digitally, and a set of **dice** *(**d20**, d12, d10, d8, **3d6**, d4)* to get started.
 
@@ -79,7 +79,7 @@ ___
 On your Inventory sheet, draw a horizontal line below the box equal to each ability score. Each box is one Inventory Slot, and lets you carry one item, 500 coins, or bundles weighing around 10 pounds.
 <br>
 ### 5. Roll Debts
-Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 GP.*
+Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 [[Money|Silver Pieces (SP)]].*
 <br>
 ### 6. Buy Equipment
 You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***.<!-- #Revisit --> The cost of each item is added to your debt to the Martel Company.

@@ -6,7 +6,7 @@ date: [2022-04-06]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-06]
 ---
-[[home|Home]] | [[b) Gaining XP|Gaining XP]]
+[[home|Home]] | [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]]
 ___
 *Nations all over the world regularly mint new coins, and currencies are constantly being created, evaluated, converted, or abandoned.*
 
