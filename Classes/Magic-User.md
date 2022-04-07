@@ -9,7 +9,7 @@ creation_date: [2022-04-06]
 <!-- Home | Character Creation | -->
 [[home|Home]] | [[Magic-User]] | [[Wizard]]
 ___
-*Magic-Users flavour text.*
+*Magic-users are adventurers whose study of arcane secrets has taught them how to cast spells. Magic-users are able to cast a greater number of increasingly powerful spells as they advance in level.*
 ___
 **Prime requisite:** WIS<br>**Hit Dice:** 1d4<br>**Armour:** None<br>**Weapons:** Dagger<br>**Languages:** Common
 ___
@@ -23,7 +23,7 @@ ___
 ### Combat
 Magic-Users can only wield Daggers, and are unable to cast Spells while using Shields or wearing any kind of Armour. This makes them very vulnerable in combat.
 
-
+<br><br><br>
 ___
 ### Magic-User Level Progression, continued
 
@@ -49,6 +49,7 @@ ___
 ___
 *See also:* [[Classes MOC]]
 
+*References:* Based on the [**Magic-User** from **Old-School Essentials**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User).
 <!-- Sources, read more, links, etc. -->
 <!-- *Source: Entry by [[Mike Maxin]].* -->
 <!-- *References:* -->
