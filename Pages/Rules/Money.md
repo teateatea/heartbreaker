@@ -24,6 +24,11 @@ For the sake of gameplay, money is standardized and we ignore the minutiae.
 |:----- |:------ |:------ |
 | **1** | 10     | 50     |
 
+| Gold  |     | Silver |     | Copper |
+|:----- | --- |:------ | --- |:------ |
+| **1** | =   | 10     | =   | 50     |
+
+
 ___
 ##### Banking
 Platinum (PP) and Electrum (EP) are *moneys-of-account*, and are not in circulation. They might exist ceremonially, but are mainly used by banks, for record-keeping and ledgers only.
