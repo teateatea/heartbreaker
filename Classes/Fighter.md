@@ -67,3 +67,10 @@ ___
 |  14   | 840,000 | 9d8+10* | d12+10 |     |  4  |  5  |  6  |  5  |  8  |
 
 \* Modifiers from CON no longer apply.
+
+___
+
+*References:*
+- Based on the [***Fighter*** from **Old-School Essentials (OSE)_**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter).
+- *Mighty Deeds* based on the [***Warrior*** from **Dungeon Crawl Classics (DCC)**](https://goodman-games.com/dungeon-crawl-classics-rpg/).
+- *Disciplines* based on [Class templates from **Goblin Laws of Gaming (GLOG) - Many Rats on Sticks Edition**](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html).
