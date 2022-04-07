@@ -163,5 +163,7 @@ The target of your healing erupts in the birthing of a terrible avatar of **Vymj
 <br><br><br>
 
 ___
-*"Mystic of Vymjir Book v1-1 (2022-04-06)* by tea, for ***Kettle Heartbreaker RPG***. Shared under a **[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Mystic and Cleric class content adapted or copied from [***"Religion is a Nest of Serpents"*** by **Logan Knight (2014) - The Last Gasp Grimoire**](https://www.lastgaspgrimoire.com/religion-is-a-nest-of-serpents/) ([**CC BY-NC-SA 3.0**](https://creativecommons.org/licenses/by-nc-sa/3.0/)), and [***"Cleric Rework - Miracles, Holy War, and You"*** by **James Young (2019) - Ten Foot Polemic**.](https://tenfootpolemic.blogspot.com/2019/04/cleric-rework-miracles-holy-war-and-you.html)
+*See also:* [[Caspian Mystics]], [[The Restless One]].
+
+*"Mystic of Vymjir Book v1-1 (2022-04-06)*" by tea, for ***Kettle Heartbreaker RPG***. Shared under a **[CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. Mystic and Cleric class content adapted or copied from [***"Religion is a Nest of Serpents"*** by **Logan Knight (2014) - The Last Gasp Grimoire**](https://www.lastgaspgrimoire.com/religion-is-a-nest-of-serpents/) ([**CC BY-NC-SA 3.0**](https://creativecommons.org/licenses/by-nc-sa/3.0/)), and [***"Cleric Rework - Miracles, Holy War, and You"*** by **James Young (2019) - Ten Foot Polemic**.](https://tenfootpolemic.blogspot.com/2019/04/cleric-rework-miracles-holy-war-and-you.html)
 
