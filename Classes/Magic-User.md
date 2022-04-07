@@ -26,12 +26,12 @@ Magic-Users can only wield Daggers, and are unable to cast Spells while using Sh
 ### Paradigms
 Arcane Paradigms describe the various methods to learn magic, and are generally divided by country or ancestry. At first level, Magic-Users may choose the Paradigm associated with either their Culture, or their Ancestry.
 
-| Origin     | Paradigm   |
-| ---------- | ---------- |
-| **Tor**    | [[Wizard]] |
-| **Maroi**  | [[Maroian Magicians\|Magician]] |
-| **Caspia** | [[Caspian Maestros\|Maestro]] |
-| **Mur**    |   [[Seiðkona - Murian Mages\|Seiðkona]] / [[Noita - Mura Mage\|Noita]]         |
+| Origin     | Paradigm                                                             |     |
+| ---------- | -------------------------------------------------------------------- | --- |
+| **Tor**    | [[Wizard]]                                                           | Wizards study the [[Principia Arcana]], the most advanced paradigm taught by the Torian [[Phandalin Schola Legio Arcana (PSLA)\|Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.    |
+| **Maroi**  | [[Maroian Magicians\|Magician]]                                      |     |
+| **Caspia** | [[Caspian Maestros\|Maestro]]                                        |     |
+| **Mur**    | [[Seiðkona - Murian Mages\|Seiðkona]] / [[Noita - Mura Mage\|Noita]] |     |
 
 Magic-Users can generally learn Spells based in other Paradigms without issue, so they rarely study Paradigms outside their own. If they do, this is treated as [[d) Multiclassing|Multiclassing]], which progresses more slowly than specializing.
 <br><br><br>
