@@ -9,58 +9,35 @@ creation_date: [2022-04-04]
 [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
 ___
 
-You gain Experience Points (XP) when you spend [[Money|money]].
+You gain Experience Points (XP) when you spend [[Money|money]]. The size of the settlement determines approximately how much money can be spent by the party in one week.
+
+| Settlement | Max Silver / Week |
+| ---------- | --------------: |
+| City       | 100,000 SP     |
+| Town       | 10,000 SP      |
+| Village    | 1,000 SP       |
+
 ___
 ## Spending
-*Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc.* 
+*Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc.* *As a general rule, if the Character would gain specific benefits, that's spending.*
 
-*As a general rule, if the Character would gain specific benefits, that's spending.*
-
-For Gold spent usefully, **gain XP equal to the GP spent.** The size of the settlement determines approximately how much gold can be spent in one week.
-
-| Settlement | Max Gold / Week |
-| ---------- | --------------: |
-| City       | 100,000 GP     |
-| Town       | 10,000 GP      |
-| Village    | 1,000 GP       |
+**For money spent usefully, gain XP equal to the GP spent.** 
 
 ## Carousing
-*Carousing describes any luxurious or frivolous spending, such as a drinking, partying, indulging in food/drink/drugs, attending theatres, restaurants, brothels, etc. As a general rule, if the Character would gain no specific benefits, that's carousing.*
+*Carousing describes any luxurious spending where the Character would gain no specific benefits. Examples are limited only to the imagination, but include throwing lavish parties or celebrations, making donations to churches / charities / orphanages, personal trainers / private fencing lessons / private chefs, university books / research, indulging in food / drink / drugs, attending theatres / restaurants / brothels / vacations, etc.*
 
-For Gold spent Carousing, **gain XP equal to *double* the GP spent.** The size of the settlement determines how much gold can be spent in one week. 
+**For money spent carousing, gain XP equal to *double* the GP spent.**
 
-| Settlement | Max Gold / Week |
-| ---------- | --------------: |
-| City       | 100,000 GP     |
-| Town       | 10,000 GP      |
-| Village    | 1,000 GP       |
-
-For each week you carouse, roll on the Drinking Mishap Table. <!-- #Revisit 
-
-[](http://meanderingbanter.blogspot.com/2018/09/what-fuck-did-i-do-last-night.html)
-
-
+<!-- For each week you carouse, roll on the Carousing Mishap Table. 
+#Revisit https://rolesrules.blogspot.com/2011/01/experience-carousing-inc.html
+[link](http://meanderingbanter.blogspot.com/2018/09/what-fuck-did-i-do-last-night.html)
 [](http://rolesrules.blogspot.com/2011/01/experience-carousing-inc.html)
-
 -->
 
 ___
 ## Funerals
-If the party brings your corpse back and holds a proper funeral, **they may spend Gold up to your XP.**
+If the party brings your corpse back and holds a proper funeral, **they may spend SP equal or up to your XP.**
 
-If they do, your next character starts with half that XP. The other half of your XP is divided amongst the rest of the party.
+If they do, XP equal to the SP spent is divided amongst the rest of the party. Additionally, your next Character begins play with XP equal to the SP spent.
 
-<!--Revisit-->
-
-___
-## Spending
-*Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc. As a general rule, if the Character would gain specific benefits, that's spending.*
-
-For Gold spent usefully, **gain XP equal to the GP spent.** The size of the settlement determines approximately how much gold can be spent in one week.
-
-| Settlement | Max Gold / Week |
-| ---------- | --------------: |
-| City       | 100,000 GP     |
-| Town       | 10,000 GP      |
-| Village    | 1,000 GP       |
 
