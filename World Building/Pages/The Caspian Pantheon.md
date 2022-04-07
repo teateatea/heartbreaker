@@ -8,13 +8,4 @@ ___
 
 ![[Caspian Natural Gods]]
 
----
-aliases: [The Caspian Pantheon]
----
-# The Caspian Pantheon
-*See also:* [[Pantheons MOC]]
-___
-![[The Mortal Gods]]
-
-![[Caspian Natural Gods]]
-
+![[Caspian New Gods]]
