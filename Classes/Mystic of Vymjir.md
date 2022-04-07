@@ -147,14 +147,14 @@ You may also attempt to heal wounds, sickness, and curses at any time. Roll *Ben
 | 7-12  | **Malpractice**                         |
 | 4-6   | **Brilliant Manifestation of Divinity** |
  
-If the subject of your healing is a disciple of the Seven Tenets, you may re-roll one die without using Favour.
+If the target of your healing is a disciple of the Seven Tenets, you may re-roll one die without using Favour.
 
 ___
 ##### Restore/Purge
-The subject is healed for 1d4 per Mystic Level, or one temporary condition is resolved.
+The target is healed for 1d4 per Mystic Level, or one temporary condition is resolved.
 
 ##### *Bestowed Mark*
-Vymjir's influence manifests as a mutation or phantasm attached to the subject. If you offered Favour for the *Benevolence* roll, the mark is permanent. Otherwise, roll *Duration*.
+Vymjir's influence manifests as a mutation or phantasm attached to the target. If you offered Favour for the *Benevolence* roll, the mark is permanent. Otherwise, roll *Duration*.
 
 ##### *Malpractice*
 Oh, gosh, this isn't quite what you meant to happen. Take a look at the DM, they're rolling on a table now. This isn't good.
