@@ -21,12 +21,12 @@ ___
 ## Spending
 *Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc.* *As a general rule, if the Character would gain specific benefits, that's spending.*
 
-**For money spent usefully, gain XP equal to the GP spent.** 
+**For money spent usefully, gain XP equal to the SP spent.** 
 
 ## Carousing
 *Carousing describes any luxurious spending where the Character would gain no specific benefits. Examples are limited only to the imagination, but include throwing lavish parties or celebrations, making donations to churches / charities / orphanages, personal trainers / private fencing lessons / private chefs, university books / research, indulging in food / drink / drugs, attending theatres / restaurants / brothels / vacations, etc.*
 
-**For money spent carousing, gain XP equal to *double* the GP spent.**
+**For money spent carousing, gain XP equal to *double* the SP spent.**
 
 <!-- For each week you carouse, roll on the Carousing Mishap Table. 
 #Revisit https://rolesrules.blogspot.com/2011/01/experience-carousing-inc.html
