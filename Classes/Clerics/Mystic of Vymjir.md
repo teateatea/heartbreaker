@@ -10,7 +10,7 @@ creation_date: [2022-04-04]
 *See also:* [[Caspian Mystics]], [[The Restless One]]
 ___
 # VYMJIR-->
-[[home|Home]] | [[Cleric]] | *It's pronounced* /vɪ'mir/.
+[[home|Home]] | [[Holy-Man]] | *It's pronounced* /vɪ'mir/.
 ___
 # INVOCATIONS
 You are a **Mystic**, your actions need no explanation.
@@ -70,7 +70,7 @@ You are honoured with a manifestation of Vymjir's blessing, though the timing co
 Gain d4 points of Favour.
 
 ##### *Brilliant Manifestation of Divinity*
-Your body shreds in the birthing of a terrible avatar of **Vymjir, God of Fate & Forbidden Knowledge**.<!-- If this is a Restore/Purge roll, the target erupts instead.--> Roll *Duration* for the avatar's lifespan, then roll up a new Character.
+Your body shreds in the birthing of a terrible avatar of **Vymjir, God of Fate & Forbidden Knowledge**.<!-- If this is a Restore/Purge roll, the target erupts instead.--> Roll *Duration* for the avatar's lifespan, then roll up a new Character. <!-- #Revisit Mystic Avatar -->
 
 
 ___
@@ -114,7 +114,7 @@ number of Favour points equal to double the levels you are missing to attempt to
 *Mystic Level 7*<br>In the order of the manifestation of mundane skeletons and corpses, the bestowal of major aspects of the **Restless One**, and the application of blessings or curses.
 
 ### The Fourth Liturgy
-*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and raising up to $L$ + $F$ corpses as soul-less minions.*
+*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and raising up to $L$ + $F$ corpses as soul-less minions.* <!-- #Revisit Minion/Swarm rules -->
 
 \**$L$ equals your Level, and $F$ equals the Favour offered for this invocation.*
 
@@ -132,12 +132,16 @@ ___
 You lose *Oversight* if you willfully and unjustly encroach upon the freedoms of another. Regain *Oversight* by performing or observing a sermon.
 
 ### *Create Vessel*
-You may impart a fragment of your soul to a corpse under your control. Give them any number of your HD, then reroll HP for both yourself and your Vessel.
+You may impart a fragment of your soul to a corpse under your control. Give them any number of your HD, then choose a rollable total from those dice as their HP. Reduce your Max HP by the same amount.<!--reroll Max HP for both yourself and your Vessel> *(but do not change your Current HP)*. -->
 
-Vessels have basic survival instincts, and can move and attack in combat. More complicated actions require direct commands. Vessels automatically fail Death Saves.
+Vessels have basic survival instincts, and move and attack threats in combat. However, they automatically fail Death Saves, and more complicated actions require direct commands. When a Vessel is reduced to 0 HP, your soul fragments return at dawn: regain their HD and add their Max HP to yours. <!-- #Revisit HP balancing -->
+
+Vessels who had traits and abilities in life can be commanded to use those abilities. Vessels with HD equal or greater to those on their Stat block can use their abilities independently *(counting each \* as 1 additional HD)*.
+<!-- #Revisit Minion/Vessel traits based on Stat block?-->
+<!-- #Revisit Minion Swarm handling? -->
 
 ### *Deny Fate*
-You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, choose any standing Vessel. That Vessel gains all of your HD as your soul transfers into it. If you don't have any Vessels or no Vessels can be transferred to, roll up a new Character.
+You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, you may choose any standing Vessel within <!--#Revisit vessel transfer range -->. That Vessel gains all of your HD as your soul transfers into it. If you don't have any Vessels or no Vessels can be transferred to, roll up a new Character.
 
 You may also attempt to heal wounds, sickness, and curses at any time. Roll *Benevolence*, using Favour in the same manner as Invocations.
 
