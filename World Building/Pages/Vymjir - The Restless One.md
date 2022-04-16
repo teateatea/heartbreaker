@@ -20,7 +20,7 @@ ___
 - [[Undeath]] ([[Ageless|Eternal]] being?)
 
 ###### Subdomains
-[[Magic]], [[Dreams, Visions, and Prophesies|Fate]]
+[[Magic]], [[Dreams, Visions, and Prophesies|Fate]], [[Sky]]
 
 ___
 #### Establishments
