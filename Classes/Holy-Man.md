@@ -11,7 +11,7 @@ creation_date: [2022-04-06]
 ___
 *Holy-Men are adventurers who have sworn to serve a deity. They are trained for battle and channel the power of their deity.*
 ___
-**Prime requisite:** WIS<br>**Hit Dice:** 1d6<br>**Armour:** Any, including shields *(or as instructed by Sacred Tradition)*<br>**Weapons:** Any *(or as instructed by Sacred Tradition)*<br>**Languages:** Common
+**Prime requisite:** WIS<br>**Hit Dice:** 1d6<br>**Armour:** As instructed by Sacred Tradition<br>**Weapons:** As instructed by Sacred Tradition<br>**Languages:** Commonl
 ___
 ### Holy-Man Level Progression
 | Level | XP    | HD  | AB  |     |  D  |  W  |  P  |  B  |  S  |
