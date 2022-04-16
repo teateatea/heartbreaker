@@ -15,7 +15,7 @@ creation_date: [2022-04-06]
 
 [[Magic-User|Magic-Users]] ([[Wizard|Wizards]])
 
-Clerics ([[Mystic of Vymjir|Mystics]])
+[[Holy-Man]] ([[Mystic of Vymjir|Mystics]])
 <br>
 
 ___
