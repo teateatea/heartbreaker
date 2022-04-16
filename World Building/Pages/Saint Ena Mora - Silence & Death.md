@@ -14,7 +14,7 @@ ___
 #### Domains
 ___
 - **Focus:** Silence, Death
-- **Associated:** Travel, Oceans, Moon
+- **Associated:** Travel, [[Oceans]]/[[Seas]], Moon
 - **Humor:** Certainty, Peace, Reassuredness
 - **Wrath:** Oppression, Despair, Untimeliness
 - **Neglect:** Stagnation, Agitation, Anxiety
