@@ -22,10 +22,10 @@ You gain Experience Points (XP) when you spend [[Money|money]]. The size of the 
 
 **For money spent usefully, gain XP equal to the SP spent.** 
 
-## Carousing
+<!--## Carousing
 *Carousing describes any luxurious spending where the Character would gain no specific benefits. Examples are limited only to the imagination, but include throwing lavish parties or celebrations, making donations to churches / charities / orphanages, personal trainers / private fencing lessons / private chefs, university books / academic research, and indulging in food / drink / drugs, attending theatres / restaurants / brothels / vacations, etc.*
 
-**For money spent carousing, gain XP equal to *double* the SP spent.**
+**For money spent carousing, gain XP equal to *double* the SP spent.**-->
 
 <!-- For each week you carouse, roll on the Carousing Mishap Table. 
 #Revisit https://rolesrules.blogspot.com/2011/01/experience-carousing-inc.html
