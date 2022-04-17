@@ -34,6 +34,8 @@ HOME_GRAPH = ""
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = ""
 
+LOCAL_GRAPH = ""
+
 
 #[build]
 #command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
