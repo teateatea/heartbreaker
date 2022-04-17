@@ -16,7 +16,7 @@ SITE_URL = "https://teakettle.netlify.app/"
 REPO_URL = "https://github.com/teateatea/heartbreaker"
 
 # (Optional) Site title on landing page
-LANDING_TITLE = "Welcome!"
+LANDING_TITLE = ""#"Welcome!"
 # (Optional) Site title in navbar
 SITE_TITLE = "Tea's Heartbreaker Roleplaying Game"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
