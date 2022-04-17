@@ -47,7 +47,7 @@ GRAPH_LINK_REPLACE = "y"
 STRICT_LINE_BREAKS = ""
 
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "y"
 
 
 #[build]
