@@ -7,7 +7,7 @@ template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-06]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | [[Holy-Man]]
+[[home|Home]] | **Holy-Man**
 ___
 *Holy-Men are adventurers who have sworn to serve a deity. They are trained for battle and channel the power of their deity.*
 ___
