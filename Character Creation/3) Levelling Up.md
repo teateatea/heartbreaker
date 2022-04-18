@@ -26,3 +26,5 @@ As listed in the level progression chart for your class.
 	- They also gain a Ken at each step of their Discipline.
 - **Magic-Users gain Spells and Spell Slots.** <!--Revisit-->
 
+___
+

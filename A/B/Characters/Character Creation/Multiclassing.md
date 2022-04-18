@@ -44,3 +44,4 @@ Once your character's XP reaches the threshold set by either Class Level table, 
 *For example, if you have 3 levels in Fighter, and 1 in Wizard, you could level up when you reach 8,000 XP in Fighter, or 2,500 XP in Wizard.* 
 <!--Revisit-->
 
+___
