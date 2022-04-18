@@ -12,7 +12,7 @@ To create a new Character, you need a **Character sheet** to record info about y
 
 A **blank map**, and somewhere to keep **notes** will be useful during play, but not necessary for now.
 
-Some or all of these pages can be found on the [[Resources]] page. Let me know if there’s anything you need!
+Some or all of these pages can be downloaded from the **[[Resources]]** page. Let me know if there’s anything you need!
 
 ___
 # The Cards You Were Dealt
@@ -99,4 +99,5 @@ Finally, choose or roll for your character’s true name, as well as the company
 
 You are now ready for adventure!
 
+___
 

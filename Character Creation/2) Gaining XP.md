@@ -18,7 +18,7 @@ You gain Experience Points (XP) when you spend [[Money|money]]. The size of the 
 | Village    | 1,000 SP       |
 
 ## Spending
-*Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc.* *As a general rule, if the Character would gain specific benefits, that's spending.*
+*Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc.* *As a general rule, if the Character would gain specific benefits, that's spending.*[^1]
 
 **For money spent usefully, gain XP equal to the SP spent.** 
 
@@ -39,4 +39,6 @@ ___
 
 If they do, XP equal to the SP spent is divided amongst the surviving party members. Additionally, your next Character begins play with XP equal to the SP spent.
 
-
+___
+***Design Notes***
+[^1]: *In the future, I'll add Carousing, for luxurious or irresponsible spending.*
