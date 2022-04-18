@@ -6,8 +6,7 @@ date: [2022-04-12]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-12]
 ---
-# Minion
-*See also:* [[Challenge Ratings and Roles]], [[Creatures MOC]], *from *[*Flee, Mortals!* by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
+*See also:* [[Challenge Ratings and Roles]], [[Creatures MOC]], *from* [*Flee, Mortals!* by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf), [[Minion Statistics by Challenge Rating]], [[Sample Minion]]
 ___
 *Minions are weak creatures that find strength in numbers.*
 
@@ -49,16 +48,14 @@ Every minion has the Minion trait, which affects the creature in the following w
 - If the minion takes any damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0.
 - If the minion takes damage from another effect, they die if the damage equals or exceeds their hit point maximum, otherwise they take no damage.
 
-```ad-note
-title: Behind the Design: Minion Trait
-collapse: open
+___
+##### Behind the Design: Minion Trait
 You might ask, why not just give minions 1 hit point and take no damage when they save for half, like in fourth edition? First, spells that use a creature’s hit points to determine effectiveness—like color spray and sleep—would devastate all minions, even those meant to challenge high-level characters. These spells are still effective against minions, just not devastating!
 
 Second, spells and effects that deal damage without any attack roll or save—like magic missile and spike growth—would lay waste to minions with 1 hit point. This fits the fiction for minions with low challenge ratings, like goblins and zombies.
 But the balance of combat and fiction breaks down to near-silliness at higher levels when the same spells easily take down powerful devil minions.
 
 Finally, high-level spells with a save for half damage—like fireball or meteor swarm—would feel wasted against minions with 1 hit point. Why use a higher-level spell when a lower-level one will do? Similarly, the fourth edition design could lead to a kobold minion illogically surviving a fireball spell while a “stronger” standard kobold next to them dies, despite both creatures succeeding on their saving throw. By contrast, under this book’s minion rules, spellcasters still have a good reason to use high-level spells against minions.
-```
 ___
 # Overkill Attacks
 Powerful weapon attacks can kill more than one minion in a single maneuver called an **overkill attack**.
@@ -163,70 +160,7 @@ If you divide minions into bands, be sure to distinguish which minions belong to
 ```
 
 
-### Sample Minion
-Now that you know all about how minions work, we wanted to give you a bonus sample stat block to try. Who doesn’t love cutting through a horde of zombies?
-
-### Zombie Minion
-*Medium Undead, Typically Neutral Evil*
 ___
-**Armor Class** 8
-**Hit Points** 6
-**Speed** 20 ft.
+***Sources:*** [*Flee, Mortals!* by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-| ------- | ------ | ------- | ------ | ------ | ------ |
-| 13 (+1) | 6 (−2) | 12 (+1) | 3 (−4) | 6 (−2) | 5 (−3) |
-
-**Damage Immunities** poison
-**Condition Immunities** poisoned
-**Senses** darkvision 60 ft., passive Perception 8
-**Languages** understands the languages it knew in life but can’t speak
-**Proficiency Bonus** +2
 ___
-***Minion.*** If the minion takes damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0. If the minion takes damage from another effect, they die if the damage equals or exceeds their hit point maximum, otherwise they take no damage.
-
-***Overwhelm.*** If a visible enemy starts their turn within 5 feet of three or more zombie minions, the enemy’s speed is reduced by 5 feet for each zombie minion within 5 feet (to a minimum speed of 0 feet) until the start of their next turn. If the enemy’s walking speed is reduced to 0, they are restrained until the start of their next turn.
-
-***Rise Again.*** The first time a zombie minion is reduced to 0 hit points, they return to life at the start of their next turn with 6 hit points.
-___
-**ACTIONS**
-***Slam (Group Attack).*** *Melee Weapon Attack:* +3 to hit, one target. *Hit:* 1 bludgeoning damage.
-___
-
-##### Minion Statistics by Challenge Rating
-| CR  | Prof. Bonus | Hit Points | Damage |
-| --- | ----------- | ---------- | ------ |
-| 0   | +2          | ≤4         | 1      |
-| 1/8 | +2          | 5          | 1      |
-| 1/4 | +2          | 6          | 1      |
-| 1/2 | +2          | 7–8        | 1      |
-| 1   | +2          | 9–10       | 2      |
-| 2   | +2          | 11–12      | 3      |
-| 3   | +2          | 13–14      | 4      |
-| 4   | +2          | 15–16      | 5      |
-| 5   | +3          | 17–18      | 6      |
-| 6   | +3          | 19–20      | 7      |
-| 7   | +3          | 21–22      | 8      |
-| 8   | +3          | 23–24      | 9      |
-| 9   | +4          | 25–26      | 10     |
-| 10  | +4          | 27–28      | 11     |
-| 11  | +4          | 29–30      | 12     |
-| 12  | +4          | 31–32      | 13     |
-| 13  | +5          | 33–34      | 14     |
-| 14  | +5          | 35–36      | 15     |
-| 15  | +5          | 37–38      | 16     |
-| 16  | +5          | 39–40      | 17     |
-| 17  | +6          | 41–42      | 18     |
-| 18  | +6          | 43–44      | 19     |
-| 19  | +6          | 45–46      | 20     |
-| 20  | +6          | 47–49      | 21     |
-| 21  | +7          | 50–52      | 22     |
-| 22  | +7          | 53–55      | 23     |
-| 23  | +7          | 56–58      | 24     |
-| 24  | +7          | 59–61      | 25     |
-| 25  | +8          | 62–64      | 26     |
-| 26  | +8          | 65–67      | 27     |
-| 27  | +8          | 68–70      | 28     |
-| 28  | +8          | 71–73      | 29     |
-| 29  | +9          | 74–76      | 30     |
-| 30  | +9          | 77–80      | 31     |
