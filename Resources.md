@@ -13,8 +13,10 @@ ___
 - RPG guiding principles from [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) by [**Ben Milton**,](https://questingblog.com/) [**Steven Lumpkin**,](https://roll1d100.blogspot.com/) and [**David Perry**.](https://lithyscaphe.blogspot.com/)
 ---
 - [[Minions|Minion rules]] from the [***Flee, Mortals!* Preview PDF** by **MCDM**.](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
-- [[1) Creating a New Character|Background & Appearance during Character Creation]] from [**Knave** by **Ben Milton**.](https://www.drivethrurpg.com/product/250888/Knave?manufacturers_id=10312)
 - *Money (conversion rates)* from [***On Money***](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by **Delta's D&D Hotspot**.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
+___
+- [[1) Creating a New Character|Background & Appearance during Character Creation]] from [**Knave** by **Ben Milton**.](https://www.drivethrurpg.com/product/250888/Knave?manufacturers_id=10312)
+- Inventory system from [**Veins of the Earth**](https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth) by [**Patrick Stuart**.](https://falsemachine.blogspot.com/)
 ---
 - *Fighter Class* based on the [***Fighter*** from **Old-School Essentials (OSE).**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter)
 - *Mighty Deeds* ability based on the [***Warrior*** from **Dungeon Crawl Classics (DCC)**.](https://goodman-games.com/dungeon-crawl-classics-rpg/)
