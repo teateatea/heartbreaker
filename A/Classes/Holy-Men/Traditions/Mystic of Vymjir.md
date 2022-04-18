@@ -132,19 +132,18 @@ ___
 You lose *Oversight* if you willfully and unjustly encroach upon the freedoms of another. Regain *Oversight* by performing or observing a sermon.
 
 ### *Create Vessel*
-You may impart a fragment of your soul to a corpse-minion you can touch. Give them any number of your HD, then choose a rollable total from those dice as their HP. Reduce your Max HP by the same amount.<!--reroll Max HP for both yourself and your Vessel> *(but do not change your Current HP)*. -->
+As a full round action, you may impart a fragment of your soul to a corpse-minion you can touch. Give them any number of your HD, then choose a rollable total from those dice as their HP. Reduce your Max HP by the same amount.<!--reroll Max HP for both yourself and your Vessel> *(but do not change your Current HP)*. -->
 
-<!-- Design notes: No range requirement.-->
 
-Vessels have basic survival instincts, and can move and make regular attacks in combat. However, they automatically fail Death Saves, and more complicated actions require direct commands. <!-- #Revisit HP balancing -->
+Vessels have basic survival instincts, and can move and make regular attacks in combat. However, they automatically fail Death Saves, and more complicated actions require direct commands. 
 
 As an action, Vessels can be commanded to use traits or abilities they had in life. Vessels with HD equal or greater to those on their Stat block can use their abilities independently *(counting each \* as 1 additional HD)*.
 
 When a Vessel is reduced to 0 HP, your soul fragments return at dawn: regain their HD and add their Max HP to yours. 
-<!-- #Revisit Minion/Vessel traits based on Stat block?-->
+
 
 ### *Deny Fate*
-You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, you may choose any standing Vessel. When that Vessel next sees the sky, <!--#Revisit vessel transfer range -->it gains all of your current HD as your soul transfers into it. If you don't have any Vessels or no Vessels can be transferred to in the near future, roll up a new Character.
+You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, you may choose any standing Vessel. All of your current HD transfer to that Vessel when it next sees the sky. If you don't have any Vessels or no Vessels will be transferred to in the near future, roll up a new Character.
 
 You may also attempt to heal wounds, sickness, and curses at any time. Roll *Benevolence*, using Favour in the same manner as Invocations.
 

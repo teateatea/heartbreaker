@@ -13,9 +13,11 @@ ___
 - Background & Apperance Tables.
 - Equipment
 - Carousing
+
 ##### Medium Soon
+- Fillable Inventory page.
 - Mystic of Vymjir (Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
-- Add 'home' to minions nav-bar
+
 ##### Not Soon
 - Warlock class
 ```query

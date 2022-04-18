@@ -12,12 +12,15 @@ To create a new Character, you need a **Character sheet** to record info about y
 
 A **blank map**, and somewhere to keep **notes** will be useful during play, but not necessary for now.
 
-Some or all of these pages can be downloaded from the **[[Resources]]** page. Let me know if there’s anything you need!
+- **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Printable Character Sheet PDF (March 2022)]]** - *8.5" x 11", Double Sided.*
+- [[Character sheet pdf 1.pdf|Fillable Character Sheet PDF (March 2022)]] - *No Inventory page, revisit!*
+- **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package (November 2020)]]**
+Some or all of these pages can be downloaded from the **[[Resources]]** page.Let me know if there’s anything you need!
 
 ___
 # The Cards You Were Dealt
 ### 1. Roll Background & Appearance
-Choose or roll a **d20** on each of the ***Background & Appearance*** tables. <!-- #Revisit -->
+Choose or roll a **d20** on each of the ***Background & Appearance*** tables. ***[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables PDF (July 2020).]]***
 
 *(Use the top-right box of the Character sheet for this.)*
 <br>
@@ -39,7 +42,7 @@ If you wish, choose any two Ability scores, and swap their scores.
 *For example, you could switch your scores for Strength and Intelligence.*
 
 ##### ***c) Note Bonuses***
-Note the associated bonuses for each Ability score, based on the tables overleaf. ***(Revisit!)***
+Note the associated bonuses for each Ability score, based on the tables overleaf. 
 
 *(Each Ability score gives a Bonus to other attributes, such as CON improving HP. Go around the sheet and fill in the relevant boxes now.)*<!-- #Revisit -->
 

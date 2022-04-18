@@ -4,8 +4,8 @@ ___
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Character Sheet Package (March 2022)]]** - *Print on 8.5" x 11", Double Sided.*
 - [[Character sheet pdf 1.pdf|Character Sheet (Fillable PDF) - version 4-1 (March 2022)]] - *No Inventory sheet, revisit!*
 
-
-
+- **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package (November 2020)]]**
+- **[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables (July 2020)]]**
 
 ___
 ##### Links
