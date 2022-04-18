@@ -1,12 +1,11 @@
 ---
 aliases: [Optional Rule - Group Saves]
-tags: []
+tags: [Rules, House-Rules, Optional]
 author: [Joseph Liao Gormley]
 date: [2022-04-18]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-18]
 ---
-*See also:* (Optional Rule)
 [[Minions]] | **Minion Group Saves** | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks]]
 ___
 Though minions often make saving throws individually, there are times when rolling individual saves for each minion could slow down the action, like when a cleric surrounded by eighteen specter minions uses Turn Undead.

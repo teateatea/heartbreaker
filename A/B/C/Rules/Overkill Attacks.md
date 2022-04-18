@@ -1,13 +1,12 @@
 ---
 aliases: [Overkill Attacks]
-tags: []
+tags: [Rules, House-Rules]
 author: [Joseph Liao Gormley]
 date: [2022-04-18]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-18]
 ---
-# Overkill Attacks
-*See also:* 
+
 [[Minions]] | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | **Overkill Attacks**
 ___
 Powerful weapon attacks can kill more than one minion in a single maneuver called an **overkill attack**.

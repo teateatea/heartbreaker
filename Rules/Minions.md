@@ -25,7 +25,7 @@ ___
 - [[Minion Group Attacks|Minions may make a group attack:]] $M$ minions make one attack with a +$M$ bonus, then deal their damage $\times$  $M$. *(4 goblin minions roll 1d20 + 4 to hit, then deal 1 $\times$ 4 damage.)*
 - [[Minion Group Saves|Minions may make group saves:]] All minions in the group take the same result.
 ___
-- [[Overkill Attacks|Overkill Attacks vs Minions]]
+- [[Overkill Attacks|Overkill Attacks vs Minions:]] If a weapon attack's damage exceeds a minion's Max HP, the additional damage can be applied to another minion within overkill range.
 ___
 # Minions
 Minions are weak foes that allow GMs to create dramatic combat encounters with hordes of enemies without overwhelming the characters. In fact, an encounter with minions makes characters feel heroic, since they can take on a myriad of foes and live to tell the tale.
