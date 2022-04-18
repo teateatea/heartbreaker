@@ -27,3 +27,4 @@ ___
 **Practical Magic:** [[Prepared Magic#Spells|Spells]]; [[Prepared Magic#Spellbooks|Spellbooks]]; Spell slots; Preparing Spells; Cantrips; Over-casting; Over-Preparing; Spell Scrolls, Magic Items.
 
 **Dangerous Magic:** Learning New Spells; Transferring Spells; Duplicating Spells; Enchanting Items; Magical Research; Inventing New Spells.
+___
