@@ -6,7 +6,7 @@ date: [2022-04-04]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-04]
 ---
-[[home|Home]] | [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]] | **Levelling Up** | [[d) Multiclassing|Multiclassing]]
+[[home|Home]] | [[1) Creating a New Character|Character Creation]] | [[2) Gaining XP|Gaining XP]] | **Levelling Up** | [[d) Multiclassing|Multiclassing]]
 ___
 When your character's XP reaches the threshold set by their class level table, they gain a level.
 

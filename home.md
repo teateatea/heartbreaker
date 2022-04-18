@@ -11,7 +11,7 @@ Hello! This is my custom roleplaying game *(which are often called heartbreaker 
 
 Thank you for playing!
 
-**[[a) Creating a New Character|Ready to jump in? Create a new character!]]**
+**[[1) Creating a New Character|Ready to jump in? Create a new character!]]**
 ___
 ## Rules
 In general, we're playing [**Old School Essentials (OSE)**](https://oldschoolessentials.necroticgnome.com/srd/), a remastered Beginner/Expert Dungeons & Dragons *(1st Edition)*.
@@ -29,7 +29,7 @@ ___
 - [[Minions]] - from *Flee, Mortals! by MCDM.*
 ___
 ## Character Creation
-[[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Resources]]
+[[1) Creating a New Character]]<br>[[2) Gaining XP]]<br>[[3) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Resources]]
 ___
 ## Classes
 [[Fighter|Fighters]] ([[Fighter Disciplines|Disciplines]])

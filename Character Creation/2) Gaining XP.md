@@ -6,7 +6,7 @@ date: [2022-04-04]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-04]
 ---
-[[home|Home]] | [[a) Creating a New Character|Character Creation]] | **Gaining XP** | [[c) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
+[[home|Home]] | [[1) Creating a New Character|Character Creation]] | **Gaining XP** | [[3) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
 ___
 
 You gain Experience Points (XP) when you spend [[Money|money]]. The size of the settlement determines approximately how much money can be spent by the party in one week.

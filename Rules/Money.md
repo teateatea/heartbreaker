@@ -6,7 +6,7 @@ date: [2022-04-06]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-06]
 ---
-[[home|Home]] | [[a) Creating a New Character|Character Creation]] | [[b) Gaining XP|Gaining XP]]
+[[home|Home]] | [[1) Creating a New Character|Character Creation]] | [[2) Gaining XP|Gaining XP]]
 ___
 *Nations all over the world regularly mint new coins, and currencies are constantly being created, evaluated, converted, or abandoned.*
 
@@ -40,6 +40,6 @@ Platinum (PP) and Electrum (EP) are *moneys-of-account*, and are not in circulat
 | $\div 500$ | $\div 100$ | $\div 10$ | **(** $\times 1$ **)** | $\times 50$ |
 
 ___
-*See also:* [[b) Gaining XP|Gaining XP]], [[Martel Debt]], [[Downtime]].
+*See also:* [[2) Gaining XP|Gaining XP]], [[Martel Debt]], [[Downtime]].
 
 *References:* [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)

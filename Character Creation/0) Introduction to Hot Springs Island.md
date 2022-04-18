@@ -6,7 +6,7 @@ date: [2022-04-05]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-05]
 ---
-[[home|Home]] | [[a) Creating a New Character|Character Creation]]
+[[home|Home]] | [[1) Creating a New Character|Character Creation]]
 ___
 ##### ***Property of the Martel Company***
 You are brand-new adventurers. Treasure hunters. Haulers. You might have been something else before, but not anymore. You are *Property of the Martel Company* now, and they expect returns on their investments.
@@ -33,13 +33,13 @@ I’m using house-rules whenever the game rules don’t match my intended experi
 
 Last but not least, you should know that the only way to gain Experience Points (XP) is by selling treasure back to the Martels. Killing monsters will only grant you XP if you bring valuable carcasses home.
 
-**1 [[Money|Silver Piece]] = 1 [[b) Gaining XP|Experience Point]]**
+**1 [[Money|Silver Piece]] = 1 [[2) Gaining XP|Experience Point]]**
 
 <!--  -->
 ___
 *Illustration by [Gabriel Hernandez](https://www.instagram.com/worthyenemies/) for [Hot Springs Island](https://shop.swordfishislands.com/).*
 
-[[home|Home]] | [[a) Creating a New Character|Character Creation]]
+[[home|Home]] | [[1) Creating a New Character|Character Creation]]
 
 ___
 

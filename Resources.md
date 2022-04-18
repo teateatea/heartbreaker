@@ -1,4 +1,4 @@
-[[home|Home]] | [[a) Creating a New Character|Character Creation]]
+[[home|Home]] | [[1) Creating a New Character|Character Creation]]
 ___
 ##### Downloads
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Character Sheet Package (March 2022)]]** *(Print on 8.5" x 11", Double Sided)*
