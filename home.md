@@ -11,6 +11,8 @@ Hello! This is my custom roleplaying game *(which are often called heartbreaker 
 
 Thank you for playing!
 
+**[[a) Creating a New Character|Ready to jump in? Create a new character!]]**
+
 ## Rules
 In general, we're playing [**Old School Essentials (OSE)**](https://oldschoolessentials.necroticgnome.com/srd/), a remastered Beginner/Expert Dungeons & Dragons *(1st Edition)*.
 
