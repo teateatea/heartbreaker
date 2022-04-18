@@ -12,12 +12,12 @@ Hello! This is my custom roleplaying game *(which are often called heartbreaker 
 Thank you for playing!
 
 **[[a) Creating a New Character|Ready to jump in? Create a new character!]]**
-
+___
 ## Rules
 In general, we're playing [**Old School Essentials (OSE)**](https://oldschoolessentials.necroticgnome.com/srd/), a remastered Beginner/Expert Dungeons & Dragons *(1st Edition)*.
 
 I intend to broadly follow the principles describes in the [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). I'll use *Rulings Over Rules* to keep the game moving at the table, rather than strictly following OSE. After the game, feel free to remind me about any principles you notice I've forgotten.
-
+___
 ## House Rules
 ##### Player Characters
 - **Major changes to classes** - See each class below for details.
@@ -27,10 +27,10 @@ I intend to broadly follow the principles describes in the [**Principia Apocryph
 ##### General Gameplay
 - [[Money]] - Silver Standard *(1 GP = 10 SP = 50 CP)*.
 - [[Minions]] - from *Flee, Mortals! by MCDM.*
-
+___
 ## Character Creation
 [[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Resources]]
-
+___
 ## Classes
 [[Fighter|Fighters]] ([[Fighter Disciplines|Disciplines]])
 <!-- Mystic, Gish, Thief, Face/Bard -->
