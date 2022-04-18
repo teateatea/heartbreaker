@@ -6,8 +6,8 @@ date: [2022-04-06]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-06]
 ---
-## Getting Started
-Hello! This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are based on Old School Essentials, the Goblin Laws of Gaming, and any other ideas that match my intended game experience.
+## Heartbreaker
+Hello! This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are based on Old School Essentials, the Goblin Laws of Gaming, Veins of the Earth, and any other ideas that match my intended game experience.
 
 Thank you for playing!
 
@@ -20,6 +20,7 @@ I intend to broadly follow the principles describes in the [Principia Apocrypha]
 - **Major changes to classes** - See each class below for details.
 - **Permanent Death Saves** - Player Characters die on the 3rd failure of their lifetime.
 - **Ability Check vs Difficulty Class** - Improves on-boarding from modern *D&D (5e)*.
+- **Slot-based Inventory** - Treasure hauling is a major aspect of the game.
 
 - [[Money]] - Silver Standard *(1 GP = 10 SP = 50 CP)*.
 - [[Minions]] - from *Flee, Mortals! by MCDM.*
