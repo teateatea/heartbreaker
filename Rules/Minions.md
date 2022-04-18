@@ -6,9 +6,9 @@ date: [2022-04-12]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-12]
 ---
-*See also:* [[Creatures MOC]], [[Creature Roles]],  [Link to *Flee, Mortals!* PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf), [[Minion Statistics by Challenge Rating|Minion Stats by CR]], [[Sample Minion]], [[Building Minion Encounters]], [[Optional Rule - Tough Minions]],
+*See also:* [[Creatures MOC]], [[Creature Roles]],  [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf), [[Minion Statistics by Challenge Rating|Minion Stats by CR]], [[Sample Minion]], [[Building Minion Encounters]], [[Optional Rule - Tough Minions]],
 ___
-**Minions** | [[Minion Group Saves (Optional Rule)|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks|Overkill Attacks vs Minions]]
+**Minions** | [[Minion Group Saves (Optional Rule)|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks]]
 ___
 *Minions are weak creatures that find strength in numbers.*
 
@@ -52,7 +52,6 @@ Every minion has the Minion trait, which affects the creature in the following w
 - If the minion takes any damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0.
 - If the minion takes damage from another effect, they die if the damage equals or exceeds their hit point maximum, otherwise they take no damage.
 ___
-___
 ##### *Behind the Design: Minion Trait*
 You might ask, why not just give minions 1 hit point and take no damage when they save for half, like in fourth edition? First, spells that use a creature’s hit points to determine effectiveness—like color spray and sleep—would devastate all minions, even those meant to challenge high-level characters. These spells are still effective against minions, just not devastating!
 
@@ -61,6 +60,6 @@ But the balance of combat and fiction breaks down to near-silliness at higher le
 
 Finally, high-level spells with a save for half damage—like fireball or meteor swarm—would feel wasted against minions with 1 hit point. Why use a higher-level spell when a lower-level one will do? Similarly, the fourth edition design could lead to a kobold minion illogically surviving a fireball spell while a “stronger” standard kobold next to them dies, despite both creatures succeeding on their saving throw. By contrast, under this book’s minion rules, spellcasters still have a good reason to use high-level spells against minions.
 ___
-***Sources:*** [*Flee, Mortals!* by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
+***Source:*** [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
 
 ___
