@@ -1,5 +1,5 @@
 ---
-aliases: [Class]
+aliases: [Introduction to Hot Springs Island]
 tags: [<% tp.file.cursor(2) %>]
 author: [Joseph Liao Gormley]
 date: [2022-04-05]
