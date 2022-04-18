@@ -27,21 +27,23 @@ ___
 - **Ability Check vs Difficulty Class** - Improves on-boarding from modern *D&D (5e)*.
 - **Slot-based Inventory** - Treasure hauling is a major aspect of the game.
 ##### General Gameplay
-- [[Money]] - Silver Standard *(1 GP = 10 SP = 50 CP)*.
-- [[Minions]] - from *Flee, Mortals! by MCDM.*
+- **[[Money]]** - Silver Standard *(1 GP = 10 SP = 50 CP)*.
+- **[[Minions]]** - from *Flee, Mortals! by MCDM.*
 ___
 ## Character Creation
-[[Resources]]
+**[[Resources]]
 [[0) Introduction to Hot Springs Island]]
-[[1) Creating a New Character]]<br>[[2) Gaining XP]]<br>[[3) Levelling Up]]<br>
+[[1) Creating a New Character]]<br>[[2) Gaining XP]]<br>[[3) Levelling Up]]**<br>
 ___
 ## Classes
-[[Fighter|Fighters]] ([[Fighter Disciplines|Disciplines]])
+**[[Fighter|Fighter]]** ([[Fighter Disciplines|Disciplines]])
 <!-- Mystic, Gish, Thief, Face/Bard -->
 
-[[Magic-User|Magic-Users]] ([[Wizard|Wizards]])
+**[[Magic-User|Magic-User]]** ([[Wizard|Wizards]])
 
-[[Holy-Man]] ([[Mystic of Vymjir|Mystics]])
+**[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
+
+**~~Specialist~~** (*not yet!*)
 <br>
 
 ___
