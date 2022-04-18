@@ -9,6 +9,5 @@ ___
 
 ___
 ##### Links
-[**Old School Essentials SRD**](https://oldschoolessentials.necroticgnome.com/srd/) - Message me on Discord if you want to see the full rules for some reason.
-
-[**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html)
+- [**Old School Essentials SRD**](https://oldschoolessentials.necroticgnome.com/srd/) - *(Message me for the full rules!)*
+- [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html)
