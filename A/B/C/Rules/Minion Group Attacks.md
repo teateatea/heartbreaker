@@ -8,6 +8,7 @@ creation_date: [2022-04-18]
 ---
 # Group Attacks
 *See also:* 
+[[Minions]] | [[Minion Group Saves|Minion Group Saves]] | **Minion Group Attacks** | [[Overkill Attacks]]
 ___
 Each minion has a group attack action that speeds up play. In a group attack, two to five minions of the same stat block that share a turn can all use their action to take the same action and attack one target, provided the target is within the attack’s reach or range for each minion.
 - Make a single attack roll for the group attack. It counts as one attack.
@@ -24,3 +25,8 @@ If a group attack triggers a reaction or similar effect that would normally affe
 
 ##### Group Opportunity Attacks
 If a creature provokes an opportunity attack from more than one minion of the same stat block at a time and those minions have a melee group attack action, the minions can each use their reaction to make a group attack as an opportunity attack.
+
+___
+***Source:*** [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
+
+___

@@ -8,6 +8,7 @@ creation_date: [2022-04-18]
 ---
 # Overkill Attacks
 *See also:* 
+[[Minions]] | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | **Overkill Attacks**
 ___
 Powerful weapon attacks can kill more than one minion in a single maneuver called an **overkill attack**.
 
@@ -29,3 +30,8 @@ Minions must be within a certain range to qualify for an overkill attack, determ
 ***Ranged Overkill Attacks.*** When a creature hits a minion with a ranged weapon attack, other minions in a line originating from the creature in the direction of the target, to a distance equal to the weapon’s short range, are in overkill range and can be chosen as additional targets for an overkill attack. The overkill attack can’t target minions outside the line or beyond the weapon’s short range.
 
 *Perigold Quickfingers the rogue is hidden and takes aim at a group of zombie minions (each with 6 hit points) with his light crossbow (which has a short range of 80 feet). He hits a zombie minion with his crossbow, dealing extra damage thanks to his Sneak Attack, for a total of 14 damage. Since Perigold dealt 8 points of overkill damage—more than the hit point maximum of one additional minion—he can choose up to two additional zombie minions in an 80-foot-long line extending from Perigold in the direction of the target, reducing them to 0 hit points. If there are no other zombie minions in the line, then Perigold can’t damage other minions with this attack.*
+
+___
+***Source:*** [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
+
+___

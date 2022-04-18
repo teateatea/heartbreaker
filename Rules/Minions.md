@@ -6,9 +6,9 @@ date: [2022-04-12]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-12]
 ---
-*See also:* [[Creatures MOC]], [[Creature Roles]],  [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf), [[Minion Statistics by Challenge Rating|Minion Stats by CR]], [[Sample Minion]], [[Building Minion Encounters]], [[Optional Rule - Tough Minions]],
+*See also:* [[Creatures MOC]], [[Creature Roles]],  [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf), [[Minion Statistics by Challenge Rating|Minion Stats by CR]], [[Sample Minion]], [[Building Minion Encounters]], [[Tough Minions (Optional Rule)|Tough Minions]]
 ___
-**Minions** | [[Minion Group Saves (Optional Rule)|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks]]
+**Minions** | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks]]
 ___
 *Minions are weak creatures that find strength in numbers.*
 
@@ -23,7 +23,7 @@ ___
 ---
 - 2-5 minions can be grouped.
 - [[Minion Group Attacks|Minions may make a group attack:]] $M$ minions make one attack with a +$M$ bonus, then deal their damage $\times$  $M$. *(4 goblin minions roll 1d20 + 4 to hit, then deal 1 $\times$ 4 damage.)*
-- [[Minion Group Saves (Optional Rule)|Minions may make group saves:]] All minions in the group take the same result.
+- [[Minion Group Saves|Minions may make group saves:]] All minions in the group take the same result.
 ___
 - [[Overkill Attacks|Overkill Attacks vs Minions]]
 ___
