@@ -57,7 +57,11 @@ ___
 ### 3. Choose a Class
 Your Character's Class describes their role in the adventuring party. Select one of the available **[[home#Classes|Classes.]]**
 
-For this step, you will need the **Level Progression** table from your Class page.
+- **[[Fighter|Fighter]]** ([[Fighter Disciplines|Disciplines]])
+- **[[Magic-User|Magic-User]]** ([[Wizard|Wizards]])
+- **[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
+
+For this step, you will need the **Class Level Progression** table from your Class' page.
 
 ##### ***a) Note Level & Experience Points (XP)***
 New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the XP required for the next Level too.
@@ -82,7 +86,9 @@ Note your Saving Throws<!--, listed in the Level Progression Chart for your clas
 For more information, see ***[Saving Throws (OSE SRD, p105)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves#Saving_Throws)***
 
 ##### ***e) Note Class Abilities***
-Record any special abilities gained as a result of your class. If you have a Spellbook, ask the GM which Spells are recorded in it. The GM may allow you to choose.
+Record any special abilities, Disciplines, Paradigms, or Traditions gained as a result of your class.
+
+If you have a Spellbook, ask the GM which Spells are recorded in it. The GM may allow you to choose.
 <br><br>
 ___
 # Your Tools For Survival
@@ -93,7 +99,7 @@ On your Inventory sheet, draw a horizontal line below the box equal to each abil
 Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 [[Money|Silver Pieces (SP)]].*
 <br>
 ### 6. Buy Equipment
-You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***.<!-- #Revisit --> The cost of each item is added to your debt to the Martel Company.
+You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure. <!--consulting the equipment lists under ***Equipment, p42***.  --> The cost of each item is added to your debt to the Martel Company.
 
 - **[[OSE - 01-2 - Equipment List (HSI) - 2020-11-25 v1-1.pdf|Equipment List PDF]]**
 

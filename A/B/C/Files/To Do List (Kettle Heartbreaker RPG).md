@@ -12,7 +12,7 @@ ___
 ##### Soon[^TM]
 - Make Character Creation Page: a) Self-Sufficient, b) Linear.
 	- Background and Appearance Tables
-	- Equipment
+	- Equipment packages, update basic kit.
 - Carousing
 
 ##### Medium Soon

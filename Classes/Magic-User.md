@@ -20,6 +20,8 @@ ___
 |   2   | 2,500 | 2d4 |  +0  |     | 13  | 14  | 13  | 16  | 15  |
 |   3   | 5,000 | 3d4 |  +0  |     | 13  | 14  | 13  | 16  | 15  |
 
+*[[Magic-User#Magic-User Level Progression continued|Table continued below.]]*
+
 ### Combat
 Magic-Users can only wield Daggers, and are unable to cast Spells while using Shields or wearing any kind of Armour. This makes them very vulnerable in combat.
 

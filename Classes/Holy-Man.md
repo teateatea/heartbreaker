@@ -20,6 +20,8 @@ ___
 | 2     | 1,500 | 2d6 | +0  |     | 11  | 12  | 14  | 16  | 15  |
 | 3     | 3,000 | 3d6 | +0  |     | 11  | 12  | 14  | 16  | 15  |
 
+*[[Holy-Man#Holy-Man Level Progression continued|Table continued below.]]*
+
 ### Combat
 Holy-Men can only wield daggers, and are unable to use Invocations while using Shields or wearing any kind of Armour. This makes them very vulnerable in combat.
 
