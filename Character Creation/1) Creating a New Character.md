@@ -13,7 +13,7 @@ To create a new Character, you need a **Character sheet** to record info about y
 A **blank map**, and somewhere to keep **notes** will be useful during play, but not necessary for now.
 
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Printable Character Sheet PDF (March 2022)]]** - *8.5" x 11", Double Sided.*
-- **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package PDF (November 2020).]]**
+- *Optional:* **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package PDF (November 2020).]]**
 - Additional downloads available on the **[[Resources]]** page.
 <!-- #Revisit put the Fillable Character sheet here, with INVENTORY PAGE-->
 
@@ -26,14 +26,14 @@ Choose or roll a **d20** on each of the ***Background & Appearance*** tables.
 
 - ***[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables PDF.]]***
 
-*(Use the top-right box of your Character sheet for this.)*
+*Use the top-right box of your Character sheet for this.*
 <br>
 ### 2. Roll Ability Scores
-Roll **3d6** for each of your Character’s Ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
+Roll **3d6** for each of your Character’s Ability scores: **Constitution**, **Strength**, **Dexterity**, **Intelligence**, **Wisdom**, and **Charisma**.
 
-*(Ability Scores are found a the top-left of the Character sheet. Use the first box to note the Ability Scores, and the second for the Bonuses.)*
+*Ability Scores are found a the upper-left of the Character sheet. Use the first boxes to note Ability Scores (the second boxes will be your Bonuses).*
 
-For more information, see [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores)
+*For more information, see* [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores)
 
 <!-- #### Online Character Generation
 Steps 1-3 involve a lot of rolling, so to have those results automatically generated, click here.-->
@@ -50,14 +50,14 @@ Note the associated bonuses for each Ability score, based on the tables overleaf
 
 - ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]***
 
-*(Each Ability score gives a Bonus to other attributes, such as CON improving HP. Go around the sheet and fill in the relevant boxes now.)*<!-- #Revisit -->
+*Each Ability score gives a Bonus to other attributes, such as CON improving your Max HP. Use the second boxes to note your Bonuses now, as well as all the relevant attributes affected by those Bonuses.*
 
 ___
 # The Path You Have Taken
 ### 3. Choose a Class
 Your Character's Class describes their role in the adventuring party. Select one of the available **[[home#Classes|Classes.]]**
 
-You will need the **Class Level Progression** table for this step of Character creation.
+For this step, you will need the **Level Progression** table from your Class page.
 
 ##### ***a) Note Level & Experience Points (XP)***
 New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the XP required for the next Level too.
