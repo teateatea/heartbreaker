@@ -22,9 +22,9 @@ I intend to broadly follow the principles describes in the [**Principia Apocryph
 ___
 ## House Rules
 ##### Player Characters
-- **Major changes to classes** - See each class below for details.
+- **Major changes to Classes** - See each Class below for details.
 - **Permanent Death Saves** - PCs die on the 3rd failure of their lifetime.
-- **Ability Check vs Difficulty Class** - Improves on-boarding from modern *D&D (5e)*.
+- **Ability Checks vs Difficulty Class** - Improves on-boarding from modern D&D *(5e)*.
 - **Slot-based Inventory** - Treasure hauling is a major aspect of the game.
 ##### General Gameplay
 - **[[Money]]** - Silver Standard *(1 GP = 10 SP = 50 CP)*.
