@@ -40,5 +40,6 @@ ___
 If they do, XP equal to the SP spent is divided amongst the surviving party members. Additionally, your next Character begins play with XP equal to the SP spent.
 
 ___
+***References:*** [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
 ***Design Notes***
 [^1]: *In the future, I'll add Carousing, for luxurious or irresponsible spending.*

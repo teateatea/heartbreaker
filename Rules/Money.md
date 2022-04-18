@@ -40,6 +40,6 @@ Platinum (PP) and Electrum (EP) are *moneys-of-account*, and are not in circulat
 | $\div 500$ | $\div 100$ | $\div 10$ | **(** $\times 1$ **)** | $\times 50$ |
 
 ___
-*See also:* [[2) Gaining XP|Gaining XP]], [[Martel Debt]], [[Downtime]].
+***See also:*** [[2) Gaining XP|Gaining XP]], [[Martel Debt]], [[Downtime]].
 
-*References:* [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
+***References:*** [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
