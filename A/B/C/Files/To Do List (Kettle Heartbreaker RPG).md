@@ -10,8 +10,9 @@ creation_date: [2022-04-07]
 [[home|Home]] 
 ___
 ##### Soon[^TM]
-- Background & Apperance Tables.
-- Equipment
+- Make Character Creation Page: a) Self-Sufficient, b) Linear.
+	- Background and Appearance Tables
+	- Equipment
 - Carousing
 
 ##### Medium Soon
