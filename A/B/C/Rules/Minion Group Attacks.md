@@ -15,7 +15,7 @@ Each minion has a group attack action that speeds up play. In a group attack, tw
 - If the group attack hits, multiply the damage by the number of minions that made the group attack. (For example, if four goblin minions hit with a group attack that deals 1 damage, their group attack deals 4 damage.)
 
 The GM decides how many minions participate in a group attack. For instance, if five minions surround a target, the GM may decide to have all five attack at once to speed up combat, or may break up the attacks among smaller groups in order to increase the odds that some minions hit while others miss. A single minion can even use their group attack action on their own—they make the attack as a normal creature would, and simply don’t benefit from any group bonuses.
-
+___
 ##### Advantage and Disadvantage
 A group attack is only made with advantage or disadvantage if all the minions making the group attack have advantage or disadvantage on the attack roll. Otherwise, the attack is made without advantage or disadvantage.
 
@@ -27,5 +27,6 @@ If a creature provokes an opportunity attack from more than one minion of the sa
 
 ___
 ***Source:*** [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
-
+___
+[[Minions]] | [[Minion Group Saves|Minion Group Saves]] | **Minion Group Attacks** | [[Overkill Attacks]]
 ___

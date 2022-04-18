@@ -11,7 +11,7 @@ creation_date: [2022-04-18]
 ___
 Powerful weapon attacks can kill more than one minion in a single maneuver called an **overkill attack**.
 
-As already discussed, a weapon attack requires only 1 point of damage to reduce a minion to 0 hit points, regardless of their hit point maximum. However, when a weapon attack’s damage does exceed the target minion’s hit point maximum, the attack becomes an overkill attack and the damage dealt beyond the minion’s hit point maximum becomes overkill damage.
+**[[Minions|As already discussed,]]** a weapon attack requires only 1 point of damage to reduce a minion to 0 hit points, regardless of their hit point maximum. However, when a weapon attack’s damage does exceed the target minion’s hit point maximum, the attack becomes an overkill attack and the damage dealt beyond the minion’s hit point maximum becomes overkill damage.
 
 Overkill damage can be applied to a second minion that has the same stat block as the target and is in overkill range (see below). Damage against the second minion is counted as if you made a weapon attack against them; since it only takes 1 point of weapon damage to reduce a minion to 0 hit points, any amount of overkill damage immediately knocks them out. But wait, it gets better—if the initial attack’s overkill damage exceeds the second minion’s hit point maximum, the leftover overkill damage can roll over to a third minion, and so on! In other words, for each time the overkill damage exceeds the new target’s hit point maximum, the attacker can choose an additional minion to reduce to 0 hit points.
 
@@ -19,7 +19,8 @@ For example, when a weapon attack deals 18 damage to a minion with a hit point m
 
 Overkill attacks can’t be made as part of an opportunity attack.
 
-##### Overkill Range
+___
+### Overkill Range
 Minions must be within a certain range to qualify for an overkill attack, determined by whether the attack is a melee or ranged attack.
 
 ***Melee Overkill Attacks.*** When a creature hits a minion with a melee weapon attack, other minions within reach of the attack are in overkill range and can be chosen as additional targets for an overkill attack. The overkill attack can’t target minions outside the weapon attack’s reach.
@@ -32,5 +33,6 @@ Minions must be within a certain range to qualify for an overkill attack, determ
 
 ___
 ***Source:*** [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
-
+___
+[[Minions]] | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | **Overkill Attacks**
 ___

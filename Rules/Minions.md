@@ -10,22 +10,23 @@ creation_date: [2022-04-12]
 ___
 **Minions** | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks]]
 ___
-*Minions are weak creatures that find strength in numbers.*
+<!---->
 
 ### Summary
+*Minions are weak creatures that find strength in numbers.*
 - No Hit Dice (HD).
-- Static damage *(don't roll for damage)*.
-- Minions of the same type act on the same turn.
+- Deal static damage *(don't roll for damage)*.
+- Minions of the same type may act on the same turn.
 ---
 - When minions take any damage from an attack, or from a failed saving throw, they are reduced to 0 HP.
 - When minions take any damage equal or higher than their Max HP, they are reduced to 0 HP.
 - Any other damage is ignored.
 ---
 - 2-5 minions can be grouped.
-- [[Minion Group Attacks|Minions may make a group attack:]] $M$ minions make one attack with a +$M$ bonus, then deal their damage $\times$  $M$. *(4 goblin minions roll 1d20 + 4 to hit, then deal 1 $\times$ 4 damage.)*
-- [[Minion Group Saves|Minions may make group saves:]] All minions in the group take the same result.
+- **[[Minion Group Attacks|Minions may make a group attack:]]** $M$ minions make one attack with a +$M$ bonus, then deal their damage $\times$  $M$. *(4 goblin minions roll 1d20 + 4 to hit, then deal 1 $\times$ 4 damage.)*
+- **[[Minion Group Saves|Minions may make group saves:]]** All minions in the group take the same result.
 ___
-- [[Overkill Attacks|Overkill Attacks vs Minions:]] If a weapon attack's damage exceeds a minion's Max HP, the additional damage can be applied to another minion within overkill range.
+- **[[Overkill Attacks|Overkill Attacks vs Minions:]]** If a weapon attack's damage exceeds a minion's Max HP, the additional damage can be applied to another minion within overkill range.
 ___
 # Minions
 Minions are weak foes that allow GMs to create dramatic combat encounters with hordes of enemies without overwhelming the characters. In fact, an encounter with minions makes characters feel heroic, since they can take on a myriad of foes and live to tell the tale.
@@ -37,7 +38,7 @@ So how do minions make running a horde of enemies quick and easy for the GM?
 -  Minions act quickly. They don’t multiattack, roll for damage, or take bonus actions or reactions, so their turns aren’t long.
 - Minions die fast. A character can kill several minions with a single weapon attack!
 - Minions have strength in numbers. Their attacks can be grouped together to make them deadlier and faster to use at the table.
-
+___
 ### No Hit Dice
 Minions have hit points but no Hit Dice, simplifying their design. Minions can’t spend Hit Dice to heal during a short rest because they have none.
 
@@ -46,7 +47,7 @@ Minions don’t roll for damage because their attacks deal a static amount of da
 
 ### Shared Turns
 Typically, all minions of the same stat block act on the same turn. Since they share a turn, the minions can each move into position then each use an action if they wish, instead of each moving and taking an action individually.
-
+___
 ### Minion Trait
 Every minion has the Minion trait, which affects the creature in the following ways:
 - If the minion takes any damage from an attack or as the result of a failed saving throw, their hit points are reduced to 0.
@@ -61,5 +62,6 @@ But the balance of combat and fiction breaks down to near-silliness at higher le
 Finally, high-level spells with a save for half damage—like fireball or meteor swarm—would feel wasted against minions with 1 hit point. Why use a higher-level spell when a lower-level one will do? Similarly, the fourth edition design could lead to a kobold minion illogically surviving a fireball spell while a “stronger” standard kobold next to them dies, despite both creatures succeeding on their saving throw. By contrast, under this book’s minion rules, spellcasters still have a good reason to use high-level spells against minions.
 ___
 ***Source:*** [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
-
+___
+**Minions** | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks]]
 ___
