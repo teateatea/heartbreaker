@@ -7,9 +7,24 @@ template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-06]
 ---
 ## Getting Started
-Hello! This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are based on Old School Essentials, the Goblin Laws of Gaming, and any other ideas that match my intended game experience.<br><br>Thank you for playing!
+Hello! This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are based on Old School Essentials, the Goblin Laws of Gaming, and any other ideas that match my intended game experience.
 
-## Characters
+Thank you for playing!
+
+## Rules
+In general, we're playing [Old School Essentials (OSE)](https://oldschoolessentials.necroticgnome.com/srd/), a remastered Beginner/Expert Dungeons & Dragons *(1st Edition)*.
+
+I intend to broadly follow the principles describes in the [Principia Apocrypha](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). I'll use *Rulings Over Rules* to keep the game moving at the table, rather than strictly following OSE. After the game, feel free to remind me about any principles you notice I've forgotten.
+
+## House Rules
+- **Major changes to classes** - See each class below for details.
+- **Permanent Death Saves** - Player Characters die on the 3rd failure of their lifetime.
+- **Ability Check vs Difficulty Class** - Improves on-boarding from modern *D&D (5e)*.
+
+- [[Money]] - Silver Standard *(1 GP = 10 SP = 50 CP)*.
+- [[Minions]] - from *Flee, Mortals! by MCDM.*
+
+## Character Creation
 [[a) Creating a New Character]]<br>[[b) Gaining XP]]<br>[[c) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Resources]]
 
 ## Classes
@@ -22,9 +37,7 @@ Hello! This is my custom roleplaying game *(which are often called heartbreaker 
 <br>
 
 ___
-## Rules
-[[Money]]
-<br>
+
 
 ___
 ## World Building
