@@ -17,11 +17,12 @@ In general, we're playing [**Old School Essentials (OSE)**](https://oldschooless
 I intend to broadly follow the principles describes in the [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). I'll use *Rulings Over Rules* to keep the game moving at the table, rather than strictly following OSE. After the game, feel free to remind me about any principles you notice I've forgotten.
 
 ## House Rules
+##### Player Characters
 - **Major changes to classes** - See each class below for details.
-- **Permanent Death Saves** - Player Characters die on the 3rd failure of their lifetime.
+- **Permanent Death Saves** - PCs die on the 3rd failure of their lifetime.
 - **Ability Check vs Difficulty Class** - Improves on-boarding from modern *D&D (5e)*.
 - **Slot-based Inventory** - Treasure hauling is a major aspect of the game.
-
+##### General Gameplay
 - [[Money]] - Silver Standard *(1 GP = 10 SP = 50 CP)*.
 - [[Minions]] - from *Flee, Mortals! by MCDM.*
 
