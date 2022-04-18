@@ -18,7 +18,7 @@ In general, we're playing [**Old School Essentials (OSE SRD)**](https://oldschoo
 
 I intend to broadly follow the principles describes in the [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). I'll use *Rulings Over Rules* to keep the game moving at the table, rather than strictly following OSE. After the game, feel free to remind me about any principles you notice I've forgotten.
 
-**[[Resources|See the Resources page for a further breakdown.]]**
+**[[Resources|See the Resources page for a further breakdown of the source material.]]**
 ___
 ## House Rules
 ##### Player Characters
