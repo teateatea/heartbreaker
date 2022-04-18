@@ -14,7 +14,7 @@ Thank you for playing!
 **[[1) Creating a New Character|Ready to jump in? Create a new character!]]**
 ___
 ## Rules
-In general, we're playing [**Old School Essentials (OSE)**](https://oldschoolessentials.necroticgnome.com/srd/), a remastered Beginner/Expert Dungeons & Dragons *(1st Edition)*.
+In general, we're playing [**Old School Essentials (OSE SRD)**](https://oldschoolessentials.necroticgnome.com/srd/), a remastered Beginner/Expert Dungeons & Dragons *(1st Edition)*.
 
 I intend to broadly follow the principles describes in the [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). I'll use *Rulings Over Rules* to keep the game moving at the table, rather than strictly following OSE. After the game, feel free to remind me about any principles you notice I've forgotten.
 ___
