@@ -13,9 +13,9 @@ To create a new Character, you need a **Character sheet** to record info about y
 A **blank map**, and somewhere to keep **notes** will be useful during play, but not necessary for now.
 
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Printable Character Sheet PDF (March 2022)]]** - *8.5" x 11", Double Sided.*
-<!-- #Revisit put the Fillable Character sheet here, with INVENTORY PAGE-->
 - **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package (November 2020).]]**
 - Additional downloads available on the **[[Resources]]** page.
+<!-- #Revisit put the Fillable Character sheet here, with INVENTORY PAGE-->
 
 Let me know if there’s anything you need!
 
