@@ -6,7 +6,7 @@ date: [2022-04-04]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-04]
 ---
-[[home|Home]] | **Character Creation** | [[2) Gaining XP|Gaining XP]] | [[3) Levelling Up|Levelling Up]] | [[d) Multiclassing|Multiclassing]]
+[[home|Home]] | **Character Creation** | [[2) Gaining XP|Gaining XP]] | [[3) Levelling Up|Levelling Up]] | [[Multiclassing|Multiclassing]]
 ___
 To create a new Character, you need a **Character sheet** to record info about your character, and an **Inventory sheet** to record your equipment. You also need a **pencil** to note things down if you're not playing digitally, and a set of **dice** *(**d20**, d12, d10, d8, **3d6**, d4)* to get started.
 

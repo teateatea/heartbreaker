@@ -47,7 +47,7 @@ At first level, choose any Tradition associated with your Culture or Ancestry. I
 ### Magic
 The Liturgies of most Sacred Traditions produce similar outcomes to Magic Spells, but Holy-Men themselves do not have inherent magical abilities. They do not have Spell Slots, and cannot activate Magic Items.
 
-Those wishing to personally cast Magic need to [[d) Multiclassing|Multiclass]] as a [[Magic-User]], which progresses more slowly than specializing.
+Those wishing to personally cast Magic need to [[Multiclassing|Multiclass]] as a [[Magic-User]], which progresses more slowly than specializing.
 
 Players looking for a [[Warlock]] class should begin here. Deities can choose a Champion, but only with an goal in mind, and many exact a price. <!-- #Revisit Warlocks still gather favour, and can use favour to a) Refresh their Spell Slots. b) Create new Spell Slots c) Use Invocations d) -->
 

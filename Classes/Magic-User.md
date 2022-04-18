@@ -33,7 +33,7 @@ Arcane Paradigms describe the various methods to learn magic, and are generally 
 | **Caspia** | [[Caspian Maestros\|Maestro]]                                        |     |
 | **Mur**    | [[Seiðkona - Murian Mages\|Seiðkona]] / [[Noita - Mura Mage\|Noita]] |     |
 
-Magic-Users can generally learn Spells based in other Paradigms without issue, so they rarely study Paradigms outside their own. If they do, this is treated as [[d) Multiclassing|Multiclassing]], which progresses more slowly than specializing.
+Magic-Users can generally learn Spells based in other Paradigms without issue, so they rarely study Paradigms outside their own. If they do, this is treated as [[Multiclassing|Multiclassing]], which progresses more slowly than specializing.
 <br><br><br>
 ___
 ### Magic-User Level Progression, continued

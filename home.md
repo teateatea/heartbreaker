@@ -29,7 +29,9 @@ ___
 - [[Minions]] - from *Flee, Mortals! by MCDM.*
 ___
 ## Character Creation
-[[1) Creating a New Character]]<br>[[2) Gaining XP]]<br>[[3) Levelling Up]]<br>[[d) Multiclassing]]<br>[[Resources]]
+[[Resources]]
+[[0) Introduction to Hot Springs Island]]
+[[1) Creating a New Character]]<br>[[2) Gaining XP]]<br>[[3) Levelling Up]]<br>
 ___
 ## Classes
 [[Fighter|Fighters]] ([[Fighter Disciplines|Disciplines]])
