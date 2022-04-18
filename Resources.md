@@ -1,7 +1,14 @@
 [[home|Home]] | [[a) Creating a New Character|Character Creation]]
 ___
-[[Character sheet pdf 1.pdf|Character Sheet (Fillable PDF) - version 4-1 (March 2022)]] *(No Inventory sheet, revisit!)*
+##### Downloads
+- **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Character Sheet Package (March 2022)]]** *(Print on 8.5" x 11", Double Sided)*
+- [[Character sheet pdf 1.pdf|Character Sheet (Fillable PDF) - version 4-1 (March 2022)]] *(No Inventory sheet, revisit!)*
 
-[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Character Sheet Package (Print on 8.5" x 11", Double Sided) - version 4-1 (March 2022)]]
 
 
+
+___
+##### Links
+[**Old School Essentials SRD**](https://oldschoolessentials.necroticgnome.com/srd/) - Message me on Discord if you want to see the full rules for some reason.
+
+[**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html)
