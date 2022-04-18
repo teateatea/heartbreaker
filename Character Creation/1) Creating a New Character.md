@@ -20,7 +20,7 @@ Some or all of these pages can be downloaded from the **[[Resources]]** page.Let
 ___
 # The Cards You Were Dealt
 ### 1. Roll Background & Appearance
-Choose or roll a **d20** on each of the ***Background & Appearance*** tables. ***[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables PDF (July 2020).]]***
+Choose or roll a **d20** on each of the ***Background & Appearance*** tables. ***![[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables PDF (July 2020).]]***
 
 *(Use the top-right box of the Character sheet for this.)*
 <br>
