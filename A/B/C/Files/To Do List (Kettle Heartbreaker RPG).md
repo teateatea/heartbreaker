@@ -9,6 +9,15 @@ creation_date: [2022-04-07]
 <!-- Home | Character Creation | -->
 [[home|Home]] 
 ___
+##### Soon[^TM]
+- Background & Apperance Tables.
+- Equipment
+- Carousing
+##### Medium Soon
+- Mystic of Vymjir (Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
+- Add 'home' to minions nav-bar
+##### Not Soon
+- Warlock class
 ```query
 content:("#Revisit")
 ```

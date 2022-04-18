@@ -24,9 +24,9 @@ Choose or roll a **d20** on each of the ***Background & Appearance*** tables. <!
 ### 2. Roll Ability Scores
 Roll **3d6** for each of your Character’s Ability scores: Constitution, Strength, Dexterity, Intelligence, Wisdom, and Charisma.
 
-*(Ability Scores are found a the top-left of the Character sheet. Use the wider rectangles to note the Ability Scores, and the squares for the Bonuses.)*
+*(Ability Scores are found a the top-left of the Character sheet. Use the first box to note the Ability Scores, and the second for the Bonuses.)*
 
-<!--For more information, see ***Ability Scores, OSE p16.***   #Revisit -->
+For more information, see [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores)
 
 <!-- #### Online Character Generation
 Steps 1-3 involve a lot of rolling, so to have those results automatically generated, click here.-->
@@ -87,7 +87,7 @@ You have access to the full Martel Armory. You may spend as much money as you wi
 ##### ***a) Note Armour Class (AC)***
 Your Armour Class (AC) indicates how hard to hurt you are, and is determined by your:
 - **Armour:** Your armour determines your base AC. If you have no armour, your base AC is [10].
-- **Dexterity bonus:** See ***Ability Scores, p16.*** <!-- #Revisit -->
+- **Dexterity bonus:** See [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores#Dexterity_.28DEX.29) 
 <br>
 ### 7. Get Backup
 Treasure hunters often band beneath anybody with a decent plan. Your Charisma limits the number of retainers you may lead. Each person gets one share, but leaders get two.

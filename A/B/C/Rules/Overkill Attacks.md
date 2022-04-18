@@ -7,7 +7,7 @@ template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-18]
 ---
 
-[[Minions]] | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | **Overkill Attacks**
+[[home|Home]] | [[Minions]] | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | **Overkill Attacks**
 ___
 Powerful weapon attacks can kill more than one minion in a single maneuver called an **overkill attack**.
 

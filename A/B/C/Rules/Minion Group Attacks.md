@@ -6,8 +6,7 @@ date: [2022-04-18]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-18]
 ---
-
-[[Minions]] | [[Minion Group Saves|Minion Group Saves]] | **Minion Group Attacks** | [[Overkill Attacks]]
+[[home|Home]] | [[Minions]] | [[Minion Group Saves|Minion Group Saves]] | **Minion Group Attacks** | [[Overkill Attacks]]
 ___
 Each minion has a group attack action that speeds up play. In a group attack, two to five minions of the same stat block that share a turn can all use their action to take the same action and attack one target, provided the target is within the attack’s reach or range for each minion.
 - Make a single attack roll for the group attack. It counts as one attack.

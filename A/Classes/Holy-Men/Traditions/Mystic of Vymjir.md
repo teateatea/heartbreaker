@@ -114,7 +114,7 @@ number of Favour points equal to double the levels you are missing to attempt to
 *Mystic Level 7*<br>In the order of the manifestation of mundane skeletons and corpses, the bestowal of major aspects of the **Restless One**, and the application of blessings or curses.
 
 ### The Fourth Liturgy
-*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and raising up to $L$ + $F$ corpses as soul-less [[Minions|minions]].* <!-- #Revisit Minion/Swarm rules -->
+*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and raising up to $L$ + $F$ corpses as soul-less [[Minions|minions]].* ->
 
 \**$L$ equals your Level, and $F$ equals the Favour offered for this invocation.*
 
@@ -142,7 +142,6 @@ As an action, Vessels can be commanded to use traits or abilities they had in li
 
 When a Vessel is reduced to 0 HP, your soul fragments return at dawn: regain their HD and add their Max HP to yours. 
 <!-- #Revisit Minion/Vessel traits based on Stat block?-->
-<!-- #Revisit Minion Swarm handling? -->
 
 ### *Deny Fate*
 You have forsaken Death completely. When you are reduced to 0 HP, do not roll Death Saves. Instead, you may choose any standing Vessel. When that Vessel next sees the sky, <!--#Revisit vessel transfer range -->it gains all of your current HD as your soul transfers into it. If you don't have any Vessels or no Vessels can be transferred to in the near future, roll up a new Character.

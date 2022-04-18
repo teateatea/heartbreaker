@@ -8,7 +8,7 @@ creation_date: [2022-04-12]
 ---
 *See also:* [[Creatures MOC]], [[Creature Roles]],  [Link to *Flee, Mortals!* Preview PDF by MCDM](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf), [[Minion Statistics by Challenge Rating|Minion Stats by CR]], [[Sample Minion]], [[Building Minion Encounters]], [[Tough Minions (Optional Rule)|Tough Minions]]
 ___
-**Minions** | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks]]
+[[home|Home]] | **Minions** | [[Minion Group Saves|Minion Group Saves]] | [[Minion Group Attacks|Minion Group Attacks]] | [[Overkill Attacks]]
 ___
 <!---->
 

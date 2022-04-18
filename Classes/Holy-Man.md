@@ -21,10 +21,9 @@ ___
 | 3     | 3,000 | 3d6 | +0  |     | 11  | 12  | 14  | 16  | 15  |
 
 ### Combat
-<!-- #Revisit Combat Magic-Users can only wield Daggers, and are unable to cast Spells while using Shields or wearing any kind of Armour. This makes them very vulnerable in combat. -->
+Holy-Men can only wield daggers, and are unable to use Invocations while using Shields or wearing any kind of Armour. This makes them very vulnerable in combat.
 
-<!--### Paradigms
-Arcane Paradigms describe the various methods to learn magic, and are generally divided by country or ancestry. At first level, Magic-Users may choose the Paradigm associated with either their Culture, or their Ancestry.-->
+Some Sacred Traditions include Combat training, and will specify the additional weapons a Holy-Man may wield, or the Armour they may wear.
 
 ### Sacred Tradition
 Sacred Traditions are the basis of the Holy-Man's power: Religions, deities, or otherworldly beings that grant wishes and miracles.
@@ -45,11 +44,13 @@ At first level, choose any Tradition associated with your Culture or Ancestry. I
 
 
 ### Magic
-The Liturgies of most Sacred Traditions produce similar outcomes to Magic Spells, but Holy-Men themselves do not have inherent magical abilities. They do not have Spell Slots, and cannot activate Magic Items.
+The Liturgies of most Sacred Traditions produce similar outcomes to Magic Spells, but Holy-Men themselves do not have inherent magical abilities. They do not have Spell Slots, and cannot activate Magic Items.[^1]
 
-Those wishing to personally cast Magic need to [[Multiclassing|Multiclass]] as a [[Magic-User]], which progresses more slowly than specializing.
+<!--Those wishing to personally cast Magic need to [[Multiclassing|Multiclass]] as a [[Magic-User]], which progresses more slowly than specializing.
 
-Players looking for a [[Warlock]] class should begin here. Deities can choose a Champion, but only with an goal in mind, and many exact a price. <!-- #Revisit Warlocks still gather favour, and can use favour to a) Refresh their Spell Slots. b) Create new Spell Slots c) Use Invocations d) -->
+Players looking for a [[Warlock]] class should begin here. Deities can choose a Champion, but only with an goal in mind, and many exact a price.-->
+
+<!-- #Revisit Warlocks still gather favour, and can use favour to a) Refresh their Spell Slots. b) Create new Spell Slots c) Use Invocations d) -->
 
 <br><br><br>
 ___
@@ -79,7 +80,10 @@ ___
 *See also:* [[Classes MOC]]
 
 *References:* *Holy-Man Class* based on the [***Cleric*** from **Old-School Essentials**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric).
-<!-- Sources, read more, links, etc. -->
+[^1]: *If you're looking for a Warlock class, please let me know. There's unexplored design space here, I just haven't gotten to it yet!* 
+
+
+<!--  Sources, read more, links, etc. -->
 <!-- *Source: Entry by [[Mike Maxin]].* -->
 <!-- *References:* -->
 <!-- Leave an empty line at the end, otherwise Exporter complains. -->
