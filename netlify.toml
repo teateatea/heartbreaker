@@ -20,7 +20,7 @@ LANDING_TITLE = ""#"Welcome!"
 # (Optional) Site title in navbar
 SITE_TITLE = "Tea's Heartbreaker Roleplaying Game"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = ""
+SITE_TITLE_TAB = "Heartbreaker RPG"
 
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = ""#"This is my custom roleplaying game <i>(which are often called heartbreaker games)</i>. The rules are based on Old School Essentials, the Goblin Laws of Gaming, and any other ideas that match my intended game experience.<br><br>Thank you for playing!"
