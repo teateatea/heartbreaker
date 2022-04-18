@@ -19,6 +19,7 @@ ___
 |   2   | 2,000  | 2d8 |  d4  |     | 12  | 13  | 14  | 15  | 16  |
 |   3   | 4,000  | 3d8 |  d5  |     | 12  | 13  | 14  | 15  | 16  |
 
+*[[Fighter#Fighter Level Progression continued|Table continued below.]]*
 
 ### Attack Bonus
 Unlike other Classes, Fighters do not have a fixed Attack Bonus at each Level. Instead, their Attack Bonus comes from their **Deed Die**.
