@@ -13,7 +13,7 @@ To create a new Character, you need a **Character sheet** to record info about y
 A **blank map**, and somewhere to keep **notes** will be useful during play, but not necessary for now.
 
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Printable Character Sheet PDF (March 2022)]]** - *8.5" x 11", Double Sided.*
-- **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package (November 2020).]]**
+- **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package PDF (November 2020).]]**
 - Additional downloads available on the **[[Resources]]** page.
 <!-- #Revisit put the Fillable Character sheet here, with INVENTORY PAGE-->
 
@@ -24,7 +24,7 @@ ___
 ### 1. Roll Background & Appearance
 Choose or roll a **d20** on each of the ***Background & Appearance*** tables. 
 
-[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Click to open PDF:]] ***[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables.]]***
+- ***[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables PDF.]]***
 
 *(Use the top-right box of your Character sheet for this.)*
 <br>
@@ -48,14 +48,14 @@ If you wish, choose any two Ability scores, and swap their scores.
 ##### ***c) Note Bonuses***
 Note the associated bonuses for each Ability score, based on the tables overleaf. 
 
-[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Click to open PDF:]] **[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses.]]**
+- ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]***
 
 *(Each Ability score gives a Bonus to other attributes, such as CON improving HP. Go around the sheet and fill in the relevant boxes now.)*<!-- #Revisit -->
 
 ___
 # The Path You Have Taken
 ### 3. Choose a Class
-Your Character's Class describes their role in the adventuring party. Select one of the available [[home#Classes|Classes]].
+Your Character's Class describes their role in the adventuring party. Select one of the available **[[home#Classes|Classes.]]**
 
 You will need the **Class Level Progression** table for this step of Character creation.
 
@@ -77,7 +77,9 @@ Note this Bonus as your Attack Bonus, indicating your skill at hitting opponents
 [[Fighter#Attack Bonus|If you are a Fighter, you have a Deed Die instead of an Attack Bonus.]]
 
 ##### ***d) Note Saving Throws***
-Note your Saving Throws<!--, listed in the Level Progression Chart for your class-->: Death, Wands, Paralysis, Breath, and Spells. These indicate your skill at avoiding different categories of danger. <!-- (see ***Saving Throws, OSE p105***).-->
+Note your Saving Throws<!--, listed in the Level Progression Chart for your class-->: **Death**, **Wands**, **Paralysis**, **Breath**, and **Spells**. These indicate your skill at avoiding different categories of danger. <!-- (see ***Saving Throws, OSE p105***).-->
+
+For more information, see ***[Saving Throws (OSE SRD, p105)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves#Saving_Throws)***
 
 ##### ***e) Note Class Abilities***
 Record any special abilities gained as a result of your class. If you have a Spellbook, ask the GM which Spells are recorded in it. The GM may allow you to choose.
@@ -93,14 +95,17 @@ Roll three d20s, and place the digits in consecutive order. This is your debt to
 ### 6. Buy Equipment
 You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure, consulting the equipment lists under ***Equipment, p42***.<!-- #Revisit --> The cost of each item is added to your debt to the Martel Company.
 
+- **[[OSE - 01-2 - Equipment List (HSI) - 2020-11-25 v1-1.pdf|Equipment List PDF]]**
+
 ##### ***a) Note Armour Class (AC)***
 Your Armour Class (AC) indicates how hard to hurt you are, and is determined by your:
 - **Armour:** Your armour determines your base AC. If you have no armour, your base AC is [10].
 - **Dexterity bonus:** See [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores#Dexterity_.28DEX.29) 
 <br>
 ### 7. Get Backup
-Treasure hunters often band beneath anybody with a decent plan. Your Charisma limits the number of retainers you may lead. Each person gets one share, but leaders get two.
-<br><br>
+Treasure hunters often band beneath anybody with a decent plan. You may lead a number of retainers up to your level, or your CHA bonus *(whichever is lower)*.
+
+Retainers expect one share of the loot, but accept that PCs get two shares each.<br><br>
 ___
 # Who Are You?
 ### 8. Name Character
