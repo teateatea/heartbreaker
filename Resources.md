@@ -5,11 +5,11 @@ ___
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Blank Character Sheet (March 2022)]]** - *Print on Letter, Double Sided.*
 
 ##### Digital
-- **[[Fighter - Premade Character (Digital) - 2022-04-19.pdf|Premade - Fighter 1 (April 2022)]]**
-- **Premade - Fighter 2 (2022)**
-- **Premade - Magic-User 1 (2022)**
-- **Premade - Magic-User 2 (2022)**
-- **Premade - Mystic 1 (2022)**
+- **[[Fighter - Premade Character (Digital) - 2022-04-19.pdf|Premade - Fighter 1]]**
+- **Premade - Fighter 2**
+- **Premade - Magic-User 1**
+- **Premade - Magic-User 2**
+- **Premade - Mystic 1**
 
 - **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package (November 2020)]]**
 <!-- - **[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables (July 2020)]]**
