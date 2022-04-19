@@ -17,6 +17,9 @@ ___
 
 ##### Medium Soon
 - Fillable Inventory page.
+- Redo Ability Score tables Page 
+	- Single table for Modifiers
+	- Single columns for specific bonuses (HP, OD, AC, Lang, Magic Saves, Loyalty, etc.)
 - Mystic of Vymjir (Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
 
 ##### Not Soon

@@ -15,7 +15,9 @@ ___
 ##### Character Creation
 *If you're in a hurry, take Village Hero. It's well-rounded for a classic Fighter.*
 
-At first level, you have 3 or 4 Disciplines available: All the Disciplines from your Culture, plus one from your Ancestry. For example, a Fighter with Maroian culture and Torian ancestry might choose from all the Maroian Disciplines (House Champion, Swordwife, and Bravo), plus the Torian Village Hero.
+At first level, you have 3 or 4 Disciplines available: **All the Disciplines from your Culture, plus one from your Ancestry.**
+
+For example, a Fighter with Maroian culture and Torian ancestry might choose from all the Maroian Disciplines *(House Champion, Swordwife, and Bravo)*, plus the Torian Village Hero.
 
 Training Disciplines at later levels generally requires the appropriate mentor, usually found in the relevant nations. For example, to train as a Blue Blade, you'll most likely need to travel to Caspia.
 

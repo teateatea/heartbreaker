@@ -45,10 +45,12 @@ If you wish, choose any two Ability scores, and swap their scores.
 
 *For example, you could switch your scores for Strength and Intelligence.*
 
-##### ***c) Note Bonuses***
+##### ***c) Note Ability Modifiers & Bonuses***
 Note the associated bonuses for each Ability score, based on the tables overleaf. 
 
 - ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]***
+
+Modifiers affect other attributes on your Character sheet too, such as Constitution providing a Bonus to your HP. Note those now.
 
 *Each Ability score gives a Bonus to other attributes, such as CON improving your Max HP. Use the second boxes to note your Bonuses now, as well as all the relevant attributes affected by those Bonuses.*
 
@@ -64,9 +66,11 @@ Your Character's Class describes their role in the adventuring party. Select one
 For this step, you will need the **Class Level Progression** table from your Class' page.
 
 ##### ***a) Note Level & Experience Points (XP)***
-New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the XP required for the next Level too.
+**New Characters begin play at 1st Level, with 0 Experience Points (XP).**
 
-[[2) Gaining XP#Funerals|If a Funeral was held for your previous Character, this Character may begin play with XP.]]
+Note the XP required for the **Next Level** too.
+
+**[[2) Gaining XP#Funerals|If a Funeral was held for your previous Character,]]**[[2) Gaining XP#Funerals| your new Character may begin play with XP.]]
 
 ##### ***b) Roll Hit Points (HP)***
 <!-- Your Level Progression table lists your Hit Dice.-->
@@ -74,11 +78,13 @@ New Characters begin play at 1st Level, with 0 Experience Points (XP). Note the 
 
 If you are beginning with more than 0 XP, roll all your Hit Dice for your Level, plus your CON $\times$ Level.
 
+Note your Hit Points as equal to your Max HP now too.
+
 ##### ***c) Note Attack Bonus (AB)***
 <!-- Your Level Progression table lists your Attack Bonus. -->
 Note this Bonus as your Attack Bonus, indicating your skill at hitting opponents in combat.
 
-[[Fighter#Attack Bonus|If you are a Fighter, you have a Deed Die instead of an Attack Bonus.]]
+**[[Fighter#Attack Bonus|If you are a Fighter,]]**[[Fighter#Attack Bonus| you have a Deed Die instead of an Attack Bonus.]]
 
 ##### ***d) Note Saving Throws***
 Note your Saving Throws<!--, listed in the Level Progression Chart for your class-->: **Death**, **Wands**, **Paralysis**, **Breath**, and **Spells**. These indicate your skill at avoiding different categories of danger. <!-- (see ***Saving Throws, OSE p105***).-->
@@ -86,7 +92,7 @@ Note your Saving Throws<!--, listed in the Level Progression Chart for your clas
 For more information, see ***[Saving Throws (OSE SRD, p105)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves#Saving_Throws)***
 
 ##### ***e) Note Class Abilities***
-Record any special abilities, Disciplines, Paradigms, or Traditions gained as a result of your class.
+Record the special abilities and equipment gained from your **Class**, and your Discipline, Paradigm, or Tradition.
 
 If you have a Spellbook, ask the GM which Spells are recorded in it. The GM may allow you to choose.
 <br><br>
@@ -109,13 +115,15 @@ Your Armour Class (AC) indicates how hard to hurt you are, and is determined by 
 - **Dexterity bonus:** See [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores#Dexterity_.28DEX.29) 
 <br>
 ### 7. Get Backup
-Treasure hunters often band beneath anybody with a decent plan. You may lead a number of retainers up to your level, or your CHA bonus *(whichever is lower)*.
+Treasure hunters often band beneath anybody with a decent plan. You may lead a number of retainers up to your level, or your CHA bonus *(whichever is higher)*.
 
 Retainers expect one share of the loot, but accept that PCs get two shares each.<br><br>
 ___
 # Who Are You?
 ### 8. Name Character
 Finally, choose or roll for your character’s true name, as well as the company name they use on missions.
+
+- ***[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|There are some Character Names on the last page of this PDF.]]***
 
 You are now ready for adventure!
 
