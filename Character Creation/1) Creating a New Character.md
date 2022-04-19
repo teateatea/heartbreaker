@@ -115,7 +115,11 @@ Your Armour Class (AC) indicates how hard to hurt you are, and is determined by 
 - **Dexterity bonus:** See [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores#Dexterity_.28DEX.29) 
 <br>
 ### 7. Get Backup
+*If this is your first time ever playing this game, skip this step for now.*
+
 Treasure hunters often band beneath anybody with a decent plan. You may lead a number of retainers up to your level, or your CHA bonus *(whichever is higher)*.
+
+
 
 Retainers expect one share of the loot, but accept that PCs get two shares each.<br><br>
 ___
