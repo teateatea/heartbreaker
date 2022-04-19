@@ -1,14 +1,17 @@
 [[home|Home]] | [[1) Creating a New Character|Character Creation]]
 ___
-##### Downloads
+### PDFs
+##### Print
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Character Sheet Package (March 2022)]]** - *Print on 8.5" x 11", Double Sided.*
-- [[Character sheet pdf 1.pdf|Character Sheet (Fillable PDF) - version 4-1 (March 2022)]] - *No Inventory sheet, revisit!*
+
+##### Digital
+- **[[Fighter - Premade Character (Digital) - 2022-04-19.pdf|Fighter - Premade Character - (March 2022)]]**
 
 - **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package (November 2020)]]**
-- **[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables (July 2020)]]**
-
+<!-- - **[[OSE - 01-01 - Background & Appearance Tables - 2020-07-20.pdf|Background & Appearance Tables (July 2020)]]**
+ [[Character sheet pdf 1.pdf|Character Sheet (Fillable PDF) - version 4-1 (March 2022)]] - *No Inventory sheet, revisit!* -->
 ___
-##### Links
+### Links
 - Main rule set is [**Old School Essentials SRD**](https://oldschoolessentials.necroticgnome.com/srd/) or [**OSE Basic Rules** *(Free Text-Only PDF)*](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules) by [**Necrotic Gnome**,](https://necroticgnome.com/) *message me for the full rules!*
 - RPG guiding principles from [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) by [**Ben Milton**,](https://questingblog.com/) [**Steven Lumpkin**,](https://roll1d100.blogspot.com/) and [**David Perry**.](https://lithyscaphe.blogspot.com/)
 ---
