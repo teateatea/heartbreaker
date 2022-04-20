@@ -45,7 +45,7 @@ ___
 
 **[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
 
-**~~LotFP Specialist~~** (*not yet!*)
+**~~Specialist~~** (*not yet!*)
 <br>
 
 ___
