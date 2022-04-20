@@ -3,7 +3,7 @@ aliases: [Micia, The Lorn Mother]
 ---
 # Micia, the Lorn Mother
 ## Goddess of Loss and Longing
-*See also:* [[Gods]], [Bastion Wiki: Micia](https://bastion.fandom.com/wiki/Micia "Micia") , [[Death]], [[Life]], [[Mothers]], [[Star of the Hearth]], [[Dreams, Visions, and Prophesies]], [[SHO - God of Faith|SHO(Faith)]], [[Earth]]
+*See also:* [[Gods]], [Bastion Wiki: Micia](https://bastion.fandom.com/wiki/Micia "Micia") , [[Death (Theme)]], [[Life]], [[Mothers]], [[Star of the Hearth]], [[Dreams, Visions, and Prophesies]], [[SHO - God of Faith|SHO(Faith)]], [[Earth]]
 ___
 She's described as the Mother who apparently gives birth to all, and awaits to greet the dead.
 

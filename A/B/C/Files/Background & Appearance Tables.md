@@ -7,7 +7,7 @@ template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-18]
 ---
 # Background & Appearance Tables
-*See also:* [[Chracter Creation Package]]
+*See also:* [[Character Creation Package]]
 ___
 | d20 | CULTURE          |     |                  |
 | --- | ---------------- | --- | ---------------- |

@@ -7,7 +7,7 @@ template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-04]
 ---
 # The Restless One
-*See also:* #Gods [[Death]], [[The Spiritual Plane]], [[The Dead]], [[Undead]], [[SHO - God of Faith|SHO(Faith)]], [[The Caspian Pantheon]], [[Knowledge]], [[Desire for Knowledge]], [[Caspian God of Knowledge]], [[Mystic of Vymjir]]
+*See also:* #Gods [[Death (Theme)]], [[The Spiritual Plane]], [[The Dead]], [[Undead]], [[SHO - God of Faith|SHO(Faith)]], [[The Caspian Pantheon]], [[Knowledge]], [[Desire for Knowledge]], [[Caspian God of Knowledge]], [[Mystic of Vymjir]]
 ___
 #### The Undying One
 #### Keeper of the [[Shadow Tome]]

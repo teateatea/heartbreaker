@@ -2,7 +2,7 @@
 aliases: [Saint Ena Mora]
 ---
 # Saint Ena Mora
-*See also:* #Gods #Tor [[The Spiritual Plane]], [[Silence]], [[Death]], [[The Dead]], [[SHO - God of Faith|SHO(Faith)]]
+*See also:* #Gods #Tor [[The Spiritual Plane]], [[Silence]], [[Death (Theme)]], [[The Dead]], [[SHO - God of Faith|SHO(Faith)]]
 ___
 #### Patron Saint of Silence & Death
 #### Lady of the Long Silence
