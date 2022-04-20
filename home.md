@@ -14,7 +14,7 @@ Thank you for playing!
 **Ready to jump in? Choose a  [[Premade Characters|Premade Character,]] or create a  [[1) Creating a New Character|New Character!]]**
 ___
 ## [[Rules]]
-We'll be playing [**Old-School Essentials (OSE)**](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules) , a remastered 1st Edition Dungeons & Dragons *(B/X D&D)*. [The online SRD available here,](https://oldschoolessentials.necroticgnome.com/srd/) but I don't expect you to read all the rules before we play. I *do* expect you to read your Character's Features, Abilities and Spells, so that you have an overall sense of your role in the party.
+We'll be playing [**Old-School Essentials (OSE)**](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules) , a remastered 1st Edition Dungeons & Dragons *(B/X D&D)*. The [**online SRD is available here,**](https://oldschoolessentials.necroticgnome.com/srd/) but I don't expect you to read all the rules before we play. I *do* expect you to read your Character's Features, Abilities and Spells, so that you have an overall sense of your role in the party.
 
 I’m using house-rules whenever the OSE rules don’t match my intended experience. For example, the amount of stuff that you can carry will feature more heavily in this game, than in the average OSE game, so I’ve made adjustments for a more tactile, slot-based inventory system.
 
