@@ -41,8 +41,8 @@ ___
 [[Time, Weight, Movement]]
 [[Checks, Damage, Saves]] ([[Healing & Death]])
 [[Hazards and Challenges]]
-[Dungeon Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring)
-[Wilderness Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring)
+[[Dungeon Adventuring]]
+[[Wilderness Adventuring]]
 [[Waterborne Adventuring]]
 [[Encounters]]
 [[Evasion and Pursuit]]
