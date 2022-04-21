@@ -7,7 +7,7 @@ template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | **Healing & Death**
+[[home|Home]] | [[Rules]] | Adventures | **Healing & Death**
 ___
 All characters and monsters have a hit point total, which represents their ability to avoid death. Many attack forms, including attacks with weapons in combat, subtract hit points from this pool.
 ___

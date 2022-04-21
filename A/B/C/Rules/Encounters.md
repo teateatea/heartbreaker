@@ -7,15 +7,14 @@ template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | **Encounters**
+[[home|Home]] | [[Rules]] | Adventures | **Encounters**
 ___
 
 
 ___
-[Encounters](https://oldschoolessentials.necroticgnome.com/srd/index.php/Encounters)<!--*See also:* 
-
+[Encounters](https://oldschoolessentials.necroticgnome.com/srd/index.php/Encounters)
+<!--*See also:* 
 *References:*
-
 *Source:* -->
 <!-- Sources, read more, links, etc. -->
 <!-- *Source: Entry by [[Mike Maxin]].* -->

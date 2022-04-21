@@ -7,7 +7,7 @@ template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | **Evasion and Pursuit**
+[[home|Home]] | [[Rules]] | Adventures | **Evasion and Pursuit**
 ___
 
 
