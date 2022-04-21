@@ -39,8 +39,8 @@ ___
 ### Adventures
 [[Party Organisation]]
 [[Time, Weight, Movement]]
-[Checks, Damage, Saves](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) ([[Healing & Death]])
-[Hazards and Challenges](https://oldschoolessentials.necroticgnome.com/srd/index.php/Hazards_and_Challenges)
+[[Checks, Damage, Saves]] ([[Healing & Death]])
+[[Hazards and Challenges]]
 [Dungeon Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring)
 [Wilderness Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring)
 [[Waterborne Adventuring]]
@@ -58,7 +58,7 @@ ___
 *Source:* [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
 - *Alignment* page removed.
 - *Cleric Spells* page removed.
-- The following pages remain part of the game, but are GM-facing and are not presented above:
+- The following pages remain part of the game, but aren't player-facing so they aren't presented above:
 	- Removed GM-facing pages related to *Adventures:* *Waterborne Adventuring; Combat Tables.*
 	- Removed GM-facing pages related to *Monsters*: *General; Monster Descriptions; Dungeon Encounters; Wilderness Encounters; Adventuring Parties; Stronghold Encounters.*
 	- Removed GM-facing pages related to *Treasure*: *Placing Treasure; Treasure Types; Gems and Jewellery; Magic Items (General); Armour and Shields; Miscellaneous Items; Potions; Rings; Rods, Staves, Wands; Scrolls and Maps; Weapons; Swords; Sentient Swords.*

@@ -7,7 +7,7 @@ template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | **Waterborne Adventuring**
+[[home|Home]] | [[Rules]] | Adventures | **Waterborne Adventuring**
 ___
 ### Sequence of Play Per Day
 1. **Decide course:** The players decide on their course of travel for the day.

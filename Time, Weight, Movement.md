@@ -33,9 +33,9 @@ ___
 #### Time: Rounds and Turns
 Aside from everyday time increments (minutes, hours, days, and so on), the following special units are used in the game. 
 
-**Turns:** 10 minutes of game time. There are 6 turns in an hour. Time is measured in turns when exploring dungeons (see [[Dungeon Adventuring]]).
+**Turns:** 10 minutes of game time. There are 6 turns in an hour. Time is measured in turns when exploring dungeons (see [[Dungeon Adventuring]]). <!-- #Revisit -->
 
-**Rounds:** 10 seconds of game time. There are 60 rounds in a turn. Time is measured in rounds during encounters, especially in combat (see [[Encounters]] and [[Combat]]).
+**Rounds:** 10 seconds of game time. There are 60 rounds in a turn. Time is measured in rounds during encounters, especially in combat (see [[Encounters]] and [[Combat]]). <!-- #Revisit -->
 
 ##### Distance: Inches, Feet, Yards, Miles
 Staying true to its origins, this game uses imperial or customary US units. Distances are measured in inches (notated with a ”), feet (notated with a ’), yards, and miles.
@@ -51,11 +51,12 @@ Staying true to its origins, this game uses imperial or customary US units. Dist
 Weight measures typically come into play only when discussing how much characters can carry (see **Encumbrance**).
 As coins are the most common form of treasure found by adventurers, all weights are measured in coins. (Ten coins are equivalent to one pound.)
 
+___
 ### Encumbrance (Optional Rule)
 
 Some groups may wish to use a system to track the amount of gear and treasure a character can carry and how this affects their movement rate.
 
-###= Tracking Encumbrance ###= 
+##### Tracking Encumbrance
 
 Encumbrance is a measure of both the weight and bulk a character is carrying.
 
@@ -106,7 +107,7 @@ Encumbrance is a measure of both the weight and bulk a character is carrying.
 |}
 
 
-###= Option 1: Basic Encumbrance ###= 
+##### Option 1: Basic Encumbrance
 
 **Treasure:** The weight of treasure carried is tracked to make sure that the character’s maximum load is not exceeded.
 
@@ -141,7 +142,7 @@ Encumbrance is a measure of both the weight and bulk a character is carrying.
 |}
 
 
-###= Option 2: Detailed Encumbrance ###= 
+##### Option 2: Detailed Encumbrance
 
 **Treasure:** The weight of coins and other treasure carried is tracked.
 

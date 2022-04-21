@@ -15,17 +15,21 @@ ___
 
 **Level:** As new PCs join play, the experience levels of the characters in the party may diverge. It is recommended that characters more than four levels apart should adventure separately, as challenges and rewards suitable to characters of greatly different experience levels do not match.
 
+___
 ### Marching Order
 Before starting an adventure, the players should determine the normal arrangement of their PCs when exploring. This is known as the party’s marching order. For example, players may decide to move in a two-column formation, with well-armoured characters in front, weaker characters in the middle, and a rear guard. The group may define different standard marching orders for common situations (e.g. standard exploration, combat, opening doors, searching, etc.).
 
+___
 ### The Caller
 If the players wish to, they may nominate one of their number as the spokesperson of the group, known as the caller. This player is responsible for informing the referee about the actions and movements of the party as a whole. Delegating this role to one player—rather than having each player informing the referee about their PC’s individual actions—can speed up play.
 
 The caller’s character usually takes on the role of party leader and should thus have a high Charisma score and be located near to the front of the party.
 
+___
 ### The Mapper
 One player should create a map of the areas being explored, based on the referee’s descriptions. Details such as monsters or traps encountered, clues to puzzles, or possibly interesting unexplored areas may be noted on the map as it is drawn.
 
+___
 ### Dividing Treasure
 The spoils of an adventure may be divided between surviving characters in whatever way the players agree on.
 
