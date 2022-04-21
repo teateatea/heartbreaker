@@ -37,8 +37,8 @@ ___
 [[Magic-User Spells]]
 
 ### Adventures
-[Party Organisation](https://oldschoolessentials.necroticgnome.com/srd/index.php/Party_Organisation)
-[Time, Weight, Movement](https://oldschoolessentials.necroticgnome.com/srd/index.php/Time,_Weight,_Movement)
+[[Party Organisation]]
+[[Time, Weight, Movement]]
 [Checks, Damage, Saves](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves) ([[Healing & Death]])
 [Hazards and Challenges](https://oldschoolessentials.necroticgnome.com/srd/index.php/Hazards_and_Challenges)
 [Dungeon Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring)
