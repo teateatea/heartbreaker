@@ -43,7 +43,7 @@ ___
 [Hazards and Challenges](https://oldschoolessentials.necroticgnome.com/srd/index.php/Hazards_and_Challenges)
 [Dungeon Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Dungeon_Adventuring)
 [Wilderness Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wilderness_Adventuring)
-[Waterborne Adventuring](https://oldschoolessentials.necroticgnome.com/srd/index.php/Waterborne_Adventuring)
+[[Waterborne Adventuring]]
 [[Encounters]]
 [[Evasion and Pursuit]]
 [[Combat]]
