@@ -22,11 +22,22 @@ ___
 **[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
 **~~Specialist~~** (*not yet!*)
 
-[[Minions]]
-
+### Equipment & Services
 [[Money]]
 
+### Magic
+
+
+### Adventures
 [[Healing & Death]]
+
+
+### Monsters
+[[Minions]]
+
+
+### Treasures
+
 
 ___
 *Source:* [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
