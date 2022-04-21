@@ -6,7 +6,7 @@ date: [2022-04-04]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-04]
 ---
-[[home|Home]] | [[1) Creating a New Character|Character Creation]] | [[2) Gaining XP|Gaining XP]] | [[3) Levelling Up|Levelling Up]] | **Multiclassing**
+[[home|Home]] | [[Rules]] | [[1) Creating a New Character|Character Creation]] | [[2) Gaining XP|Gaining XP]] | [[3) Levelling Up|Levelling Up]] | **Multiclassing**
 ___
 At each level, you may choose to train as a different class than your own. 
 
