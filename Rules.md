@@ -10,11 +10,11 @@ creation_date: [2022-04-20]
 [[home|Home]] | **Rules**
 ___
 ### Characters
-[[Game Statistics]]
+**[[Game Statistics]]
 [[1) Creating a New Character|Creating a New Character]]
 [[Ability Scores]]
 [[Languages]]
-[[Advancement]]
+[[Advancement]]**
 
 ### Classes
 **[[Fighter|Fighter]]** ([[Fighter Disciplines|Disciplines]])
@@ -37,18 +37,16 @@ ___
 [[Magic-User Spells]]
 
 ### Adventures
-[[Party Organisation]]
-[[Time, Weight, Movement]]
+**[[Party Organisation]]**
+**[[Time, Weight, Movement]]**
+
 [[Checks, Damage, Saves]] ([[Healing & Death]])
-[[Hazards and Challenges]]
-[[Dungeon Adventuring]]
-[[Wilderness Adventuring]]
-[[Waterborne Adventuring]]
-[[Encounters]]
-[[Evasion and Pursuit]]
-[[Combat]]
-[[Other Combat Issues]]
-[[Morale]]
+
+[[Encounters]] | [[Hazards and Challenges]] | [[Evasion and Pursuit]]
+
+[[Dungeon Adventuring]] | [[Wilderness Adventuring]] | [[Waterborne Adventuring]]
+
+[[Combat]] | [[Other Combat Issues]] | [[Morale]]
 
 ### Monsters
 [[Minions]]

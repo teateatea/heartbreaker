@@ -6,7 +6,6 @@ date: [2022-04-20]
 template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
-<!-- Home | Character Creation | -->
 [[home|Home]] | [[Rules]] | Adventures | **Time, Weight, Movement**
 ___
 ### Tracking Time
@@ -47,135 +46,20 @@ Staying true to its origins, this game uses imperial or customary US units. Dist
 
 1 mile = 1,760 yards = 5,280 feet
 
-##### Weight: Coins
-Weight measures typically come into play only when discussing how much characters can carry (see **Encumbrance**).
-As coins are the most common form of treasure found by adventurers, all weights are measured in coins. (Ten coins are equivalent to one pound.)
+##### Weight: Slots
+Weight measures typically come into play only when discussing how much characters can carry (see [[Inventory|Encumbrance]]).<!-- #Revisit 
+As coins are the most common form of treasure found by adventurers, all weights are measured in coins. (Ten coins are equivalent to one pound.)-->
 
 ___
-### Encumbrance (Optional Rule)
+### [[Inventory|Encumbrance]]
 
-Some groups may wish to use a system to track the amount of gear and treasure a character can carry and how this affects their movement rate.
-
-##### Tracking Encumbrance
-
-Encumbrance is a measure of both the weight and bulk a character is carrying.
-
-**Treasure:** The encumbrance of treasure carried by a character should be tracked. The encumbrance of common items of treasure is shown in the table below. The referee should decide the weight of other forms of treasure.
-
-**Equipment:** Two options for tracking the encumbrance of characters’ equipment are presented to the right. The same system should be applied to all characters.
-
-**Maximum load:** The maximum load any character can carry is 1,600 coins of weight. Characters carrying more than this cannot move.
-
-##### Treasure Encumbrance in Coins
-
-{| style="border-spacing:0;"
-| style="border:none; padding: 8px;;"| **Treasure**
-| style="border:none; padding: 8px;;"| **Weight in Coins**
-
-|-
-| style="border:none; padding: 8px;;"| Coin (any type)
-| style="border:none; padding: 8px;;"| <div align="right">1</div>
-
-|-
-| style="border:none; padding: 8px;;"| Gem
-| style="border:none; padding: 8px;;"| <div align="right">1</div>
-
-|-
-| style="border:none; padding: 8px;;"| Jewellery (1 piece)
-| style="border:none; padding: 8px;;"| <div align="right">10</div>
-
-|-
-| style="border:none; padding: 8px;;"| Potion
-| style="border:none; padding: 8px;;"| <div align="right">10</div>
-
-|-
-| style="border:none; padding: 8px;;"| Rod
-| style="border:none; padding: 8px;;"| <div align="right">20</div>
-
-|-
-| style="border:none; padding: 8px;;"| Scroll
-| style="border:none; padding: 8px;;"| <div align="right">1</div>
-
-|-
-| style="border:none; padding: 8px;;"| Staff
-| style="border:none; padding: 8px;;"| <div align="right">40</div>
-
-|-
-| style="border:none; padding: 8px;;"| Wand
-| style="border:none; padding: 8px;;"| <div align="right">10</div>
-
-|}
-
-
-##### Option 1: Basic Encumbrance
-
-**Treasure:** The weight of treasure carried is tracked to make sure that the character’s maximum load is not exceeded.
-
-**Equipment:** The weight of armour, weapons, and adventuring gear is not tracked and does not count towards a character’s maximum load.
-
-**Movement rate:** Is determined by the type of armour the character is wearing and whether they are carrying a significant amount of treasure (as judged by the referee). The actual weight of the treasure carried does not affect movement rate.
- 
-{| style="border-spacing:0;"
-| style="border:none; padding: 8px;"| 
-| colspan="2"  style="border:none; padding: 8px;"| **Movement Rate**
-
-|-
-| style="border:none; padding: 8px;"| **Armour Worn**
-| style="border:none; padding: 8px;"| **Without Treasure**
-| style="border:none; padding: 8px;"| **Carrying Treasure**
-
-|-
-| style="border:none; padding: 8px;"| Unarmoured
-| style="border:none; padding: 8px;"| 120’ (40’)
-| style="border:none; padding: 8px;"| 90’ (30’)
-
-|-
-| style="border:none; padding: 8px;"| Light armour
-| style="border:none; padding: 8px;"| 90’ (30’)
-| style="border:none; padding: 8px;"| 60’ (20’)
-
-|-
-| style="border:none; padding: 8px;"| Heavy armour
-| style="border:none; padding: 8px;"| 60’ (20’)
-| style="border:none; padding: 8px;"| 30’ (10’)
-
-|}
-
-
-##### Option 2: Detailed Encumbrance
-
-**Treasure:** The weight of coins and other treasure carried is tracked.
-
-**Equipment:** The weight of the character’s armour and weapons is also tracked (the weight of these items is listed in the genre rules book). Miscellaneous adventuring gear (backpack, spikes, sacks, etc.) may be counted as 80 coins of weight.
-
-**Movement rate:** The character’s movement rate is based on the total weight of all significant items carried, including treasure, weapons, and armour.
-
-{| style="border-spacing:0;"
-| style="border:none; padding: 8px;;"| **Encumbrance**
-| style="border:none; padding: 8px;;"| **Movement Rate**
-
-|-
-| style="border:none; padding: 8px;;"| Up to 400 coins
-| style="border:none; padding: 8px;;"| 120’ (40’)
-
-|-
-| style="border:none; padding: 8px;;"| Up to 600 coins
-| style="border:none; padding: 8px;;"| 90’ (30’)
-
-|-
-| style="border:none; padding: 8px;;"| Up to 800 coins
-| style="border:none; padding: 8px;;"| 60’ (20’)
-
-|-
-| style="border:none; padding: 8px;;"| Up to 1,600 coins
-| style="border:none; padding: 8px;;"| 30’ (10’)
-
-|}
+#Revisit 
 
 
 ___
 *Source:* [Time, Weight, Movement - OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Time,_Weight,_Movement)
-
+- *Weight: Coins* changed to *Weight: Slots* to reflect the Slot-based Inventory.
+- *Encumbrance (Optional Rule)* replaced with Slot-based Inventory.
 <!--*See also:* 
 *References:*
 *Source:* -->
