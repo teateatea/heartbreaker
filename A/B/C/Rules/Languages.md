@@ -22,12 +22,13 @@ ___
 Many demihuman and intelligent monster species have their own language, which player characters may be able to learn. The following languages are common and may be chosen by player characters with high Intelligence *(at the referee’s discretion)*:
 
 ##### Common Languages
-- **Dwarvish**
-- **Elvish**
-- **Goblin**
-- **Kobold**
-- **Orcish**
-- **Human dialect**
+- Dwarvish
+- Elvish
+- Goblin
+- Halfling
+- Kobold
+- Orcish
+- Human dialect
 
 ##### Uncommon Languages
 - Bugbear
@@ -36,7 +37,7 @@ Many demihuman and intelligent monster species have their own language, which pl
 - Gargoyle
 - Gnoll
 - Gnomish
-- Halfling
+
 - Harpy
 - Hobgoblin
 - Lizard man
