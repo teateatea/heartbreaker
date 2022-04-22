@@ -13,6 +13,17 @@ Thank you for playing!
 
 **Ready to jump in? Choose a  [[Premade Characters|Premade Character,]] or create a  [[1) Creating a New Character|New Character!]]**
 ___
+## Classes
+**[[Fighter|Fighter]]** ([[Fighter Disciplines|Disciplines]])
+<!-- Mystic, Gish, Thief, Face/Bard -->
+
+**[[Magic-User|Magic-User]]** ([[Wizard|Wizards]])
+
+**[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
+
+**~~Specialist~~** (*not yet!*)
+
+___
 ## [[Open Table|Open Table Logistics]]
 *Lorem ipsum etc.*
 ___
@@ -36,21 +47,7 @@ ___
 ##### General Gameplay
 - **[[Money]]** - Silver Standard *(1 GP = 10 SP = 50 CP)*.
 - **[[Minions]]** - from *Flee, Mortals! by MCDM.*
-___
-## Character Creation
-**[[Resources]]
-[[0) Introduction to Hot Springs Island]]
-[[1) Creating a New Character]]<br>[[2) Gaining XP]]<br>[[3) Levelling Up]]**<br>
-___
-## Classes
-**[[Fighter|Fighter]]** ([[Fighter Disciplines|Disciplines]])
-<!-- Mystic, Gish, Thief, Face/Bard -->
 
-**[[Magic-User|Magic-User]]** ([[Wizard|Wizards]])
-
-**[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
-
-**~~Specialist~~** (*not yet!*)
 <br>
 
 ___
