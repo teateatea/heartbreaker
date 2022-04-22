@@ -89,10 +89,13 @@ Note this Bonus as your Attack Bonus, indicating your skill at hitting opponents
 ##### ***d) Note Saving Throws***
 Note your Saving Throws<!--, listed in the Level Progression Chart for your class-->: **Death**, **Wands**, **Paralysis**, **Breath**, and **Spells**. These indicate your skill at avoiding different categories of danger. <!-- (see ***Saving Throws, OSE p105***).-->
 
-For more information, see ***[Saving Throws (OSE SRD, p105)](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves#Saving_Throws)***
+For more information, see ***[Saving Throws (OSE SRD, p105).](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves#Saving_Throws)***
 
 ##### ***e) Note Class Abilities***
-Record the special abilities and equipment gained from your **Class**, and your Discipline, Paradigm, or Tradition.
+Record the special abilities and equipment gained from your **Class**.
+- Fighters need to choose their **[[Fighter Disciplines|Discipline.]]
+- Magic-Users need to choose their **[[Wizard|Paradigm]]**.
+- Holy-Men need to choose their **[[Sacred Tradition]].**
 
 If you have a Spellbook, ask the GM which Spells are recorded in it. The GM may allow you to choose.
 <br><br>
