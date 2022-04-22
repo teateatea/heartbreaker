@@ -11,8 +11,8 @@ creation_date: [2022-04-22]
 ___
 
 # Time Keeping
-“YOU CANNOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.”
-– Gary Gygax, *Dungeon Master’s Guide*
+> “YOU CANNOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.”
+> – Gary Gygax, *Dungeon Master’s Guide*
 
 - **For each day that passes in the real world, a day also passes in the game world.** 
 
