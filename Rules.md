@@ -51,9 +51,6 @@ ___
 ### Monsters
 [[Minions]]
 
-### Open Table
-**[[Scheduling]]**
-**[[Time Keeping]]**
 ___
 *Source:* [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
 - *Alignment* page removed.
