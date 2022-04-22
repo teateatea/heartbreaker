@@ -9,8 +9,8 @@ ___
 ##### Print
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Blank Character Sheet (March 2022)]]** - *Print on Letter, Double Sided.*
 ___
-# Rules & Source Links
-### Main Gameplay
+# Sources for Rules & House-Rules
+### Main Gameplay Rules
 - Main rule set is [**Old School Essentials SRD**](https://oldschoolessentials.necroticgnome.com/srd/) or [**OSE Basic Rules** *(Free Text-Only PDF)*](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules) by [**Necrotic Gnome**,](https://necroticgnome.com/) *message me for the full rules!*
 - RPG guiding principles from [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) by [**Ben Milton**,](https://questingblog.com/) [**Steven Lumpkin**,](https://roll1d100.blogspot.com/) and [**David Perry**.](https://lithyscaphe.blogspot.com/)
 ---
