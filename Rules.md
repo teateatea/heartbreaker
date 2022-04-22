@@ -51,6 +51,8 @@ ___
 ### Monsters
 [[Minions]]
 
+### Open Table
+[[Scheduling]]
 
 ___
 *Source:* [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
