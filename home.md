@@ -34,7 +34,7 @@ I’m using house-rules whenever the OSE rules don’t match my intended experie
 
 I intend to broadly follow the principles described in the [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). For example, I'll use *'Rulings Over Rules'* to keep the game moving at the table, rather than strictly following OSE. After the game, we can have a look for what the rules are *supposed* to be. And feel free to remind me about any principles you notice I've forgotten.
 
-**[[Rules|Click here to read the Rules,]]**
+**[[Rules|Click here to read the Rules.]]**
 ___
 ## House Rules
 **[[Resources|See the Resources page to learn about the source material.]]**
