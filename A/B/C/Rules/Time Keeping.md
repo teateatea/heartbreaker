@@ -6,7 +6,7 @@ date: [2022-04-22]
 template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-04-22]
 ---
-[[home|Home]] | [[Open Table Logistics]] | **Time Keeping**
+[[home|Home]] | [[Open Table]] | **Time Keeping**
 ___
 > “YOU CANNOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.”
 > – Gary Gygax, *Dungeon Master’s Guide*

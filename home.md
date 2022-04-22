@@ -13,7 +13,7 @@ Thank you for playing!
 
 **Ready to jump in? Choose a  [[Premade Characters|Premade Character,]] or create a  [[1) Creating a New Character|New Character!]]**
 ___
-## [[Open Table Logistics]]
+## [[Open Table]]
 *Lorem ipsum etc.*
 ___
 ## [[Rules]]

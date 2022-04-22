@@ -7,7 +7,7 @@ template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-04-22]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | [[Open Table Logistics]] | **Escaping the Island!**
+[[home|Home]] | [[Open Table]] | **Escaping the Island!**
 ___
 The expectation is for the Player Characters to begin, and end, each session at home base. In general, the players should make their way to the coast, signal for a pick up and end the session normally.
 

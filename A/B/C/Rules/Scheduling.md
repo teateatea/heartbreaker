@@ -7,7 +7,7 @@ template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-04-22]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | [[Open Table Logistics]] | **Scheduling**
+[[home|Home]] | [[Open Table]] | **Scheduling**
 ___
 # Communication & Community
 We'll be using **Discord**! If you're reading this, you've probably already been invited.

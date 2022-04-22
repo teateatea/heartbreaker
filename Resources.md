@@ -1,4 +1,4 @@
-[[home|Home]] | [[1) Creating a New Character|Character Creation]]
+[[home|Home]] | [[Open Table]] | **Resources** | [[Rules]] | [[1) Creating a New Character|Character Creation]]
 ___
 # Downloads & PDFs
 ##### Digital

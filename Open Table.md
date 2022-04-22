@@ -7,7 +7,7 @@ template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-04-22]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | **Open Table Logistics**
+[[home|Home]] | **Open Table** | [[Resources]] | [[Rules]] 
 ___
 **[[Scheduling]]**
 **[[Arriving Mid-Session]]**
