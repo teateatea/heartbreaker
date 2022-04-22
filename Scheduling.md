@@ -1,5 +1,5 @@
 ---
-aliases: [Open Table Protocols]
+aliases: [Scheduling]
 tags: []
 author: [Joseph Liao Gormley]
 date: [2022-04-22]
@@ -7,7 +7,7 @@ template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-04-22]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | [[Rules]] | Open Table Protocols | **Scheduling**
+[[home|Home]] | [[Rules]] | Open Table | **Scheduling**
 ___
 # Communication & Community
 We'll be using **Discord**! If you're reading this, you've probably already been invited.
@@ -31,7 +31,7 @@ I like to spend time with you guys, so the usual plan is potluck dinner. Please 
 ___
 # Pre-Game Hour
 ##### Character Creation
-New players are encouraged to arrive early to create their first Characters, so that we can start the game on time. If this isn't possible on game day, let's schedule a call or meeting on a different day for onboarding, which takes 30-60 minutes *(depending on how much we chat lol)*. In a pinch, you'll get a [[Premade Characters|Premade Character]], and will be dropped in blind.
+New players are encouraged to arrive early to create their first Characters, so that we can start the game on time. If this isn't possible on game day, let's schedule a call or meeting on a different day for onboarding, which takes 30-60 minutes *(depending on how much we chat lol)*. In a pinch, you'll get a **[[Premade Characters|Premade Character]]**, and will be dropped in blind.
 
 ##### Upkeep Tasks
 *Upkeep tasks include things like advancing Characters, managing Hirelings, purchasing new equipment, managing or checking the progress of downtime activities like arcane research, etc.*
