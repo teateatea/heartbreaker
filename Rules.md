@@ -52,8 +52,8 @@ ___
 [[Minions]]
 
 ### Open Table
-[[Scheduling]]
-
+**[[Scheduling]]**
+**[[Open Table Game Rules]]**
 ___
 *Source:* [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
 - *Alignment* page removed.
