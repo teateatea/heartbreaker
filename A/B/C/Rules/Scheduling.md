@@ -7,7 +7,7 @@ template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-04-22]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | [[Rules]] | Open Table | **Scheduling**
+[[home|Home]] | [[Open Table Logistics]] | **Scheduling**
 ___
 # Communication & Community
 We'll be using **Discord**! If you're reading this, you've probably already been invited.
@@ -38,6 +38,11 @@ New players are encouraged to arrive early to create their first Characters, so 
 
 Players who want to do upkeep tasks for established characters are encouraged to do this on Discord, but are welcome to join the pre-game hour to do these activities in person. Please let me know ahead of time if you want to do this *(otherwise I might be making dinner lol).*
 
+___
+# Sequel Sessions
+If the evening is coming to a close, and the party is in the middle of something important, we can plan a sequel session to continue from this point rather than start anew. In order to continue this expedition, *everyone at the table must agree to a date and time within the next 10 days.*
+
+If that session does not happen for any reason, each character must roll on the **[[End of Session|Escaping the Island!]]** table above to determine how *(or if)* they got home.
 ___
 *See also:* [[The Open Table Manifesto]].
 *Source:* [*Open Table Manifesto* by The Alexandrian](https://thealexandrian.net/?p=38643)
