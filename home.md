@@ -24,8 +24,12 @@ ___
 **~~Specialist~~** (*not yet!*)
 
 ___
-## [[Open Table|Open Table Logistics]]
-*Lorem ipsum etc.*
+## [[Open Table]]
+I'd like to run games with four players, but there are more than four of you interested in playing! So I'm trying out the idea of an open table, where players swap in and out as schedule permits.
+
+To make that work, with a free-form sandbox game rather than a consistent storyline or campaign. Players are encouraged to keep a stable of characters to play, as they're likely to be joining slightly different parties each session.
+
+**See [[Scheduling]] to get started, or all the [[Open Table|Open Table logistics]] in detail.
 ___
 ## [[Rules|The Rules]]
 We'll be playing [**Old-School Essentials (OSE)**](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules) , a remastered 1st Edition Dungeons & Dragons *(B/X D&D)*. The [**online SRD is available here,**](https://oldschoolessentials.necroticgnome.com/srd/) but I don't expect you to read all the rules before we play. I *do* expect you to read your Character's Features, Abilities and Spells, so that you have an sense of your role in the party.
