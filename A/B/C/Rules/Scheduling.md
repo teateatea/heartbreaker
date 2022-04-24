@@ -14,7 +14,7 @@ We'll be using **Discord**! If you're reading this, you've probably already been
 
 ___
 # Joining a Game
-Usually, I'll put out an Open Call, a date and time when I'd like to run a game *(e.g. this Sunday from 7pm-10:30pm)*. Please reply to that post so that I know you're in!
+Usually, I'll put out an Open Call, a date and time when I'd like to run a game *(e.g. this Sunday from 7pm-10:30pm)*. Please reply to that message so that I know you're in!
 
 ### Player Caps & Waiting Lists
 I'm limiting the party size to 4 Players for now, but you're encouraged to join the waiting list. If you signed up for a session, but couldn't play because of the player cap, you get priority on the next session.
@@ -26,7 +26,7 @@ Alternatively, Players *(or groups of Players)* can ask me to run a game! We'll 
 
 ___
 # Dinner
-I like to spend time with you guys, so the usual plan is potluck dinner. Please post what you're going to bring so we can coordinate dishes!
+I like to spend time with you guys, so the usual plan is potluck dinner before the game. Please post what you're going to bring so we can coordinate dishes!
 
 ___
 # Pre-Game Hour
