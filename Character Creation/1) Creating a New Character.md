@@ -10,10 +10,10 @@ creation_date: [2022-04-04]
 ___
 To create a new Character, you need a **Character sheet** to record info about your character, and an **Inventory sheet** to record your equipment. You also need a **pencil** to note things down if you're not playing digitally, and a set of **dice** *(**d20**, d12, d10, d8, **3d6**, d4)* to get started.
 
-A **blank map**, and somewhere to keep **notes** will be useful during play, but not necessary for now.
+A **blank map**, and somewhere to keep **notes** will be useful during play, but isn't necessary for now.
 
 - **[[3) OSE - 03-00 - Character Sheet - Double Sided - 2022-03-17.pdf|Printable Character Sheet PDF (March 2022)]]** - *8.5" x 11", Double Sided.*
-- *Optional:* **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Character Creation Package PDF (November 2020).]]**
+- *Optional:* **[[OSE - 01-00 - Complete Starter Package (HSI) - 2020-11-26.pdf|Creating a New Character - Printable PDF.]]**
 - Additional downloads available on the **[[Resources]]** page.
 <!-- #Revisit put the Fillable Character sheet here, with INVENTORY PAGE-->
 
@@ -31,9 +31,9 @@ Choose or roll a **d20** on each of the ***Background & Appearance*** tables.
 ### 2. Roll Ability Scores
 Roll **3d6** for each of your Character’s Ability scores: **Constitution**, **Strength**, **Dexterity**, **Intelligence**, **Wisdom**, and **Charisma**.
 
-*Ability Scores are found a the upper-left of the Character sheet. Use the first boxes to note Ability Scores (the second boxes will be your Bonuses).*
+*Ability Scores are found in the upper-left of the Character sheet. Use the first boxes to note Ability Scores (the second boxes will be your Bonuses).*
 
-*For more information, see* [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores)
+*For more information, see **[[Ability Scores|Ability Scores (OSE, p16).]]*** 
 
 <!-- #### Online Character Generation
 Steps 1-3 involve a lot of rolling, so to have those results automatically generated, click here.-->
@@ -48,7 +48,7 @@ If you wish, choose any two Ability scores, and swap their scores.
 ##### ***c) Note Ability Modifiers & Bonuses***
 Note the associated bonuses for each Ability score, based on the tables overleaf. 
 
-- ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]***
+- ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]*** <!-- #Revisit -->
 
 Modifiers affect other attributes on your Character sheet too, such as Constitution providing a Bonus to your HP. Note those now.
 
@@ -89,11 +89,11 @@ Note this Bonus as your Attack Bonus, indicating your skill at hitting opponents
 ##### ***d) Note Saving Throws***
 Note your Saving Throws<!--, listed in the Level Progression Chart for your class-->: **Death**, **Wands**, **Paralysis**, **Breath**, and **Spells**. These indicate your skill at avoiding different categories of danger. <!-- (see ***Saving Throws, OSE p105***).-->
 
-For more information, see ***[Saving Throws (OSE SRD, p105).](https://oldschoolessentials.necroticgnome.com/srd/index.php/Checks,_Damage,_Saves#Saving_Throws)***
+*For more information, see **[[Checks, Damage, Saves#Saving Throws|Saving Throws (OSE, p105).]]***
 
 ##### ***e) Note Class Abilities***
 Record the special abilities and equipment gained from your **Class**.
-- Fighters need to choose their **[[Fighter Disciplines|Discipline.]]
+- Fighters need to choose their **[[Fighter Disciplines|Discipline.]]**
 - Magic-Users need to choose their **[[Wizard|Paradigm]]**.
 - Holy-Men need to choose their **[[Sacred Tradition]].**
 
@@ -105,7 +105,9 @@ ___
 On your Inventory sheet, draw a horizontal line below the box equal to each ability score. Each box is one Inventory Slot, and lets you carry one item, 500 coins, or bundles weighing around 10 pounds.
 <br>
 ### 5. Roll Debts
-Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. *For example, if you roll 14, 16, and 8, then your debts amount to 14,168 [[Money|Silver Pieces (SP)]].*
+Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. 
+
+*For example, if you roll 14, 16, and 8, then your debts amount to 14,168 **[[Money|Silver Pieces (SP)]]**.*
 <br>
 ### 6. Buy Equipment
 You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure. <!--consulting the equipment lists under ***Equipment, p42***.  --> The cost of each item is added to your debt to the Martel Company.
@@ -115,7 +117,7 @@ You have access to the full Martel Armory. You may spend as much money as you wi
 ##### ***a) Note Armour Class (AC)***
 Your Armour Class (AC) indicates how hard to hurt you are, and is determined by your:
 - **Armour:** Your armour determines your base AC. If you have no armour, your base AC is [10].
-- **Dexterity bonus:** See [***Ability Scores (OSE SRD, p16).***](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores#Dexterity_.28DEX.29) 
+- **Dexterity bonus:** See **[[Ability Scores|Ability Scores (OSE, p16).]]*** 
 <br>
 ### 7. Get Backup
 *If this is your first time ever playing this game, skip this step for now.*
