@@ -11,19 +11,25 @@ creation_date: [2022-04-07]
 ___
 ##### Soon[^TM]
 - Make Character Creation Page: a) Self-Sufficient, b) Linear.
-	- Background and Appearance Tables
+	- Names as a separate PDF
+	- Fillable Character Sheet PDF!!
 	- Equipment packages, update basic kit.
 - Carousing
+- Add a $\pm$ into the Ability Modifiers box on the character sheet.
 
 ##### Medium Soon
-- Fillable Inventory page.
+- Mystic of Vymjir (Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
+- Tiff wants Magician (do this before she levels up probably).
+- Specify starting spells, equipment, for magic-user.
+- Specify combat for Mystic of Vymjir.
 - Redo Ability Score tables Page 
 	- Single table for Modifiers
 	- Single columns for specific bonuses (HP, OD, AC, Lang, Magic Saves, Loyalty, etc.)
-- Mystic of Vymjir (Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
+
 
 ##### Not Soon
 - Warlock class
+- At least one Danarak Discipline
 ```query
 content:("#Revisit")
 ```
