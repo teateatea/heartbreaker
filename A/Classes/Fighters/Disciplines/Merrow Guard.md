@@ -11,7 +11,7 @@ ___
 *You’ve entered the ranks of the Church of [[Saint Merrow - Strength & Passion|Saint Merrow]], and as such, are guardian to the civilized. You represent a bastion of strength, passion, and perseverance against stagnation.*
 <!-- Based on the Legionnaire by A Distant Chime. -->
 ___
-**Starting Equipment:** [[Chainmail Armour|Chainmail (AC 14)]], Hooked spear or [sasumata](https://en.wikipedia.org/wiki/Sasumata) [[Spear|(1d6)]], Trusty wooden mallet.<br>**Starting Ken (1d3):** **1)** Medicine **2)** Engineering **3)** Foreign Parts.<br>
+**Starting Equipment:** [[Chainmail Armour|Chainmail (AC 14, 4 slots)]], Hooked spear or [sasumata](https://en.wikipedia.org/wiki/Sasumata) [[Spear|(1d6)]], Trusty wooden mallet.<br>**Starting Ken (1d3):** **1)** Medicine **2)** Engineering **3)** Foreign Parts.<br>
 **A:** Formation, Detain<br>**B:** Battlefield Architect, Marching Orders<br>**C:** Heave-Ho!<br>**D:** Court of Adversity
 ___
 ### [[Discipline A Abilities|A.]] Formation

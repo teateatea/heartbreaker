@@ -11,7 +11,7 @@ ___
 *You answered the call to action, and you intend to finish that call. No matter what happens, you’ll be different when you finally return to your home.*
 <!-- Comment -->
 ___
-**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12)]], [[Longsword|Ancestral Longsword (1d10)]], Old hunting bag.<br>**Starting Ken (1d3):** **1)** Trees & lumber **2)** Rivers & lakes **3)** Medicinal plants.<br>
+**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12, 2 slots)]], [[Longsword|Ancestral Longsword (1d10)]], Old hunting bag.<br>**Starting Ken (1d3):** **1)** Trees & lumber **2)** Rivers & lakes **3)** Medicinal plants.<br>
 **A:** Face the Challenge, Sentinel<br>**B:** Salt of the Earth<br>**C:** Ring the Bell<br>**D:** Rally the People
 ___
 ### [[Discipline A Abilities|A.]] Face the Challenge
