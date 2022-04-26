@@ -30,6 +30,9 @@ ___
 ##### Not Soon
 - Warlock class
 - At least one Danarak Discipline
+- On the Backgrounds PDF, Vice and Virtue are backwards.
+- On Character Appearance box, switch Misfortune and Backgrounds (so that it'll read things like 'Disowned Fortuneteller' instead of Fortuneteller Disowned lol.)
+	- Change this on the Backgrounds PDF too.
 ```query
 content:("#Revisit")
 ```
