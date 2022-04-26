@@ -27,7 +27,7 @@ ___
 ## [[Open Table]]
 I'd like to run games with four players, but there are more than four of you interested in playing! So I'm trying out an open table, where players swap in and out as schedule permits.
 
-To make that work, I'm running ***Hot Springs Island*** as sandbox game rather than a consistent storyline or campaign. Players are encouraged to keep a roster of characters to play, as they're likely to be joining slightly different parties each session.
+To make that work, I'm running ***Hot Springs Island*** as sandbox game rather than a narrative storyline or campaign. Players are encouraged to keep a roster of characters to play, as they're likely to be joining slightly different parties each session.
 
 **See [[Scheduling]] to get started, or [[Open Table|Open Table logistics]] for other details.**
 ___
