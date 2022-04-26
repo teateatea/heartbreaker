@@ -51,7 +51,10 @@ ___
 ### Monsters
 [[Minions]]
 
+
+
 ___
+*See also:* **[[Resources|See the Resources page for details about House-Rules.]]**
 *Source:* [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
 - *Alignment* page removed.
 - *Cleric Spells* page removed.
