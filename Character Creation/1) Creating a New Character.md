@@ -26,7 +26,6 @@ Choose or roll a **d20** on each of the ***[[OSE - 01-01 - Background & Appearan
 
 ![[Character Appearance Example 2022-04-26 v3.png]]
 
-
 ### 2. Roll Ability Scores
 Roll **3d6** for each of your Character’s Ability scores: **Constitution**, **Strength**, **Dexterity**, **Intelligence**, **Wisdom**, and **Charisma**.
 
