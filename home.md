@@ -32,16 +32,15 @@ To make that work, I'm running ***Hot Springs Island*** as sandbox game rather t
 **See [[Scheduling]] to get started, or [[Open Table|Open Table logistics]] for other details.**
 ___
 ## [[Rules|The Rules]]
-We'll be playing [**Old-School Essentials (OSE)**](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules) , a remastered 1st Edition Dungeons & Dragons *(B/X D&D)*. The [**online SRD is available here,**](https://oldschoolessentials.necroticgnome.com/srd/) but I don't expect you to read all the rules before we play. I *do* expect you to read your Character's Features, Abilities and Spells, so that you have an sense of your role in the party.
+We'll be playing [**Old-School Essentials (OSE)**](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules), a remastered 1st Edition Dungeons & Dragons *(B/X D&D)*. The [**online SRD is available here,**](https://oldschoolessentials.necroticgnome.com/srd/) but I don't expect you to read all the rules before we play. I *do* expect you to read your Character's Features, Abilities and Spells, so that you have an sense of your role in the party.
 
 I’m using house-rules whenever the OSE rules don’t match my intended experience. For example, the amount of stuff that you can carry will feature more heavily in this game, than in the average OSE game, so I’ve made adjustments for a more tactile, slot-based inventory system.
 
-I intend to broadly follow the principles described in the [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). For example, I'll use *'Rulings Over Rules'* to keep the game moving at the table, rather than strictly following OSE. After the game, we can have a look for what the rules are *supposed* to be. And feel free to remind me about any principles you notice I've forgotten.
+I'm following the principles described in the [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html). For example, I'll use *'Rulings Over Rules'* to keep the game moving at the table, rather than strictly following OSE. After the game, we can have a look at what the rules are *supposed* to be. Feel free to remind me about any principles you notice I've forgotten!
 
 **[[Rules|Click here to read the Rules.]]**
 ___
-## House Rules
-**[[Resources|See the Resources page to learn about the source material.]]**
+## [[Resources|House Rules]]
  
 ##### Player Characters
 - **Major changes to Classes** - See each Class below for details.
