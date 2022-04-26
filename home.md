@@ -41,7 +41,6 @@ I'm following the principles described in the [**Principia Apocrypha**](https://
 **[[Rules|Click here to read the Rules.]]**
 ___
 ## [[Resources|House Rules]]
- 
 ##### Player Characters
 - **Major changes to Classes** - See each Class below for details.
 - **Permanent Death Saves** - PCs die on the 3rd failure of their lifetime.
