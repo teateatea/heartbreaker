@@ -27,14 +27,10 @@ Choose or roll a **d20** on each of the ***[[OSE - 01-01 - Background & Appearan
 ![[Character Appearance Example 2022-04-26 v3.png]]
 
 ### 2. Roll Ability Scores
-Roll **3d6** for each of your Character’s Ability scores: **Constitution**, **Strength**, **Dexterity**, **Intelligence**, **Wisdom**, and **Charisma**.
+Roll **3d6** for each of your Character’s **[[Ability Scores|Ability Scores:]]*** **Constitution**, **Strength**, **Dexterity**, **Intelligence**, **Wisdom**, and **Charisma**.
 
-*Ability Scores are found in the upper-left of the Character sheet. Use the first boxes to note Ability Scores (the second boxes will be your Bonuses).*
+![[Ability Score Example Images 2022-04-26.png]]
 
-*For more information, see **[[Ability Scores|Ability Scores (OSE, p16).]]*** 
-
-<!-- #### Online Character Generation
-Steps 1-3 involve a lot of rolling, so to have those results automatically generated, click here.-->
 ##### ***a) Sub-Par Characters***
 If you roll a Character with very poor Ability scores (either 8 or less in every score, or 6 or less in one score) you may reroll the lowest score.
 
@@ -46,7 +42,10 @@ If you wish, choose any two Ability scores, and swap their scores.
 ##### ***c) Note Ability Modifiers & Bonuses***
 Note the associated bonuses for each Ability score, based on the tables overleaf. 
 
-- ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]*** <!-- #Revisit -->
+- ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]*** 
+
+![[Ability Modifier Example Images 2022-04-26.png]]
+
 
 Modifiers affect other attributes on your Character sheet too, such as Constitution providing a Bonus to your HP. Note those now.
 
