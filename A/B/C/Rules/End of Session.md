@@ -9,10 +9,10 @@ creation_date: [2022-04-22]
 <!-- Home | Character Creation | -->
 [[home|Home]] | [[Open Table]] | **Escaping the Island!**
 ___
-The expectation is for the Player Characters to begin, and end, each session at home base. In general, the players should make their way to the coast, signal for a pick up and end the session normally.
+The goal is for the Player Characters to begin, and end, each session at home base. At the end of a session, the PCs should make their way to the coast, and signal for a Martel pick up.
 
 ##### Escaping the Island!
-If characters are still on the island when the session ends, they each must roll on the **Escaping the Island!** table to determine how *(or if)* they got home.
+If PCs are still on the island when the Session ends, they each must roll on the **Escaping the Island!** table to determine how *(or if)* they got home.
 
 | Escaping the Island!                            | 1d100     |
 |:----------------------------------------------- | --------- |
@@ -21,7 +21,7 @@ If characters are still on the island when the session ends, they each must roll
 | You have a clear and unhindered path of escape. | DC 25     |
 | You are in a coastal hex                        | +10 bonus |
 
-On a failure, roll on the **Failed Escapes** table.  
+On a success, you escape the island unharmed. On a failure, roll on the **Failed Escapes** table.
 
 | 1d10 | Failed Escapes                                                                                                                                                                                                                                                                                             |
 | ---- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
