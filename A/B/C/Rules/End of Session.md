@@ -19,9 +19,11 @@ If PCs are still on the island when the Session ends, they each must roll on the
 | You don't know what hex you're in.              | DC 75  |
 | You know what hex you're in.                    | DC 50  |
 |                                                 |        |
+| You are being pursued.                          | DC +10 |
+|                                                 |        |
 | You have a clear and unhindered path of escape. | DC -25 |
-| You are in a coastal hex *(bonus)*.             | DC -10 |
-| You are being pursued (malus).                  | DC +10 |
+| You are in a coastal hex.                       | DC -10 |
+
 
 On a success, you escape the island unharmed. On a failure, roll on the **Failed Escapes** table.
 
