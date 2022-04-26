@@ -23,15 +23,15 @@ ___
 - Three Permanent Death Saves.
 - [[Inventory|Slot-based Inventory & Encumbrance]] from [**Veins of the Earth**](https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth) by [**Patrick Stuart**.](https://falsemachine.blogspot.com/)
 ##### Classes
-- [[Fighter (Class)|Fighter Class]] based on the [***Fighter*** from **Old-School Essentials (OSE).**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter)
-	- *Mighty Deeds* ability based on the [***Warrior*** from **Dungeon Crawl Classics (DCC)**.](https://goodman-games.com/dungeon-crawl-classics-rpg/)
-	- *Fighter Disciplines* based on [Class templates from **Goblin Laws of Gaming (GLOG) - Many Rats on Sticks Edition**.](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html)
-- [[Magic-User|Magic-User Class]] based on the [***Magic-User*** from **Old-School Essentials**.](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User)
-- [[Holy-Man|Holy-Man Class]] based on the [***Cleric*** from **Old-School Essentials**.](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric)
-	- *Mystic and Holy-Man class* content adapted or copied from [***Religion is a Nest of Serpents*** by **Logan Knight (2014) - The Last Gasp Grimoire**](https://www.lastgaspgrimoire.com/religion-is-a-nest-of-serpents/) and [***Cleric Rework - Miracles, Holy War, and You*** by **James Young (2019) - Ten Foot Polemic**.](https://tenfootpolemic.blogspot.com/2019/04/cleric-rework-miracles-holy-war-and-you.html)
+- **[[Fighter|Fighter Class]]** based on the [***Fighter*** from **Old-School Essentials (OSE).**](https://oldschoolessentials.necroticgnome.com/srd/index.php/Fighter)
+	- **[[Fighter#Mighty Deed of Arms|Mighty Deed of Arms]]** ability based on the [***Warrior*** from **Dungeon Crawl Classics (DCC)**.](https://goodman-games.com/dungeon-crawl-classics-rpg/)
+	- **[[Fighter Disciplines]]** based on [Class templates from **Goblin Laws of Gaming (GLOG) - Many Rats on Sticks Edition**.](https://coinsandscrolls.blogspot.com/2019/10/osr-glog-based-homebrew-v2-many-rats-on.html)
+- **[[Magic-User|Magic-User Class]]** based on the [***Magic-User*** from **Old-School Essentials**.](https://oldschoolessentials.necroticgnome.com/srd/index.php/Magic-User)
+- **[[Holy-Man|Holy-Man Class]]** based on the [***Cleric*** from **Old-School Essentials**.](https://oldschoolessentials.necroticgnome.com/srd/index.php/Cleric)
+	- *Mystic and Holy-Man class* from [***Religion is a Nest of Serpents*** by **Logan Knight - The Last Gasp Grimoire**](https://www.lastgaspgrimoire.com/religion-is-a-nest-of-serpents/) and [***Cleric Rework - Miracles, Holy War, and You*** by **James Young - Ten Foot Polemic**.](https://tenfootpolemic.blogspot.com/2019/04/cleric-rework-miracles-holy-war-and-you.html)
 ___
 ### General Gameplay
-- [[Minions|Minion rules]] from the [***Flee, Mortals!* Preview PDF** by **MCDM**.](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
-- *[[Money|Money (and conversion rates)]]* from [***On Money***](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by **Delta's D&D Hotspot**.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
+- **[[Minions|Minion rules]]** from the [***Flee, Mortals!* Preview PDF** by **MCDM**.](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
+- **[[Money|Money]]** [[Money|(and conversion rates)]] from [***On Money***](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by **Delta's D&D Hotspot**.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
 ___
 ___
