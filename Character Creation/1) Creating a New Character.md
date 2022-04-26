@@ -22,13 +22,10 @@ Let me know if there’s anything you need!
 ___
 # The Cards You Were Dealt
 ### 1. Roll Background & Appearance
-Choose or roll a **d20** on each of the ***Background & Appearance*** tables. 
-
-- ***[[OSE - 01-01 - Background & Appearance Tables - 2022-04-26.pdf|Background & Appearance Tables PDF.]]***
+Choose or roll a **d20** on each of the ***[[OSE - 01-01 - Background & Appearance Tables - 2022-04-26.pdf|Background & Appearance Tables (PDF).]]***
 
 ![[Character Appearance Example 2022-04-26 v3.png]]
-<!--*Use the top-right box of your Character sheet for this.*-->
-<br>
+
 ### 2. Roll Ability Scores
 Roll **3d6** for each of your Character’s Ability scores: **Constitution**, **Strength**, **Dexterity**, **Intelligence**, **Wisdom**, and **Charisma**.
 
