@@ -14,12 +14,14 @@ The goal is for the Player Characters to begin, and end, each session at home ba
 ##### Escaping the Island!
 If PCs are still on the island when the Session ends, they each must roll on the **Escaping the Island!** table to determine how *(or if)* they got home.
 
-| Escaping the Island!                            | 1d100     |
-|:----------------------------------------------- | --------- |
-| You don't know where you are.                   | DC 75     |
-| You know where you are.                         | DC 50     |
-| You have a clear and unhindered path of escape. | DC 25     |
-| You are in a coastal hex                        | +10 bonus |
+| Escaping the Island!                            | 1d100  |
+|:----------------------------------------------- | ------ |
+| You don't know what hex you're in.              | DC 75  |
+| You know what hex you're in.                    | DC 50  |
+|                                                 |        |
+| You have a clear and unhindered path of escape. | DC -25 |
+| You are in a coastal hex *(bonus)*.             | DC -10 |
+| You are being pursued (malus).                  | DC +10 |
 
 On a success, you escape the island unharmed. On a failure, roll on the **Failed Escapes** table.
 
