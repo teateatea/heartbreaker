@@ -16,8 +16,8 @@ If PCs are still on the island when the Session ends, they each must roll on the
 
 | Escaping the Island!                            | 1d100  |
 |:----------------------------------------------- | ------ |
-| You don't know what hex you're in.              | DC 75  |
-| You know what hex you're in.                    | DC 50  |
+| **You don't know what hex you're in.**              | **DC 75**  |
+| **You know what hex you're in.**                    | **DC 50**  |
 |                                                 |        |
 | You are being pursued.                          | DC +10 |
 |                                                 |        |
