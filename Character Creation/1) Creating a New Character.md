@@ -25,8 +25,9 @@ ___
 Choose or roll a **d20** on each of the ***Background & Appearance*** tables. 
 
 - ***[[OSE - 01-01 - Background & Appearance Tables - 2022-04-26.pdf|Background & Appearance Tables PDF.]]***
+- 
+- ![[Character Appearance Example 2022-04-26 v2.png]]
 
-![[Character Appearance Example 2022-04-26.png|300]]
 <!--*Use the top-right box of your Character sheet for this.*-->
 <br>
 ### 2. Roll Ability Scores
