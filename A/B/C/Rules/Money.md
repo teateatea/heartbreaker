@@ -22,7 +22,7 @@ For the sake of gameplay, money is standardized and we ignore the minutiae.
 
 | Gold  |     | Silver |     | Copper |
 |:----- | :--- |:------ | :--- |:------ |
-| **1** | =   | 10     | =   | 50     |
+| **1 GP** | =   | **10 SP**     | =   | **50 CP**     |
 
 
 ___
@@ -35,9 +35,9 @@ Platinum (PP) and Electrum (EP) are *moneys-of-account*, and are not in circulat
 
 ### **Converting Silver to Other Coins**
 
-| Platinum   | Electrum   | Gold      | Silver                 | Copper      |
-|:---------- |:---------- |:--------- |:---------------------- |:----------- |
-| $\div 500$ | $\div 100$ | $\div 10$ | **(** $\times 1$ **)** | $\times 50$ |
+| Platinum      | Electrum      | Gold        | Silver | Copper       |
+|:------------- |:------------- |:----------- |:------ |:------------ |
+| SP $\div$ 500 | SP $\div$ 100 | SP $\div$ 10 | **( SP )** | SP $\times$ 5 |
 
 ___
 ***See also:*** [[2) Gaining XP|Gaining XP]], [[Martel Debt]], [[Downtime]].
