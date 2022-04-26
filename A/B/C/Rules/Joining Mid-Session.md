@@ -7,9 +7,9 @@ template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-04-22]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | [[Open Table]] | **Arriving Mid-Session**
+[[home|Home]] | [[Open Table]] | **Joining Mid-Session**
 ___
-Sometimes players arrive late, that's life. When a new character joins an expedition part way through the session, they roll on the **Where did you come from?** table.
+Sometimes players arrive late, that's life. Sometimes we just want to add an extra player to the current session. When a new character joins an expedition part way through the session, they roll on the **Where did you come from?** table.
 
 | d12 | Where Did You Come From?                                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
