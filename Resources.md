@@ -34,10 +34,4 @@ ___
 - [[Minions|Minion rules]] from the [***Flee, Mortals!* Preview PDF** by **MCDM**.](https://files.mcdmproductions.com/FleeMortals/FleeMortalsPreview.pdf)
 - *[[Money|Money (and conversion rates)]]* from [***On Money***](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by **Delta's D&D Hotspot**.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
 ___
-
----
-
----
----
-
 ___
