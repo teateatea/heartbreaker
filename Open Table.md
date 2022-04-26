@@ -11,7 +11,7 @@ creation_date: [2022-04-22]
 ___
 **[[Scheduling]]**
 **[[Arriving Mid-Session]]**
-**[[End of Session]]** *[[End of Session|(Escaping the Island!)]]*
+**[[End of Session]]** ***[[End of Session|(Escaping the Island!)]]***
 
 **[[Time Keeping|Time Keeping & Lock Downs]]**
 
