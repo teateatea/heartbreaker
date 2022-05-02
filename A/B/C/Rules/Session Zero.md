@@ -12,7 +12,7 @@ ___
 ## Lines
 Lines are hard boundaries that cannot be crossed for any reason. As far as this game is concerned, these basically don't happen anywhere in the world.
 
-These topics have been emphasized to me by players. We won't have all players present at once with an open table, but I'm just going to always prepare the game with these in mind *(rather than trying to track which players and lines are relevant for any individual session)*.
+These topics have been emphasized to me by players. We won't have all players present at once with an open table, but I'm going to always prepare the game with these in mind *(rather than trying to track which players and lines are relevant for any individual session)*.
 
 ##### **[[No animal abuse|No animal abuse.]]**
 **Puppies have plot armour.* More specifically, cute non-sentient creatures cannot be harmed in any way.
@@ -33,7 +33,7 @@ Veils are soft boundaries that can be included in the game, but will only be dis
 **Music plays, someone giggles, fade to black.** It's not really the point of this game but if it makes sense narratively, we'll just say everyone had a great time lol.
 
 ##### [[Torture]]
-**Every hour, roll for damage, victims roll morale. Information quality falls dramatically with time.** No need to get specific, we can just all agree the torturing agent is an evil person. This can easily escalate past **[[No gratuitous gore descriptions]]** above.
+**Every hour, roll for damage, victims roll morale. Information quality falls dramatically with time.** No need to get specific, we can just all agree the toturer is an evil person. This can easily escalate past **[[No gratuitous gore descriptions]]** above.
 
 ### This Game May Contain The Following Sensitive Topics
 - **Substances: *Alcohol, Drugs***
