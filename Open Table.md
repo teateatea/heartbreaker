@@ -9,6 +9,7 @@ creation_date: [2022-04-22]
 <!-- Home | Character Creation | -->
 [[home|Home]] | **Open Table** | [[Resources]] | [[Rules]] 
 ___
+**[[Session Zero]]**
 **[[Scheduling]]**
 **[[Joining Mid-Session]]**
 **[[End of Session]]** ***[[End of Session|(Escaping the Island!)]]***
