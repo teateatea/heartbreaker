@@ -6,15 +6,14 @@ date: [2022-04-29]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-29]
 ---
-# No gratuitous gore descriptions.
-*See also:* [[Game Prep]], [[Sabrina]], [[Yasien]], [[Session Zero]]
+[[home|Home]] | [[Open Table]] | [[Session Zero]] | **No gratuitous gore descriptions**
 ___
 **_GM Reminder: Stay classy._**
 
 ##### This is not a ban on violence.
-One violent sentence is generally fine, bad things are still allowed to happen.
+One violent sentence is generally fine, bad things are still allowed to happen. These are all fine:
 - "The sword swings around, slicing his hand off. The man cries out, and falls to his knees."
-- "You feel a treasonous arrow in your side before the creature snaps it's jaws around you. The rest of you see Protagonist get eaten whole, and then the creature rears around looking for it's next snack. This doesn't look good."
+- "You feel a treasonous arrow in your side before the creature snaps it's jaws around you. The rest of you see Protagonist get swallowed whole, and then the creature rears around looking for it's next snack. This doesn't look good."
 - "Taking the opportunity, the beast tears a chunk of flesh out of your side before you fully get your guard up. You roar at it and it roars back at you, hungry for more!"
 
 ##### No unnecessary length and detail for gore.
@@ -27,6 +26,8 @@ ___
 **GM Notes to self:**
 *There's plenty of very scary things to describe without it being gore lol, so this seems pretty easy. Having said that, this boundary is less well defined, so keep it mind to avoid accidentally approaching it!*
 
+
+___
 **N.B. for *Hot Springs Island*:**
 *Careful with these guys. They're bugs that eat flesh, so remember to describe them only in as much detail as other things biting or slashing.*
 - [[Vyderac Swarmers]]
@@ -54,3 +55,8 @@ ___
 - [[Fire Imps]] / [[Fire Elementals]]
 - [[Magma Imps]] / [[Magma Elementals]]
 - [[Steam Imps]] / [[Steam Elementals]]
+
+___
+*See also:* [[Game Prep]], [[Session Zero]]
+
+<!-- [[Sabrina]], [[Yasien]], -->
