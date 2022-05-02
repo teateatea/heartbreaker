@@ -127,9 +127,9 @@ To solicit a Liturgy beyond your Level, offer Favour equal to *double* the Level
 ___
 # ABILITIES
 ### Oversight
-*Denomination Bonus*<br>You are only loosely bound by fate. Once per day, you may reroll any one die after seeing the result. You retain this effect indefinitely.<!--When rolling on a random table, you may choose to reroll after seeing the result. You retain this effect indefinitely. -->
+*Denomination Bonus*<br>You are only loosely bound by fate. Once per day, you may reroll any one die after seeing the result. <!--When rolling on a random table, you may choose to reroll after seeing the result. You retain this effect indefinitely. -->
 
-You lose *Oversight* if you willfully and unjustly encroach upon the freedoms of another. Regain *Oversight* by performing or observing a sermon.
+You lose *Oversight* at Sunrise, or immediately when you willfully and unjustly encroach upon the freedoms of another. Regain *Oversight* by performing or observing a sermon.
 
 ### *Create Vessel*
 As a full round action, you may impart a fragment of your soul to a corpse-minion you can touch. Give them any number of your HD, then choose a rollable total from those dice as their HP. Reduce your Max HP by the same amount.<!--reroll Max HP for both yourself and your Vessel> *(but do not change your Current HP)*. -->
