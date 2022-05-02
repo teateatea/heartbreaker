@@ -6,8 +6,7 @@ date: [2022-04-29]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-29]
 ---
-# No animal abuse.
-*See also:* [[Game Prep]], [[Sabrina]], [[Yasien]], [[Dogs are never killed]], [[Session Zero]]
+[[home|Home]] | [[Open Table]] | [[Session Zero]] | **No animal abuse**
 ___
 ***GM Reminder: Puppies have plot armour.***
 
@@ -34,4 +33,5 @@ It's okay to hurt the mousefolk, faerie folk, or other cute adults.
 
 > *"This is my pet giant leech Slurpee, and he's adorable! He has plot armour now, thanks."*
 
-
+___
+*See also:* [[Game Prep]], [[Dogs are never killed]], [[Session Zero]]
