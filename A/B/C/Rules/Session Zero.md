@@ -15,12 +15,12 @@ Lines are hard boundaries that cannot be crossed for any reason. As far as this 
 These topics have been emphasized to me by players. We won't have all players present at once with an open table, but I'm going to always prepare the game with these in mind *(rather than trying to track which players and lines are relevant for any individual session)*.
 
 ##### **[[No animal abuse|No animal abuse.]]**
-**Puppies have plot armour.* More specifically, cute non-sentient creatures cannot be harmed in any way.
+**Puppies have plot armour.** More specifically, cute non-sentient creatures cannot be harmed in any way.
 
 ##### [[No gratuitous gore descriptions|No gratuitous gore descriptions.]]
-*Stay classy.* One sentence is fine, six sentences using a thesaurus is not.
+**Stay classy.** One sentence is fine, six sentences using a thesaurus is not.
 
-### I'm excluding these things
+### I'm excluding these things always
 These themes won't exist in games I prepare:
 
 ***Graphic Gore, Harm to Animals, Harm to Children, Homophobia, Miscarriage/Abortion, Rape, Suicide, Transphobia.***
@@ -42,7 +42,7 @@ Veils are soft boundaries that can be included in the game, but will only be dis
 - **Death: *Death, Death of Parental Figures, Genocide, Pandemics, Natural Disasters***
 - **Hate: *Body Shaming, Bullying, Classism, Prejudice, Racism, Sexual Assault, Slavery, Terrorism, Torture, Violence***
 
-*Please* talk with me if you any concerns!
+*Please* talk with me if you any questions or concerns!
 ___
 <!--*See also:* 
 *References:*
