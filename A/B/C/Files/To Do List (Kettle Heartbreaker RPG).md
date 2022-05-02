@@ -14,12 +14,14 @@ ___
 	- Names as a separate PDF
 	- Fillable Character Sheet PDF!!
 	- Equipment packages, update basic kit.
-- Carousing
-- Add a $\pm$ into the Ability Modifiers box on the character sheet.
+- Tiff wants Magician (do this before she levels up probably).
+- Clarify Initiative & Combat rules.
+- Clarify Levelling up & XP rules.
 
 ##### Medium Soon
-- Mystic of Vymjir (Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
-- Tiff wants Magician (do this before she levels up probably).
+- Mystic of Vymjir (Complete Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
+- Carousing
+- Add a $\pm$ into the Ability Modifiers box on the character sheet.
 - Specify starting spells, equipment, for magic-user.
 - Specify combat for Mystic of Vymjir.
 - Redo Ability Score tables Page 
