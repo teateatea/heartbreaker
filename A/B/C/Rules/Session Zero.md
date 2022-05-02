@@ -12,7 +12,7 @@ ___
 ## Lines
 Lines are hard boundaries that cannot be crossed for any reason. As far as this game is concerned, these basically don't happen anywhere in the world.
 
-These topics have been emphasized to me by players. I realize that with an open table, not all players will be present at once, but I'm just going to always prepare the game with these in mind (rather than trying to track which players and lines are relevant for any particular session).
+These topics have been emphasized to me by players. We won't have all players present at once with an open table, but I'm just going to always prepare the game with these in mind *(rather than trying to track which players and lines are relevant for any individual session)*.
 
 ##### **[[No animal abuse|No animal abuse.]]**
 **Puppies have plot armour.* More specifically, cute non-sentient creatures cannot be harmed in any way.
@@ -20,6 +20,12 @@ These topics have been emphasized to me by players. I realize that with an open 
 ##### [[No gratuitous gore descriptions|No gratuitous gore descriptions.]]
 *Stay classy.* One sentence is fine, six sentences using a thesaurus is not.
 
+### I'm excluding these things
+These themes won't exist in games I prepare:
+
+***Graphic Gore, Harm to Animals, Harm to Children, Homophobia, Miscarriage/Abortion, Rape, Suicide, Transphobia.***
+
+___
 ## Veils
 Veils are soft boundaries that can be included in the game, but will only be discussed as "off-screen" events, or a fade-to-black if they include the Player Characters.
 
@@ -29,14 +35,14 @@ Veils are soft boundaries that can be included in the game, but will only be dis
 ##### [[Torture]]
 **Every hour, roll for damage, victims roll morale. Information quality falls dramatically with time.** No need to get specific, we can just all agree the torturing agent is an evil person. This can easily escalate past **[[No gratuitous gore descriptions]]** above.
 
-## This Game May Contain The Following Sensitive Topics
-**Alcohol, Classism, Drugs, Bullying, Prejudice, Racism, Slavery, Violence, Death, Insects, Death of Parental Figures, Torture, Spiders, Starvation, Sexual Assault, Pandemics, Eye Injuries, Teeth Injuries, Hand injuries, Bug on/in people, Genocide, Natural Disasters, Terrorism.**
+### This Game May Contain The Following Sensitive Topics
+- **Substances: *Alcohol, Drugs***
+- **Bugs: *Insects, Bugs on/in people, Spiders***
+- **Injury: *Hand injuries, Eye Injuries, Teeth Injuries, Starvation***
+- **Death: *Death, Death of Parental Figures, Genocide, Pandemics, Natural Disasters***
+- **Hate: *Body Shaming, Bullying, Classism, Prejudice, Racism, Sexual Assault, Slavery, Terrorism, Torture, Violence***
 
-### I'm excluding these things
-These themes won't exist in games I prepare:
-
-*Rape, Harm to Animals, Graphic Gore, Harm to Children, Suicide, Homophobia, Transphobia, Body Shaming, Pregnancy/miscarriage/abortion.*
-
+*Please* talk with me if you any concerns!
 ___
 <!--*See also:* 
 *References:*
