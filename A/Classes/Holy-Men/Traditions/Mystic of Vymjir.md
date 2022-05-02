@@ -78,10 +78,10 @@ ___
 Gain **Favour** with the Restless One by studying his tenets, and choosing your own destiny. To illustrate:
 
 ***1 Point of Favour***
-- Take notes while researching.
-- Share actionable knowledge.
+- Take written notes while researching.
+- Share useful, actionable knowledge.
 - Perform a sermon.
-- *one more would be good.*
+- Reveal a secret to those who don't know it.
 
 ***5 Points of Favour***
 - Help an unsupported person find independence.
