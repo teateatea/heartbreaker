@@ -15,10 +15,10 @@ Lines are hard boundaries that cannot be crossed for any reason. As far as this 
 These topics have been emphasized to me by players. I realize that with an open table, not all players will be present at once, but I'm just going to always prepare the game with these in mind (rather than trying to track which players and lines are relevant for any particular session).
 
 ##### **[[No animal abuse|No animal abuse.]]**
-***Puppies have plot armour.*** More specifically, cute non-sentient creatures cannot be harmed in any way.
+**Puppies have plot armour.* More specifically, cute non-sentient creatures cannot be harmed in any way.
 
 ##### [[No gratuitous gore descriptions|No gratuitous gore descriptions.]]
-**Stay classy.** One sentence is fine, six sentences using a thesaurus is not.
+*Stay classy.* One sentence is fine, six sentences using a thesaurus is not.
 
 ## Veils
 Veils are soft boundaries that can be included in the game, but will only be discussed as "off-screen" events, or a fade-to-black if they include the Player Characters.
