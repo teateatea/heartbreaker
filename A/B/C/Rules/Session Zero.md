@@ -50,4 +50,4 @@ ___
 <!-- Sources, read more, links, etc. -->
 <!-- *Source: Entry by [[Mike Maxin]].* -->
 <!-- Leave an empty line at the end, otherwise Exporter complains. -->
-<!-- [[Sabrina]], [[Yasien]], -->
+

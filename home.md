@@ -29,7 +29,7 @@ I'd like to run games with four players, but there are more than four of you int
 
 To make that work, I'm running ***Hot Springs Island*** as sandbox game rather than a narrative storyline or campaign. Players are encouraged to keep a roster of characters to play, as they're likely to be joining slightly different parties each session.
 
-**See [[Scheduling]] to get started, or [[Open Table|Open Table logistics]] for other details.**
+**See [[Scheduling]] to get started, or [[Open Table|click here for Open Table logistics.]]**
 ___
 ## [[Rules|The Rules]]
 We'll be playing [**Old-School Essentials (OSE)**](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules), a remastered 1st Edition Dungeons & Dragons *(B/X D&D)*. The [**online SRD is available here,**](https://oldschoolessentials.necroticgnome.com/srd/) but I don't expect you to read all the rules before we play. I *do* expect you to read your Character's Features, Abilities and Spells, so that you have an sense of your role in the party.
