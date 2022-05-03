@@ -7,7 +7,7 @@ template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | [[Rules]] | Equipment & Services |**Weapons & Armour**
+[[home|Home]] | [[Rules]] | Equipment & Services | **Weapons & Armour**
 ___
 See also: **[[OSE - 01-2 - Equipment List (HSI) - 2020-11-25 v1-1.pdf|Hot Springs Island Equipment List PDF.]]**
 

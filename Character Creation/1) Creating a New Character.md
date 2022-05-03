@@ -104,7 +104,7 @@ On your Inventory sheet, draw a horizontal line below the box equal to each abil
 ### 5. Roll Debts
 Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. 
 
-*For example, if you roll 14, 16, and 8, then your debts amount to 14,168 **[[Money|Silver Pieces (SP)]]**.*
+*For example, if you roll 14, 16, and 8, then your debts amount to 14,168 **[[Wealth and Money|Silver Pieces (SP)]]**.*
 <br>
 ### 6. Buy Equipment
 You have access to the full Martel Armory. You may spend as much money as you wish to equip yourself for adventure. <!--consulting the equipment lists under ***Equipment, p42***.  --> The cost of each item is added to your debt to the Martel Company.

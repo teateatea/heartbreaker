@@ -11,7 +11,7 @@ creation_date: [2022-04-20]
 ___
 Successful characters accumulate wealth from the spoils of their adventures. Treasure may take many forms, but often the most useful form of treasure is money.
 
-### [[Money]]
+### [[Wealth and Money]]
 The most common coin is the silver piece (sp). Coins made of other metals—platinum (pp), electrum (ep), gold (gp), and copper (cp)—are also used. The conversion rates of coins are shown below.<!-- #Revisit -->
 
 ___

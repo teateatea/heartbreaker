@@ -9,7 +9,7 @@ creation_date: [2022-04-04]
 [[home|Home]] | [[Rules]] | [[1) Creating a New Character|Character Creation]] | **Gaining XP** | [[3) Levelling Up|Levelling Up]] | [[Multiclassing|Multiclassing]]
 ___
 
-You gain Experience Points (XP) when you spend [[Money|money]]. The size of the settlement determines approximately how much money can be spent by the party in one week.
+You gain Experience Points (XP) when you spend [[Wealth and Money|money]]. The size of the settlement determines approximately how much money can be spent by the party in one week.
 
 | Settlement | Max Silver / Week |
 | ---------- | --------------: |

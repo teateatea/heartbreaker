@@ -17,7 +17,7 @@ Duelling Schlager https://www.dannydutch.com/post/the-traditional-german-sword-f
 
 Based on the Swordwife by Whose Measure God Could Not Take.-->
 ___
-**Starting Equipment:** [Khopesh](https://www.google.com/search?q=khopesh&hl=en&sxsrf=APq-WBuVK4O2Rhb46JnDsTFJ8rz02UrtuA:1648748449816&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjHirPN8vD2AhWNVs0KHb5IAOwQ_AUoAXoECAIQAw&biw=1920&bih=955) or [xiphos sword](https://www.google.com/search?q=xiphos&hl=en&sxsrf=APq-WBv7FrsvYQGUU_662dIprNr5q9YI2A:1648748573182&source=lnms&tbm=isch&sa=X&ved=2ahUKEwja5pyI8_D2AhWVXc0KHfB_BQIQ_AUoAXoECAIQAw&biw=1920&bih=955&dpr=1) [[Sword|(1d8)]], [Mattock](https://en.wikipedia.org/wiki/Mattock), [Hemione](https://en.wikipedia.org/wiki/Onager) with a lead *(treat as a mule with 2 fewer inventory slots)*.<br>**Starting Ken (1d3): 1)** Artifice **2)** Mining **3)** Husbandry.<br><br>**A:** Desperate Dodge, Find the Opening<br>**B:** Bronze Tongue<br>**C:** Alloy<br>**D:** 'Til Death Do We Part
+**Starting Equipment:** [Khopesh](https://www.google.com/search?q=khopesh&hl=en&sxsrf=APq-WBuVK4O2Rhb46JnDsTFJ8rz02UrtuA:1648748449816&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjHirPN8vD2AhWNVs0KHb5IAOwQ_AUoAXoECAIQAw&biw=1920&bih=955) or [xiphos sword](https://www.google.com/search?q=xiphos&hl=en&sxsrf=APq-WBv7FrsvYQGUU_662dIprNr5q9YI2A:1648748573182&source=lnms&tbm=isch&sa=X&ved=2ahUKEwja5pyI8_D2AhWVXc0KHfB_BQIQ_AUoAXoECAIQAw&biw=1920&bih=955&dpr=1) [[Sword|(1d8)]], [Mattock](https://en.wikipedia.org/wiki/Mattock), [Hemione](https://en.wikipedia.org/wiki/Onager) with a lead *(See below for details)*.<br>**Starting Ken (1d3): 1)** Artifice **2)** Mining **3)** Husbandry.<br><br>**A:** Desperate Dodge, Find the Opening<br>**B:** Bronze Tongue<br>**C:** Alloy<br>**D:** 'Til Death Do We Part
 ___
 ### [[Discipline A Abilities|A.]] Desperate Dodge
 Once per combat, you may drop 1d4 items to negate the damage of an incoming attack *(treat this as if the attack missed)*. These items are randomly selected from among what you are carrying, other than your held weapon and any armor. If you do not have enough items to drop, you fail to dodge.
@@ -38,8 +38,27 @@ For each additional material beyond the base, your weapon gains a point of Britt
 As long as you are holding a sword of your own power, you may ignore fatal wounds.
 
 <!--Based on the Swordwife by Whose Measure God Could Not Take.-->
+
 ___
-##### Alloy Smithing Materials
+### Hemione
+*A wild cousin to the donkey, your hemione is barely tamed but surprisingly loyal.*
+
+**HD** 2 (9hp), **Att** 1 × kick (1d4) OR 1 × bite (1d3), **AB** +1, **MV** 50’ (150'),
+**AC** 12, **SV** D14 W15 P16 B17 S18 (NH), **ML** 8.
+
+* **Tenacious:** Can be taken underground, if the referee allows it.
+* **Defensive:** May attack if threatened, but cannot be trained to attack on command.
+* **Undomesticated:** While encumbered, roll Morale every hour or the hemione bucks half its' inventory onto the ground.
+* **Grazing:** May spend 4 hours grazing instead of eating a ration.
+
+|                |  Unencumbered                 |       |                      |  Encumbered                 |                   |                      |
+| -------------- | ----------------- | ----------------- | -------------------- | ----------------- | ----------------- | -------------------- |
+| **Animal**     | **Miles per Day** | **Movement Rate** | **Max Load (Slots)** | **Miles per Day** | **Movement Rate** | **Max Load (Slots)** |
+| **Hemione**       | 24                | 150’ (50’)        | 10                | 12                | 75’ (25’)         | 30                |
+
+*See **[[Mounts]]** for more details.*
+___
+### Alloy Smithing Materials
 Copper base materials are easily found in most settlements, while mithril base materials are more exotic, and usually found only in major cities.
 
 Choose a base. A weapon forged from just the base (i.e. an iron sword) has 0 Brittleness, and no risk of shattering. For each additional material (including other bases), the weapon gains 1 Brittleness, and shatters if you roll less than or equal to Brittleness.

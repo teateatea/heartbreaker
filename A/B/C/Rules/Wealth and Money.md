@@ -1,13 +1,22 @@
 ---
-aliases: [Treasure, treasure, Gold, Silver, Copper, GP, SP, CP, Money, Economy]
+aliases: [Treasure, treasure, Gold, Silver, Copper, GP, SP, CP, Money, Economy, Wealth, Silver Standard]
 tags: []
 author: [Joseph Liao Gormley]
 date: [2022-04-06]
-template_version: [NOTE-2022-03-17]
+template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-06]
 ---
-[[home|Home]] | [[1) Creating a New Character|Character Creation]] | [[2) Gaining XP|Gaining XP]]
+[[home|Home]] | [[Rules]] | **Wealth and Money** | [[1) Creating a New Character|Character Creation]] | [[2) Gaining XP|Gaining XP]]
 ___
+### Starting Money
+PCs begin play with 3d6 × 10 silver pieces.
+
+PCs beginning on Hot Springs Island start with a [[Martel Debt]] instead.
+
+___
+### Money
+<!-- The most common coin is the silver piece (sp). Coins made of other metals—platinum (pp), electrum (ep), gold (gp), and copper (cp)—are also used. The conversion rates of coins are shown below. #Revisit Successful characters accumulate wealth from the spoils of their adventures. Treasure may take many forms, but often the most useful form of treasure is money.-->
+
 *Nations all over the world regularly mint new coins, and currencies are constantly being created, evaluated, converted, or abandoned.*
 
 For the sake of gameplay, money is standardized and we ignore the minutiae.
@@ -42,6 +51,16 @@ Platinum (PP) and Electrum (EP) are *moneys-of-account*, and are not in circulat
 ___
 ***See also:*** [[2) Gaining XP|Gaining XP]], [[Martel Debt]], [[Downtime]].
 
-***References:*** [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
+***Source:*** [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wealth)
+- *Money,* and *Coin Conversion Rates* replaced with the Silver Standard.
+- *Starting Money* has not been removed, but is irrelevant when playing with Martel Debt.
+- *Inheritance* is replaced by Funerals, and in-world roleplay.
 
-___
+***References:***
+- [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
+<!--*See also:* 
+*References:*
+ -->
+<!-- Sources, read more, links, etc. -->
+<!-- *Source: Entry by [[Mike Maxin]].* -->
+<!-- Leave an empty line at the end, otherwise Exporter complains. -->

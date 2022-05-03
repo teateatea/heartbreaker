@@ -23,10 +23,10 @@ ___
 **~~Specialist~~** (*not yet!*)
 
 ### Equipment & Services
-[[Wealth]] ([[Money]])
+**[[Wealth and Money]]**
 [[Adventuring Gear]]
 [[Weapons And Armour]]
-[[Mounts]] | [[Rules for Vehicles]] | [[Land Vehicles]] | [[Water Vessels]]
+**[[Mounts]]** | [[Rules for Vehicles]] | [[Land Vehicles]] | [[Water Vessels]]
 [[Retainers]] | [[Hirelings]] | [[Mercenaries]] | [[Specialists]]
 [[Strongholds]]
 
@@ -49,12 +49,12 @@ ___
 **[[Combat]]** | [[Other Combat Issues]] | [[Morale]]
 
 ### Monsters
-[[Minions]]
+**[[Minions]]**
 
 
 
 ___
-*See also:* **[[Resources|See the Resources page for details about House-Rules.]]**
+***[[Resources|See the Resources page for details about House-Rules.]]***
 *Source:* [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page)
 - *Alignment* page removed.
 - *Cleric Spells* page removed.
