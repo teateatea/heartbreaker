@@ -18,7 +18,7 @@ ___
 ### Starting Money
 PCs begin play with 3d6 × 10 gold pieces.
 
-
+PCs beginning on Hot Springs Island instead start with a [[Martel Debt]].
 
 ___
 *Source:* [OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Wealth)
