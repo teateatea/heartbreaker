@@ -9,12 +9,13 @@ creation_date: [2022-04-22]
 <!-- Home | Character Creation | -->
 [[home|Home]] | **Open Table** | [[Resources]] | [[Rules]] 
 ___
-**[[Session Zero]]**
+**[[Session Zero|Session Zero]]*****[[Session Zero| (Content Warnings, Lines & Veils)]]***
+
 **[[Scheduling]]**
 **[[Joining Mid-Session]]**
-**[[End of Session]]** ***[[End of Session|(Escaping the Island!)]]***
+**[[End of Session]]*****[[End of Session| (Escaping the Island!)]]***
 
-**[[Time Keeping|Time Keeping & Lock Downs]]**
+**[[Time Keeping|Time Keeping & Location Lock Downs]]**
 
 ___
 <!--*See also:* 
