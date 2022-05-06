@@ -8,36 +8,57 @@ creation_date: [2022-04-20]
 ---
 [[home|Home]] | [[Rules]] | Adventures | **Combat**
 ___
-### Combat Sequence Per Round
-1. Declare spells and retreats
-2. Initiative: Each side rolls 1d6.
-3. Winning side acts:
-	1. Monster morale
-	2. Movement
-	3. Missile attacks
-	4. Spell casting
-	5. Melee attacks
-4. Other sides act: In initiative order.
+For the purpose of these rules:
+- **Creature:** Any Player Character (PC), Non-Player Character (NPC), Monster, group of Monsters, or other agent of change, that is participating in the combat.
+- **Active Creature:** The Creature that is currently taking an Action, who is taking their turn.
 
-## Declare Spells and Retreats
-Characters who wish to cast a spell or move when in melee must declare this. Other actions need not be declared.
+## **Popcorn Initiative**
+1. Initiative
+2. Actions
+3. Pass the Action
+4. End of Round
+	1. Monster Morale
+	2. Effect Durations
 
-## Initiative <!-- #Revisit -->
-**Roll 1d6:** For each side at the start of each round.
+### Initiative
+**Roll 1d20:** At the start of each combat, each Creature rolls Initiative, modified by DEX or WIS *(see **[[Ability Scores]]**)*. The referee may determine an initiative modifier for Monsters that are very fast or slow, instead of applying a DEX modifier.
 
-**Winner:** The side with the highest roll acts first. Other sides act in order from highest to lowest roll.
+**Winner:** The individual with the highest roll acts first.
 
-**Ties:** Either both sides may roll again or actions on both sides may be resolved simultaneously. (This means that both sides may inflict deadly blows on each other!)
+**Ties:** Players win ties, or both sides may roll again to determine a winner.
 
-### Slow Weapons
-Characters attacking with two-handed melee weapons (and some missile weapons—as indicated in the equipment description) always act last in the round, as if they had lost initiative.
+### Pass the Action
+After completing their action, the Active Creature nominates the next Creature to take their turn. That Creature takes their Action, and then nominates who goes next.
 
-### Individual Initiative (Optional Rule)
-Instead of an initiative roll per side, a roll may be made for each individual involved in a battle, modified by DEX (see [[Ability Scores]]). The referee may determine an initiative modifier for monsters that are very fast or slow, instead of applying a DEX modifier.
+Once every Creature has taken their Action, the last Creature decides who acts first in the next round (and can choose themselves).
 
 ___
-## Monster Morale
+## Readying an Action
+Any creature may specify an action and a trigger condition. If the trigger condition appears, they may choose to take the readied action, or wait until it is triggered again by something else.
+
+If that creature hasn't taken the readied action by the time they are nominated again, they lose that readied action (but may ready it again if they wish).
+
+
+___
+## Waiting
+Any Creatures may choose to wait, instead of immediately taking action. They nominate another Creature to act, and are now considered "waiting". They must wait until they are nominated again to take their action.
+
+If a waiting creature has been nominated, and all remaining creatures are also waiting, they can no longer wait and must act.
+
+
+___
+## End of Round
+The End of Round phase occurs, after the last Creature has acted, but before the next Round begins.
+
+### Monster Morale
 *See **[[Morale]]**.*
+
+### Effect Durations
+All effects *(such as physical conditions, magical effects, or poisons)* reduce their Duration by 1. Any effect already at Duration 0 expires.
+
+> Alice casts a spell that lasts 1 round on Bob. Alice is the last person to go that Round. After that, the End of Round phase occurs, so the Spell's Duration is reduced to 0. It continues through the entire next Round and expires in the End of Round phase at the end of the *next* round.
+
+> An easy way to track it is to effects with Duration is with a d10. When Alice casts a spell that lasts 1 Round, put a d10 out set on “1.” At the End of Round, count down the effect. However, do not remove the die when it reaches 0. Instead, remove the die when it is already on 0 when a Round ends.
 
 ___
 ## Movement
@@ -50,52 +71,11 @@ ___
 When in melee with a foe, only the following forms of movement are possible:
 
 * **Fighting withdrawal:** The character moves backwards at up to half their encounter movement rate. There must be a clear path for this movement.
-* **Retreat:** The character turns and flees from melee, moving up to their full encounter movement rate. This round: the character may not attack; the opponent gains a +2 bonus to all attacks against the character and ignores any AC bonus due to the character’s shield (if applicable).
-
-___
-## Missile Attacks
-Are possible when opponents are more than 5’ from one another. See **''Attacking**''.
-
-### Range Modifiers
-All missile weapons have ranges, noted in the equipment lists. <!-- #Revisit -->
-
-**Short range:** +1 bonus to attack rolls.
-
-**Medium range:** No bonuses or penalties.
-
-**Long range:** –1 penalty to attack rolls.
-
-**Beyond long range:** Attack not possible.
-
-### Targets Behind Cover
-**Complete cover:** The target cannot be hit.
-
-**Partial cover:** The referee may apply attack penalties of between –1 and –4 (e.g. a small table might incur a –1 penalty; dense woods might incur a –4 penalty).
-
-___
-## Spell Casting
-**Freedom:** The character must be able to speak and move their hands. A spell caster cannot cast spells if gagged, bound, or in an area of magical silence.
-
-**Sole action:** When casting a spell, no other actions may be taken in the round.
-
-**No movement:** The character cannot move and cast a spell in the same round.
-
-**Line of sight:** Unless noted in a spell’s description, the intended target (a specific monster, character, object, or area of effect) must be visible to the caster.
-
-### Disrupting Spells
-If a spell caster loses initiative and is successfully attacked or fails a saving throw before their turn, the spell being cast is disrupted and fails. It is removed from the caster’s memory as if it had been cast.
-
-___
-## Melee Attacks
-Are possible when opponents are 5’ or less from each other. See **''Attacking**''.
-
-___
-## Other Sides Act
-Repeat steps 3a to 3e for each side, in order of initiative (highest first).
+* **Retreat:** The character turns and flees from melee, moving up to their full encounter movement rate. For a Duration of 1 Round, the character may not attack, and their opponents gain a +2 bonus to all attacks against the character and ignores any AC bonus due to the character’s shield (if applicable).
 
 ___
 ## Attacking
-### Attack Rolls *(AAC)*
+### Attack Rolls <!--*(AAC)*-->
 1. **Roll 1d20**
 2. **Apply modifiers:** STR for melee; DEX, range, cover for missile attacks.
 3. **Determine hit AC:** Add the character’s attack bonus to the attack roll. The result is the ascending AC score that the attack hits.
@@ -113,7 +93,10 @@ PCs normally attack once per round. Some monsters have multiple attacks.
 ### Attacking and Moving
 Movement and attacking may be combined in the same round.
 
-### Rolling for Damage *(Variable Weapon Damage)*
+### Slow Weapons
+Characters with Slow weapons *(as indicated in the equipment description)* may only attack after all non-waiting creatures have taken their turn.
+
+### Rolling for Damage <!-- *(Variable Weapon Damage)*-->
 **PC attacks:** Inflict the damage indicated for the weapon in the equipment lists. Damage of melee attacks is modified by STR.
 
 **Monster attacks:** Deal the damage indicated in the monster’s description.
@@ -123,15 +106,56 @@ Movement and attacking may be combined in the same round.
 **Death:** A monster reduced to 0 hit points or less is killed. For PCs reduced to 0 hit points, see **[[Healing & Death|Death]]**.
 
 
+___
+## Melee Attacks
+Are possible when opponents are **5’ or less** from each other. See **''Attacking**''.
 
 ___
-*Source:* [Combat - OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Combat)
+## Missile Attacks
+Are possible when opponents are **more than 5’** from one another. See **''Attacking**''.
+
+### Range Modifiers
+All missile weapons have ranges, noted in the equipment lists. <!-- #Revisit -->
+
+**Short range:** +1 bonus to attack rolls.
+
+**Medium range:** No bonuses or penalties.
+
+**Long range:** –1 penalty to attack rolls.
+
+**Beyond long range:** Attack not possible.
+
+### Targets Behind Cover
+**Complete cover:** The target cannot be hit.
+
+**Partial cover:** The referee may apply attack penalties of between –1 and –4 (e.g. a small table might incur a –1 penalty; dense woods might incur a –4 penalty).
+
+
+___
+## Spell Casting
+**Freedom:** The character must be able to speak and move their hands. A spell caster cannot cast spells if gagged, bound, or in an area of magical silence.
+
+**Sole action:** When casting a spell, no other actions may be taken in the round.
+
+**No movement:** The character cannot move and cast a spell in the same round.
+
+**Line of sight:** Unless noted in a spell’s description, the intended target (a specific monster, character, object, or area of effect) must be visible to the caster.
+
+### Disrupting Spells
+If a spell caster is successfully attacked or fails a saving throw before their turn ends, the spell being cast is disrupted and fails. It is removed from the caster’s memory as if it had been cast. This is usually as a result of a readied action.
+
+___
+***Source:*** [Combat - OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Combat)
 - *Combat Sequence Per Round* is replaced by *Popcorn Initiative.*
+- *Individual Initiative (Optional Rule)* is in use.
+	- *Initiative bonus* can be Dexterity *or Wisdom.*
 - *Monster Morale (Optional Rule)* and *Morale (Optional Rule)* are both in use.
 - *Ascending Armour Class (Optional Rule)* is in use, and has been merged into *Attack Rolls.*
 	- *"Referee rolls for damage."* changed to *"Roll for damage."*
 - *Rolling for Damage:* PCs have 3 lifetime Death saves.
 - *Variable Weapon Damage (Optional Rule)* is in use, and has been merged into *Rolling for Damage*.
+***References:***
+- [**Popcorn Initiave** by **The Angry GM**](https://theangrygm.com/popcorn-initiative-a-great-way-to-adjust-dd-and-pathfinder-initiative-with-a-stupid-name/)
 <!-- Sources, read more, links, etc. -->
 <!-- *Source: Entry by [[Mike Maxin]].* -->
 <!-- Leave an empty line at the end, otherwise Exporter complains. -->
