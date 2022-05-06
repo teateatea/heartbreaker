@@ -14,11 +14,12 @@ Any Creature may specify a trigger condition, and an action they will take. If t
 > - **When Liliana shoots her arrow** (trigger condition),
 > - **I'll charge the beast** (readied action).
 
-Note that a Creature taking a readied action is still not the Active Creature, and does not nominate the next Creature when their action is completed.
-
 If that Creature hasn't taken the readied action by the time they are nominated again, they lose that readied action (but may ready it again if they wish).
 
 If multiple Creatures specify the same trigger condition, roll initiative when the trigger condition occurs. The Creatures may choose to take their readied action in order from highest to lowest.
+
+Note that a Creature taking a readied action is still not the Active Creature, and does not nominate the next Creature when their action is completed.
+
 ___
 ## Waiting
 Any Creature may choose to wait, instead of immediately taking action. They nominate another Creature to act, and are now considered "waiting". They must wait until they are nominated again to take their action.
