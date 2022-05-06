@@ -31,7 +31,7 @@ ___
 ### 2. Take Action
 The Active Creature performs their action, such as attacking, or casting spells, and may move if they wish.
 
-See below for details.
+*See **[[Combat#Taking Action|Taking Action]]** below for more details about the combat turn.*
 
 ___
 ### 3. Pass the Action
@@ -106,6 +106,7 @@ Movement and attacking may be combined in the same round.
 ### Slow Weapons
 Characters with Slow weapons *(as indicated in the equipment description)* may only attack after all non-waiting creatures have taken their turn.
 
+___
 ### Rolling for Damage <!-- *(Variable Weapon Damage)*-->
 **PC attacks:** Inflict the damage indicated for the weapon in the equipment lists. Damage of melee attacks is modified by STR.
 
