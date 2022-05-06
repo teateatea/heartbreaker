@@ -45,11 +45,11 @@ Once every Creature has acted this Round, the last Creature will decide who acts
 ##### Jumping In
 Any Creature that has been affected by the Active Creature may choose to jump in. This occurs most commonly when a Creature has been attacked, and wants to immediately retaliate.
 
-The affected Creature takes their action (as if they had been nominated), and then nominates who goes next.
+The affected Creature takes their action as if they had been nominated, and then nominates who goes next.
 
-If multiple Creatures want to Jump In, they may roll Initiative to determine which one acts.
+If multiple Creatures want to Jump In, they roll Initiative to determine which one acts.
 
-> This rule may appear to make coordinated attacks and ambushes impossible, but Creatures may **[[Combat Actions#Readying an Action|Ready an Action]]** if simultaneous action is required.
+> This rule may appear to make coordinated attacks and ambushes impossible, but Creatures may **[[Combat Actions#Readying an Action|Ready an Action]]** on their turn if simultaneous action is required.
 > 
 > For example, multiple Creatures can prepare to strike "as soon as Liliana shoots her arrow," resulting in six arrows being loosed before Liliana needs to nominate the next Creature.
 
