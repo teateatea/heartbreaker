@@ -6,7 +6,7 @@ date: [2022-04-20]
 template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
-[[home|Home]] | [[Rules]] | Adventures | [[Combat]] | **Actions**
+[[home|Home]] | [[Rules]] | Adventures | [[Combat Order]] | **Combat Actions**
 ___
 ## Readying an Action
 Any creature may specify an action and a trigger condition. If the trigger condition appears, they may choose to take the readied action, or wait until it is triggered again by something else.

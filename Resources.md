@@ -42,7 +42,7 @@ ___
 
 ##### Combat
 - Initiative rolls using either Dexterity or Wisdom bonus from [**Combat that Serves the Story** by **Dael Kingsmill**](https://www.youtube.com/watch?v=dHPvBrA_j2Q)
-- **[[Combat|Popcorn Initiative]]**
+- **[[Combat Order|Combat Order - Popcorn Initiative]]**
 	- Based on [**Popcorn Initiave** by **The Angry GM**](https://theangrygm.com/popcorn-initiative-a-great-way-to-adjust-dd-and-pathfinder-initiative-with-a-stupid-name/)
 
 

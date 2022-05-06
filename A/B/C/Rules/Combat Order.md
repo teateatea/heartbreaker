@@ -6,14 +6,14 @@ date: [2022-04-20]
 template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
-[[home|Home]] | [[Rules]] | Adventures | **Combat**
+[[home|Home]] | [[Rules]] | Adventures | **Combat Order** | [[Combat Actions]]
 ___
 For the purpose of these rules:
 - **Creature:** Any Player Character (PC), Non-Player Character (NPC), Monster, group of Monsters, or other agent of change that is participating in the combat.
 - **Active Creature:** The Creature that is currently taking an Action, who is taking their turn.
 
 ___
-### **Combat Order - Popcorn Initiative**
+### **Combat Sequence Per Round**
 1. Roll Initiative
 2. Take Action
 3. Pass the Action
@@ -29,7 +29,7 @@ ___
 
 ___
 ### 2. Take Action
-The Active Creature performs their action, such as attacking, or casting spells, and may move if they wish.
+The Active Creature performs their action, such as attacking, casting spells, and/or moving.
 
 *See **[[Combat Actions]]** for more details about the combat turn.*
 
@@ -52,6 +52,7 @@ If multiple Creatures want to Jump In, they may roll Initiative to determine whi
 > This rule may appear to make coordinated attacks and ambushes impossible, but Creatures may **[[Combat Actions#Readying an Action|Ready an Action]]** if simultaneous action is required.
 > 
 > For example, multiple Creatures can prepare to strike "as soon as Liliana shoots her arrow," resulting in six arrows being loosed before Liliana needs to nominate the next Creature.
+
 
 ___
 ### 4. End of Round

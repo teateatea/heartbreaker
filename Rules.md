@@ -46,7 +46,7 @@ ___
 
 [[Dungeon Adventuring]] | [[Wilderness Adventuring]] | [[Waterborne Adventuring]]
 
-**[[Combat]]** | **[[Combat Actions]]** | [[Other Combat Issues]] | [[Morale]]
+**[[Combat Order]]** | **[[Combat Actions]]** | [[Other Combat Issues]] | [[Morale]]
 
 ### Monsters
 **[[Minions]]**
