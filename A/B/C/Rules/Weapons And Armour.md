@@ -56,7 +56,7 @@ See also: **[[OSE - 01-2 - Equipment List (HSI) - 2020-11-25 v1-1.pdf|Hot Spring
 
 **Reload (optional rule):** Requires a round to reload between shots; can only be fired every second round.
 
-**Slow:** The character acts last in each combat round (see **[[Combat Actions]]**).<!-- #Revisit -->
+**Slow:** The character may only attack after all non-waiting creatures have taken their turn.<!--The character acts last in each combat round (see **[[Combat Actions]]**). #Revisit -->
 
 **Splash weapon:** On a successful attack, the container smashes and douses the target with the liquid. The listed damage is inflicted for two rounds, as the liquid drips off.
 
