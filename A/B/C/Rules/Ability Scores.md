@@ -30,7 +30,7 @@ Agility, reflexes, speed, and balance.
 
 * **AC:** Modifies the character’s AC (a bonus lowers AC, a penalty raises it).
 * **Missile:** Applied to attack rolls (but not damage rolls) with ranged weapons.
-* **Initiative:** Modifies the character’s initiative roll, if the optional rule for individual initiative is used (see [[Combat]]).<!-- #Revisit -->
+* **Initiative:** Modifies the character’s initiative roll (see **[[Combat]]**). <!-- if the optional rule for individual initiative is used  #Revisit -->
 
 ___
 ### Intelligence (INT)
@@ -44,6 +44,7 @@ ___
 Willpower, common sense, perception, and intuition.
 
 * **Magic saves:** Is applied to saving throws (see [[Checks, Damage, Saves#Saving Throws|Saving Throws]]) versus magical effects. This does not normally include saves against breath attacks, but may apply to any other saving throw category.<!-- #Revisit -->
+* **Initiative:** Modifies the character’s initiative roll (see **[[Combat]]**). <!-- if the optional rule for individual initiative is used  #Revisit -->
 
 ___
 ### Charisma (CHA)
@@ -59,6 +60,9 @@ ___
 - All *Ability Modifier Tables* removed temporarily.
 - Ability Scores reordered to match the Character Sheet *(changed by the Inventory system)*.
 - *Prime Requisite,* and *XP modifiers* removed.
+- *Wisdom* may be used as the modifier for Initiative instead of Dexterity.
+***References:***
+- Initiative rolls using either Dexterity or Wisdom from [**Combat that Serves the Story** by **Dael Kingsmill**](https://www.youtube.com/watch?v=dHPvBrA_j2Q)
 <!--*See also:* 
 *References:*
  -->

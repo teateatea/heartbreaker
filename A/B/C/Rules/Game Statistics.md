@@ -46,7 +46,7 @@ The character’s ability to avoid damage in combat. Armour Class is determined 
 ### Attack Bonus (AB)
 The character’s ability to hit foes in combat, determined by their class and level. Attack rolls involve rolling a d20, then adding the character's AB.
 
-*See **[[Combat]]** for more details.*<!-- #Revisit -->
+*See **[[Combat Actions]]** for more details.*<!-- #Revisit -->
 
 ### Saving Throw Values
 The character’s ability to avoid being affected by certain types of dangerous or detrimental effects. There are five saving throw categories: death *(or poison)*, wands, paralysis *(or petrification)*, breath attacks, spells *(or magic rods or staves)*. The character’s saving throw values are determined by class and level.

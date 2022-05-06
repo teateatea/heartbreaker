@@ -34,7 +34,7 @@ Aside from everyday time increments (minutes, hours, days, and so on), the follo
 
 **Turns:** 10 minutes of game time. There are 6 turns in an hour. Time is measured in turns when exploring dungeons (see [[Dungeon Adventuring]]). <!-- #Revisit -->
 
-**Rounds:** 10 seconds of game time. There are 60 rounds in a turn. Time is measured in rounds during encounters, especially in combat (see [[Encounters]] and [[Combat]]). <!-- #Revisit -->
+**Rounds:** 10 seconds of game time. There are 60 rounds in a turn. Time is measured in rounds during encounters, especially in combat (see [[Encounters]] and **[[Combat]]**). <!-- #Revisit -->
 
 ##### Distance: Inches, Feet, Yards, Miles
 Staying true to its origins, this game uses imperial or customary US units. Distances are measured in inches (notated with a ”), feet (notated with a ’), yards, and miles.
