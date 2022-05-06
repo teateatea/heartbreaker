@@ -11,8 +11,7 @@ ___
 ## Readying an Action
 Any Creature may specify a trigger condition, and an action they will take. If the trigger condition occurs, they may choose to take the readied action, or wait until it is triggered again by something else.
 
-> For example,
-> - **when Liliana shoots her arrow** (trigger condition),
+> - **When Liliana shoots her arrow** (trigger condition),
 > - **I'll charge the beast** (readied action).
 
 Note that a Creature taking a readied action is still not the Active Creature, and does not nominate the next Creature when their action is completed.
