@@ -9,16 +9,22 @@ creation_date: [2022-04-20]
 [[home|Home]] | [[Rules]] | Adventures | [[Combat Order]] | **Combat Actions**
 ___
 ## Readying an Action
-Any creature may specify an action and a trigger condition. If the trigger condition appears, they may choose to take the readied action, or wait until it is triggered again by something else.
+Any Creature may specify a trigger condition, and an action they will take. If the trigger condition occurs, they may choose to take the readied action, or wait until it is triggered again by something else.
 
-If that creature hasn't taken the readied action by the time they are nominated again, they lose that readied action (but may ready it again if they wish).
+> For example,
+> - **when Liliana shoots her arrow** (trigger condition),
+> - **I'll charge the beast** (readied action).
 
+Note that a Creature taking a readied action is still not the Active Creature, and does not nominate the next Creature when their action is completed.
 
+If that Creature hasn't taken the readied action by the time they are nominated again, they lose that readied action (but may ready it again if they wish).
+
+If multiple Creatures specify the same trigger condition, roll initiative when the trigger condition occurs. The Creatures may choose to take their readied action in order from highest to lowest.
 ___
 ## Waiting
-Any Creatures may choose to wait, instead of immediately taking action. They nominate another Creature to act, and are now considered "waiting". They must wait until they are nominated again to take their action.
+Any Creature may choose to wait, instead of immediately taking action. They nominate another Creature to act, and are now considered "waiting". They must wait until they are nominated again to take their action.
 
-If a waiting creature has been nominated, and all remaining creatures are also waiting, they can no longer wait and must act.
+If a waiting Creature has been nominated, and all remaining Creatures are also waiting, they can no longer wait and must act.
 
 
 ___
