@@ -33,11 +33,25 @@ The Active Creature performs their action, such as attacking, or casting spells,
 
 *See **[[Combat Actions]]** for more details about the combat turn.*
 
+
+
 ___
 ### 3. Pass the Action
 After completing their action, the Active Creature nominates the next Creature to take their turn. That Creature takes their Action, and then nominates who goes next.
 
-Once every Creature has taken their Action, the last Creature will decide who acts first in the next round (and can choose themselves).
+Once every Creature has acted this Round, the last Creature will decide who acts first in the next round (and can choose themselves).
+
+
+##### Jumping In
+Any Creature that has been affected by the Active Creature may choose to jump in. This occurs most commonly when a Creature has been attacked, and wants to immediately retaliate.
+
+The affected Creature takes their action (as if they had been nominated), and then nominates who goes next.
+
+If multiple Creatures want to Jump In, they may roll Initiative to determine which one acts.
+
+> This rule may appear to make coordinated attacks and ambushes impossible, but Creatures may **[[Combat Actions#Readying an Action|Ready an Action]]** if simultaneous action is required.
+> 
+> For example, multiple Creatures can prepare to strike "as soon as Liliana shoots her arrow," resulting in six arrows being loosed before Liliana needs to nominate the next Creature.
 
 ___
 ### 4. End of Round
@@ -49,9 +63,9 @@ The End of Round phase occurs, after the last Creature has acted, but before the
 ##### Effect Durations
 All effects *(such as physical conditions, magical effects, or poisons)* reduce their Duration by 1. Any effect already at Duration 0 expires.
 
-> Alice casts a spell that lasts 1 round on Bob. Alice is the last person to go that Round. After that, the End of Round phase occurs, so the Spell's Duration is reduced to 0. It continues through the entire next Round and expires in the End of Round phase at the end of the *next* round.
+> For example, Alice casts a Spell that lasts 1 Round on Bob. Alice is the last person to go that Round, so the End of Round phase occurs, and her Spell's Duration is reduced to 0. It continues through the entire next Round, expiring at the end of *that* round.
 
-> An easy way to track it is to effects with Duration is with a d10. When Alice casts a spell that lasts 1 Round, put a d10 out set on “1.” At the End of Round, count down the effect. However, do not remove the die when it reaches 0. Instead, remove the die when it is already on 0 when a Round ends.
+> An easy way to track effects with Duration is with a d10. When Alice casts a spell that lasts 1 Round, set a d10 to “1.” At the End of Round, count down the effect. When the die is set to "0," do not remove it. Instead, remove the die when it is already on 0 when a Round ends.
 
 ___
 ***Source:*** [Combat - OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Combat)
