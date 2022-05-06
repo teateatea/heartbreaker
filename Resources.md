@@ -11,13 +11,14 @@ ___
 ___
 # Rules
 ### Main Gameplay Rules
-- Main rule set is [**Old School Essentials SRD**](https://oldschoolessentials.necroticgnome.com/srd/) or [**OSE Basic Rules** *(Free Text-Only PDF)*](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules) by [**Necrotic Gnome**,](https://necroticgnome.com/) *message me for the full rules!*
-- RPG guiding principles from [**Principia Apocrypha**](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) by [**Ben Milton**,](https://questingblog.com/) [**Steven Lumpkin**,](https://roll1d100.blogspot.com/) and [**David Perry**.](https://lithyscaphe.blogspot.com/)
+- Main rule set is [***Old School Essentials* SRD**](https://oldschoolessentials.necroticgnome.com/srd/) or [***OSE* Basic Rules** *(Free Text-Only PDF)*](https://www.drivethrurpg.com/product/272802/OldSchool-Essentials-Basic-Rules) by [**Necrotic Gnome.**](https://necroticgnome.com/) *Ask me for the full rules!*
+- RPG guiding principles from [***Principia Apocrypha***](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) by [**Ben Milton**,](https://questingblog.com/) [**Steven Lumpkin**,](https://roll1d100.blogspot.com/) and [**David Perry**.](https://lithyscaphe.blogspot.com/)
+- Current Campaign is [***Hot Springs Island***](https://www.drivethrurpg.com/product/215340/The-Dark-of-Hot-Springs-Island) by [**Swordfish Islands.**](https://shop.swordfishislands.com/the-dark-of-hot-springs-island/) *Ask me for the [**A Field Guide to Hot Springs Island**](https://www.drivethrurpg.com/product/215337/A-Field-Guide-to-Hot-Springs-Island?src=newest)*
 ---
 # House-Rules
 ### Players
 ##### Character Creation
-- [[1) Creating a New Character|Background & Appearance Tables (during Character Creation)]] from [**Knave** by **Ben Milton**.](https://www.drivethrurpg.com/product/250888/Knave?manufacturers_id=10312)
+- [[1) Creating a New Character|Background & Appearance Tables (during Character Creation)]] from [**Knave** by **Ben Milton.**](https://www.drivethrurpg.com/product/250888/Knave?manufacturers_id=10312)
 - PC Debt from The Dark of Hot Springs Island
 ##### PC Mechanics
 - [[Healing & Death]] Saves at 0 HP.
