@@ -9,9 +9,9 @@ creation_date: [2022-04-06]
 [[Open Table]] | [[Resources]] | [[Rules]] | [[1) Creating a New Character|Character Creation]]
 ___
 ## Heartbreaker
-Hello! This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are based on Old School Essentials, the Goblin Laws of Gaming, Veins of the Earth, and any other ideas that match my intended game experience.
+Hello! This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are mainly based on **Old School Essentials,** a modern equivalent to 1st Edition D&D, and the inventory system described in **Veins of the Earth,** plus any other ideas that match my intended game experience.
 
-Thank you for playing!
+Right now, the main campaign is **Hot Springs Island.** Thank you for playing!
 
 **Ready to jump in? Choose a  [[Premade Characters|Premade Character,]] or create a  [[1) Creating a New Character|New Character!]]**
 ___
