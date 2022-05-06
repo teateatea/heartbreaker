@@ -64,17 +64,6 @@ Movement and attacking may be combined in the same round.
 Characters with Slow weapons *(as indicated in the equipment description)* may only attack after all non-waiting creatures have taken their turn.
 
 ___
-### Rolling for Damage <!-- *(Variable Weapon Damage)*-->
-**PC attacks:** Inflict the damage indicated for the weapon in the equipment lists. Damage of melee attacks is modified by STR.
-
-**Monster attacks:** Deal the damage indicated in the monster’s description.
-
-**Minimum damage:** An attack which hits always deals at least one point of damage, even when damage modifiers reduce the number rolled to 0 or less.
-
-**Death:** A monster reduced to 0 hit points or less is killed. For PCs reduced to 0 hit points, see **[[Healing & Death|Death]]**.
-
-
-___
 ## Melee Attacks
 Are possible when opponents are **5’ or less** from each other. See **''Attacking**''.
 
@@ -111,6 +100,19 @@ ___
 
 ### Disrupting Spells
 If a spell caster is successfully attacked or fails a saving throw before their turn ends, the spell being cast is disrupted and fails. It is removed from the caster’s memory as if it had been cast. This is usually as a result of a readied action.
+
+
+___
+## Rolling for Damage <!-- *(Variable Weapon Damage)*-->
+**PC attacks:** Inflict the damage indicated for the weapon in the equipment lists. Damage of melee attacks is modified by STR.
+
+**Monster attacks:** Deal the damage indicated in the monster’s description.
+
+**Minimum damage:** An attack which hits always deals at least one point of damage, even when damage modifiers reduce the number rolled to 0 or less.
+
+**Death:** A monster reduced to 0 hit points or less is killed. For PCs reduced to 0 hit points, see **[[Healing & Death|Death]]**.
+
+
 
 ___
 ***Source:*** [Combat - OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Combat)
