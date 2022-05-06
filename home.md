@@ -6,6 +6,8 @@ date: [2022-04-06]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-06]
 ---
+Home | [[Open Table]] | [[Resources]] | [[Rules]] | [[1) Creating a New Character|Character Creation]]
+___
 ## Heartbreaker
 Hello! This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are based on Old School Essentials, the Goblin Laws of Gaming, Veins of the Earth, and any other ideas that match my intended game experience.
 
