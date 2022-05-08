@@ -19,21 +19,21 @@ See also: **[[OSE - 01-2 - Equipment List (HSI) - 2020-11-25 v1-1.pdf|Hot Spring
 | ------------------------------ | --------- | -------------- | ------ | ----------------------------------------------------------------------------- |
 | Battle axe                     | 7         | 1              | 1d8    | Melee, Slow, Two-handed                                                       |
 | Club                           | 3         | 1              | 1d4    | Blunt, Melee                                                                  |
-| Crossbow + Case (30 bolts)     | 40+5      | 2+1            | 1d6    | Missile (**+1:** 5’–80’ / **81’–160’** / **-1:** 161’–240’), Reload, Slow, Two-handed |
-| Dagger, 2                      | 6         | 1              | 1d4    | Melee, Missile (**+1:** 5’–10’ / **11’–20’** / **-1:** 21’–30’)                                   |
-| Hand axe, 2                    | 8         | 1              | 1d6    | Melee, Missile (**+1:** 5’–10’ / **11’–20’** / **-1:** 21’–30’)                                   |
-| Holy water vial                | 25        | 1              | 1d8    | Missile (**+1:** 5’–10’ / **11’–30’** / **-1:** 31’–50’), Splash weapon                           |
-| Javelin, 4                     | 4         | 1              | 1d4    | Missile (**+1:** 5’–30’ / **31’–60’** / **-1:** 61’–90’)                                          |
+| Crossbow + Case (30 bolts)     | 40+5      | 2+1            | 1d6    | Missile (5’–80’ / **81’–160’** / 161’–240’), Reload, Slow, Two-handed |
+| Dagger, 2                      | 6         | 1              | 1d4    | Melee, Missile (5’–10’ / **11’–20’** / 21’–30’)                                   |
+| Hand axe, 2                    | 8         | 1              | 1d6    | Melee, Missile (5’–10’ / **11’–20’** / 21’–30’)                                   |
+| Holy water vial                | 25        | 1              | 1d8    | Missile (5’–10’ / **11’–30’** / 31’–50’), Splash weapon                           |
+| Javelin, 4                     | 4         | 1              | 1d4    | Missile (5’–30’ / **31’–60’** / 61’–90’)                                          |
 | Lance                          | 5         | 2              | 1d6    | Charge, Melee                                                                 |
-| Long bow + Quiver (20 arrows)  | 40+5      | 2+1            | 1d6    | Missile (**+1:** 5’–70’ / **71’–140’** / **-1:** 141’–210’), Two-handed                           |
+| Long bow + Quiver (20 arrows)  | 40+5      | 2+1            | 1d6    | Missile (5’–70’ / **71’–140’** / 141’–210’), Two-handed                           |
 | Mace                           | 5         | 1              | 1d6    | Blunt, Melee                                                                  |
-| Oil flask, burning             | 2         | 1              | 1d8    | Missile (**+1:** 5’–10’ / **11’–30’** / **-1:** 31’–50’), Splash weapon                           |
+| Oil flask, burning             | 2         | 1              | 1d8    | Missile (5’–10’ / **11’–30’** / 31’–50’), Splash weapon                           |
 | Polearm                        | 7         | 2              | 1d10   | Brace, Melee, Slow, Two-handed                                                |
-| Short bow + Quiver (20 arrows) | 25+5      | 1+1            | 1d6    | Missile (**+1:** 5’–50’ / **51’–100’** / **-1:** 101’–150’), Two-handed                           |
+| Short bow + Quiver (20 arrows) | 25+5      | 1+1            | 1d6    | Missile (5’–50’ / **51’–100’** / 101’–150’), Two-handed                           |
 | Short swords, 2                | 14        | 1              | 1d6    | Melee                                                                         |
-| Silver dagger                  | 30        | 1              | 1d4    | Melee, Missile (**+1:** 5’–10’ / **11’–20’** / **-1:** 21’–30’)                                   |
-| Sling & Sack (20 stones)       | 2         | 1              | 1d4    | Blunt, Missile (**+1:** 5’–40’ / **41’–80’** / **-1:** 81’–160’)                                  |
-| Spear                          | 4         | 1              | 1d6    | Brace, Melee, Missile (**+1:** 5’–20’ / **21’–40’** / **-1:** 41’–60’)                            |
+| Silver dagger                  | 30        | 1              | 1d4    | Melee, Missile (5’–10’ / **11’–20’** / 21’–30’)                                   |
+| Sling & Sack (20 stones)       | 2         | 1              | 1d4    | Blunt, Missile ( 5’–40’ / **41’–80’** / 81’–160’)                                  |
+| Spear                          | 4         | 1              | 1d6    | Brace, Melee, Missile (5’–20’ / **21’–40’** / 41’–60’)                            |
 | Staff                          | 2         | 1              | 1d4    | Blunt, Melee, Slow, Two-handed                                                |
 | Sword                          | 10        | 1              | 1d8    | Melee                                                                         |
 | Torch                          | 1 (for 6) | 1              | 1d4    | Melee                                                                         |
