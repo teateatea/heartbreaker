@@ -24,8 +24,8 @@ ___
 
 ### Equipment & Services
 **[[Wealth and Money]]**
-[[Adventuring Gear]]
-[[Weapons And Armour]]
+**[[Adventuring Gear]]**
+**[[Weapons And Armour]]**
 **[[Mounts]]** | [[Rules for Vehicles]] | [[Land Vehicles]] | [[Water Vessels]]
 [[Retainers]] | [[Hirelings]] | [[Mercenaries]] | [[Specialists]]
 [[Strongholds]]
@@ -41,8 +41,8 @@ ___
 **[[Time, Weight, Movement]]**
 **[[Checks, Damage, Saves]]** | **[[Healing and Death]]**
 [[Encounters]] | **[[Hazards and Challenges]]** | [[Evasion and Pursuit]]
-[[Dungeon Adventuring]] | [[Wilderness Adventuring]] | [[Waterborne Adventuring]]
 **[[Combat Order]]** | **[[Combat Actions]]** | **[[Other Combat Issues]]** | **[[Morale]]**
+[[Dungeon Adventuring]] | [[Wilderness Adventuring]] | [[Waterborne Adventuring]]
 
 ### Monsters
 **[[Minions]]**
