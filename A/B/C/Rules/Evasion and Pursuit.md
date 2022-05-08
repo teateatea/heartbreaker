@@ -12,10 +12,10 @@ ___
 
 
 ___
-[Evasion and Pursuit](https://oldschoolessentials.necroticgnome.com/srd/index.php/Evasion_and_Pursuit)<!--*See also:* 
+[Evasion and Pursuit](https://oldschoolessentials.necroticgnome.com/srd/index.php/Evasion_and_Pursuit)
 
+<!--*See also:* 
 *References:*
-
 *Source:* -->
 <!-- Sources, read more, links, etc. -->
 <!-- *Source: Entry by [[Mike Maxin]].* -->
