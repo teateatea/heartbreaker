@@ -15,8 +15,8 @@ ___
 	- Fillable Character Sheet PDF!!
 	- Equipment packages, update basic kit.
 - Tiff wants Magician (do this before she levels up probably).
-- Clarify Initiative & Combat rules.
 - Clarify Levelling up & XP rules.
+- Clarify Downtime rules.
 
 ##### Medium Soon
 - Mystic of Vymjir (Complete Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
