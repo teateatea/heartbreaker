@@ -36,7 +36,7 @@ See also: **[[OSE - 01-2 - Equipment List (HSI) - 2020-11-25 v1-1.pdf|Hot Spring
 | Spear                          | 4         | 1              | 1d6    | Brace, Melee, Missile (5’–20’ / **21’–40’** / 41’–60’)                |
 | Staff                          | 2         | 1              | 1d4    | Blunt, Melee, Slow, Two-handed                                        |
 | Sword                          | 10        | 1              | 1d8    | Melee                                                                 |
-| Torch                          | 1 (for 6) | 1              | 1d4    | Melee                                                                 |
+| Torch, 6                       | 1         | 1              | 1d4    | Melee                                                                 |
 | Two-handed sword               | 15        | 2              | 1d10   | Melee, Slow, Two-handed                                               |
 | Warhammer                      | 5         | 1              | 1d6    | Blunt, Melee                                                          |
 
