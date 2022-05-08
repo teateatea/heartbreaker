@@ -16,7 +16,7 @@ Any Creature may specify a trigger condition, and an action they will take. If t
 
 If that Creature hasn't taken the readied action by the time they are nominated again, they lose that readied action (but may ready it again if they wish).
 
-If multiple Creatures specify the same trigger condition, roll initiative when the trigger condition occurs. The Creatures may choose to take their readied action in order from highest to lowest.
+If multiple Creatures specify the same trigger condition, roll initiative when the trigger condition occurs. In order from highest to lowest, each Creature may choose to take their readied action.
 
 Note that a Creature taking a readied action is still not the Active Creature, and does not nominate the next Creature when their action is completed.
 
@@ -45,11 +45,12 @@ ___
 ### Attack Rolls <!--*(AAC)*-->
 1. **Roll 1d20**
 2. **Apply modifiers:** STR for melee; DEX, range, cover for missile attacks.
-3. **Determine hit AC:** Add the character’s attack bonus to the attack roll. The result is the ascending AC score that the attack hits.
-4. **Result:** If the hit AAC is equal to or higher than the opponent’s AAC, the attack hits. Roll for damage.
+3. **Determine hit AC:** Add the character’s attack bonus to the attack roll. The result is the  AC score that the attack hits.
+4. **Result:** If the hit AC is equal to or higher than the opponent’s AC, the attack hits. Roll for damage.
 
-### 1s and 20s
-Unmodified attack rolls of 20 always hit. Unmodified attack rolls of 1 always miss.
+### Natural 1s and Natural 20s
+- Unmodified attack rolls of 20 always hit.
+- Unmodified attack rolls of 1 always miss.
 
 ### Invulnerabilities
 Some monsters are immune to certain attacks. In this case, even if an attack hits, damage is not rolled.
@@ -118,6 +119,7 @@ ___
 ***Source:*** [Combat - OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Combat)
 - *Ascending Armour Class (Optional Rule)* is in use, and has been merged into *Attack Rolls.*
 	- *"Referee rolls for damage."* changed to *"Roll for damage."*
+	- *"AAC"* or *"ascending AC"* changed to *"AC"* for clarity.
 - *Rolling for Damage:* PCs have 3 lifetime Death saves.
 - *Variable Weapon Damage (Optional Rule)* is in use, and has been merged into *Rolling for Damage*.
 <!-- Sources, read more, links, etc. -->
