@@ -6,9 +6,9 @@ date: [2022-04-20]
 template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
-[[home|Home]] | [[Rules]] | Adventures
+[[home|Home]] | [[Rules]] | **Adventures**
 ___
-[[Combat Order]] | [[Combat Actions]] | **Other Combat Issues**
+[[Combat Order]] | [[Combat Actions]] | **Other Combat Issues** | [[Morale]]
 ___
 ### Attacking from Behind
 AC bonuses from shields are negated.
@@ -46,7 +46,9 @@ Characters that wish to subdue an intelligent opponent must announce that they a
 
 **Subdual damage:** Combat and damage are calculated normally, but subdual damage is noted separately from actual damage.
 
-**Effect at 0hp:** An intelligent character or monster reduced to 0 hit points due to subdual damage will surrender, realising that its opponent could have killed it.
+**Effect at 0hp:** An intelligent character or monster reduced to 0 hit points due to subdual damage fails morale, realising that its opponent could have killed it.
+
+*See **[[Morale]]** for more details.*
 
 ### Unarmed Attacks
 **Attack rolls:** Unarmed combat is handled the same as melee combat.
@@ -54,7 +56,7 @@ Characters that wish to subdue an intelligent opponent must announce that they a
 **Damage:** Unarmed attacks inflict 1d2 damage, modified by STR.
 
 ### Unstable Surfaces
-Characters on an unstable surface, such as a ship in rough seas or riding a flying animal, are affected as follows:
+Characters on an unstable surface, such as a ship in stormy seas or riding a flying animal, are affected as follows:
 
 - **Missile attacks:** Suffer a –4 penalty.
 - **Spells:** Cannot be cast.
@@ -73,6 +75,7 @@ ___
 ***Source:*** [Other Combat Issues - OSE SRD](https://oldschoolessentials.necroticgnome.com/srd/index.php/Other_Combat_Issues)
 - *Invulnerabilities (Optional Rule)* is in use.
 - *Subduing (Optional Rule)* is in use.
+	- *"will surrender"* changed to *"fails morale"*
 - Review: 
 	- Blindness
 	- Invulnerabilities (language for silvered weapons)

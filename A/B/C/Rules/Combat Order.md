@@ -6,7 +6,9 @@ date: [2022-04-20]
 template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-20]
 ---
-[[home|Home]] | [[Rules]] | Adventures | **Combat Order** | [[Combat Actions]]
+[[home|Home]] | [[Rules]] | **Adventures**
+___
+**Combat Order** | [[Combat Actions]] | [[Other Combat Issues]] | [[Morale]]
 ___
 For the purpose of these rules:
 - **Creature:** Any Player Character (PC), Non-Player Character (NPC), Monster, group of Monsters, or other agent of change that is participating in the combat.
