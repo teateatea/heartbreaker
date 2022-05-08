@@ -49,14 +49,16 @@ The affected Creature takes their action as if they had been nominated, and then
 
 If multiple Creatures want to Jump In, they roll Initiative to determine which one acts.
 
-> This rule may appear to make coordinated attacks and ambushes impossible, but Creatures may **[[Combat Actions#Readying an Action|Ready an Action]]** on their turn if simultaneous action is required.
+> This may appear to make coordinated attacks and ambushes impossible, but Creatures may **[[Combat Actions#Readying an Action|Ready an Action]]** on their turn if simultaneous action is required.
 > 
 > For example, multiple Creatures can prepare to strike "as soon as Liliana shoots her arrow," resulting in six arrows being loosed before Liliana needs to nominate the next Creature.
 
 
 ___
 ### 4. End of Round
-The End of Round phase occurs, after the last Creature has acted, but before the next Round begins. Monsters must make a Morale Check, and combat effects may end (see below for details). Then the next Round will begin, and any Creature can be nominated to act.
+The End of Round phase occurs, after the last Creature has acted, but before the next Round begins. Monsters may make a Morale Check now, and combat effects may end. 
+
+Then the next Round will begin, and the last Creature to act can nominate any Creature to act next (and can choose themselves).
 
 ##### Monster Morale
 *See **[[Morale]]**.*
