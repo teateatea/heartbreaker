@@ -39,13 +39,9 @@ ___
 ### Adventures
 **[[Party Organisation]]**
 **[[Time, Weight, Movement]]**
-
 **[[Checks, Damage, Saves]]** | **[[Healing and Death]]**
-
 [[Encounters]] | **[[Hazards and Challenges]]** | [[Evasion and Pursuit]]
-
 [[Dungeon Adventuring]] | [[Wilderness Adventuring]] | [[Waterborne Adventuring]]
-
 **[[Combat Order]]** | **[[Combat Actions]]** | **[[Other Combat Issues]]** | **[[Morale]]**
 
 ### Monsters
