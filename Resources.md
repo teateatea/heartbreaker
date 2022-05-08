@@ -21,7 +21,7 @@ ___
 - [[1) Creating a New Character|Background & Appearance Tables (during Character Creation)]] from [**Knave** by **Ben Milton.**](https://www.drivethrurpg.com/product/250888/Knave?manufacturers_id=10312)
 - PC Debt from The Dark of Hot Springs Island
 ##### PC Mechanics
-- [[Healing & Death]] Saves at 0 HP.
+- [[Healing and Death]] Saves at 0 HP.
 - **Permanent Death Saves** - PCs die on the 3rd failure of their lifetime. - Three Permanent Death Saves.
 - [[Inventory|Slot-based Inventory & Encumbrance]] from [**Veins of the Earth**](https://www.drivethrurpg.com/product/209509/Veins-of-the-Earth) by [**Patrick Stuart**.](https://falsemachine.blogspot.com/)
 ##### Classes

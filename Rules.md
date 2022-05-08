@@ -40,9 +40,9 @@ ___
 **[[Party Organisation]]**
 **[[Time, Weight, Movement]]**
 
-[[Checks, Damage, Saves]] ([[Healing & Death]])
+**[[Checks, Damage, Saves]]** | **[[Healing and Death]]**
 
-[[Encounters]] | [[Hazards and Challenges]] | [[Evasion and Pursuit]]
+[[Encounters]] | **[[Hazards and Challenges]]** | [[Evasion and Pursuit]]
 
 [[Dungeon Adventuring]] | [[Wilderness Adventuring]] | [[Waterborne Adventuring]]
 

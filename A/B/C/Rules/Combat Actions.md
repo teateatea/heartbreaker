@@ -113,7 +113,7 @@ ___
 
 **Minimum damage:** An attack which hits always deals at least one point of damage, even when damage modifiers reduce the number rolled to 0 or less.
 
-**Death:** A monster reduced to 0 hit points or less is killed. For PCs reduced to 0 hit points, see **[[Healing & Death|Death]]**.
+**Death:** A monster reduced to 0 hit points or less is killed. For PCs reduced to 0 hit points, see **[[Healing and Death|Death]]**.
 
 
 

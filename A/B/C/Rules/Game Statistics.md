@@ -35,7 +35,7 @@ The character’s advancement in the game is tracked by the accumulation of expe
 ### Hit Points (hp)
 The character’s ability to avoid dying. The character has a maximum hit point total and a current hit point total, which are tracked separately. When a character is harmed, their current hit point total is reduced. If this number reaches 0, the character is dead! Rest or healing can restore lost hit points, but never above the character’s maximum hit point total *(this is only increased when the character increases in level).* <!-- #Revisit -->
 
-*See **[[Healing & Death|Death]]**, or **[[Checks, Damage, Saves#Damage and Healing|Damage and Healing]]** for more details.*
+*See **[[Healing and Death|Death]]**, or **[[Checks, Damage, Saves#Damage and Healing|Damage and Healing]]** for more details.*
 
 ### Hit Dice (HD)
 The number of dice used to determine the character’s maximum hit point total. The character’s class determines the type of dice rolled (i.e. d4, d6, d8) and the character’s level determines the number of dice rolled. *(Some classes also grant a flat bonus to hit points at certain levels, instead of or in addition to an extra HD.)*
