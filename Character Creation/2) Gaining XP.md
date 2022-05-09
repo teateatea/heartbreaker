@@ -11,11 +11,12 @@ ___
 
 You gain Experience Points (XP) when you spend [[Wealth and Money|money]]. The size of the settlement determines approximately how much money can be spent by the party in one week.
 
-| Settlement | Max Silver / Week |
-| ---------- | --------------: |
-| City       | 100,000 SP     |
-| Town       | 10,000 SP      |
-| Village    | 1,000 SP       |
+| Settlement     | Max Silver / Week |
+| -------------- | -----------------:|
+| City           |        100,000 SP |
+| Town           |         10,000 SP |
+| Rand's Retreat |          5,000 SP |
+| Village        |          1,000 SP |
 
 ## Spending
 *Spending describes goal-driven, useful, or responsible purchases. Examples include weapons, tools, armour, real estate, beasts or vehicles, productive research, and hiring specialists (smiths, sages, engineers), etc.* *As a general rule, if the Character would gain specific benefits, that's spending.*[^1]
@@ -43,5 +44,5 @@ ___
 ***References:*** [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
 ***Design Notes***
 [^1]: *In the future, I'll add Carousing, for luxurious or irresponsible spending.*
-
+***See also:*** [[The Martel Ledger]]
 ___
