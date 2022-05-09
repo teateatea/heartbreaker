@@ -15,7 +15,7 @@ You look out for yourself at all costs.
 
 Duelling Schlager https://www.dannydutch.com/post/the-traditional-german-sword-fighting-tradition-called-mensur-->
 ___
-**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12, 2 slots)]], Heavy Weapon.<br>**Starting Ken (1d6): 1)** Mountaineering **2)** Raiding **3)** Horses **4)** Soldier **5)** Sailing **6)** Unusual.<br><br>**A:** Rage, Danger Sense<br>**B:** A Taste of Home<br>**C:** Feat of Strength, Tough<br>**D:** Blood for Blood<br>
+**Starting Equipment:** [[Leather Armour|Leather Armour (AC 12, 2 slots)]], Heavy Weapon ([[Polearm]] or [[Longsword|Two-handed sword]], 1d10).<br>**Starting Ken (1d6): 1)** Mountaineering **2)** Raiding **3)** Horses **4)** Soldier **5)** Sailing **6)** Unusual.<br><br>**A:** Rage, Danger Sense<br>**B:** A Taste of Home<br>**C:** Feat of Strength, Tough<br>**D:** Blood for Blood<br>
 You gain +$2$ HP for each Barbarian level you possess.
 ___
 ### [[Discipline A Abilities|A.]] Rage

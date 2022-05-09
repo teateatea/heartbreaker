@@ -54,13 +54,11 @@ ___
 | *House Champion* |                                                                                                                                                                                                                           |
 | *Swordwife*             |                                                                                                                                                                                                                           |
 | [[Bravo]]                 | Your skill with a saber is only outmatched by your ability to induce ire in your hapless foes. You often bite off more than you can chew, but you'll stop at nothing to be recognized for your devilish escapades. |
-
 | Caspian&nbsp;Disciplines  | Description |
 | -------------------- | ----------- |
 | [[Temple Adept]] or maybe [[War Dancer]]     |             |
 | [[Blue Blade]]       |             |
 | [[Third Discipline]] |             |
-
 | Mur&nbsp;Disciplines      | Description |
 | -------------------- | ----------- |
 | *Hunter*           |             |
