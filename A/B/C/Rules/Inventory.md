@@ -13,9 +13,7 @@ ___
 
 ___
 <!-- *See also:* 
-
 *References:*
-
 *Source:* -->
 <!-- Sources, read more, links, etc. -->
 <!-- *Source: Entry by [[Mike Maxin]].* -->
