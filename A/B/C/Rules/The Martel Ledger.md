@@ -6,28 +6,30 @@ date: [2022-05-09]
 template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-05-09]
 ---
-<!-- Home | Character Creation | -->
-[[home|Home]] | [[Open Table]] | **Martel Ledger**
+[[home|Home]] | [[Open Table]] | **The Martel Ledger**
 ___
+***On this sheet, $1 = 1 Silver Piece.***
+
 <iframe width="800" height="400"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=670216080&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-**On this sheet, $1 = 1 Silver Piece.**
+
+
 
 ##### Ledger Details
-**Money Spent (XP):** The total money ever spent by this Character. This is also equal to that Character's XP, $1 = 1 XP. See **[[2) Gaining XP|Gaining XP]]** for more details.
+**Money Spent (XP):** The total money ever spent by this Character. This is also equal to that Character's XP ($1 = 1 XP). See **[[2) Gaining XP|Gaining XP]]** for more details.
 
-**Available Funds:** The amount of money this Character has available to them for spending, usually gained by selling treasure to the Martels.
-
-___
-
-**Title:** This Character's name.
+**Available Funds:** The amount of money this Character currently has available to them for spending, usually gained by selling treasure to the Martels.
 
 ___
 
-**Debt Paid to Date:** The total money ever paid back to the Martels to pay off debt.
+**Title:** The Character's name.
+
+___
+
+**Debt Paid to Date:** The total money ever paid to the Martels to reduce debt.
 
 **Expected Repayment by Today's Date:** The amount of money to be paid to the Martels by today's date. This is calculated using the formula below:
 
-> **Monthly Payments** $\times$ months since **Starting Date**
+> **Monthly Payments* $\times$ months since **Starting Date**
 
 **Status:** There are 3 possible states:
 - **OK** - The Character is ahead of their payment schedule.
@@ -36,11 +38,11 @@ ___
 
 ___
 
-**Starting Date:** The day the Character first began adventuring.
+**Starting Date:** The date this Character first began adventuring.
 
-**Initial Debt:** The starting debt for this Character.
+**Initial Debt:** The starting debt for this Character, acquired by the Martels.
 
-**Monthly Payments:** The expected payments each month. This is 1% of the Initial Debt. Following this payment schedule, Characters will be debt-free in as little as 8 years!
+**Monthly Payment:** The expected payments each month. This is 1% of the Initial Debt. Following this payment schedule, Characters will be debt-free in as little as 8 years!
 
 ___
 ***See also:*** [[Martel Debt]]
