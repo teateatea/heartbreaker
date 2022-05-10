@@ -6,7 +6,7 @@ date: [2022-05-09]
 template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-05-09]
 ---
-[[home|Home]] | [[Open Table]] | **The Martel Ledger** | [[Mission Payouts]]
+[[home|Home]] | [[Open Table]] | **The Martel Ledger** | [[Mission Payouts]] | [[Loot For Sale]]
 ___
 ***On this sheet, $1 = 1 Silver Piece.***
 
