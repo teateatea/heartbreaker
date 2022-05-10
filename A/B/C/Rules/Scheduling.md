@@ -42,7 +42,7 @@ ___
 # Sequel Sessions
 If the evening is coming to a close, and the party is in the middle of something important, we can plan a sequel session to continue from this point rather than start anew. In order to continue this expedition, *everyone at the table must agree to a date and time within the next 10 days.*
 
-If that session does not happen for any reason, each character must roll on the **[[End of Session|Escaping the Island!]]** table above to determine how *(or if)* they got home.
+If that session does not happen for any reason, each character must roll on the **[[End of Session|Escaping the Island!]]** table above to determine how *(or if)* they got back to home base.
 ___
 *See also:* [[The Open Table Manifesto]].
 *Source:* [*Open Table Manifesto* by The Alexandrian](https://thealexandrian.net/?p=38643)
