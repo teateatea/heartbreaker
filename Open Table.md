@@ -16,7 +16,7 @@ ___
 **[[End of Session]]*****[[End of Session| (Escaping the Island!)]]***
 
 **[[Time Keeping|Time Keeping & Location Lock Downs]]**
-**[[The Martel Ledger]]**
+**[[The Martel Ledger]]** | **[[Mission Payouts]]**
 ___
 <!--*See also:* 
 *References:*
