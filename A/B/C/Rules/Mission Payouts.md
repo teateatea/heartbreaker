@@ -9,7 +9,7 @@ creation_date: [2022-05-10]
 [[home|Home]] | [[Open Table]] | [[The Martel Ledger]] | **Mission Payouts**
 ___
 ### Mission Payouts
-Here's how much you made from each mission.
+Here's how much you money made from each mission.
 <iframe width="800" height="350"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=400309122&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ___
