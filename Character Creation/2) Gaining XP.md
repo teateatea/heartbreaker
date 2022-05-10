@@ -15,7 +15,7 @@ You gain Experience Points (XP) when you spend [[Wealth and Money|money]]. The s
 | -------------- | -----------------:|
 | City           |        100,000 SP |
 | Town           |         10,000 SP |
-| Rand's Retreat |          5,000 SP |
+| [[Rand's Retreat]] |          5,000 SP |
 | Village        |          1,000 SP |
 
 ## Spending
