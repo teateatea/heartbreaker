@@ -1,0 +1,22 @@
+---
+aliases: [Martel Accounting]
+tags: []
+author: [Joseph Liao Gormley]
+date: [2022-05-10]
+template_version: [HEARTBREAKER-2022-04-22]
+creation_date: [2022-05-10]
+---
+[[home|Home]] | [[Open Table]] | [[The Martel Ledger]] | **Mission Payouts**
+___
+
+<iframe width="800" height="350"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=400309122&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<iframe width="800" height="350"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=1529249509&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+___
+<!--*See also:* 
+*References:*
+*Source:* -->
+<!-- Sources, read more, links, etc. -->
+<!-- *Source: Entry by [[Mike Maxin]].* -->
+<!-- Leave an empty line at the end, otherwise Exporter complains. -->
