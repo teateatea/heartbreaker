@@ -29,7 +29,7 @@ ___
 
 **Expected Repayment by Today's Date:** The amount of money to be paid to the Martels by today's date. This is calculated using the formula below:
 
-> **Monthly Payments* $\times$ months since **Starting Date**
+> **Monthly Payments** $\times$ months since **Starting Date**
 
 **Status:** There are 3 possible states:
 - **OK** - The Character is ahead of their payment schedule.
