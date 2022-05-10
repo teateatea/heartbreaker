@@ -1,12 +1,12 @@
 ---
-aliases: [Martel Account]
+aliases: [Martel Ledger]
 tags: []
 author: [Joseph Liao Gormley]
 date: [2022-05-09]
 template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-05-09]
 ---
-[[home|Home]] | [[Open Table]] | **The Martel Ledger**
+[[home|Home]] | [[Open Table]] | **The Martel Ledger** | [[Mission Payouts]]
 ___
 ***On this sheet, $1 = 1 Silver Piece.***
 
