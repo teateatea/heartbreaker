@@ -9,11 +9,17 @@ creation_date: [2022-04-06]
 [[Open Table]] | [[Resources]] | [[Rules]] | [[1) Creating a New Character|Character Creation]]
 ___
 ## Heartbreaker
-Hello! This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are mainly based on **Old School Essentials,** a modern equivalent to 1st Edition Dungeons & Dragons, and the inventory system described in Veins of the Earth, plus any other ideas that match my intended game experience.
+Hello! Welcome to my gaming table! 
 
-Right now, the main campaign is **Hot Springs Island.** Thank you for playing!
+We're playing **Old School Essentials,** a modern revision of 1st Edition Dungeons & Dragons, but with some home-brewed rules changes. Right now, the main campaign is **Hot Springs Island,** where you'll be treasure hunting on a tropical, volcanic island. 
 
-**Ready to jump in? Choose a  [[Premade Characters|Premade Character,]] or create a  [[1) Creating a New Character|New Character!]]**
+
+
+<!--This is my custom roleplaying game *(which are often called heartbreaker games)*. The rules are mainly based on , and the inventory system described in Veins of the Earth, plus any other ideas that match my intended game experience.-->
+
+ Thank you for playing!
+
+**Want to jump right in? Choose a  [[Premade Characters|Premade Character,]] or create a  [[1) Creating a New Character|New Character!]]**
 ___
 ## Classes
 **[[Fighter|Fighter]]** ([[Fighter Disciplines|Disciplines]])
