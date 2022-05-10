@@ -44,5 +44,5 @@ ___
 ***References:*** [*On Money*](https://deltasdnd.blogspot.com/2010/03/on-money.html) [*(Part 2)*](https://deltasdnd.blogspot.com/2010/05/money-results.html) [by Delta's D&D Hotspot.](https://deltasdnd.blogspot.com/2010/03/on-money.html)
 ***Design Notes***
 [^1]: *In the future, I'll add Carousing, for luxurious or irresponsible spending.*
-***See also:*** [[The Martel Ledger]]
+***See also:*** [[The Martel Ledger]], [[Downtime]]
 ___

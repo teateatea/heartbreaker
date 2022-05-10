@@ -45,7 +45,7 @@ ___
 **Monthly Payment:** The expected payments each month. This is 1% of the Initial Debt. Following this payment schedule, Characters will be debt-free in as little as 8 years!
 
 ___
-***See also:*** [[Martel Debt]]
+***See also:*** [[Martel Debt]], [[3) Levelling Up|Levelling Up]]
 <!--*References:*
 *Source:* -->
 <!-- Sources, read more, links, etc. -->
