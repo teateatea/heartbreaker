@@ -13,8 +13,8 @@ ___
 **[[Game Statistics]]
 [[1) Creating a New Character|Creating a New Character]]
 [[Ability Scores]]
-[[Languages]]
-[[Advancement]]**
+[[Languages]]**
+[[Advancement]] | **[[3) Levelling Up|Levelling Up]]**
 
 ### Classes
 **[[Fighter|Fighter]]** ([[Fighter Disciplines|Disciplines]])
