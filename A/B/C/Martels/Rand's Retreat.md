@@ -51,7 +51,7 @@ Pretty scenic: black sand, tropical blue seas, clouds whipping by under a brilli
 ## The jungle
 The jungle presses in on all sides of your home, sneaking in everytime you turn around. Plants shoot up around every building, every path, anywhere they aren't being constantly stamped down by feet.
 
-There is nature is all around you: birds, spiders, insects, mice, rats, centipedes, the occasional monkey. And the *nature* regular visits you indoors.
+There is nature is all around you: birds, spiders, insects, mice, rats, centipedes, the occasional monkey. The *nature* regular visits you indoors.
 ___
 ***See also:*** [[2) Gaining XP|Gaining XP]]
 <!--*References:*
