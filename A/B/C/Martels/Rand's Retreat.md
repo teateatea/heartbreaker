@@ -12,22 +12,22 @@ ___
 Here are some things you can find at the base right now.
 
 ## The Barracks
-##### Martel 
+**Martel** 
 Several hostel-style rooms with bunks and lockers.
 
 ## *The Crimson Coin* 
-##### Tavern
+**Tavern**
 There aren't a lot of options, so everybody spends a lot of time here.
 
 ## A well
 Near the Crimson Coin, fairly inland.
 
 ## The Armoury
-##### Martel 
+**Martel** 
 This is where they keep all the stuff. It's also the general store for adventurers, buying or selling weapons, treasure, and other goods.
 
 ## The Study
-##### Martel 
+**Martel** 
 The one nice building, or at least the only one made of stone. A large room with counters and desks, a private Martel office, a classroom, and a lab.
 
 ## The Barn
@@ -42,13 +42,15 @@ This is basically a smaller barn kitted out with a workshop to process tropical 
 In a pinch, the Carpenter is also the Surgeon.
 
 ### The Port
-Needs a good name.
+**Martel** - *Needs a name.*
 
 There's a building here, space for a decent number of ships. The Martels are really big on ships.
 
-Literally everything is imported. There is no farm. The Study was built using imported stone.
+Literally everything is imported, except the lumber. There is no farm. The Study was built using imported stone.
 
 ### The *Noche Cielo*
+**Martel**
+
 A huge ship that's near-permanently moored to the Port. The Martels mostly stay on this ship, it's the head office for the big guns.
 
 ___
