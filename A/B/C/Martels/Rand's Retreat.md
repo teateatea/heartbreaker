@@ -11,52 +11,47 @@ creation_date: [2022-05-10]
 ___
 Here are some things you can find at the base right now.
 
-## The Barracks
-***Martel*** 
-
-Several hostel-style rooms with bunks and lockers.
-
-## *The Crimson Coin* 
-***Tavern***
-
+## *The Crimson Coin - Tavern* 
 There aren't a lot of options, so everybody spends a lot of time here.
 
 ## A well
-Near the Crimson Coin, fairly inland.
+Near the Crimson Coin, fairly inland. Pretty crisp water actually.
 
-## The Armoury
-***Martel***
+## The Barracks - *Martel*
+Several hostel-style rooms with bunks and lockers.
 
+## The Armoury - *Martel*
 This is where they keep all the stuff. It's also the general store for adventurers, buying or selling weapons, treasure, and other goods.
 
-## The Study
-***Martel*** 
-
+## The Study - *Martel*
 The one nice building, or at least the only one made of stone. A large room with counters and desks, a private Martel office, a classroom, and a lab.
 
 ## The Barn
 This is where a decent amount of combat training happens. There aren't any animals yet.
 
-## A field
+## A cleared field
 A lot of physical training happens here too.
 
 ## The Carpenter
-This is basically a smaller barn kitted out with a workshop to process tropical lumber for buildings and repairing ships.
+This is a smaller barn that's been kitted out with a workshop to process tropical lumber for building construction and ship repair.
 
 In a pinch, the Carpenter is also the Surgeon.
 
-### The Port
-***Martel*** - *Needs a name.*
-
-There's a building here, space for a decent number of ships. The Martels are really big on ships.
+## *Rand's Retreat - Martel Port* 
+There's an office here, and enough space for a decent number of ships. The Martels are really big on ships.
 
 Literally everything is imported, except the lumber. There is no farm. The Study was built using imported stone.
 
-### The *Noche Cielo*
-***Martel***
+## The *Noche Cielo* - *Martel Carrack*
+A large ship that's near-permanently moored to the Port. The Martels mostly stay on this ship, it's the head office for the big guns.
 
-A huge ship that's near-permanently moored to the Port. The Martels mostly stay on this ship, it's the head office for the big guns.
+## The beach
+Pretty scenic: black sand, tropical blue seas, clouds whipping by under a brilliant cerulean sky. On the horizon to the north-west, you can see a distant island with two volcanic peaks.
 
+## The jungle
+The jungle presses in on all sides of your home, sneaking in everytime you turn around. Plants shoot up around every building, every path, anywhere they aren't being constantly stamped down by feet.
+
+There is nature is all around you: birds, spiders, insects, mice, rats, centipedes, the occasional monkey. And the *nature* regular visits you indoors.
 ___
 ***See also:*** [[2) Gaining XP|Gaining XP]]
 <!--*References:*
