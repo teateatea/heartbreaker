@@ -14,16 +14,20 @@ ___
 
 
 
-##### Ledger Details
+### Ledger Details
 **Starting Date:** The date this Character first began adventuring.
 
 **Title:** The Character's name.
 
+___
 **Available Funds:** The amount of money this Character currently has available to them for spending, usually gained by selling treasure to the Martels.
 
 **Total Money Spent (XP):** The total money spent by this Character, for both debt repayment and downtime spending. This is also equal to that Character's XP ($1 = 1 XP). See **[[2) Gaining XP|Gaining XP]]** for more details.
 
-**Downtime Spending to Date:** The total money spent by this Character on Downtime Activities. See [[Downtime]] for more details.
+___
+**Unallocated Spending to Date:** The amount of money this Character can have spent since they first began adventuring, but that hasn't yet been allocated to any specific purpose. Let me know what your Character would spend their money on!
+
+**Confirmed Downtime Spending to Date:** The total money spent by this Character on Downtime Activities. This is for completed activities. See [[Downtime]] for more details.
 
 **Debt Paid to Date:** The total money spent towards repaying this Character's debt to the Martels.
 
