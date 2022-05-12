@@ -95,7 +95,7 @@ Gain **Favour** with the Restless One by studying his tenets, and choosing your 
 
 <!--If there is ever ambiguity about whether Favour was gained, determine whether or not your Deity was impressed by your behaviour.-->
 
-Every sunrise, your Favour is reduced by $L$ points. If you have greater than $L$ × 5 Favour at sunrise, your Favour falls to that product instead.
+Every sunrise, your Favour is reduced by $L$ points. If you have greater than $L$ × 5 Favour at sunrise, your Favour falls to $L$ × 5 instead.
 <!-- · Conduct a live experiment
 · Create an intelligent undead.
 · -->
@@ -103,6 +103,8 @@ Every sunrise, your Favour is reduced by $L$ points. If you have greater than $L
 ___
 # LITURGIES <!-- Set Liturgy categories -->
 The **Liturgies** of your faith are a guide to the levels of power solicited during an Invocation.
+
+To solicit a Liturgy beyond your Level, offer Favour equal to *double* the Levels you are missing. Favour offered this way does not grant rerolls.
 
 <!--If your level is lower than the requirement for a given Liturgy, you must offer a 
 number of Favour points equal to double the levels you are missing to attempt to invoke it. Favour offered this way doesn't grant re-rolls.-->
@@ -117,7 +119,7 @@ number of Favour points equal to double the levels you are missing to attempt to
 *Mystic Level 7*<br>In the order of the manifestation of mundane skeletons and corpses, the bestowal of major aspects of the **Restless One**, and the application of blessings or curses.
 
 ### The Fourth Liturgy
-*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and raising up to $L$ + $F$ corpses as soul-less [[Minions|minions]].* ->
+*Mystic Level 10*<br>In the order of protection from physical harm, manipulating the souls of others, and raising up to $L$ + $F$ corpses as soul-less **[[Minions|minions]]**.*
 
 \**$L$ equals your Level, and $F$ equals the Favour offered for this invocation.*
 
@@ -125,7 +127,7 @@ number of Favour points equal to double the levels you are missing to attempt to
 *Mystic Level 13*<br>In the order of rendering the body ageless, or choosing any result when rolling on a random table.
 <br><br>
 
-To solicit a Liturgy beyond your Level, offer Favour equal to *double* the Levels you are missing. Favour offered this way does not grant rerolls.
+
 
 ___
 # ABILITIES
