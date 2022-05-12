@@ -15,34 +15,33 @@ ___
 
 
 ##### Ledger Details
-**Money Spent (XP):** The total money ever spent by this Character. This is also equal to that Character's XP ($1 = 1 XP). See **[[2) Gaining XP|Gaining XP]]** for more details.
-
-**Available Funds:** The amount of money this Character currently has available to them for spending, usually gained by selling treasure to the Martels.
-
-___
+**Starting Date:** The date this Character first began adventuring.
 
 **Title:** The Character's name.
 
-___
+**Available Funds:** The amount of money this Character currently has available to them for spending, usually gained by selling treasure to the Martels.
 
-**Debt Paid to Date:** The total money ever paid to the Martels to reduce debt.
+**Total Money Spent (XP):** The total money spent by this Character, for both debt repayment and downtime spending. This is also equal to that Character's XP ($1 = 1 XP). See **[[2) Gaining XP|Gaining XP]]** for more details.
 
-**Expected Repayment by Today's Date:** The amount of money to be paid to the Martels by today's date. This is calculated using the formula below:
+**Downtime Spending to Date:** The total money spent by this Character on Downtime Activities. See [[Downtime]] for more details.
 
-> **Monthly Payments** $\times$ months since **Starting Date**
+**Debt Paid to Date:** The total money spent towards repaying this Character's debt to the Martels.
 
 **Status:** There are 3 possible states:
 - **OK** - The Character is ahead of their payment schedule.
 - **$X OVERDUE** - The Character is behind schedule on their payments.
 - **X HR PENALTY** - When a Character is more than 12 months behind schedule, they suffer painfully for X hours, starting every sunrise *(disadvantage on all rolls)*. This increases by 1 hour every month.
+- **ACCOUNT CLOSED** - The Character has fully paid off their debts and is now a free agent. See **[[Martel Debt]]** for more details.
 
-___
+**Expected Repayment by Today's Date:** The amount of money to be paid to the Martels by today's date. This is calculated using the formula below:
 
-**Starting Date:** The date this Character first began adventuring.
+> **Monthly Payments** $\times$ months since **Starting Date**
+
+**Monthly Payment:** The expected payments each month. This is equal to 1% of the Character's Initial Debt. Following this payment schedule, Characters will be debt-free in as little as 8 years!
 
 **Initial Debt:** The starting debt for this Character, acquired by the Martels.
 
-**Monthly Payment:** The expected payments each month. This is 1% of the Initial Debt. Following this payment schedule, Characters will be debt-free in as little as 8 years!
+
 
 ___
 ***See also:*** [[Martel Debt]], [[3) Levelling Up|Levelling Up]]
