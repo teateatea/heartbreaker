@@ -13,6 +13,7 @@ Here are some things you can find at the base right now.
 
 ## The Barracks
 **Martel** 
+
 Several hostel-style rooms with bunks and lockers.
 
 ## *The Crimson Coin* 
@@ -23,11 +24,13 @@ There aren't a lot of options, so everybody spends a lot of time here.
 Near the Crimson Coin, fairly inland.
 
 ## The Armoury
-**Martel** 
+**Martel**
+
 This is where they keep all the stuff. It's also the general store for adventurers, buying or selling weapons, treasure, and other goods.
 
 ## The Study
 **Martel** 
+
 The one nice building, or at least the only one made of stone. A large room with counters and desks, a private Martel office, a classroom, and a lab.
 
 ## The Barn
