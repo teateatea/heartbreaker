@@ -93,6 +93,9 @@ Gain **Favour** with the Restless One by studying his tenets, and choosing your 
 - Move the soul of a willing disciple to a Vessel.
 - *one more would be good.*
 
+<!--If there is ever ambiguity about whether Favour was gained, determine whether or not your Deity was impressed by your behaviour.-->
+
+Every sunrise, your Favour is reduced by $L$ points. If you have greater than $L$ × 5 Favour at sunrise, your Favour falls to that product instead.
 <!-- · Conduct a live experiment
 · Create an intelligent undead.
 · -->
