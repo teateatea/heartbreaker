@@ -31,17 +31,21 @@ ___
 
 **Debt Paid to Date:** The total money spent towards repaying this Character's debt to the Martels.
 
+___
 **Status:** There are 4 possible states:
 - **OK** - The Character is ahead of their payment schedule.
 - **$X OVERDUE** - The Character is behind schedule on their payments.
 - **X HR PENALTY** - When a Character is more than 12 months behind schedule, they suffer painfully for X hours, starting every sunrise *(disadvantage on all rolls)*. This increases by 1 hour every month.
 - **ACCOUNT CLOSED** - The Character has fully paid off their debts and is now a free agent. See **[[Martel Debt]]** for more details.
 
+___
 **Expected Repayment by Today's Date:** The amount of money to be paid to the Martels by today's date. This is calculated using the formula below:
 
 > **Monthly Payments** $\times$ months since **Starting Date**
 
 **Monthly Payment:** The expected payments each month. This is equal to 1% of the Character's Initial Debt. Following this payment schedule, Characters will be debt-free in as little as 8 years!
+
+**Current Debt:** The amount of debt remaining to be repaid by this Character.
 
 **Initial Debt:** The starting debt for this Character, acquired by the Martels.
 
