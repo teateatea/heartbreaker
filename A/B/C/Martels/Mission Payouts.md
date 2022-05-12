@@ -14,7 +14,7 @@ Here's how much you money made from each mission for bringing treasure back.
 
 ___
 ### Accounting
-Here's the breakdown of the payment you received for the treasures you've brought home.
+Here's the breakdown of the payment you received for the treasures you've brought home. See **[[Loot For Sale]]** if you wish to purchase this equipment back for yourself.
 <iframe width="800" height="350"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=1529249509&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ___
