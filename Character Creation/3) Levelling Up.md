@@ -10,6 +10,7 @@ creation_date: [2022-04-04]
 ___
 When your character's XP reaches the threshold set by their class level table, they gain a level.
 
+___
 ### 1. Gain +1 to any one Ability Score
 Note the new Bonus if relevant.
 
@@ -25,6 +26,7 @@ If the Bonus changed, make the relevant changes around your Character Sheet now 
 | 16-17         | +2  |
 | 18            | +3  |
 
+___
 ### 2. Roll Hit Points (HP)
 Roll your Hit Dice for this Level, plus [CON $\times$ Level].
 - If the result is greater than your current HP, set this as your new Max HP.
@@ -37,11 +39,13 @@ Roll your Hit Dice for this Level, plus [CON $\times$ Level].
 > - If the result is greater than 13, that's Kena's new Max HP. If he rolled a total of 11, plus 6, his Max HP would now be 17.
 > - If the result is 13 or less, Kena only adds his +2 con, for a Max HP of 15.
 
+___
 ### 3. Note Attack Bonus and Saving Throws*
 As listed in the level progression chart for your class.
 
 \**This only changes every 3-5 levels.*
 
+___
 ### 4. **Note Class Abilities:**
 - **Fighters choose a Discipline to train,** and progress to the next step and gain new Abilities: First **A**, then **B**, then **C**, and finally **D**.
 	- They also gain a Ken at each step of their Discipline.
