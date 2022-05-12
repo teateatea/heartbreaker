@@ -27,7 +27,7 @@ ___
 
 **Debt Paid to Date:** The total money spent towards repaying this Character's debt to the Martels.
 
-**Status:** There are 3 possible states:
+**Status:** There are 4 possible states:
 - **OK** - The Character is ahead of their payment schedule.
 - **$X OVERDUE** - The Character is behind schedule on their payments.
 - **X HR PENALTY** - When a Character is more than 12 months behind schedule, they suffer painfully for X hours, starting every sunrise *(disadvantage on all rolls)*. This increases by 1 hour every month.
