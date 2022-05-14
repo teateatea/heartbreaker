@@ -11,7 +11,7 @@ ___
 ## Heartbreaker
 Hello! Welcome to my gaming table! 
 
-We're playing **Old School Essentials,** a modern revision of 1st Edition Dungeons & Dragons, but with some home-brewed rules changes. Right now, the main campaign is **Hot Springs Island,** where you'll be treasure hunting on a tropical, volcanic island. 
+We're playing **Old School Essentials,** a modern revision of 1st Edition Dungeons & Dragons, but with some home-brew rules changes. Right now, the main campaign is **Hot Springs Island,** where you'll be treasure hunting on a tropical, volcanic island. 
 
 
 
