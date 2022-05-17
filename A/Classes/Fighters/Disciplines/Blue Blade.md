@@ -23,7 +23,7 @@ Wounds you inflict on living creatures bleed blue. Your attacks deal +1d6 damage
 ### [[Discipline B Abilities|B.]] Valour
 When someone describes a challenge greater than anything you have accomplished, you may note it as your Purpose. Only one Purpose can be kept at a time, and you can never return to a Purpose that you previously abandoned.
 
-If that challenge is overcome, your Purpose has been achieved. If you tell the story of that valorant adventure to a child, level up immediately.
+If that challenge is overcome, your Purpose has been achieved. If you tell the story of that valorant adventure to a child, immediately level up as a Fighter in the Blue Blade discipline.
 
 ### [[Discipline C Abilities|C.]] Sword Throwing
 You may throw any bladed weapon up to 30’ without penalty, as if it were a ranged weapon.
