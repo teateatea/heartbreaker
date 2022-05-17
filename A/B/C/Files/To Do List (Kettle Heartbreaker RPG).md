@@ -14,6 +14,9 @@ ___
 	- Names as a separate PDF
 	- Fillable Character Sheet PDF!!
 	- Equipment packages, update basic kit.
+		- Level 1 characters don't have access to equipment. They only have starting equipment, plus a signal bag, and 3 days of rations.
+			- Review all starting equipments to make sure.
+		- Rations should be sold per day, duh.
 - Tiff wants Magician (do this before she levels up probably).
 - Clarify Levelling up & XP rules.
 - Clarify Downtime rules.
