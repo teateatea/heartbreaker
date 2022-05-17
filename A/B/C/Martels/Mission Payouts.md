@@ -8,14 +8,9 @@ creation_date: [2022-05-10]
 ---
 [[home|Home]] | [[Open Table]] | [[The Martel Ledger]] | **Mission Payouts** | [[Loot For Sale]]
 ___
-### Mission Payouts
+# Mission Payouts
 Here's how much you money made from each mission for bringing treasure back.
 <iframe width="800" height="350"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=400309122&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
-___
-### Accounting
-Here's the breakdown of the payment you received for the treasures you've brought home. See **[[Loot For Sale]]** if you wish to purchase this equipment back for yourself.
-<iframe width="800" height="350"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=1529249509&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ___
 ### Mission Payout Details
@@ -32,8 +27,16 @@ ___
 **Title:** The Character being paid.
 
 
+
 ___
-### Account Details
+# Accounting
+Here's the breakdown of the payment you received for the treasures you've brought home. See **[[Loot For Sale]]** if you wish to purchase this equipment back for yourself.
+<iframe width="800" height="800"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=1529249509&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+___
+### Accounting Details
+**Loot:** If checked, this item is available for repurchase. See **[[Loot For Sale]]** for more details.
+
 **MID:** The Mission ID number, used mainly internally. The same ID is used on the Mission Payout sheet (if you want to see the mission totals for example).
 
 **Item:** The treasure item recovered.
