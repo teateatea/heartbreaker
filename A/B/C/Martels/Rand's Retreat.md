@@ -11,21 +11,21 @@ creation_date: [2022-05-10]
 ___
 Here are some things you can find at the base right now.
 
-## A beach
+# A beach
 Pretty scenic: black sand, tropical blue seas, brilliant clouds whipping by under a vast cerulean sky. On the horizon to the north-west, you can see a distant island with two volcanic peaks.
 
-## The jungle
+# The jungle
 The jungle presses in on all sides of your home, sneaking in everytime you turn around. Plants shoot up around every building, every path, anywhere they aren't being constantly stamped down by feet.
 
 There is nature is all around you: birds, spiders, insects, mice, rats, centipedes, the occasional monkey. The nature regularly visits you indoors.
 
-## *Rand's Retreat - Martel Port* 
+# *Rand's Retreat - Martel Port* 
 There's an office here, and enough space for a decent number of ships. The Martels are really big on ships.
 
 Literally everything is imported, except lumber and fish.
 
 ## The *Noche Cielo* - *Martel Carrack*
-A large ship that's near-permanently moored to the Port. The Martels mostly stay on this ship, it's the head office for the big guns.
+A large ship that's near-permanently moored to the Port. The Martels mostly stay here, it's the head office for the big guns.
 
 ## *The Crimson Coin - Tavern* 
 There aren't a lot of options, so everybody spends a lot of time here.
@@ -33,7 +33,7 @@ There aren't a lot of options, so everybody spends a lot of time here.
 The trainers live here, usually 8-10 combat instructors, and 3-5 magic teachers. There's also a rat-trainer.
 
 ## A well
-Near the Crimson Coin. Central, and fairly inland. The water is very crisp.
+Near the Crimson Coin. Central, and fairly inland. The water is crisp.
 
 ## The Barracks - *Martel*
 Several hostel-style rooms with bunks and lockers.
