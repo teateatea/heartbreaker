@@ -20,9 +20,12 @@ ___
 ### Death
 A character or monster reduced to 0 hit points or less is killed.
 
-Player Characters who are reduced to 0 hit points must immediately **save vs Death.**
+##### Beginner's Luck
+New Player Characters who are reduced to 0 hit points must immediately **save vs Death.**
 - On a **success**, they are instead reduced to 1 HP.
-- On a **failure**, they mark off one Death Save *(at the top of their Character Sheet)*, and must immediately **save vs Death** again. If they have already marked off three failed Death Saves, they are killed.
+- On a **failure**, they mark off one Beginner's Luck *(at the top of their Character Sheet)*, and must immediately **save vs Death** again. If they have already marked off three failed Beginner's Lucks, they are killed.
+
+At the end of a new PC's first session, mark off one point of Beginner's Luck if it hasn't been used already. Repeat this at the end of that PC's second and third session as well. They should start their fourth session with zero points of Beginner's Luck.
 
 ___
 ### Destruction of Items

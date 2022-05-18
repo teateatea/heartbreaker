@@ -41,7 +41,7 @@ Roll your Hit Dice for this Level, plus [CON $\times$ Level].
 
 ___
 ### 3. Note Attack Bonus and Saving Throws*
-As listed in the level progression chart for your class.
+You may note both your Attack Bonus and your Saving Throws, as listed in the level progression chart for your class.
 
 \**This only changes every 3-5 levels.*
 

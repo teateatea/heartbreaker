@@ -30,9 +30,7 @@ When attacking foes who attacked you on their last turn, you strike against thei
 You can speak with metal weapons of all types, and have a natural affinity with all blades.
 
 ### [[Discipline C Abilities|C.]] Alloy
-You can freely mix materials in any weapon you forge or reforge, introducing new attributes with each. See below for a list of materials.
-
-For each additional material beyond the base, your weapon gains a point of Brittleness. Upon rolling a 1 to make an attack roll with the weapon, it shatters but still deals damage. For each further point of Brittleness, this range increases by 1. If you can collect all of the weapon’s pieces, it can be reforged.
+You can freely mix materials in any weapon you forge or reforge, introducing new attributes with each. See below for details, and a list of materials.
 
 ### [[Discipline D Abilities|D.]] ‘Til Death Do We Part
 As long as you are holding a sword of your own power, you may ignore fatal wounds.
@@ -59,11 +57,19 @@ ___
 *See **[[Mounts]]** for more details.*
 ___
 ### Alloy Smithing Materials
-Copper base materials are easily found in most settlements, while mithril base materials are more exotic, and usually found only in major cities.
+When forging a weapon, first choose a Base material: Copper, Iron, or Mithril. Copper is found cheaply in most settlements, and Iron is available in any settlement with a growing economy. Mithril is more exotic, and is usually found only in major cities.
 
-Choose a base. A weapon forged from just the base (i.e. an iron sword) has 0 Brittleness, and no risk of shattering. For each additional material (including other bases), the weapon gains 1 Brittleness, and shatters if you roll less than or equal to Brittleness.
+A weapon forged from only a single base material *(i.e. an iron sword)* is treated as a regular weapon, that you created.
 
-Materials can only exist in a weapon if the base is added first, which can make for unreliable weapons. For example, a weapon that has Antimony, Aluminum, and Phosphorus would need to have Copper, Iron, and Mithril, resulting in 5 Brittleness.
+You may additionally choose up to $L$ additional materials, to imbue the weapon with the benefits associated with each material *(i.e. silver does additional damage to magical creatures)*.
+
+For each additional material beyond the first, your weapon gains 1 Brittleness. While using the weapon, any To-Hit roll equal to or less than the weapons Brittleness shatters the weapon, in addition to any other effects. If you can collect all of the weapon’s pieces after it shatters, it can be reforged.
+
+> For example, you forge an Iron Sword (0), adding Gold (1) and Zinc (2). The resulting sword has 2 Brittleness.
+> 
+> If you attack with this sword, and roll 1 or 2, the weapon shatters. If you're somehow in a situation where a 2 hits your target, you still deal damage as it shatters *(and possibly +1d6 damage due to the Gold)*.
+
+Materials can only exist in a weapon if the base is added first. For example, a weapon needs to have Copper, Iron (1), and Mithril (2) in order to add Antimony (3), Aluminum (4), and Phosphorus (5), resulting in 5 Brittleness. This can result in rather unreliable weapons.
 
 | COPPER BASE          | Prevent first weapon shatter.                                                             |
 |:-------------------- |:----------------------------------------------------------------------------------------- |
@@ -93,3 +99,7 @@ Materials can only exist in a weapon if the base is added first, which can make 
 | 4. Mindglass    | The souls of those killed are trapped within the weapon. |
 | 5. Obsidian     | Damage dealt is repeated next round.                     |
 | 6. Living Steel | Weapon will self-repair in 1d6 days.                     |
+
+___
+***Source:***
+- Swordwife Discipline on the [***Swordwife GLOG Fighter*** by **Phlox (Whose Measure God Could Not Take** Blog).](https://whosemeasure.blogspot.com/2020/05/glog-fighter-discipline-swordwife.html)

@@ -78,3 +78,6 @@ At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casti
 ___
 ## Spell Catastrophes
 *Something has gone wrong while you were using magic.*
+
+___
+***See also:*** [[The Laws of the Vancian Principia Arcana]]

@@ -33,16 +33,16 @@ Sacred Traditions are the basis of the Holy-Man's power: Religions, deities, or 
 At first level, choose any Tradition associated with your Culture or Ancestry. If you don't want to choose an established Tradition, you can work with the DM to create your own.
 
 
-| Origin      | Religion                                                             | Sacred Tradition                                | Domains                    |
-| ----------- | -------------------------------------------------------------------- | ----------------------------------------------- | -------------------------- |
-| **Tor**     | [[The Twelve Patron Saints of Caelon]]                               | -                                               |                            |
-|             | [[Ohome - Pantheon of the Halfling Slaves\|Ohōme of the Cotoctlaca]] | -                                               |                            |
-| **Maroi**   | [[Saint Acobi\|Acobi, the One True Saint]]                           | -                                               |                            |
-|             | [[The Old Gods of Maroi]]                                            | -                                               |                            |
-| **Caspian** | [[Caspian Natural Gods\|The Caspian Natural Gods]]                   | -                                               |                            |
-|             | [[Caspian New Gods\|The Caspian New Gods]]                           | [[Mystic of Vymjir\|Vymjir, the Restless One]]  | Fate & Forbidden Knowledge |
-|             |                                                                      | [[Mystic of Dunastra\|Dun Astra, the Wanderer]] | Travel, Fate, & Cunning    |
-| **Mur**     | [[The Restless Kaghan]]                                              | ([[Noita - Mura Mage\|Noita]])                  | Nature & Spirits                           |
+| Origin      | Religion                                                                                                                    | Sacred Tradition                                | Domains                    |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------- |
+| **Tor**     | [[The Twelve Patron Saints of Caelon]]                               | [[Saint Merrow - Strength & Passion\|Saint Merrow]] |  Strength & Passion                                               |                            |
+|             | [[Ohome - Pantheon of the Halfling Slaves\|Ohōme of the Cotoctlaca]]                                                        | -                                               |                            |
+| **Maroi**   | [[Saint Acobi\|Acobi, the One True Saint]]                                                                                  | -                                               |                            |
+|             | [[The Old Gods of Maroi]]                                                                                                   | -                                               |                            |
+| **Caspian** | [[Caspian Natural Gods\|The Caspian Natural Gods]]                                                                          | -                                               |                            |
+|             | [[Caspian New Gods\|The Caspian New Gods]]                                                                                  | [[Mystic of Vymjir\|Vymjir, the Restless]]      | Fate & Forbidden Knowledge |
+|             |                                                                                                                             | [[Mystic of Dunastra\|Dun Astra, the Wanderer]] | Travel, Fate, & Cunning    |
+| **Mur**     | [[The Restless Kaghan]]                                                                                                     | ([[Noita - Mura Mage\|Noita]])                  | Nature & Spirits           |
 
 
 ### Magic

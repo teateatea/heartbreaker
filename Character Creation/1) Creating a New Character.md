@@ -24,12 +24,12 @@ ___
 ### 1. Roll Background & Appearance
 Choose or roll a **d20** on each of the ***[[OSE - 01-01 - Background & Appearance Tables - 2022-04-26.pdf|Background & Appearance Tables (PDF).]]***
 
-![[Character Appearance Example 2022-04-26 v3.png]]
+![[1) Creating a New Character image 1.png]]
 
 ### 2. Roll Ability Scores
 Roll **3d6** for each of your Character’s **[[Ability Scores|Ability Scores:]]*** **Constitution**, **Strength**, **Dexterity**, **Intelligence**, **Wisdom**, and **Charisma**.
 
-![[Ability Score Example Images 2022-04-26.png]]
+![[1) Creating a New Character image 2.png]]
 
 ##### ***a) Sub-Par Characters***
 If you roll a Character with very poor Ability scores (either 8 or less in every score, or 6 or less in one score) you may reroll the lowest score.
@@ -99,7 +99,9 @@ If you have a Spellbook, ask the GM which Spells are recorded in it. The GM may 
 ___
 # Your Tools For Survival
 ### 4. Mark Inventory Space
-On your Inventory sheet, draw a horizontal line below the box equal to each ability score. Each box is one Inventory Slot, and lets you carry one item, 500 coins, or bundles weighing around 10 pounds.
+On your Inventory sheet, draw a horizontal line below the box equal to each ability score. Each box is one Inventory Slot, and lets you carry one item, 500 coins, or bundles weighing around 10 pounds. 
+
+See **[[Inventory]]** for more details.
 <br>
 ### 5. Roll Debts
 Roll three d20s, and place the digits in consecutive order. This is your debt to the Martel Company. 
