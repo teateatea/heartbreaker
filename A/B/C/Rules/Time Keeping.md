@@ -8,8 +8,6 @@ creation_date: [2022-04-22]
 ---
 [[home|Home]] | [[Open Table]] | **Time Keeping** | [[Lock Downs]]
 ___
-> “YOU CANNOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.”
-> – Gary Gygax, *Dungeon Master’s Guide*
 
 - **Expeditions begin on the real world date.**
 
@@ -23,15 +21,14 @@ ___
 
 > The next time we play is on June 21st in the real world. That means the Characters have spent June 6th to 21st, about two weeks, recovering, training, partying, etc.
 
-### Character Lock Down
-Characters cannot be played if they are still considered to be on an expedition. Players are welcome and encouraged to have multiple characters. Just choose or make another character to play until your other character gets home!
-
-### Location Lock Down
-Locations, hexes, and NPCs visited during an expedititon are unavailable until the end date of that expedition. This prevents continuity ambiguity *(and all the confusion that results from a June 2nd Party killing somebody that the June 1st Party is supposed to talk to on June 3rd lmao).*
-
 ___
 ***Sources:***
 - [***Open Table Manifesto*** by **The Alexandrian.**](https://thealexandrian.net/?p=38643)
+
+> “YOU CANNOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.”
+> – **Gary Gygax**, *Dungeon Master’s Guide*
+
+
 
 <!--*References:*
 *Source:* -->
