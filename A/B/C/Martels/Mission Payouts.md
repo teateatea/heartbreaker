@@ -6,7 +6,9 @@ date: [2022-05-10]
 template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-05-10]
 ---
-[[home|Home]] | [[Open Table]] | [[The Martel Ledger]] | **Mission Payouts** | [[Loot For Sale]]
+[[home|Home]] | [[Open Table]] | **The Martels**
+___
+[[The Big Picture]] | [[The Martel Ledger]] | **Mission Payouts** | [[Loot For Sale]]
 ___
 # Mission Payouts
 Here's how much you money made from each mission for bringing treasure back.

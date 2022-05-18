@@ -11,11 +11,16 @@ creation_date: [2022-04-22]
 ___
 **[[Session Zero|Session Zero]]*****[[Session Zero| (Content Warnings, Lines & Veils)]]***
 
+### Session Logistics
 **[[Scheduling]]**
 **[[Joining Mid-Session]]**
 **[[End of Session]]*****[[End of Session| (Escaping the Island!)]]***
 
-**[[Time Keeping|Time Keeping & Location Lock Downs]]**
+### Downtime Between Sessions
+**[[Time Keeping]]** | **[[Lock Downs]]**
+
+### The Martels
+**[[The Big Picture]]**
 **[[The Martel Ledger]]** | **[[Mission Payouts]]** | **[[Loot For Sale]]**
 **[[Rand's Retreat|Home Base]]** ***[[Rand's Retreat|(Rand's Retreat)]]***
 ___
