@@ -13,13 +13,13 @@ ___
 # Location Lock Down
 **Locations, hexes, and NPCs visited during an expedititon are unavailable until the end date of that expedition.**
 
-This prevents continuity ambiguity, and all the confusion that results from a *June 2nd* Party killing somebody that the *June 1st* Party is supposed to talk to on *June 3rd* lmao.
+This prevents continuity ambiguity, and all the confusion that results from a *June 2nd* Party killing somebody that the *June 1st* Party is supposed to talk to on *June 3rd*.
 
 > For example, your game session is June 1st, and your party spends 10 in-game days exploring the island.
 > 
-> - Every hex you visit is unavailable to other parties until June 11th. If, over those 10 days, you explored Hexes 01, 02, and 03, then no other party can enter those Hexes until after the 11th.
+> - Every hex you visit is unavailable to other parties until June 11th. If, over those 10 days, you explored Hexes 01, 02, and 03, then no other party can enter any of those Hexes until after the 11th.
 > 
-> - Anybody you interacted with cannot be found else where on the island until after the 11th. If you spoke with Rinna, Bavmorda, and Svarku, then other parties will be unable to find them until after the 11th.
+> - Anybody you interacted with cannot be found else where on the island until after the 11th. If you spoke with Rinna, Bavmorda, and Jorer, and fought Svarku, then other parties will be unable to find any of them until after the 11th.
 
 ___
 # Character Lock Down
