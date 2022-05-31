@@ -60,7 +60,7 @@ ___
 
 [[Saint Ena Mora - Silence & Death]]
 
-[[Vymjir - The Restless One]]
+[[Vymjir - The Restless]]
 
 ---
 
