@@ -12,6 +12,6 @@ ___
 [[The Yellow City]] has an incredibly high turn over rate for gods. Deities go out of fashion like seasons, new gods spring to life, old gods are revived, and so the cycle goes on for urban Caspians.
 
 ___
-[[Vymjir - The Restless One]]
+[[Vymjir - The Restless]]
 
 [[Dun Astra|Dun Astra - The Wanderer]]
