@@ -20,5 +20,7 @@ ___
 ##### *I shall bring forth the seeds of the dead to share with the worms that gather in the darkness and surround the world with the power of their lives while from the dim lit halls of other places forms that never were and never could be writhe for the impatience of the few who never saw what could have been.*
 ___
 >**Source:**
+> - Major Pact for May 29th, 2022.
 > - Text by Joseph Gormley & Jeff VanderMeer.
 > - Artwork by [Dominik Mayer.](https://www.artstation.com/dtmayer)
+
