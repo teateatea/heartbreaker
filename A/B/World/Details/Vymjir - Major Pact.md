@@ -9,7 +9,7 @@ creation_date: [2022-05-31]
 ___
 ![[Vymjir - Major Pact image 1.jpg]]
 ___
-##### *Where the gardens of ancients were pruned before the desolation of the arbiters lies the straining gate that siphons the petitioner's soul with the brilliant light of boundless potential, casting shadows so great that rivers of knowledge fall gasping from the parched earth into the eternal sea whose tides whisper secrets unkown to even the ageless.*
+##### *Where the gardens of ancients were pruned before the desolation of the arbiters lies the straining gate that siphons the petitioner's soul with the brilliant light of boundless potential, casting shadows so great that rivers of knowledge fall gasping from the parched earth into the reflective sea whose eternal tides whisper secrets unkown to even the ageless.*
 ___
 ![[Vymjir - Major Pact image 2.jpg]]
 ___
