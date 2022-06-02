@@ -1,5 +1,5 @@
 ---
-aliases: [The Restless One]
+aliases: [The Restless One, Restless Mark]
 tags: []
 author: [Joseph Liao Gormley]
 date: [2022-04-04]
@@ -33,6 +33,10 @@ ___
 - [[Intelligent Undead]] (especially [[Lich|Liches]])
 - [[Research]] without a strong religious leaning
 - [[Keepers Order]] (order of knowledge marked as "forbidden")
+
+___
+#### Symbols
+- The Restless Mark - *A red diamond.*
 
 ___
 #### Mantra
