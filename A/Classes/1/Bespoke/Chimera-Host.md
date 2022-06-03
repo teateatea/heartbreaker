@@ -73,11 +73,23 @@ ___
 > Because it's an odd number, Karkemish rolls a d3 to determine which Form will take control: He rolls a 2, shifting from "The Belligerent" to "The Mendicant" as soon as he finishes his swing *(who promptly apologizes for the violence).*
 <!-- The Mendicant stays in charge for 50 minutes, and then ***Shifting*** becomes possible again.-->
 <!-- If he had rolled a 2, 4, or 6, a ***Shift*** would have been triggered, but he could have chosen to remain in the same form to continue fighting violently.-->
+
+##### Hand-Off
+*Sometimes, the active Form recognizes that they're not well equipped to handle the situation before them. They know which Form is best suited for the task, but the hand-off doesn't always go as smoothly as planned.*
+
+To voluntarily initiate a ***Shift,*** roll d20.
+- If the total is **equal or under $L$ + Stress**, ***Shift*** as if you rolled an even number:
+	- Gain +1 Stress, then choose which Form takes control.
+- If the total is **over $L$ + Stress,** ***Shift*** as if you rolled an odd number:
+	- If this occurs during combat, on your next Round you may only move *or* act, not both.
+	- Gain +1 Stress, then randomly determine which Form takes control.
+		- If the active Form remains in control, **save vs Spells** to prevent *Spell Catastrophe.*
+
 ___
 #### Stress
 <!-- > *Jo: Is this the best name for this concept? Discord? Reverse it and call it Resolve?*-->
 
-*Each Form is constantly enduring pressure from the other Forms in the Chimera-Hosts mind, all of whom would gladly dethrone one another. While generally manageable, the stress can be overwhelming during critical or volatile situations.*
+*The active Form is constantly enduring pressure from the other Forms in the Chimera-Hosts mind, all of whom would gladly dethrone one another. While generally manageable, the stress can be overwhelming during critical or volatile situations.*
 
 Track Stress for each Form separately. The active Form gains Stress for the following events:
 - ***Shifting Forms:*** +1 Stress.

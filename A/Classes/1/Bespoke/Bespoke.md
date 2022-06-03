@@ -15,6 +15,6 @@ If you have an idea for a Character that you feel isn't covered by the current l
 
 ##### [[Mystic of Vymjir|The Mystic of Vymjir]] - LOCKED
 
-##### [[Chimera-Host (Draft)|The Chimera-Host]] - LOCKED
+##### [[Chimera-Host|The Chimera-Host]] - LOCKED
 
 ___
