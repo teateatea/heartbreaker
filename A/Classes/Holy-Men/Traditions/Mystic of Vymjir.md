@@ -10,7 +10,7 @@ creation_date: [2022-04-04]
 *See also:* [[Caspian Mystics]], [[The Restless One]]
 ___
 # VYMJIR-->
-[[home|Home]] | [[Holy-Man]] | *It's pronounced* /vɪ'mir/.
+[[home|Home]] | [[Holy-Man]] | *It's pronounced* /vɪ'mir/. | [[Vymjir - The Restless]]
 ___
 # INVOCATIONS
 You are a **Mystic**, your actions need no explanation.
