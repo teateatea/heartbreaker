@@ -29,7 +29,7 @@ ___
 
 They may have up to $L \div 2$ Forms, rounding down *(where $L$ is the Character's total number of Levels)*. <!-- Confusion Alert: Careful, this is *total* levels, rather than Levels in Chimera specifically. Revisit for consistency if this is ever an issue -->
 
-| Level | # of Forms |
+| Level | Maximum Number of Forms |
 | ----- | ------------- |
 | 1-3   | 1             |
 | 4-5   | 2             |
@@ -38,18 +38,46 @@ They may have up to $L \div 2$ Forms, rounding down *(where $L$ is the Character
 | 10+   | 5             |
 
 #### Shifting Forms
-*Each Form believes they know the best way to accomplish things, and are eager to exert their will upon the world.*
+*Each Form believes they know the best way to accomplish everything, and is eager to wrest control to exert their will upon the world.*
 
 When you roll a d20 for any reason, note the result on the die:
-- **If the result is equal to or less than $L$,** then after all relevant actions are completed, you ***Shift.***
-	- **If the result is an even number,** you choose which Form has taken control, and may choose the Form that is already in control.
+- **If the result is equal to or less than $L$,** complete all relevant actions, then ***Shift.***
+	- **Gain +1 Stress.**
+	- **If the result is an even number,** choose which Form takes control. You may choose the Form that is currently in control.
 	- **If the result is an odd number,**** roll to randomly determine which Form takes control instead.
+The result on the d20 is the number of Turns that this Form will keep control *(A Turn is 10 minutes)*. ***Shifting*** again is prevented until that duration expires.
+
+<!--After ***Shifting,*** roll *Duration* to determine how long this Form keeps control.-->
+
+> *Jo:  Cooldown duration is a really useful dial to control just how unpredictable the Chimera really is. Shifting every combat round seems way too volatile, while lasting days without Shifting seems dull.
+> 
+> I think this is a good balance? You can expect  to Shift every 10-60 minutes most of the time. (Younger Chimera's flit back and forth between their 2 Forms every 10-20 minutes lol, while Veteran Chimera Forms might hold on 1-2 hours!)
+
+<!--
+| d12   | Duration                 |
+| -----: | ------------------------ |
+| 12    | d6 Days *(1-6 days)*       |
+| 10-11 | d6 Turns *(10-60 minutes)* |
+| 1-9   | d6 Rounds *(6-36 seconds)* |-->
+
+<!--
+> ALTERNATIVE:
+> The result on the d20 roll is the number of Turns *(10 minutes)* that this Form will keep control. After ***Shifting,*** this Form keeps control fouse the following formula to determine how long this Form keeps control:
+> d20 result $\times$ -->
 
 > For example, Karkemish is a 6th level Chimera-Host, with 3 Forms. He rolls to strike a foe with his dagger, rolling a d20 to attack. He rolls a 5 *(missing the attack)*, which triggers a ***Shift.*** 
 >
 > Because it's an odd number, Karkemish rolls a d3 to determine which Form will take control: He rolls a 2, shifting from "The Belligerent" to "The Mendicant" as soon as he finishes his swing, and promptly apologizes for the violence.
+>
+<!--> If he had rolled a 2, 4, or 6, a ***Shift*** would have been triggered, but he could have chosen to remain in the same form to continue fighting violently.-->
+> The Mendicant stays in charge for 50 minutes, and then ***Shifting*** becomes possible again.
 
-> If he had rolled a 2, 4, or 6, a ***Shift*** would have been triggered, but he could have chosen to remain in the same form to continue fighting violently.
+### Stress
+> *Jo: Is this the best name for this concept? Discord?*
+
+
+
+
 
 #### Focuses
 Each Form has their own Focuses, the methods they use to manage Stress *(see below).* When creating a new Form, use the following template:
@@ -62,8 +90,6 @@ Each Form has their own Focuses, the methods they use to manage Stress *(see bel
 	- Use something up: specific food or drink, burning wood or candles, etc.
 
 
-### Stress
-> *Jo: Is this the best name for this concept?*
 
 
 
