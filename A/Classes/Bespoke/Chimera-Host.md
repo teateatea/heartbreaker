@@ -6,7 +6,7 @@ date: [2022-06-03]
 template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-06-03]
 ---
-<!-- Home | Character Creation | -->
+## *DRAFT*
 [[home|Home]] | **Chimera-Host** | [[Magic-User]]
 ___
 *Your mind is a many-headed beast, each more exceptional than the last. You may grow into a one-man army, if your mind doesn't mutiny against itself. For now, you're just a fledgling, awkwardly wielding your gangly mind.*
