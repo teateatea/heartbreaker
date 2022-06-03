@@ -75,13 +75,13 @@ ___
 <!-- If he had rolled a 2, 4, or 6, a ***Shift*** would have been triggered, but he could have chosen to remain in the same form to continue fighting violently.-->
 
 ___
-##### Hand-Off
-*Sometimes, the active Form recognizes that they're not well equipped to handle the situation before them. They know which Form is best suited for the task, but the hand-off doesn't always go as smoothly as planned.*
+##### Voluntary Hand-Off
+*Sometimes, the active Form recognizes that they're ill-equipped to handle the situation before them. They know which Form is best suited for the task, but the hand-off doesn't always go as smoothly as planned.*
 
 To voluntarily initiate a ***Shift,*** roll d20.
-- If the total is **equal or under $L$ + Stress**, ***Shift*** as if you rolled an even number:
+- **If the result is equal to or less than $L$ + Stress**, ***Shift*** as if you rolled an even number:
 	- Gain +1 Stress, then choose which Form takes control.
-- If the total is **over $L$ + Stress,** ***Shift*** as if you rolled an odd number:
+- **If the result is greater than $L$ + Stress,** ***Shift*** as if you rolled an odd number:
 	- If this occurs during combat, on your next Round you may only move *or* act, not both.
 	- Gain +1 Stress, then randomly determine which Form takes control.
 		- If the active Form remains in control, **save vs Spells** to prevent *Spell Catastrophe.*
