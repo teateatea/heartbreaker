@@ -1,6 +1,6 @@
 ---
 aliases: [[Blue Blade Kettle Page]]
-tags: [Kettle]
+tags: [Kettle, Parasite]
 author: [Joseph Liao Gormley]
 date: [2022-03-25]
 template_version: [KETTLE-2022-03-25]

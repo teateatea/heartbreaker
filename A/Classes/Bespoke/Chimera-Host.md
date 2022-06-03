@@ -1,15 +1,17 @@
 ---
 aliases: [Chimera-Host]
-tags: []
+tags: [Parasite]
 author: [Joseph Liao Gormley]
 date: [2022-06-03]
 template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-06-03]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | **Chimera-Host**
+[[home|Home]] | **Chimera-Host** | [[Magic-User]]
 ___
 *Your mind is a many-headed beast, each more exceptional than the last. You may grow into a one-man army, if your mind doesn't mutiny against itself. For now, you're just a fledgling, awkwardly wielding your gangly mind.*
+
+**Proficiencies, Level Progression, and Combat as Magic-User (Maestro).**
 ___
 **Hit Dice:** 1d4<br>**Armour:** None<br>**Weapons:** Dagger<br>**Languages:** Common
 ___
@@ -51,12 +53,14 @@ When you roll a d20 for any reason, note the result on the die:
 
 #### Focuses
 Each Form has their own Focuses, the methods they use to manage Stress *(see below).* When creating a new Form, use the following template:
+
 1. **A Quiet Action**
 	- Low energy activity: meditation, singing, reading, cooking, etc.
 2. **A Loud Action**
 	- High energy activity, or combat action: running, charging, dodging, etc.
 3. **A Consumeable**
 	- Use something up: specific food or drink, burning wood or candles, etc.
+
 
 ### Stress
 > *Jo: Is this the best name for this concept?*
