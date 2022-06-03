@@ -74,6 +74,7 @@ ___
 <!-- The Mendicant stays in charge for 50 minutes, and then ***Shifting*** becomes possible again.-->
 <!-- If he had rolled a 2, 4, or 6, a ***Shift*** would have been triggered, but he could have chosen to remain in the same form to continue fighting violently.-->
 
+___
 ##### Hand-Off
 *Sometimes, the active Form recognizes that they're not well equipped to handle the situation before them. They know which Form is best suited for the task, but the hand-off doesn't always go as smoothly as planned.*
 
