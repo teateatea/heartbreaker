@@ -8,9 +8,9 @@ creation_date: [2022-06-03]
 ---
 [[home|Home]] | **Chimera-Host** | [[Magic-User]]
 ___
-*Your mind is a many-headed beast, each more exceptional than the last. You may grow into a one-man army, if your mind doesn't mutiny against itself. For now, you're just a fledgling, awkwardly wielding your gangly mind.*
+*Your mind is a many-headed beast, each more exceptional than the last. You might grow into a one-man army, if your mind doesn't mutiny against itself. For now, you're just a fledgling Chimera, awkwardly wielding your gangly mind.*
 
-**Proficiencies, Level Progression, and Combat as Magic-User (Maestro).**
+**Class Proficiencies, Level Progression, and Combat as Magic-User (Maestro).**
 ___
 **Hit Dice:** 1d4<br>**Armour:** None<br>**Weapons:** Dagger<br>**Languages:** Common
 ___
@@ -43,7 +43,7 @@ ___
 When you roll a d20 for an active Ability Check or Saving Throw, note the result on the die.
 - **If the result is equal to or less than $L$,** complete all relevant actions, then ***Shift:***
 	- **The active Form gains +1 Stress.**
-		- **Check *Burn Out & Ambition.***
+		- **Check for *Burn Out & Ambition.***
 	- **If the result is an even number,** choose which Form takes control. You may choose to keep the active Form in control.
 	- **If the result is an odd number,** roll to randomly determine which Form takes control instead.
 - If a ***Shift*** is triggered, but the active Form remains in control, roll a **save vs Spells**. On a fail, roll *Spell Catastrophe,* as the other Forms in your mind petulantly sabotage your efforts.
