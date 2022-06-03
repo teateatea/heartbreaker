@@ -29,6 +29,8 @@ ___
 
 **[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
 
+**[[Bespoke]]**
+
 <!--**~~Specialist~~** (*not yet!*)-->
 
 ___
