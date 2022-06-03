@@ -13,8 +13,8 @@ These classes have been made for a specific player, to run a specific concept. Y
 
 If you have an idea for a Character that you feel isn't covered by the current list of Classes, please let me know! I enjoy the game design challenge, and am more than happy to workshop something out with you.
 
-### [[Mystic of Vymjir|The Mystic of Vymjir]] - LOCKED
+##### [[Mystic of Vymjir|The Mystic of Vymjir]] - LOCKED
 
-### [[Chimera-Host|The Chimera-Host]] - LOCKED
+##### [[Chimera-Host (Draft)|The Chimera-Host]] - LOCKED
 
 ___
