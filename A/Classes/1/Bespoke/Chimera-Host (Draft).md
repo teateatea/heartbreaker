@@ -21,9 +21,7 @@ ___
 ### Paradigm: Maestro
 
 ___
-### Forms
-> *Jo: What is the best name for the different personas? Heads? Minds? Forms? Beasts? Avoid Personalities to differentiate from DID.*
-
+### Chimeric Forms
 *A Chimera-Host's mind has multiple Forms, any one of which can take charge of the shared body. Each Form has distinct preferences, mannerisms, and interests from the others.*
 
 Chimera-Hosts may have up to $L \div 2$ Forms, rounding down *(where $L$ is the Character's total number of Levels)*. <!-- Confusion Alert: Careful, this is *total* levels, rather than Levels in Chimera specifically. Revisit for consistency if this is ever an issue -->
@@ -36,6 +34,7 @@ Chimera-Hosts may have up to $L \div 2$ Forms, rounding down *(where $L$ is the 
 | 8-9   | 4             |
 | 10+   | 5             |
 
+> *Jo: What is the best name for the different personas? Heads? Minds? Forms? Beasts? Avoid Personalities to differentiate from DID.*
 ___
 #### Shifting Forms
 *Each Form believes they know the best way to accomplish everything, and eagerly wrestles to exert their will upon the world.*
@@ -46,8 +45,8 @@ When you roll a d20 for an Ability Check or Saving Throw, note the result.
 		- **Check for *Ambition,* and *Burn Out.***
 	- **If the result is an even number,** choose which Form takes control. You may choose to keep the active Form in control.
 	- **If the result is an odd number,** roll to randomly determine which Form takes control.
-	- **If the active Form remains in control,** roll a **save vs Spells** for each inactive Form that isn't Burned Out.
-		- On any number of failures, roll ***Spell Catastrophe,*** as the other Forms in your mind petulantly sabotage your efforts.
+		- **If the active Form remains in control,** roll a **save vs Spells** for each inactive Form that isn't Burned Out.
+			- On any number of failures, roll ***Spell Catastrophe,*** as the other Forms in your mind petulantly sabotage your efforts.
 
 <!-- DO WE LIKE SPELL CATASTROPHE? THIS IS LIKELY ON THE CHOPPING BLOCK. NVM WE HAVE TO DISCOURAGE NOT SHIFTING. The result on the d20 is the number of Turns that this Form will keep control *(A Turn is 10 minutes)*. ***Shifting*** again is prevented until that duration expires.-->
 
@@ -91,21 +90,21 @@ ___
 #### Burn Out
 The Chimera-Host's Stress Limit is $L$ *(where $L$ is the Character's total number of Levels)*. <!-- This could be called Exhaustion.   Confusion Alert: Careful, this is *total* levels, rather than Levels in Chimera specifically. Revisit for consistency if this is ever an issue --> 
 ___
-When a ***Shift*** is triggered, and the active Form's Stress is equal to or over the Stress Limit, they **Burn Out.**
-- **Roll for Burn Out Duration:** d6 + [Stress over Limit] Turns. 
-	- For this duration, this Form cannot be chosen for a ***Shift***, doesn't contribute to Stress when time passes, and doesn't inflict *Spell Catastrophes.*
+When a ***Shift*** is triggered, and the active Form's Stress is **equal to or over the Stress Limit,** they ***Burn Out.***
+- **Roll for *Burn Out* Duration:** d6 + [Stress over Limit] Turns. 
+	- For this duration, the Form cannot be chosen for a ***Shift***, doesn't contribute to Stress when time passes, and doesn't inflict *Spell Catastrophes.*
 	- At the end of this duration, they remove all Stress, and become available to be chosen for a ***Shift.***
 
 ___
 #### Ambition
-If all other Forms are Burned Out when a ***Shift*** is triggered, instead gain **Ambition** until another Form becomes available.
+If all other Forms are Burned Out when a ***Shift*** is triggered, ignore it and gain **Ambition** until another Form becomes available.
 
 **Ambition:** You may choose to make any roll with advantage. Gain +1 Stress each time you do this.
 
 <!-- Roll $X$d6, where $X$ is the current Form's Stress. The current Form is Burned Out for that many turns *(A Turn is 10 minutes)*. -->
-
 ___
-### Aversions & Focuses
+___
+#### Aversions & Focuses
 Each Form has an Aversion, something that they find intolerable. When the active Form experiences their Aversion, they gain +1 Stress. If the Aversion continues, they gain +1 Stress every 10 minutes.
 
 Each Form has their own Focuses, the methods they use to manage Stress. When the active Form performs a Focus, they lose -1 Stress.
@@ -114,7 +113,7 @@ Each Form has their own Focuses, the methods they use to manage Stress. When the
 > 
 > Later that night, he cooks up a boar, happily humming to himself: -1 Stress. Before bedtime, he burns some incense: -1 Stress. He much prefers this side of life!
 ___
-### Creating a New Form
+#### Creating a New Form
 When creating a new Form, use the following instructions.
 
 > Jo: How much do you want to be in control here? Want to roll for these or choose them? I might make a table to roll on.
@@ -122,23 +121,23 @@ When creating a new Form, use the following instructions.
 ##### 1. Choose Maestro Specialty and Forsaken Schools.
 Their Specialty cannot be a school that has been Forsaken by any other Form.
 - Each Form has 2 Spells from their Speciality that only they can cast.
-- Other Spells that the Chimera-Host learns can be cast by any Form.
+- All other Spells that the Chimera-Host learns can be cast by any Form.
 
 ##### 2. Choose an Aversion
-This should be a brief, general idea rather than a very specific pet-peeve.
+This should be a brief, general idea, rather than a very specific pet-peeve.
 
-Examples:
-- Getting wet.
-- Getting insulted.
-- Being told what to do.
-- Losing something.
-- Lying.
+***Examples:**
+- *Getting wet.*
+- *Getting insulted.*
+- *Being told what to do.*
+- *Losing something.*
+- *Lying.*
 
 ##### 3. Choose three Focuses
 1. **A Quiet Action**
-	- 10 minutes, Low energy activity: meditation, reading, cooking, etc.
+	- A slower, calm activity *(~10 minutes)*: meditation, reading, cooking, etc.
 2. **A Loud Action**
-	- 6 seconds, High energy activity, or combat action: singing, running, charging, dodging, etc.
+	- A burst of high energy activity, or a combat action *(less than 1 minute)*: singing, running, charging, etc.
 3. **A Consumeable**
 	- Use something up: specific food or drink, burning wood or candles, etc.
 
