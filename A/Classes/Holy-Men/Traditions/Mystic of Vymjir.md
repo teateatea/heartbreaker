@@ -77,25 +77,25 @@ ___
 # FAVOUR
 Gain **Favour** with the Restless One by studying his tenets, and choosing your own destiny. To illustrate:
 
-***1 Point of Favour***
+***3 Point of Favour*** <!-- used to be 1, too low?-->
 - Take written notes while researching.
 - Share useful, actionable knowledge.
 - Perform a sermon.
 - Reveal a secret to those who don't know it.
 
-***5 Points of Favour***
+***6 Points of Favour*** <!-- used to be 5, adjusted to match above -->
 - Help an unsupported person find independence.
 - Teach or be taught a new subject.
 - Convert a disciple to the Seven Tenets.
 
-***15 Points of Favour***
+***9 Points of Favour*** <!-- used to be 15, adjusted to scale above. -->
 - Return lost knowledge to a library.
 - Move the soul of a willing disciple to a Vessel.
 - *one more would be good.*
 
 <!--If there is ever ambiguity about whether Favour was gained, determine whether or not your Deity was impressed by your behaviour.-->
 
-Every sunrise, your Favour is reduced by $L$ points. If you have greater than $L$ × 5 Favour at sunrise, your Favour falls to $L$ × 5 instead.
+Every sunrise, your Favour is reduced by $L$ points. If you have greater than $L$ × 3 Favour at sunrise, your Favour falls to $L$ × 3 instead. <!-- L x 5 is too high -->
 <!-- · Conduct a live experiment
 · Create an intelligent undead.
 · -->

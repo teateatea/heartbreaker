@@ -17,9 +17,10 @@ ___
 **[[End of Session]]*****[[End of Session| (Escaping the Island!)]]***
 
 ### Downtime Between Sessions
+**[[Martel Debt]]**
 **[[Time Keeping]]** | **[[Lock Downs]]**
 
-### The Martels
+### The Martel Ledger
 **[[The Big Picture]]**
 **[[The Martel Ledger]]** | **[[Mission Payouts]]** | **[[Loot For Sale]]**
 **[[Rand's Retreat|Home Base]]** ***[[Rand's Retreat|(Rand's Retreat)]]***
