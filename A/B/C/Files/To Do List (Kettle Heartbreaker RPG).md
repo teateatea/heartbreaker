@@ -9,6 +9,21 @@ creation_date: [2022-04-07]
 <!-- Home | Character Creation | -->
 [[home|Home]] 
 ___
+##### Retrospective Focus
+###### Priority
+- **Give out Treasure during the session.** [[Treasure of Hot Springs Island|HSI Treasure]]
+- **Prepping Creatures.** [[Creatures of Hot Springs Island|HSI Creatures]]
+- **Schedule 4 Player count.**
+- **Start on time.**
+###### Secondary
+- Better NPC Motivations [[Reaction Rolls]]
+- Plants. [[Plants of Hot Springs Island|HSI Plants]]
+- Dungeon pre-roll prep. [[HSI Dungeons]]
+	- [[HS-15-02 - The Lapis Observatory|Tower]]
+	- [[HS-23-02 - The Temple of Tranquility|Chill time]]
+- Hex 01 POI prep. [[POI Prep List]]
+
+___
 ##### Soon[^TM]
 - Make Character Creation Page: a) Self-Sufficient, b) Linear.
 	- Names as a separate PDF
