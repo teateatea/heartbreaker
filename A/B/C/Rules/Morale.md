@@ -41,6 +41,7 @@ The referee may decide to apply bonuses or penalties to morale (from –2 to +2)
 
 **Scores of 2 or 12:** Adjustments are never applied to monsters with a morale of 2 or 12.
 
+___
 ## Mercenary Morale
 Mercenaries (see **[[Hirelings]]**) have a morale rating and check morale in exactly the same way as monsters.
 
@@ -59,6 +60,7 @@ Mercenaries (see **[[Hirelings]]**) have a morale rating and check morale in exa
 | Elite troops         | +1     |
 | Fanatics, berserkers | +2     |
 
+___
 ## Retainer Morale
 
 Retainers signed up to work as adventurers, so are not frightened off at the first sign of danger. Retainers do not make morale checks in combat, but a loyalty check may be required in extreme peril (see **[[Retainers]]**).
