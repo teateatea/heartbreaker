@@ -9,9 +9,10 @@ creation_date: [2022-04-07]
 <!-- Home | Character Creation | -->
 [[home|Home]] 
 ___
-##### Retrospective Focus
+##### Retrospective GM Prep Focus
 ###### Priority
 - **Give out Treasure during the session.** [[Treasure of Hot Springs Island|HSI Treasure]]
+	- Scatter treasure around more as you prep.
 - **Prepping Creatures.** [[Creatures of Hot Springs Island|HSI Creatures]]
 - **Schedule 4 Player count.**
 - **Start on time.**
@@ -20,11 +21,12 @@ ___
 - Plants. [[Plants of Hot Springs Island|HSI Plants]]
 - Dungeon pre-roll prep. [[HSI Dungeons]]
 	- [[HS-15-02 - The Lapis Observatory|Tower]]
-	- [[HS-23-02 - The Temple of Tranquility|Chill time]]
+	- [[HS-23-02 The Temple of Tranquility|Chill time]]
 - Hex 01 POI prep. [[POI Prep List]]
 
 ___
 ##### Soon[^TM]
+- Dial in Magic-Users to Fighter spec.
 - Make Character Creation Page: a) Self-Sufficient, b) Linear.
 	- Names as a separate PDF
 	- Fillable Character Sheet PDF!!
@@ -37,6 +39,7 @@ ___
 - Clarify Downtime rules.
 
 ##### Medium Soon
+- Make player spell books available on Tea Kettle.
 - Mystic of Vymjir (Complete Major Pacts, Bestowed Mark, Inopportune Favour, Malpractice, Avatar)
 - Carousing
 - Add a $\pm$ into the Ability Modifiers box on the character sheet.
