@@ -14,17 +14,19 @@ The goal is for the Player Characters to begin, and end, each session at home ba
 ##### Escaping the Island!
 If PCs are still on the island when the Session ends, they each must roll on the **Escaping the Island!** table to determine how *(or if)* they got home.
 
-| Escaping the Island!                            | 1d100  |
-|:----------------------------------------------- | ------ |
-| **You don't know what hex you're in.**              | **DC 75**  |
-| **You know what hex you're in.**                    | **DC 50**  |
-|                                                 |        |
-| You are being pursued.                          | DC +10 |
-|                                                 |        |
-| You have a clear and unhindered path of escape. | DC -25 |
-| You are in a coastal hex.                       | DC -10 |
+| Escaping the Island!                                | 1d100     |
+|:--------------------------------------------------- | --------- |
+| **You don't know what hex you're in.**              | **DC 75** |
+| **You know what hex you're in.**                    | **DC 50** |
+|                                                     |           |
+| You are being pursued.                              | DC +10    |
+| You are over-encumbered (+5 per encumbrance point). | DC +5     |
+|                                                     |           |
+| You have a clear and unhindered path of escape.     | DC -25    |
+| You are in a coastal hex.                           | DC -10    |
+| You can hear ocean waves.                               | DC -10          |
 
-
+<!-- 15% chance you're fail to escape, - 1.5% = 13.5% -->
 On a success, you escape the island unharmed. On a failure, roll on the **Failed Escapes** table.
 
 | 1d10 | Failed Escapes                                                                                                                                                                                                                                                                                             |
