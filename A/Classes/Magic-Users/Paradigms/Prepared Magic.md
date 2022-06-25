@@ -6,7 +6,7 @@ date: [2022-04-01]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-04-01]
 ---
-[[home|Home]] | [[Magic-User]] | [[Wizard]] | **Practical Magic** | [[Unleashed Magic]]
+[[home|Home]] | [[Magic-User]] | [[Wizard]] | **Prepared Magic** | [[Unleashed Magic]]
 ___
 ## Spells
 *Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence. Wizards train the ability to bind these magical "anima" to their brains: A well-trained brain is a mind-gun loaded with spell-bullets.*
