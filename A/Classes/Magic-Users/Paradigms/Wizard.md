@@ -10,18 +10,12 @@ creation_date: [2022-04-01]
 ___
 *Wizards study the [[Principia Arcana]], the most advanced paradigm taught by the Torian [[Phandalin Schola Legio Arcana (PSLA)|Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.*
 
-### Starting Equipment
+## Starting Equipment
 - Spellbook, with 2 Spells
-- Dagger
+- 2 [[Dagger|Daggers (1d4)]]
 ___
-# Arcane Magic
-This page is a summary of Arcane magic, describing what you need to know to get started as a Wizard.
-
-When you're interested in specific interactions governed by magic, see **[[Prepared Magic]]** for the full details.
-
-When you need to draw upon your full capabilities (without regard for safety), see **[[Unleashed Magic]]**.
-
-
+## Summary of Arcane Magic
+This page is a summary of Arcane magic, describing what you need to know to get started as a Wizard. For specific rules for magical interactions, see **[[Prepared Magic]]** for the full details. When you need to draw upon your full capabilities (without regard for safety), see **[[Unleashed Magic]]**.
 ___
 ### Spellbooks
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
