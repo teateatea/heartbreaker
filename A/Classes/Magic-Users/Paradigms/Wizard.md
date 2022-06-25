@@ -15,24 +15,24 @@ ___
 - 2 [[Dagger|Daggers (1d4)]]
 ___
 ## Summary of Arcane Magic
-This page is a summary of Arcane magic, describing what you need to know to get started as a Wizard. For specific rules for magical interactions, see **[[Prepared Magic]]** for the full details. When you need to draw upon your full capabilities (without regard for safety), see **[[Unleashed Magic]]**.
+This page is a summary of Arcane magic, describing what you need to know to get started as a Wizard. Links on this page generally reference **[[Prepared Magic]]**, which covers the full rules for Arcane Magic. When you need to draw upon your full capabilities *(without regard for safety),* see **[[Unleashed Magic]]**.
 ___
 ### Spellbooks
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
 
-The Wizard has a [[Prepared Magic#Spellbooks|Spellbook]], which contains all their [[Spells]]. They [[Prepared Magic#Preparing Spells|Prepare Spells]] from their Spellbook each morning.
+The Wizard has a **[[Prepared Magic#Spellbooks|Spellbook]]**, which contains all their **[[Spells]]**. They **[[Prepared Magic#Preparing Spells|Prepare Spells]]** from their Spellbook each morning.
 ___
 ### Starting Spells
-**At 1st Level, the Wizard's Spellbook contains 2 Spells.**
+**At 1st Level, the Wizard's [[Prepared Magic#Spellbooks|Spellbook]] contains 2 [[Spells]].**
 
-Roll 2d100. The GM will show you two Spells. Choose one of the two spells: Your Spellbook now contains that Spell, allowing it to be Prepared. The other Spell is discarded. Repeat this process to choose your second Spell.
+Roll 2d100. The GM will show you two Spells. Choose one of the two spells: Your Spellbook now contains that Spell, allowing it to be **[[Prepared Magic#Preparing Spells|Prepared]]**. The other Spell is discarded. Repeat this process to choose your second Spell.
 
 ##### Levelling Up
 **Each time the Wizard gains a Level, they add 2 Spells to their Spellbook.**
 ___
 ### Spell Slots
 <!-- *How many spell-creatures can you feed with your soul-energy?*-->
-The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the number of **[[Prepared Magic#Spells|Spells]]** they can safely Prepare each day. See the ***Wizard Spells per Day Table*** below.
+The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the number of **[[Prepared Magic#Spells|Spells]]** they can safely **[[Prepared Magic#Preparing Spells|Prepare]]** each day. See the ***Wizard Spells per Day Table*** below.
 
 ### Wizard Spells per Day Table
 
@@ -44,10 +44,9 @@ The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the nu
 
 [[Wizard#Wizard Spells per Level Table continued|Table continued below.]]
 
-
 ___
 ## Preparing Spells
-**The Wizard must spend an hour to Prepare Spells from their Spellbook, usually in the morning.**
+**The Wizard must spend an hour to [[Prepared Magic#Preparing Spells|Prepare Spells]] from their [[Prepared Magic#Spellbooks|Spellbook]], usually in the morning.**
 
 **To Prepare a Spell more than once, the Wizard's Spellbook must contain multiple copies of that Spell.**
 
