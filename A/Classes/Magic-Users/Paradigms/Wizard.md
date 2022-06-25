@@ -8,7 +8,7 @@ creation_date: [2022-04-01]
 ---
 [[home|Home]] | [[Magic-User]] | **Wizard** | [[Prepared Magic]] | [[Unleashed Magic]]
 ___
-*Wizards study the [[Principia Arcana]], the most advanced paradigm taught by the Torian [[Phandalin Schola Legio Arcana (PSLA)|Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.*
+*Wizards study the [[Principia Arcana]], the most advanced paradigm taught by the [[Phandalin Schola Legio Arcana (PSLA)|Phandalin Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.*
 
 ## Starting Equipment
 - Spellbook, with 2 Spells
@@ -20,19 +20,27 @@ ___
 ### Spellbooks
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
 
-The Wizard has a **[[Prepared Magic#Spellbooks|Spellbook]]**, which contains all their **[[Spells]]**. They **[[Prepared Magic#Preparing Spells|Prepare]]** their Spells from their Spellbook each morning.
+**The Wizard has a [[Prepared Magic#Spellbooks|Spellbook]], containing all the [[Spells]] they can [[Prepared Magic#Preparing Spells|Prepare]] each morning.**
 ___
 ### Starting Spells
+*Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence.*
+
 **At 1st Level, the Wizard's [[Prepared Magic#Spellbooks|Spellbook]] contains 2 [[Spells]].**
 
-**Roll 2d100.** The GM will show you two Spells. Choose one of the two spells: Your Spellbook now contains that Spell, allowing it to be **[[Prepared Magic#Preparing Spells|Prepared]]**. Repeat this process to choose your second Spell.
+**Roll d100 twice.** Choose one of the rolled spells: Your Spellbook now contains that Spell, allowing it to be **[[Prepared Magic#Preparing Spells|Prepared]]**. Repeat this process to choose your second Spell.
 
 ##### Levelling Up
-**Each time the Wizard gains a Level, they add 2 Spells to their Spellbook.**
+**Each time the Wizard gains a Level, they add 2 Spells to their Spellbook.** You may add duplicates of Spells you already have.
 ___
 ### Spell Slots
+*Wizards train the ability to bind these magical "anima" to their brain: A well-trained brain is a mind-gun loaded with spell-bullets.*
+
 <!-- *How many spell-creatures can you feed with your soul-energy?*-->
 The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the number of **[[Prepared Magic#Spells|Spells]]** they can safely **[[Prepared Magic#Preparing Spells|Prepare]]** each day. See the ***Wizard Spell Slots per Day Table*** below.
+
+Spell Slots are described by their Circle, indicating the amount of soul-energy allocated to them.
+
+> Wizard initiates wield 1st Circle Spells, while powerful casters might wield 5th, or even 6th Circle Spells.
 
 ##### Wizard Spell Slots per Day Table
 
