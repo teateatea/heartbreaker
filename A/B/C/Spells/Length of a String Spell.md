@@ -13,8 +13,8 @@ spell_level: [1]
 ## Length of a String
 ___
 **Casting Time:** 1 action.
-**[[Spell Ranges|Range]]:** Line of sight, 300'.
 **Target:** 1 continuous piece of rope, string, or other woven cord.
+**[[Spell Ranges|Range]]:** Line of sight, 300'.
 **Duration:** $L$ turns.
 
 The caster can extend or reduce the length of a rope up to $L$ $\times$ 300 feet.

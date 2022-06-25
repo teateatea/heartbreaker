@@ -12,6 +12,8 @@ creation_date: [2022-05-31]
 ## Geas
 ___
 **Casting time:** 1 action ***(once per moon).***
+**Target:** 1 creature.
+**Range:** Within earshot.
 
 *The caster ensorcells a victim with a geas, a terrible malison enforcing an inescapable command.*
 

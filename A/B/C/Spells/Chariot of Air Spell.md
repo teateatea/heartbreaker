@@ -14,7 +14,6 @@ spell_level: [1]
 ___
 **Casting Time:** 1 action
 **Target:** Self
-
 **Duration:** $L$ turns
 
 A tumult of air elementals, prismatic and cacophonous, bears the Maestro aloft and in any direction desired.

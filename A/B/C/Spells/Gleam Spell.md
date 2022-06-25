@@ -13,8 +13,8 @@ spell_level: [1]
 # Gleam
 ___
 **Casting Time:** 1 action.
-**[[Spell Ranges|Range]]:** Bedevilled creatures must initially be within line of sight.
 **Target:** Up to $L$ creatures.
+**[[Spell Ranges|Range]]:** Bedevilled creatures must initially be within line of sight.
 **Duration:** $L$ turns.
 
 Conjure a hovering magical spirit of radiance that does not shed heat, does not require air, and is not doused by water. A gleam per level may be summoned and the illumination of each is similar to torchlight.
