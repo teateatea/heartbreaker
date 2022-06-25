@@ -7,7 +7,7 @@ template_version: [HEARTBREAKER-2022-04-22]
 creation_date: [2022-06-25]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | [[home|Home]] | [[Magic-User]] | [[Player Spellbooks]] | **Eli's Spellbook**
+[[home|Home]] | [[Magic-User]] | [[Player Spellbooks]] | **Eli's Spellbook**
 ___
 ![[Blackstaff Spell#Blackstaff]]
 ___
