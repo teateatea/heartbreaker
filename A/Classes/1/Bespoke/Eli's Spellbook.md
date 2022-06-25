@@ -9,17 +9,17 @@ creation_date: [2022-06-25]
 <!-- Home | Character Creation | -->
 [[home|Home]] | [[Magic-User]] | [[Player Spellbooks]] | **Eli's Spellbook**
 ___
-# Cunning Craft
+# Cunning Craft Spells
 ___
 ![[Blackstaff Spell#Blackstaff]]
  ___
 ![[Geas Spell#Geas]]
 ___
-# Diabolism
+# Diabolism Spells
 ___
 ![[Gleam Spell#Gleam]]
 ___
-# Elementalism
+# Elementalism Spells
 ___
 ## Elementalism Specialist: $L$ = $5$
 When casting Elementalism Spells, you gain a bonus to $L$ equal to the number of Elementalism Spells you know. Currently, Eli is 3rd Level, plus 2 Elementalism Spells.
@@ -29,7 +29,7 @@ ___
 ___
 ![[Stormspeech Spell#Stormspeech]]
 ___
-# Rope Tricks
+# Rope Trick Spells
 ___
 ![[Length of a String Spell#Length of a String]]
 ___
