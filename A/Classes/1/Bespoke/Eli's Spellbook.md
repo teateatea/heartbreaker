@@ -9,9 +9,11 @@ creation_date: [2022-06-25]
 <!-- Home | Character Creation | -->
 [[home|Home]] | [[Magic-User]] | [[Player Spellbooks]] | **Eli's Spellbook**
 ___
-![[Blackstaff Spell#Blackstaff]]
+> [!error] Cunning Craft
+> ![[Blackstaff Spell#Blackstaff]]
 ___
-![[Chariot of Air Spell#Chariot of Air]]
+> [!error] Elementalism
+> ![[Chariot of Air Spell#Chariot of Air]]
 ___
 ![[Geas Spell#Geas]]
 ___
