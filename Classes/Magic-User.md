@@ -7,7 +7,7 @@ template_version: [KETTLE-2022-04-06]
 creation_date: [2022-04-06]
 ---
 <!-- Home | Character Creation | -->
-[[home|Home]] | **Magic-User** | [[Wizard]]
+[[home|Home]] | **Magic-User** | [[Wizard]] | [[Player Spellbooks]]
 ___
 *Magic-users are adventurers whose study of arcane secrets has taught them how to cast spells. Magic-users are able to cast a greater number of increasingly powerful spells as they advance in level.*
 ___
