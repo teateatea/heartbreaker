@@ -30,7 +30,7 @@ Arcane Paradigms describe the various methods to learn magic, and are generally 
 
 | Origin     | Paradigm                                                             |     |
 | ---------- | -------------------------------------------------------------------- | --- |
-| **Tor**    | [[Wizard]]                                                           | Wizards study the [[Principia Arcana\|Vancian Principia Arcana]], the most advanced paradigm taught by the Torian [[Phandalin Schola Legio Arcana (PSLA)\|Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.    |
+| **Tor**    | [[Wizard]]                                                           | Wizards study the [[Principia Arcana\|Vancian Principia Arcana]], taught by the [[Phandalin Schola Legio Arcana (PSLA)\|Phandalin Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.    |
 | **Maroi**  | [[Maroian Magicians\|Magician]]                                      |     |
 | **Caspia** | [[Caspian Maestros\|Maestro]]                                        |     |
 | **Mur**    | [[Seiðkona - Murian Mages\|Seiðkona]] / [[Noita - Mura Mage\|Noita]] |     |
