@@ -54,7 +54,7 @@ ___
 242) The Wizard may prepare a Spell for each Spell Slot they have, without complication.
 242A) 
 
-*See [[Dangerous Magic#Over-Preparing|Over-Preparing]] for Preparing without Spell Slots.*<br>*See [[Dangerous Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*
+*See [[Unleashed Magic#Over-Preparing|Over-Preparing]] for Preparing without Spell Slots.*<br>*See [[Unleashed Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*
 
 ##### Empty Spellpages
 *The spell-creature has been bound to the Wizard's soul, and no longer occupies the Spellbook.*
@@ -64,7 +64,7 @@ Once a Wizard has Prepared a Spell, that Spell cannot be Cast or Prepared by any
 
 ___
 ## Casting Spells
-*See [[Dangerous Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*<br>*See [[Dangerous Magic#Over-Casting|Over-Casting]] for Casting without Spell Slots.*
+*See [[Unleashed Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*<br>*See [[Unleashed Magic#Over-Casting|Over-Casting]] for Casting without Spell Slots.*
 
 ##### Cantrips
 Parlour tricks 

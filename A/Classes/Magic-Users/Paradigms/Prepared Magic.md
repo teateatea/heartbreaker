@@ -6,7 +6,7 @@ date: [2022-04-01]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-04-01]
 ---
-[[home|Home]] | [[Magic-User]] | [[Wizard]] | **Prepared Magic** | [[Dangerous Magic]]
+[[home|Home]] | [[Magic-User]] | [[Wizard]] | **Prepared Magic** | [[Unleashed Magic]]
 ___
 ## Spells
 *Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence. Wizards train the ability to bind these magical "anima" to their brains: A well-trained brain is a mind-gun loaded with spell-bullets.*
@@ -36,7 +36,7 @@ ___
 ## Preparing Spells
 The Wizard must spend an hour to Prepare Spells from their Spellbook *(usually in the morning)*.
 
-*See [[Dangerous Magic#Over-Preparing|Over-Preparing]] for Preparing without Spell Slots.*<br>*See [[Dangerous Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*
+*See [[Unleashed Magic#Over-Preparing|Over-Preparing]] for Preparing without Spell Slots.*<br>*See [[Unleashed Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*
 
 ##### Empty Spellpages
 *The spell-creature has been bound to the Wizard's soul, and no longer occupies the Spellbook.*
@@ -46,7 +46,7 @@ Once a Wizard has Prepared a Spell, that Spell cannot be Cast or Prepared by any
 
 ___
 ## Casting Spells
-*See [[Dangerous Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*<br>*See [[Dangerous Magic#Over-Casting|Over-Casting]] for Casting without Spell Slots.*
+*See [[Unleashed Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*<br>*See [[Unleashed Magic#Over-Casting|Over-Casting]] for Casting without Spell Slots.*
 
 ##### Cantrips
 Parlour tricks 
