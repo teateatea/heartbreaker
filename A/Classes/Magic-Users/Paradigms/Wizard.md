@@ -56,7 +56,9 @@ ___
 ### Preparing Spells
 **The Wizard must spend an hour to [[Prepared Magic#Preparing Spells|Prepare Spells]] from their [[Prepared Magic#Spellbooks|Spellbook]], usually in the morning.**
 
-For each available Spell Slot, choose a Spell from your Spellbook. When Casting that Spell, you gain a bonus to $L$ equal to the Circle of that Spell Slot.
+**You may fill each available Spell Slot with one Spell from your Spellbook.**
+
+**When Casting a Spell, you gain a bonus to $L$ equal to the Circle of that Spell Slot used to Prepare that Spell**
 
 > For example, Zizard is a **3rd** Level Wizard, who prepares **Acid Arrow** into her **2nd** Circle Spell Slot. When she casts it, her $L$ equals **5**, meaning she'll roll 5d4 acid damage.
 
@@ -74,7 +76,7 @@ ___
 A Wizard's Prepared Spells allow them to produce Cantrips: minor magical effects, akin to parlour tricks. These must be related in theme or ability to the Prepared Spell, but are otherwise undefined. The Wizard is free to imagine their own uses:
 - A Wizard who prepared *Fireball* might casually light his pipe with a snap. 
 - A Wizard with *Rampant Growth* might produce flowers as a gift.
-- A Wizard with *Butterfly Hurricane* might show a butterfly to a child.
+- A Wizard with *Butterfly Hurricane* might conjure a butterfly to delight a child.
 
 Cantrips are subject to GM approval, but in general, they are significantly weaker than Spells, and the effects should not require a roll.
 <!--%*, indicating how many spell-creatures they can safely feed soul-energy. %Start with 2 rolled, then choose 1 at first level.*-->
@@ -82,11 +84,9 @@ Cantrips are subject to GM approval, but in general, they are significantly weak
 <!-- - % Multiple copies of a spell are required for the wizard to prepare a spell more than once. *(If your spellbook only contains one Light spell-creature, you cannot cast it twice.)*-->
 ___
 ### Conjure Calamity
-At any time, a Prepared Spell may be consumed to Conjure Calamity, instead of Casting it regularly.
+At any time, a Prepared Spell may be consumed to Conjure Calamity, instead of Casting it regularly. That "Spell" is already in your Spellbook.
 
-![[Conjure Calamity#Conjure Calamity]]
-
-
+Each Wizard's calamity is unique, and should be determined at the time of character creation by the choice of a single additional descriptor _(fire, lightning, shadow, ice, acid, etc)_. This can also cause secondary effects when appropriate _(igniting flammable objects, freezing a small pool, etc)_.
 
 ___
 ### Wizard Spell Slots per Level Table, continued
