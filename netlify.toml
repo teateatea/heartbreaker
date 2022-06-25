@@ -18,7 +18,7 @@ REPO_URL = "https://github.com/teateatea/heartbreaker"
 # (Optional) Site title on landing page
 LANDING_TITLE = ""#"Welcome!"
 # (Optional) Site title in navbar
-SITE_TITLE = "Tea's Heartbreaker Roleplaying Game"
+SITE_TITLE = "Tea's Heartbreaker RGP"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "Heartbreaker RPG"
 
