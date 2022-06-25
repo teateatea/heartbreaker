@@ -16,6 +16,12 @@ ___
 
 
 ___
+```ad-error
+title: Elementalism
+collapse: open
+![[Chariot of Air Spell#Chariot of Air]]
+```
+
 > [!error] Elementalism
 > ![[Chariot of Air Spell#Chariot of Air]]
 ___
