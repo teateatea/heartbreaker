@@ -18,7 +18,7 @@ ___
 
 As a full round action, a Wizard may Spontaneously Cast an available Spell from a Spellbook or Spell Scroll, consuming either a Spell Slot or a Prepared Spell. The Wizard must **Save vs Spells**, or suffer a Spell Catastrophe in addition to the intended effects of the Spell. <!--~~This often includes Conjuring Calamity on themselves.~~--> If a Spell Scroll was used, it's destroyed after casting.
 ___
-## Over-Preparing
+## Over-Binding
 **Use this to when you have no Spell Slots, but you do have time to Prepare.**
 
 *Some Wizards Prepare beyond their ability to manage soul essence, stepping closer to the edge of mortality.*

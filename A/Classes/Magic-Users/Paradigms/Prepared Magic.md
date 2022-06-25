@@ -29,6 +29,13 @@ Assuming a well-stocked magical laboratory, this process is laborious, but large
 Make a WIS check vs DC 10. On a success, the following duration is measure in days. On a failure, the following duration is measured in weeks (the Spell resists being bound).
 
 Roll Ld6+INT, and subtract from 20. The result is the number of days/weeks required to add this Spell to the Spellbook. 
+
+##### Adding Spells to Spellbooks
+Assuming a well-stocked magical laboratory, this process is laborious, but largely uncomplicated. Without appropriate facilities, double the duration required.
+
+Make a WIS check vs DC 10. On a success, the following duration is measured in days. On a failure, the following duration is measured in weeks *(as the Spell resists being bound by you specifically).*
+
+Roll $L$d6+INT, then subtract from 20. The result is the number of days or weeks required to add this Spell to the Spellbook. 
 ___
 ## Spell Slots 
 *How many spell-creatures can you feed with your soul-energy?*
@@ -43,7 +50,10 @@ The Wizard must spend an hour to Prepare Spells from their Spellbook *(usually i
 
 Once a Wizard has Prepared a Spell, that Spell cannot be Cast or Prepared by any Magic-User, until the dawn after the Wizard Casts it. Wizards interfere with other Wizards in this way, but non-Wizard Magic-Users have no effect on the Wizard's ability to Prepare Spells.
 
+##### Empty Spellpages
+*The spell-creature has been bound to the Wizard's soul, and no longer occupies the spellbook.*
 
+Once a Wizard has Prepared a Spell, that Spell cannot be Cast or Prepared by any Magic-User, until the dawn after the Wizard Casts it. Wizards interfere with other Wizards in this way, but non-Wizard Magic-Users have no effect on the Wizard's ability to Prepare Spells.
 ___
 ## Casting Spells
 *See [[Unleashed Magic#Spontaneous Casting|Spontaneous Casting]] for Casting without Preparing.*<br>*See [[Unleashed Magic#Over-Casting|Over-Casting]] for Casting without Spell Slots.*
@@ -69,7 +79,10 @@ At any time, a Prepared Spell may be consumed Conjure Calamity, instead of Casti
 - When Preparing Spells from a Scroll, make an WIS check. On a failure, the Scroll is destroyed.
 - When Spontaneous Casting from a Scroll, the Scroll is destroyed.
 
-
+##### Spell Scrolls
+<!--~~Spell Scrolls are akin to individual entries in the Wizard's Spellbook, but are less durable.~~-->Spell Scrolls function identically to Spellbooks, with the following exceptions:
+- When Preparing Spells from a Scroll, make an WIS check. On a failure, the Scroll is destroyed.
+- When Spontaneous Casting from a Scroll, the Scroll is destroyed.
 
 <!--~~A Prepared Spell may be consumed to cast a Spell from a Spell Scroll. This process takes 10 minutes to Cast safely, and the Spell Scroll becomes available again at the next sunrise (similar to Spellbook Refreshing).~~
 
