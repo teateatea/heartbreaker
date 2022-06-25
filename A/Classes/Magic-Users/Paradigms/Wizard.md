@@ -45,12 +45,12 @@ The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the nu
 *[[Wizard#Wizard Spell Slots per Level Table continued|Table continued below.]]*
 
 ___
-## Preparing Spells
+### Preparing Spells
 **The Wizard must spend an hour to [[Prepared Magic#Preparing Spells|Prepare Spells]] from their [[Prepared Magic#Spellbooks|Spellbook]], usually in the morning.**
 
 For each available Spell Slot, choose a Spell from your Spellbook. When Casting that Spell, you gain a bonus to $L$ equal to the Circle of that Spell Slot.
 
-> For example, Zizard is a 3rd Level Wizard, who prepares **Acid Arrow** into her 2nd Circle Spell Slot. When she casts it, her $L$ equals 5, meaning she'll roll 5d4 acid damage.
+> For example, Zizard is a **3rd** Level Wizard, who prepares **Acid Arrow** into her **2nd** Circle Spell Slot. When she casts it, her $L$ equals **5**, meaning she'll roll 5d4 acid damage.
 
 **To Prepare a Spell more than once, the Wizard's Spellbook must contain multiple copies of that Spell.**
 
@@ -59,7 +59,7 @@ For each available Spell Slot, choose a Spell from your Spellbook. When Casting 
 **Once a Prepared Spell is Cast, it becomes unavailable until the next dawn** *(when the Wizard may again Prepare that Spell from their Spellbook).*
 
 ___
-## Cantrips
+### Cantrips
 <!-- ##### *Parlour tricks.* -->
 <!--The Wizard may benefit from minor magical effects related to the spells they have prepared, without actually expelling the spell *(i.e. casually lighting a pipe while Fireball is prepared).*-->
 
@@ -73,19 +73,13 @@ Cantrips are subject to GM approval, but in general, they are significantly weak
 <!--*temporarily binding the spell-creatures to their brains.*-->
 <!-- - % Multiple copies of a spell are required for the wizard to prepare a spell more than once. *(If your spellbook only contains one Light spell-creature, you cannot cast it twice.)*-->
 ___
-## Conjure Calamity
+### Conjure Calamity
 At any time, a Prepared Spell may be consumed to Conjure Calamity, instead of Casting it regularly.
 
 ![[Conjure Calamity#Conjure Calamity]]
 
 
 
-
-___
-*The following topic are explained in more detail on the [[Prepared Magic]] page:*
-**Practical Magic:** [[Prepared Magic#Spells|Spells]]; [[Prepared Magic#Spellbooks|Spellbooks]]; Spell slots; Preparing Spells; Cantrips; Over-casting; Over-Preparing; Spell Scrolls, Magic Items.
-
-**Dangerous Magic:** Learning New Spells; Transferring Spells; Duplicating Spells; Enchanting Items; Magical Research; Inventing New Spells.
 ___
 ### Wizard Spell Slots per Level Table, continued
 
@@ -106,4 +100,11 @@ ___
 | 13    | 4   | 4   | 4   | 3   | 3   | 3   |
 | 14    | 4   | 4   | 4   | 4   | 3   | 3   |
 
+___
+
+___
+*The following topic are explained in more detail on the [[Prepared Magic]] page:*
+**Practical Magic:** [[Prepared Magic#Spells|Spells]]; [[Prepared Magic#Spellbooks|Spellbooks]]; Spell slots; Preparing Spells; Cantrips; Over-casting; Over-Preparing; Spell Scrolls, Magic Items.
+
+**Dangerous Magic:** Learning New Spells; Transferring Spells; Duplicating Spells; Enchanting Items; Magical Research; Inventing New Spells.
 ___
