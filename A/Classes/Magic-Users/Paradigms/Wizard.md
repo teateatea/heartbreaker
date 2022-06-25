@@ -42,7 +42,7 @@ Spell Slots are described by their Circle, indicating the amount of soul-energy 
 
 > Wizard initiates wield 1st Circle Spells, while powerful casters might wield 5th, or even 6th Circle Spells.
 
-##### Wizard Spell Slots per Day Table
+### Wizard Spell Slots per Day Table
 
 | Level / Circle | 1   | 2   | 3   | 4   | 5   | 6   |
 | ----- | --- | --- | --- | --- | --- | --- |
