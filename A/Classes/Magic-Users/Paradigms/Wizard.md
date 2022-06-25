@@ -6,7 +6,7 @@ date: [2022-04-01]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-04-01]
 ---
-[[home|Home]] | [[Magic-User]] | **Wizard** | [[Prepared Magic]] | [[Unleashed Magic]]
+[[home|Home]] | [[Magic-User]] | **Wizard** | [[Practical Magic]] | [[Unleashed Magic]]
 ___
 *Wizards study the [[Principia Arcana]], the most advanced paradigm taught by the Torian [[Phandalin Schola Legio Arcana (PSLA)|Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.*
 
@@ -14,25 +14,25 @@ ___
 - Spellbook, with 2 Spells
 - 2 [[Dagger|Daggers (1d4)]]
 ___
-## Summary of Arcane Magic
-This page is a summary of Arcane magic, describing what you need to know to get started as a Wizard. Links on this page generally reference **[[Prepared Magic]]**, which covers the full rules for Arcane Magic. When you need to draw upon your full capabilities, see **[[Unleashed Magic]]**.
+## Summary of Prepared Magic
+This page is a summary of Prepared Magic, describing what you need to know to get started as a Wizard. Links on this page generally reference **[[Practical Magic]]**, which covers the full rules for Arcane Magic. When you need to draw upon your full capabilities, see **[[Unleashed Magic]]**.
 ___
 ### Spellbooks
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
 
-The Wizard has a **[[Prepared Magic#Spellbooks|Spellbook]]**, which contains all their **[[Spells]]**. They **[[Prepared Magic#Preparing Spells|Prepare Spells]]** from their Spellbook each morning.
+The Wizard has a **[[Practical Magic#Spellbooks|Spellbook]]**, which contains all their **[[Spells]]**. They **[[Practical Magic#Preparing Spells|Prepare]]** their Spells from their Spellbook each morning.
 ___
 ### Starting Spells
-**At 1st Level, the Wizard's [[Prepared Magic#Spellbooks|Spellbook]] contains 2 [[Spells]].**
+**At 1st Level, the Wizard's [[Practical Magic#Spellbooks|Spellbook]] contains 2 [[Spells]].**
 
-Roll 2d100. The GM will show you two Spells. Choose one of the two spells: Your Spellbook now contains that Spell, allowing it to be **[[Prepared Magic#Preparing Spells|Prepared]]**. The other Spell is discarded. Repeat this process to choose your second Spell.
+Roll 2d100. The GM will show you two Spells. Choose one of the two spells: Your Spellbook now contains that Spell, allowing it to be **[[Practical Magic#Preparing Spells|Prepared]]**. The other Spell is discarded. Repeat this process to choose your second Spell.
 
 ##### Levelling Up
 **Each time the Wizard gains a Level, they add 2 Spells to their Spellbook.**
 ___
 ### Spell Slots
 <!-- *How many spell-creatures can you feed with your soul-energy?*-->
-The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the number of **[[Prepared Magic#Spells|Spells]]** they can safely **[[Prepared Magic#Preparing Spells|Prepare]]** each day. See the ***Wizard Spells per Day Table*** below.
+The Wizard has **[[Practical Magic#Spell Slots|Spell Slots]]**, indicating the number of **[[Practical Magic#Spells|Spells]]** they can safely **[[Practical Magic#Preparing Spells|Prepare]]** each day. See the ***Wizard Spells per Day Table*** below.
 
 ##### Wizard Spells per Day Table
 
@@ -46,7 +46,7 @@ The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the nu
 
 ___
 ## Preparing Spells
-**The Wizard must spend an hour to [[Prepared Magic#Preparing Spells|Prepare Spells]] from their [[Prepared Magic#Spellbooks|Spellbook]], usually in the morning.**
+**The Wizard must spend an hour to [[Practical Magic#Preparing Spells|Prepare Spells]] from their [[Practical Magic#Spellbooks|Spellbook]], usually in the morning.**
 
 **To Prepare a Spell more than once, the Wizard's Spellbook must contain multiple copies of that Spell.**
 
@@ -55,12 +55,6 @@ ___
 ___
 ## Casting Spells
 Once a Prepared Spell is Cast, **it becomes unavailable until the next dawn** *(when the Wizard may again Prepare that Spell from their Spellbook).*
-
-### Conjure Calamity
-At any time, a Prepared Spell may be consumed to Conjure Calamity, instead of Casting it regularly.
-
-![[Conjure Calamity#Conjure Calamity]]
-
 
 ___
 ## Cantrips
@@ -76,10 +70,18 @@ Cantrips are subject to GM approval, but in general, they are significantly weak
 <!--%*, indicating how many spell-creatures they can safely feed soul-energy. %Start with 2 rolled, then choose 1 at first level.*-->
 <!--*temporarily binding the spell-creatures to their brains.*-->
 <!-- - % Multiple copies of a spell are required for the wizard to prepare a spell more than once. *(If your spellbook only contains one Light spell-creature, you cannot cast it twice.)*-->
+___
+## Conjure Calamity
+At any time, a Prepared Spell may be consumed to Conjure Calamity, instead of Casting it regularly.
+
+![[Conjure Calamity#Conjure Calamity]]
+
+
+
 
 ___
-*The following topic are explained in more detail on the [[Prepared Magic]] page:*
-**Practical Magic:** [[Prepared Magic#Spells|Spells]]; [[Prepared Magic#Spellbooks|Spellbooks]]; Spell slots; Preparing Spells; Cantrips; Over-casting; Over-Preparing; Spell Scrolls, Magic Items.
+*The following topic are explained in more detail on the [[Practical Magic]] page:*
+**Practical Magic:** [[Practical Magic#Spells|Spells]]; [[Practical Magic#Spellbooks|Spellbooks]]; Spell slots; Preparing Spells; Cantrips; Over-casting; Over-Preparing; Spell Scrolls, Magic Items.
 
 **Dangerous Magic:** Learning New Spells; Transferring Spells; Duplicating Spells; Enchanting Items; Magical Research; Inventing New Spells.
 ___
