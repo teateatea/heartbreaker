@@ -6,15 +6,46 @@ date: [2022-04-01]
 template_version: [KETTLE-2022-03-25]
 creation_date: [2022-04-01]
 ---
-[[home|Home]] | [[Magic-User]] | **Wizard** | [[Prepared Magic]] | [[Dangerous Magic]]
+[[home|Home]] | [[Magic-User]] | **Wizard** | [[Prepared Magic]] | [[Unleashed Magic]]
 ___
 *Wizards study the [[Principia Arcana]], the most advanced paradigm taught by the Torian [[Phandalin Schola Legio Arcana (PSLA)|Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.*
+
+### Starting Equipment
+- Spellbook, with 2 Spells
+- Dagger
 ___
-# [[Prepared Magic]]
-*Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence. Wizards train the ability to bind these magical "anima" to their brains: A well-trained brain is a mind-gun loaded with spell-bullets.*
+# Arcane Magic
+This page describes what you need to know to get started as a Wizard. Consider it to be a summary of your abilities.
+
+When specific interactions governed by magic interest you, see **[[Prepared Magic]]** for the full details.
+
+When you need to draw upon your full capabilities (without regard for safety), see **[[Unleashed Magic]]**.
 
 ___
-## Spellbook
+### Starting Spells
+**At 1st Level, the Wizard's Spellbook contains 2 Spells.**
+
+Roll 2d100. The GM will show you two Spells. Choose one of the two spells: Your Spellbook now contains that Spell, allowing it to be Prepared. The other Spell is discarded. Repeat this process to choose your second Spell.
+
+##### Levelling Up
+**Each time the Wizard gains a Level, they add 2 Spells to their Spellbook.**
+___
+### Spell Slots
+<!-- *How many spell-creatures can you feed with your soul-energy?*-->
+The Wizard has [[Prepared Magic#Spell Slots|Spell Slots]], indicating the number of [[Prepared Magic#Spells|Spells]] they can safely Prepare each day. See the ***Wizard Spells per Day Table*** below.
+
+### Wizard Spells per Day Table
+
+| Level | 1   | 2   | 3   | 4   | 5   | 6   |
+| ----- | --- | --- | --- | --- | --- | --- |
+| 1     | 1   | -   | -   | -   | -   | -   |
+| 2     | 2   | -   | -   | -   | -   | -   |
+| 3     | 2   | 1   | -   | -   | -   | -   |
+
+[[Wizard#Wizard Spells per Level Table continued|Table continued below.]]
+
+___
+### Spellbook
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
 
 The Wizard has a [[Prepared Magic#Spellbooks|Spellbook]], which contains all their [[Spells]]. They [[Prepared Magic#Preparing Spells|Prepare Spells]] from their Spellbook each morning.
@@ -25,12 +56,6 @@ Assuming a well-stocked magical laboratory, this process is laborious, but large
 Make a WIS check vs DC 10. On a success, the following duration is measured in days. On a failure, the following duration is measured in weeks *(as the Spell resists being bound by you specifically).*
 
 Roll $L$d6+INT, then subtract from 20. The result is the number of days or weeks required to add this Spell to the Spellbook. 
-
-___
-## Spell Slots
-*How many spell-creatures can you feed with your soul-energy?*
-
-The Wizard has [[Prepared Magic#Spell Slots|Spell Slots]], indicating the number of [[Prepared Magic#Spells|Spells]] they can safely Prepare each day. *See the Spells Per Level Table, below.*
 
 ___
 ## Preparing Spells
@@ -79,7 +104,7 @@ ___
 
 **Dangerous Magic:** Learning New Spells; Transferring Spells; Duplicating Spells; Enchanting Items; Magical Research; Inventing New Spells.
 ___
-### Spells Per Level Table
+### Wizard Spells per Level Table, continued
 
 | Level | 1   | 2   | 3   | 4   | 5   | 6   |
 | ----- | --- | --- | --- | --- | --- | --- |
