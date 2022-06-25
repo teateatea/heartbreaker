@@ -15,7 +15,7 @@ ___
 - 2 [[Dagger|Daggers (1d4)]]
 ___
 ## Summary of Arcane Magic
-This page is a summary of Arcane magic, describing what you need to know to get started as a Wizard. Links on this page generally reference **[[Prepared Magic]]**, which covers the full rules for Arcane Magic. When you need to draw upon your full capabilities *(without regard for safety),* see **[[Unleashed Magic]]**.
+This page is a summary of Arcane magic, describing what you need to know to get started as a Wizard. Links on this page generally reference **[[Prepared Magic]]**, which covers the full rules for Arcane Magic. When you need to draw upon your full capabilities, see **[[Unleashed Magic]]**.
 ___
 ### Spellbooks
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
@@ -34,7 +34,7 @@ ___
 <!-- *How many spell-creatures can you feed with your soul-energy?*-->
 The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the number of **[[Prepared Magic#Spells|Spells]]** they can safely **[[Prepared Magic#Preparing Spells|Prepare]]** each day. See the ***Wizard Spells per Day Table*** below.
 
-### Wizard Spells per Day Table
+##### Wizard Spells per Day Table
 
 | Level | 1   | 2   | 3   | 4   | 5   | 6   |
 | ----- | --- | --- | --- | --- | --- | --- |
