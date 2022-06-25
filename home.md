@@ -25,7 +25,7 @@ ___
 **[[Fighter|Fighter]]** ([[Fighter Disciplines|Disciplines]])
 <!-- Mystic, Gish, Thief, Face/Bard -->
 
-**[[Magic-User|Magic-User]]** ([[Wizard|Wizards]])
+**[[Magic-User|Magic-User]]** ([[Wizard|Wizards]], [[Player Spellbooks]])
 
 **[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
 
