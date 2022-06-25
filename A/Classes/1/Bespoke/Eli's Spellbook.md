@@ -11,13 +11,20 @@ creation_date: [2022-06-25]
 ___
 > [!error] Cunning Craft
 > ![[Blackstaff Spell#Blackstaff]]
+> ___
+> ![[Geas Spell#Geas]]
+
+
 ___
 > [!error] Elementalism
 > ![[Chariot of Air Spell#Chariot of Air]]
 ___
-![[Geas Spell#Geas]]
+
+
 ___
-![[Gleam Spell#Gleam]]
+> [!error] Diabolism
+> ![[Gleam Spell#Gleam]]
+
 ___
 
 ___
