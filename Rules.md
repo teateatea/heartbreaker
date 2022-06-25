@@ -43,6 +43,7 @@ ___
 **[[Encounters]]** | **[[Hazards and Challenges]]** | [[Evasion and Pursuit]]
 **[[Combat Order]]** | **[[Combat Actions]]** | **[[Other Combat Issues]]** | **[[Morale]]**
 [[Dungeon Adventuring]] | [[Wilderness Adventuring]] | [[Waterborne Adventuring]]
+[[Skills]]
 
 ### Monsters
 **[[Minions]]**
