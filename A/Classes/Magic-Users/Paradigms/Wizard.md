@@ -20,25 +20,25 @@ ___
 ### Spellbooks
 *Spellbooks are arcane menageries, prisons filled with magical spirits.*
 
-**The Wizard has a [[Prepared Magic#Spellbooks|Spellbook]], containing all the [[Spells]] they can [[Prepared Magic#Preparing Spells|Prepare]] each morning.**
+**At 1st Level, you gain a [[Prepared Magic#Spellbooks|Spellbook]], containing all the [[Spells]] you can [[Prepared Magic#Preparing Spells|Prepare]] each morning.**
 ___
 ### Starting Spells
 *Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence.*
 
-**At 1st Level, the Wizard's [[Prepared Magic#Spellbooks|Spellbook]] contains *Conjure Calamity,* and 2 additional [[Spells]].**
+**At 1st Level, your [[Prepared Magic#Spellbooks|Spellbook]] contains *Conjure Calamity,* and 2 additional [[Spells]].**
 
 **Roll d100 twice.** Choose one of the rolled spells: Your Spellbook now contains that Spell, allowing it to be **[[Prepared Magic#Preparing Spells|Prepared]]**. Repeat this process to choose your second Spell.
 
 ##### Levelling Up
-**Each time the Wizard gains a Level, they add 2 Spells to their Spellbook.** You may add duplicates of Spells you already have.
+**Each time you gain a Level, add 2 Spells to your Spellbook,** using the above process. You may add duplicates of Spells you already have.
 ___
 ### Spell Slots
 *Wizards train the ability to bind these magical "anima" to their brain: A well-trained brain is a mind-gun loaded with spell-bullets.*
 
 <!-- *How many spell-creatures can you feed with your soul-energy?*-->
-**The Wizard has [[Prepared Magic#Spell Slots|Spell Slots]], the number of [[Prepared Magic#Spells|Spells]] they can safely [[Prepared Magic#Preparing Spells|Prepare]] each morning.** See the ***Wizard Spell Slots per Day Table*** below.
+**You have [[Prepared Magic#Spell Slots|Spell Slots]], the number of [[Prepared Magic#Spells|Spells]] you can safely [[Prepared Magic#Preparing Spells|Prepare]] each morning.** See the ***Wizard Spell Slots per Day Table*** below.
 
-**Spell Slots are described by their Circle, indicating the amount of soul-energy allocated to them.**
+**Spell Slots are described by their Circle, indicating the amount of soul-energy that can be allocated to a Spell.**
 
 > Wizard initiates wield 1st Circle Spells, while powerful casters might wield 5th, or even 6th Circle Spells.
 
@@ -54,17 +54,17 @@ ___
 
 ___
 ### Preparing Spells
-**The Wizard must spend an hour to [[Prepared Magic#Preparing Spells|Prepare]] Spells from their [[Prepared Magic#Spellbooks|Spellbook]], usually in the morning.**
+**You must spend an hour to [[Prepared Magic#Preparing Spells|Prepare]] Spells from your [[Prepared Magic#Spellbooks|Spellbook]], usually in the morning.**
 
-**You may fill each available Spell Slot with one Spell from your Spellbook.** To Prepare a Spell more than once, the Wizard's Spellbook must contain multiple copies of that Spell.
+**You may fill each available Spell Slot with one Spell from your Spellbook.** To Prepare a Spell more than once, your Spellbook must contain multiple copies of that Spell.
 
 **When Casting a Spell, you gain a bonus to $L$ equal to the Circle of the Spell Slot used to Prepare that Spell**
 
 > For example, Zizard is a **3rd** Level Wizard, who prepares **Acid Arrow** into her **2nd** Circle Spell Slot. When she casts it, her $L$ equals **5**, meaning she'll roll 5d4 acid damage.
 
-**Wizards cannot Cast Spells they haven't Prepared,** but they may choose to **[[Unleashed Magic#Over-Binding|Over-Bind]]**, binding more spells to their souls than they can actually feed. *(This carries associated risks.*)
+**You cannot Cast Spells you haven't Prepared,** but you may choose to **[[Unleashed Magic#Over-Binding|Over-Bind]]**, binding more spells to your soul than you can actually feed. *(This carries some associated risks.*)
 
-**Once a Prepared Spell is Cast, it becomes unavailable until the next dawn** *(when the Wizard may again Prepare that Spell from their Spellbook).*
+**Once a Prepared Spell is Cast, it becomes unavailable until the next dawn** *(when you may again Prepare that Spell from their Spellbook).*
 
 ___
 *$L$ is the level of the magic-user casting this spell.*
@@ -73,10 +73,10 @@ ___
 <!-- ##### *Parlour tricks.* -->
 <!--The Wizard may benefit from minor magical effects related to the spells they have prepared, without actually expelling the spell *(i.e. casually lighting a pipe while Fireball is prepared).*-->
 
-A Wizard's Prepared Spells allow them to produce Cantrips: minor magical effects, akin to parlour tricks. These must be related in theme or ability to the Prepared Spell, but are otherwise undefined. The Wizard is free to imagine their own uses:
-- A Wizard who prepared *Fireball* might casually light his pipe with a snap. 
+Your Prepared Spells allow you to produce Cantrips: minor magical effects, akin to parlour tricks. These must be related in theme or ability to the Prepared Spell, but are otherwise undefined. You are free to imagine your own uses:
+- A Wizard who prepared *Fireball* might casually light a pipe with a snap. 
 - A Wizard with *Rampant Growth* might produce flowers as a gift.
-- A Wizard with *Butterfly Hurricane* might conjure a butterfly to delight a child.
+- A Wizard with *Butterfly Hurricane* might conjure a butterfly to delight children.
 
 Cantrips are subject to GM approval, but in general, they are significantly weaker than Spells, and the effects should not require a roll.
 <!--%*, indicating how many spell-creatures they can safely feed soul-energy. %Start with 2 rolled, then choose 1 at first level.*-->
