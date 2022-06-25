@@ -8,7 +8,7 @@ creation_date: [2022-06-11]
 ---
 *See also:* [[Marvels & Malisons]], [[Witches]], [[Melee Buff Spells|Melee Buffs]]
 ##### [[Cunning Craft]]
-# Blackstaff
+## Blackstaff
 ___
 **Casting Time:** 1 action
 **Target:** Staff, cudgel, or other two-handed, blunt weapon.

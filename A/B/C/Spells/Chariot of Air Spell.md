@@ -10,7 +10,7 @@ spell_level: [1]
 ---
 *See also:* [[Spells]], [[Wonder & Wickedness]]
 ##### [[Elementalism Magic]]
-# Chariot of Air
+## Chariot of Air
 ___
 **Casting Time:** 1 action
 **Target:** Self

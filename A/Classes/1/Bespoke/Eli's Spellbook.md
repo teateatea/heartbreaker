@@ -9,28 +9,17 @@ creation_date: [2022-06-25]
 <!-- Home | Character Creation | -->
 [[home|Home]] | [[Magic-User]] | [[Player Spellbooks]] | **Eli's Spellbook**
 ___
-> [!error] Cunning Craft
-> ![[Blackstaff Spell#Blackstaff]]
-> ___
-> ![[Geas Spell#Geas]]
-
-
+# Cunning Craft
+![[Blackstaff Spell#Blackstaff]]
+ ___
+![[Geas Spell#Geas]]
 ___
-```ad-error
-title: Elementalism
-collapse: open
+# Elementalism
 ![[Chariot of Air Spell#Chariot of Air]]
-```
-
-> [!error] Elementalism
-> ![[Chariot of Air Spell#Chariot of Air]]
-___
-
 
 ___
-> [!error] Diabolism
-> ![[Gleam Spell#Gleam]]
-
+# Diabolism
+![[Gleam Spell#Gleam]]
 ___
 
 ___

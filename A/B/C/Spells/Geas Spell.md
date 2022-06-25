@@ -9,7 +9,7 @@ creation_date: [2022-05-31]
 *See also:* [[Marvels & Malisons]], [[Cunning Craft]], [[Witches]], [[Curses]]
 
 **NB! Only give Witches this if you've prepared curses for this! Danger of severely altering the direction of a session.**
-# Geas
+## Geas
 ___
 **Casting time:** 1 action ***(once per moon).***
 

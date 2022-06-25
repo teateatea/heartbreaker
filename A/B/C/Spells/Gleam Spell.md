@@ -9,8 +9,8 @@ template_version: [SPELL-2022-06-25-6]
 spell_level: [1]
 ---
 *See also:* [[Spells]], [[Wonder & Wickedness]]
-# Gleam
 ##### [[Diabolism Magic]]
+# Gleam
 ___
 **Casting Time:** 1 action.
 **[[Spell Ranges|Range]]:** Bedevilled creatures must initially be within line of sight.
