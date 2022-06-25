@@ -10,7 +10,7 @@ spell_level: [1]
 ---
 *See also:* [[Spells]], [[Wonder & Wickedness]]
 ##### [[Diabolism Magic]]
-# Gleam
+## Gleam
 ___
 **Casting Time:** 1 action.
 **Target:** Up to $L$ creatures.
