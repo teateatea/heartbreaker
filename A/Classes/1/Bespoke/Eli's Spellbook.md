@@ -10,18 +10,24 @@ creation_date: [2022-06-25]
 [[home|Home]] | [[Magic-User]] | [[Player Spellbooks]] | **Eli's Spellbook**
 ___
 # Cunning Craft
+___
 ![[Blackstaff Spell#Blackstaff]]
  ___
 ![[Geas Spell#Geas]]
 ___
-# Elementalism
-![[Chariot of Air Spell#Chariot of Air]]
-
-___
 # Diabolism
+___
 ![[Gleam Spell#Gleam]]
 ___
-
+# Elementalism (Specialty)
+___
+![[Chariot of Air Spell#Chariot of Air]]
+___
+![[Stormspeech Spell#Stormspeech]]
+___
+# Rope Tricks
+___
+![[Length of a String Spell#Length of a String]]
 ___
 <!--*See also:* 
 *References:*
