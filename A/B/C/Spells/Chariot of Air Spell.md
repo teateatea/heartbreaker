@@ -22,7 +22,7 @@ Buffeted this way and that, no subtle action may be taken, nor communication att
 
 Despite the many voices they have stolen, these creatures communicate by caresses and only madly wail in confusion if not in contact with the sorcerer. 
 
-The sorcerer may carry up to $L\:\div$ 2 human-sized creatures with them.
+The sorcerer may carry up to $L$ $\div$ 2 human-sized creatures with them.
 
 ---
 *$L$ is the level of the Magic-User casting this Spell.*
