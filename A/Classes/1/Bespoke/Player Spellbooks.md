@@ -13,7 +13,7 @@ Magic-Users generally have Spellbooks, tomes containing arcane knowledge. For th
 
 *I won't be compiling all spells from all sources, only the specific spells acquired by individual players.*
 
-[[Eli's Spellbook]]
+### [[Eli's Spellbook]]
 
 ___
 <!--*See also:* 

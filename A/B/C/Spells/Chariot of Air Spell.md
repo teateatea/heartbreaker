@@ -13,7 +13,6 @@ spell_level: [1]
 # Chariot of Air
 ___
 **Casting Time:** 1 action
-**[[Spell Ranges|Range]]:** 
 **Target:** Self
 
 **Duration:** $L$ turns

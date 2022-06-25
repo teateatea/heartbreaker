@@ -9,10 +9,14 @@ creation_date: [2022-06-25]
 <!-- Home | Character Creation | -->
 [[home|Home]] | [[home|Home]] | [[Magic-User]] | [[Player Spellbooks]] | **Eli's Spellbook**
 ___
+![[Blackstaff Spell#Blackstaff]]
+___
 ![[Chariot of Air Spell#Chariot of Air]]
 ___
-> [!NOTE] Geas
-> ![[Geas Spell#Geas]]
+![[Geas Spell#Geas]]
+___
+![[Gleam Spell#Gleam]]
+___
 
 ___
 <!--*See also:* 
