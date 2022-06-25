@@ -22,7 +22,7 @@ ___
 # Elementalism
 ___
 ## Elementalism Specialist: $L$ = $5$
-When casting Elementalism Spells, $L$ equals $L$ + the number of Elementalism Spells you know. Currently, Eli is 3rd Level, with 2 Elementalism Spells.
+When casting Elementalism Spells, $L$ is equal to $L$ + the number of Elementalism Spells you know. Currently, Eli is 3rd Level, plus 2 Elementalism Spells.
 
 ___
 ![[Chariot of Air Spell#Chariot of Air]]
