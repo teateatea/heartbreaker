@@ -11,8 +11,8 @@ ___
 *Wizards study the [[Principia Arcana]], the most advanced paradigm taught by the [[Phandalin Schola Legio Arcana (PSLA)|Phandalin Schola Legio Arcana]]. Their spells are a menagerie of diverse spell-creature-bullets, bound and controlled by the soul.*
 
 ## Starting Equipment
-- Spellbook, with 2 Spells
-- 2 [[Dagger|Daggers (1d4)]]
+- Spellbook (containing *Conjure Calamity*, and 2 additional Spells).
+- 2 [[Dagger|Daggers (1d4)]].
 ___
 ## Summary of Prepared Magic
 This page is a summary of Prepared Magic, describing what you need to know to get started as a Wizard. Links on this page generally reference **[[Prepared Magic]]**, which covers the full rules. When you need to draw upon your full capabilities, see **[[Unleashed Magic]]**.
@@ -25,7 +25,7 @@ ___
 ### Starting Spells
 *Spells, enchantments, ghosts, and souls are all more or less the same, living creatures ranging widely in strength and intelligence.*
 
-**At 1st Level, the Wizard's [[Prepared Magic#Spellbooks|Spellbook]] contains 2 [[Spells]].**
+**At 1st Level, the Wizard's [[Prepared Magic#Spellbooks|Spellbook]] contains *Conjure Calamity,* and 2 additional [[Spells]].**
 
 **Roll d100 twice.** Choose one of the rolled spells: Your Spellbook now contains that Spell, allowing it to be **[[Prepared Magic#Preparing Spells|Prepared]]**. Repeat this process to choose your second Spell.
 
@@ -36,9 +36,9 @@ ___
 *Wizards train the ability to bind these magical "anima" to their brain: A well-trained brain is a mind-gun loaded with spell-bullets.*
 
 <!-- *How many spell-creatures can you feed with your soul-energy?*-->
-The Wizard has **[[Prepared Magic#Spell Slots|Spell Slots]]**, indicating the number of **[[Prepared Magic#Spells|Spells]]** they can safely **[[Prepared Magic#Preparing Spells|Prepare]]** each day. See the ***Wizard Spell Slots per Day Table*** below.
+**The Wizard has [[Prepared Magic#Spell Slots|Spell Slots]], the number of [[Prepared Magic#Spells|Spells]] they can safely [[Prepared Magic#Preparing Spells|Prepare]] each morning.** See the ***Wizard Spell Slots per Day Table*** below.
 
-Spell Slots are described by their Circle, indicating the amount of soul-energy allocated to them.
+**Spell Slots are described by their Circle, indicating the amount of soul-energy allocated to them.**
 
 > Wizard initiates wield 1st Circle Spells, while powerful casters might wield 5th, or even 6th Circle Spells.
 
@@ -54,20 +54,20 @@ Spell Slots are described by their Circle, indicating the amount of soul-energy 
 
 ___
 ### Preparing Spells
-**The Wizard must spend an hour to [[Prepared Magic#Preparing Spells|Prepare Spells]] from their [[Prepared Magic#Spellbooks|Spellbook]], usually in the morning.**
+**The Wizard must spend an hour to [[Prepared Magic#Preparing Spells|Prepare]] Spells from their [[Prepared Magic#Spellbooks|Spellbook]], usually in the morning.**
 
-**You may fill each available Spell Slot with one Spell from your Spellbook.**
+**You may fill each available Spell Slot with one Spell from your Spellbook.** To Prepare a Spell more than once, the Wizard's Spellbook must contain multiple copies of that Spell.
 
-**When Casting a Spell, you gain a bonus to $L$ equal to the Circle of that Spell Slot used to Prepare that Spell**
+**When Casting a Spell, you gain a bonus to $L$ equal to the Circle of the Spell Slot used to Prepare that Spell**
 
 > For example, Zizard is a **3rd** Level Wizard, who prepares **Acid Arrow** into her **2nd** Circle Spell Slot. When she casts it, her $L$ equals **5**, meaning she'll roll 5d4 acid damage.
-
-**To Prepare a Spell more than once, the Wizard's Spellbook must contain multiple copies of that Spell.**
 
 **Wizards cannot Cast Spells they haven't Prepared,** but they may choose to **[[Unleashed Magic#Over-Binding|Over-Bind]]**, binding more spells to their souls than they can actually feed. *(This carries associated risks.*)
 
 **Once a Prepared Spell is Cast, it becomes unavailable until the next dawn** *(when the Wizard may again Prepare that Spell from their Spellbook).*
 
+___
+*$L$ is the level of the magic-user casting this spell.*
 ___
 ### Cantrips
 <!-- ##### *Parlour tricks.* -->
@@ -84,7 +84,7 @@ Cantrips are subject to GM approval, but in general, they are significantly weak
 <!-- - % Multiple copies of a spell are required for the wizard to prepare a spell more than once. *(If your spellbook only contains one Light spell-creature, you cannot cast it twice.)*-->
 ___
 ### Conjure Calamity
-At any time, a Prepared Spell may be consumed to Conjure Calamity, instead of Casting it regularly. That "Spell" is already in your Spellbook.
+At any time, a Prepared Spell may be consumed to Conjure Calamity, instead of Casting it regularly. This Spell is already in your Spellbook.
 
 Each Wizard's calamity is unique, and should be determined at the time of character creation by the choice of a single additional descriptor _(fire, lightning, shadow, ice, acid, etc)_. This can also cause secondary effects when appropriate _(igniting flammable objects, freezing a small pool, etc)_.
 
