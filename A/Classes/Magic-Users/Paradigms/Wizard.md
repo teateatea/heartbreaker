@@ -27,10 +27,10 @@ ___
 
 **At 1st Level, your [[Prepared Magic#Spellbooks|Spellbook]] contains *Conjure Calamity,* and 2 additional [[Spells]].**
 
-**Roll d100 twice.** Choose one of the rolled spells: Your Spellbook now contains that Spell, allowing it to be **[[Prepared Magic#Preparing Spells|Prepared]]**. Repeat this process to choose your second Spell.
+**Roll d100 twice.** Choose one of the rolled spells: Your Spellbook now contains that Spell, allowing it to be **[[Prepared Magic#Preparing Spells|Prepared]]**. Repeat this process to choose your second and third Spells.
 
 ##### Levelling Up
-**Each time you gain a Level, add 2 Spells to your Spellbook,** using the above process. You may add duplicates of Spells you already have.
+**Each time you gain a Level, add 3 Spells to your Spellbook,** using the above process. You may add duplicates of Spells you already have.
 ___
 ### Spell Slots
 *Wizards train the ability to bind these magical "anima" to their brain: A well-trained brain is a mind-gun loaded with spell-bullets.*

@@ -29,8 +29,9 @@ If the Bonus changed, make the relevant changes around your Character Sheet now 
 ___
 ### 2. Roll Hit Points (HP)
 Roll your Hit Dice for this Level, plus [CON $\times$ Level].
-- If the result is greater than your current HP, set this as your new Max HP.
-- If the result is equal or lower than your current HP, add only your CON to your Max HP.
+- If the total is greater than your current Max HP, set this as your new Max HP.
+- If the result is equal to or lower than your current Max HP, add only your CON to your Max HP.
+- If the result is still lower than your current HP, increase your Max HP by 1.
 
 > For example, Kena is a Fighter with 13 HP, +2 CON, and is advancing to 3rd Level. 
 > - He rolls 3d8 (because he's a Fighter),
