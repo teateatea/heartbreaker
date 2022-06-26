@@ -10,6 +10,7 @@ creation_date: [2022-06-25]
 [[home|Home]] | [[Magic-User]] | [[Player Spellbooks]] | **Eli's Spellbook**
 ___
 ![[Maleficence#Maleficence]]
+___
 # Cunning Craft Spells
 ___
 ![[Blackstaff Spell#Blackstaff]]
