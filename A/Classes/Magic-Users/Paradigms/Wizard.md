@@ -83,7 +83,7 @@ Cantrips are subject to GM approval, but in general, they are significantly weak
 <!--*temporarily binding the spell-creatures to their brains.*-->
 <!-- - % Multiple copies of a spell are required for the wizard to prepare a spell more than once. *(If your spellbook only contains one Light spell-creature, you cannot cast it twice.)*-->
 ___
-### Conjure Calamity
+### [[Conjure Calamity]]
 At any time, a Prepared Spell may be consumed to Conjure Calamity, instead of Casting it regularly. This Spell is already in your Spellbook.
 
 Each Wizard's calamity is unique, and should be determined at the time of character creation by the choice of a single additional descriptor _(fire, lightning, shadow, ice, acid, etc)_. This can also cause secondary effects when appropriate _(igniting flammable objects, freezing a small pool, etc)_.

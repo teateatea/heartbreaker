@@ -10,9 +10,10 @@ creation_date: [2022-06-11]
 ##### [[Cunning Craft]]
 ## Blackstaff
 ___
-**Casting Time:** 1 action
+**Casting Time:** 1 action.
 **Target:** Staff, cudgel, or other two-handed, blunt weapon.
-**Duration:** $L$ turns
+**[[Spell Ranges|Range]]:** Touch.
+**Duration:** $L$ turns.
 
 *The caster places their sigil on a staff or cudgel, traditionally taken from a sloe.*
 

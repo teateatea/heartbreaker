@@ -17,7 +17,7 @@ ___
 **[[Spell Ranges|Range]]:** Bedevilled creatures must initially be within line of sight.
 **Duration:** $L$ turns.
 
-Conjure a hovering magical spirit of radiance that does not shed heat, does not require air, and is not doused by water. A gleam per level may be summoned and the illumination of each is similar to torchlight.
+Summon up to $L$ gleams, hovering magical spirits of radiance that do not shed heat, do not require air, and cannot be doused by water. The illumination of each is similar to torchlight.
 
 Gleams may be directed to bedevil enemies, which will cause temporary blindness if a **saving throw** is failed as long as the spirit remains engaged. 
 

@@ -9,10 +9,9 @@ version: 2022-03-15 v1-3
 *See also:* [[Spells]], [[Torian Wizards|Wizards]], [[Maroian Magicians|Magicians]]
 ## Conjure Calamity
 ___
-**[[Spell Ranges|Range]]:** 150'
+**Casting Time:** 1 action
 **Target:** Adjacent creatures, or one visible target
-
-**Duration:** 1 round
+**[[Spell Ranges|Range]]:** 150'
 **Damage:** $HD$ + $L$
 
 Any prepared spell may be expended to conjure calamity.
