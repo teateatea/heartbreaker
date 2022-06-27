@@ -11,7 +11,7 @@ ___
 **The Big Picture** | [[The Martel Ledger]] | [[Mission Payouts]] | [[Loot For Sale]]
 ___
 # [[The Martel Ledger]]
-<iframe width="800" height="350"| src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=670216080&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="800" height="400"|  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8koqQI7UguyKc5hc3-NVz8z0aIPSHfpEtQYHasR1bUfS-MZbcsPiUatUkWHjBr2Vpw_Lext0cw2Xf/pubhtml?gid=1260052208&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 *See **[[The Martel Ledger]]** for more details about Character accounts.*
 
