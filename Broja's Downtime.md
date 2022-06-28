@@ -54,11 +54,11 @@ Grants the wearer protection against fire.
 
 ### Cold Iron Plate Armour - Considerations
 #### Heroic Armour (passive)
-##### Cost: 5,000 GP, +10 days
+Cost: 5,000 GP, +10 days
 The articulated gorget projects a nearly-invisible protective bubble over the wearers head. No need for a helmet, show off that pretty face!
 
 #### Guilded Armour
-##### Cost: 1,000 GP, +2 days
+**Cost: 1,000 GP, +2 days**
 Any style of decoration you desire!
 
 #### Hermetic Seal (with activation)
