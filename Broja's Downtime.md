@@ -10,7 +10,7 @@ creation_date: [2022-06-28]
 [[home|Home]] | [[Open Table]] | [[Downtime Activities]] | **Broja's Downtime**
 ___
 # Fire-Proof Armour
-*A quote comes back from Phandalin.*
+*A quote comes back from Phandalin, in Tor.*
 
 > Mr. Broja,
 > 
@@ -46,11 +46,11 @@ Grants the wearer protection against fire.
 - **Fire-based damage:** Is halved. (Each die inflicts a minimum of 1 hit point damage.)
 - **Cold Iron Helmet:** Gain advantage to all saving throws versus [[Enchantment Magic|Enchantments and Charms]] of [[Fae]] origin.
 
-**Iron Sclerite:** Once per day, as an action, you may activate your armour. For $R$ turns, fire damage you take is reduced to 0.
-- **Elemental Batteries:** This armour is powered by Elemental cores. There are 6 slots in the back of the armour, one of which is already filled.
-	- 1 Water Imp Core is included in the price: +1 $R$
+**Iron Sclerite:** As an action, you may activate your armour. For up to $R$ turns per day, fire damage you take is reduced to 0.
+- **Elemental Energy:** This armour is powered by Elemental cores. There are 6 slots in the back of the armour, one of which is already filled.
+	- A Water Imp Core is included in the price: +1 $R$
 	- The Resistance gained ($R$) is equal to the HD of the cooling Elemental whose core has been connected to the suit.
-	- Elemental cores work best if their source is cooling (*e.g. Water, Ice, Alcohol).* Some secondary Elements may work suboptimally *(e.g. Ooze, Ink),* and can be expected to provide $R$ equal to half their HD.
+	- Elemental cores work best if their source is cooling (*e.g. Water, Ice, Alcohol).* Some secondary Elements may work suboptimally *(e.g. Ooze, Ink, Mud),* and can be expected to provide $R$ equal to half their HD.
 
 ### Cold Iron Plate Armour - Considerations
 #### Heroic Armour (passive)
@@ -71,7 +71,7 @@ Necessary if you intend to spend time in any space without air for longer than y
 - Uses 1 Core Slot, lasting $B$ turns.
 	- The Breathing gained ($B$) is equal to the HD of the air Elemental whose core has been connected to the suit.
 
-#### Additional Elemental Batteries
+#### Additional Elemental Cores
 - **Water Imp Cores:** +1 Resistance (500 GP).
 - **Water Elemental Cores:** +4 Resistance (2,000 GP).
 - **Air Imp Core:** +1 Breathing (500 GP).
