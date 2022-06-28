@@ -23,14 +23,14 @@ ___
 
 ___
 ### **Ring of Fire Resistance**
-##### **Cost:** 2,000 GP
+**Cost: 2,000 GP**
 Grants the wearer protection against fire.
 - **Normal fire:** Unharmed by non-magical fire.
 - **Save bonus:** Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.
 - **Fire-based damage:** Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)
 ___
 ### **Ring of Superior Fire Resistance**
-##### **Cost:** 10,000 GP
+**Cost: 10,000 GP**
 
 Grants the wearer protection against fire.
 - **Normal fire:** Unharmed by non-magical fire.
@@ -38,7 +38,7 @@ Grants the wearer protection against fire.
 - **Fire-based damage:** Is halved. (Each die inflicts a minimum of 1 hit point damage.)
 ___
 ### **Cold Iron Plate Armour** (AC 16, 6 slots)
-##### **Cost:** 20,000 GP & 6-8 weeks
+**Cost: 20,000 GP & 6-8 weeks**
 
 Grants the wearer protection against fire.
 - **Normal fire:** Unharmed by non-magical fire.
@@ -54,7 +54,7 @@ Grants the wearer protection against fire.
 
 ### Cold Iron Plate Armour - Considerations
 #### Heroic Armour (passive)
-Cost: 5,000 GP, +10 days
+**Cost: 5,000 GP, +10 days**
 The articulated gorget projects a nearly-invisible protective bubble over the wearers head. No need for a helmet, show off that pretty face!
 
 #### Guilded Armour
@@ -62,11 +62,11 @@ The articulated gorget projects a nearly-invisible protective bubble over the we
 Any style of decoration you desire!
 
 #### Hermetic Seal (with activation)
-##### Cost: 1,000 GP, +1 day
+**Cost: 1,000 GP, +1 day**
 Necessary if you intend to be submerged in lava, as opposed to only walking through fire.
 
 #### Breathing Spell (with activation) 
-##### Cost: 1,000 GP, +1 day
+**Cost: 1,000 GP, +1 day**
 Necessary if you intend to spend time in any space without air for longer than you can hold your breath *(e.g. raging infernos, lakes of lava).*
 - Uses 1 Core Slot, lasting $B$ turns.
 	- The Breathing gained ($B$) is equal to the HD of the air Elemental whose core has been connected to the suit.
