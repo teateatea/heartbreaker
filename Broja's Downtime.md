@@ -10,9 +10,13 @@ creation_date: [2022-06-28]
 [[home|Home]] | [[Open Table]] | [[Downtime Activities]] | **Broja's Downtime**
 ___
 # Fire-Proof Armour
-*A quote comes back from the House Revere, in Phandalin.*
+*A quote comes back from Phandalin.*
 
-> We are most encouraged by your request, and have described the following options below. If you require immediate protection, please choose a Ring as they do not require bespoke assembly.
+> Mr. Broja,
+> 
+> We are most encouraged by a request by a man of your stature, and have described several fitting options below. I sincerely believe that you will be most pleased with the possibilities we can bestow upon you.
+> 
+> If you require immediate protection, please choose a Ring as they do not require bespoke assembly.
 > 
 > Yours,
 > [[Modestia of the House Revere]]
@@ -32,6 +36,24 @@ Grants the wearer protection against fire.
 - **Normal fire:** Unharmed by non-magical fire.
 - **Save bonus:** Gain advantage to all saving throws versus fire-based magical or breath attacks.
 - **Fire-based damage:** Is halved. (Each die inflicts a minimum of 1 hit point damage.)
+___
+### **Cold Iron Plate Armour** (AC 16, 6 slots)
+##### **Cost:** 20,000 GP & 6-8 weeks
+
+Grants the wearer protection against fire.
+- **Normal fire:** Unharmed by non-magical fire.
+- **Fire Resistance:** Gain advantage to all saving throws versus fire-based magical or breath attacks.
+- **Fire-based damage:** Is halved. (Each die inflicts a minimum of 1 hit point damage.)
+- **Cold Iron Helmet:** Gain advantage to all saving throws versus [[Enchantment Magic|Enchantments and Charms]] of [[Fae]] origin.
+
+**Iron Sclerite:** Once per day, as an action, you may activate your armour. For ***R*** turns, fire damage you take is reduced to 0.
+- **Elemental Batteries:** This armour is powered by Elemental cores. There are 6 slots in the back of the armour.
+    - ***R*** is equal to the HD of the Elemental whose core has been connected to the suit.
+    - Elemental cores work best if their source is cooling (*e.g. Water, Ice, Alcohol) *
+    - Some secondary Elements may work suboptimally *(e.g. Ooze, Ink, Air),* and can be expected to provide ***R*** equal to half their HD.
+    - 1 Water Imp Core is included in the price: ***R*** = +1.
+
+
 
 ___
 <!--*See also:* 
