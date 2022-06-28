@@ -52,7 +52,7 @@ Grants the wearer protection against fire.
 	- The Resistance gained ($R$) is equal to the HD of the cooling Elemental whose core has been connected to the suit.
 	- Elemental cores work best if their source is cooling (*e.g. Water, Ice, Alcohol).* Some secondary Elements may work suboptimally *(e.g. Ooze, Ink, Air),* and can be expected to provide $R$ equal to half their HD.
 
-### Cold Iron Plate - Options
+### Cold Iron Plate Armour - Considerations
 #### Heroic Armour (passive)
 ##### Cost: 5,000 GP, +10 days
 Projects a nearly-invisible protective bubble over the wearers head. No need for a helmet, show off that pretty face!
