@@ -19,6 +19,7 @@ ___
 ### Downtime Between Sessions
 **[[Martel Debt]]**
 **[[Time Keeping]]** | **[[Lock Downs]]**
+**[[Downtime Activities]]**
 
 ### The Martel Ledger
 **[[The Big Picture]]**
