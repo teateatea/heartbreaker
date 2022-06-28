@@ -46,13 +46,35 @@ Grants the wearer protection against fire.
 - **Fire-based damage:** Is halved. (Each die inflicts a minimum of 1 hit point damage.)
 - **Cold Iron Helmet:** Gain advantage to all saving throws versus [[Enchantment Magic|Enchantments and Charms]] of [[Fae]] origin.
 
-**Iron Sclerite:** Once per day, as an action, you may activate your armour. For ***R*** turns, fire damage you take is reduced to 0.
-- **Elemental Batteries:** This armour is powered by Elemental cores. There are 6 slots in the back of the armour.
-    - ***R*** is equal to the HD of the Elemental whose core has been connected to the suit.
-    - Elemental cores work best if their source is cooling (*e.g. Water, Ice, Alcohol) *
-    - Some secondary Elements may work suboptimally *(e.g. Ooze, Ink, Air),* and can be expected to provide ***R*** equal to half their HD.
-    - 1 Water Imp Core is included in the price: ***R*** = +1.
+**Iron Sclerite:** Once per day, as an action, you may activate your armour. For $R$ turns, fire damage you take is reduced to 0.
+- **Elemental Batteries:** This armour is powered by Elemental cores. There are 6 slots in the back of the armour, one of which is already filled.
+	- 1 Water Imp Core is included in the price: $R$ = +1.
+	- The Resistance gained ($R$) is equal to the HD of the cooling Elemental whose core has been connected to the suit.
+	- Elemental cores work best if their source is cooling (*e.g. Water, Ice, Alcohol).* Some secondary Elements may work suboptimally *(e.g. Ooze, Ink, Air),* and can be expected to provide $R$ equal to half their HD.
 
+### Cold Iron Plate - Options
+#### Heroic Armour (passive)
+##### Cost: 5,000 GP, +10 days
+Projects a nearly-invisible protective bubble over the wearers head. No need for a helmet, show off that pretty face!
+
+#### Guilded Armour
+##### Cost: 1,000 GP, +2 days
+Any style of decoration you desire!
+
+#### Hermetic Seal (with activation)
+##### Cost: 1,000 GP, +1 day
+Necessary if you intend to be submerged in lava, as opposed to only walking through fire.
+
+#### Breathing Spell (with activation) 
+##### Cost: 1,000 GP, +1 day
+Necessary if you intend to spend time in any space without air for longer than you can hold your breath (e.g. raging infernos, lakes of lava).
+- Uses 1 Core Slot, lasting $B$ turns.
+
+#### Additional Elemental Batteries
+- **Water Imp Cores:** +1 Resistance (500 GP).
+- **Water Elemental Cores:** +4 Resistance (2,000 GP).
+- **Air Imp Core:** +1 Breathing (500 GP).
+- **Air Elemental Core:** +4 Breathing (2,000 GP).
 
 
 ___
