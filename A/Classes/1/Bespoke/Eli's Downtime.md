@@ -15,7 +15,7 @@ ___
 
 > Ms Eli of the Martels,
 > 
-> We would be most honoured to accommodate your request. As you know, teleportation magic varies dramatically in scope, so a range of options have been provided.
+> We would be most honoured to accommodate your request. As you know, translocation magic varies dramatically in scope, so a range of options have been provided.
 >
 > We have included quotes for spell scrolls which you may find sufficient for your goals. These do not require our expertise, and can be ordered through our partners at the [[Shushan Scaena Esoterica]] (due to your shared affinities, of course).
 > 
