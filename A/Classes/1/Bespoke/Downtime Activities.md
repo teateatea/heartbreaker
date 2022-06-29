@@ -19,8 +19,8 @@ It's impossible to list every possible way to spend money, so instead, please me
 
 ___
 ### [[Broja's Downtime]]
-### [[Eli's Downtime]]
 ### [[Datmanh's Downtime]]
+### [[Eli's Downtime]]
 
 ___
 The above pages aren't private, but no effort will be made to make them legible to anybody other than the relevant Players.
