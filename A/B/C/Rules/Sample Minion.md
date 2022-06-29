@@ -7,7 +7,7 @@ template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-18]
 ---
 # Sample Minion
-*See also:* 
+*See also:* [[Building Minion Encounters]]
 ___
 
 ### Sample Minion

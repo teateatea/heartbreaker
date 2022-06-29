@@ -6,11 +6,9 @@ date: [2022-04-18]
 template_version: [NOTE-2022-03-17]
 creation_date: [2022-04-18]
 ---
-# Minion Statistics by Challenge Rating
 *See also:* 
+## Minion Statistics by Challenge Rating
 ___
-
-##### Minion Statistics by Challenge Rating
 | CR  | Prof. Bonus | Hit Points | Damage |
 | --- | ----------- | ---------- | ------ |
 | 0   | +2          | ≤4         | 1      |
@@ -47,3 +45,4 @@ ___
 | 28  | +8          | 71–73      | 29     |
 | 29  | +9          | 74–76      | 30     |
 | 30  | +9          | 77–80      | 31     |
+___
