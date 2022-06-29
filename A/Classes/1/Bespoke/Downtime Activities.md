@@ -18,9 +18,10 @@ ___
 It's impossible to list every possible way to spend money, so instead, please message me the things you think your Character would spend their money on. *(Please do actually message it to me, because it's easier to stay organized when it's saved somewhere other than my brain lol.)*
 
 ___
-The below pages aren't exactly private, but I'm going to make no effort to make them legible to anybody other than the relevant Players.
 ### [[Broja's Downtime]]
+### [[Eli's Downtime]]
 
+The above pages aren't exactly private, but I'm going to make no effort to make them legible to anybody other than the relevant Players.
 ___
 <!--*See also:* 
 *References:*

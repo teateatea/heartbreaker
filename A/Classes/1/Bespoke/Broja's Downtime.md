@@ -10,16 +10,17 @@ creation_date: [2022-06-28]
 [[home|Home]] | [[Open Table]] | [[Downtime Activities]] | **Broja's Downtime**
 ___
 # Fire-Proof Armour
-*A quote comes back from Phandalin, in Tor.*
+*A letter comes from Phandalin, in Tor.*
 
 > Mr. Broja,
 > 
-> We are most encouraged by a request from a man of your stature, and have described several fitting options below. I sincerely believe that you will be most pleased with the possibilities we can bestow upon you.
+> We are most encouraged by a request from a man of your stature, and we sincerely believe that you will be more than satisfied with the pieces we provide. Please find the descriptions of several items from our catalogue that fit your specific needs below.
 > 
-> If you require immediate protection, please choose a Ring as they do not require bespoke assembly.
+> If you require immediate protection, please choose a Ring as they do not require bespoke assembly, and can be sent immediately.
 > 
 > Yours,
 > [[Modestia of House Revere]]
+> 
 
 ___
 ### **Ring of Fire Resistance**
