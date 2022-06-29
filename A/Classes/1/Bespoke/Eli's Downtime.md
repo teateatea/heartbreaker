@@ -15,11 +15,11 @@ ___
 
 > Ms Eli of the Martels,
 > 
-> We would be most honoured to accommodate your request. As you know, teleportation magic varies dramatically in scope, so a range of options have been provided below.
+> We would be most honoured to accommodate your request. As you know, teleportation magic varies dramatically in scope, so a range of options have been provided.
 >
 > We have included quotes for spell scrolls which you may find sufficient for your goals. These do not require our expertise, and can be ordered through our partners at the [[Shushan Scaena Esoterica]] (due to your shared affinities, of course).
 > 
-> You will find two Key designs, one by our own Sanctum Esoterica, and the other by our Yellow City partners. Either would facilitate your returns from abroad, and come with our guarantee of non-interposition.
+> Below, you will find two Key designs, one by our own Sanctum Esoterica, and the other by our Yellow City partners. Either would facilitate your returns from abroad, and come with our guarantee of non-interposition.
 > 
 > Please note, however, that this type of magic interacts with Gates in extremely unpredictable ways. We recommend thoroughly assessing any door before use, to avoid magical catastrophes.
 > 
