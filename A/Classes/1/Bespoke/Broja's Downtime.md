@@ -58,6 +58,8 @@ Grants the wearer protection against fire.
 **Cost: 5,000 GP, +10 days**
 The articulated gorget projects a nearly-invisible protective bubble over the wearers head. No need for a helmet, show off that pretty face!
 
+*Replaces Cold Iron Helmet.*
+
 #### Guilded Armour
 **Cost: 1,000 GP, +2 days**
 Any style of decoration you desire!
@@ -68,7 +70,7 @@ Necessary if you intend to be submerged in lava, as opposed to only walking thro
 
 #### Breathing Spell (with activation) 
 **Cost: 1,000 GP, +1 day**
-Necessary if you intend to spend time in any space without air for longer than you can hold your breath *(e.g. raging infernos, lakes of lava).*
+Necessary if you intend to spend time in any space without air, for longer than you can hold your breath *(e.g. raging infernos, lakes of lava).*
 - Uses 1 Core Slot, lasting $B$ turns.
 	- The Breathing gained ($B$) is equal to the HD of the air Elemental whose core has been connected to the suit.
 
