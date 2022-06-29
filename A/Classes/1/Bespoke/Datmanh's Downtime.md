@@ -12,12 +12,12 @@ ___
 # A Sword
 *A letter comes from [[Rathcairn (City)|Raithcairn]], on the [[The Redridge Mountains|Redridge]].*
 
-> Mr Datmanh, representing the Martel Company.
+> **MR DATMANH, REPRESENTING THE MARTEL COMPANY.**
 >
-> You have come to the correct place. Please specify your preferences.
+> **YOU HAVE COME TO THE CORRECT PLACE. PLEASE SPECIFY YOUR PREFERENCES.**
 > 
-> [[Leon Tannen of the Rathcairn Dwarf Assembly|Leon Tannen]], representing the [[Rathcairn Dwarvish Assembly|Bùth-Obrach Troich Rath Càrn]]
-> **HAIL [[Saint Acobi|ACOBI]]**
+> [[Leon Tannen of the Rathcairn Dwarf Assembly|LEON TANNEN]], REPRESENTING [[Rathcairn Dwarvish Assembly|BÙTH-OBRACH TROICH RATH CÀRN]].
+> **HAIL [[Saint Acobi|ACOBI]]**.
 
 ___
 ### **Returning Sword (1d8)**
