@@ -16,7 +16,7 @@ ___
 >
 > **YOU HAVE COME TO THE CORRECT PLACE. PLEASE SPECIFY YOUR PREFERENCES.**
 > 
-> [[Leon Tannen of the Rathcairn Dwarf Assembly|LEON TANNEN]], REPRESENTING [[Rathcairn Dwarvish Assembly|BÙTH-OBRACH TROICH RATH CÀRN]].
+> [[Leon Tannen of the Rathcairn Dwarf Assembly|LEON III]], REPRESENTING [[Rathcairn Dwarvish Assembly|BÙTH-OBRACH TROICH RATH CÀRN]].
 > **HAIL [[Saint Acobi|ACOBI]]**.
 
 ___
