@@ -57,7 +57,7 @@ Carried and worn possessions are conveyed as well, though there is a 50% chance 
 
 Unwilling creatures may **save vs spells** to resist.
 ___
-### Traveller's Key & Hearthlock (18,000 GP & 4-6 weeks)
+### Traveller's Key & Hearthlock (17,000 GP & 4-6 weeks)
 #### Hearthlock / Hearthdoor
 This deadbolt functions as a regular door lock, but also acts as a permanent portal anchor. The door this is installed into is called the Hearthdoor.
 
