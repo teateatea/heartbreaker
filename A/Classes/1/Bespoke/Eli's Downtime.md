@@ -74,7 +74,7 @@ Once the key is removed, and the door closed, the Hearthdoor will function as a 
 
 Only one Traveller's Door exists at a time, but it can change locations.
 ___
-### Suin-Key (28,000 GP, 6 weeks)
+### Suin-Key (28,000 GP, 8-10 weeks)
 #### Suin-Door
 This door functions as a regular door, but also acts as a semi-permanent portal anchor. The door has two sides: Gold filigree on the exterior, electrum trim on the interior.
 
