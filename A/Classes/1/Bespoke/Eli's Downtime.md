@@ -9,7 +9,6 @@ creation_date: [2022-06-29]
 <!-- Home | Character Creation | -->
 [[home|Home]] | [[Open Table]] | [[Downtime Activities]] | **Eli's Downtime**
 ___
-**Note from Jo:** I realize this is a lot of text lmao. I'm happy to summarize it in person, this one kind of got away from me.
 # A Key That Takes Me Home
 *A letter comes from [[Tal'Arrar]], in Tor.*
 
@@ -30,7 +29,9 @@ ___
 > [[The Sanctum Esoterica|The Tal'Arrar Sanctum Esoterica]]
 
 ___
-### Portal Spell Scroll (1,850 GP)
+### Portal Spell Scroll
+**Cost: 1,850 GP**
+
 **Casting Time:** 1 [[Exploration turn|Turn]] per sigil.
 **[[Spell Ranges|Range]]:** Inscribing sigils is [[Touch (Spell Range)|Touch]].
 **Target:** Two doors.
@@ -43,7 +44,9 @@ A traveller stepping into one steps out of the other, with directionality of tra
 This spell only works on doors of established essence, and is permanent, but closing the door after it has been opened from the sigil side destroys the enchantment and the sigils.
 
 ---
-### Revisitation Spell Scroll (2,400 GP)
+### Revisitation Spell Scroll 
+**Cost: 2,400 GP**
+
 **Casting Time:** Full round action; 1 [[Exploration turn|Turn]] to inscribe the Return Sigil.
 **[[Spell Ranges|Range]]:** 10 foot [[Burst|burst]].
 **Target:** Up to $L$ creatures.
@@ -57,7 +60,9 @@ Carried and worn possessions are conveyed as well, though there is a 50% chance 
 
 Unwilling creatures may **save vs spells** to resist.
 ___
-### Traveller's Key & Hearthlock (17,000 GP & 4-6 weeks)
+### Traveller's Key & Hearthlock
+**Cost: 17,000 GP & 4-6 weeks**
+
 #### Hearthlock / Hearthdoor
 This deadbolt functions as a regular door lock, but also acts as a permanent portal anchor. The door this is installed into is called the Hearthdoor.
 
@@ -73,8 +78,11 @@ While the doors are open, any creature stepping through the Traveller's Door ste
 Once the key is removed, and the door closed, the Hearthdoor will function as a mundane door again, and the Traveller's Door is locked, but does not disappear. The two doors remain linked, and knocking on the Traveller's Door will be heard from the Hearthdoor. Unlocking the Hearthdoor from the wrought iron interior will lead back to the last Traveller's Door that was opened.
 
 Only one Traveller's Door exists at a time, but it can change locations.
+
 ___
-### Suin-Key (28,000 GP, 8-10 weeks)
+### Suin-Key
+**Cost: 28,000 GP, 8-10 weeks**
+
 #### Suin-Door
 This door functions as a regular door, but also acts as a semi-permanent portal anchor. The door has two sides: Gold filigree on the exterior, electrum trim on the interior.
 
@@ -85,6 +93,29 @@ When the Suin-Key is inserted into the keyhole of any other door, a gold or elec
 
 While unlocked, keys appear in the keyholes on both facings of the door (a gold key on one side, an electrum key on the other). The door must be relocked to remove a key, which unlinks that door and returns it to its' original appearance. The other door remains as the Suin-Door.
 
+___
+### Teleportation Circle
+Teleportation Circles exist as a secure arrival points for Teleport Spells. While expensive, Circles are a small price to pay to prevent interference with often very sensitive deliveries. We at the Sanctum Esoterica do not teleport our families with anything less than the utmost assurances.
+
+Teleportation Circles require other Teleportation Glyphs in order to function as an exit station.
+
+#### Quote for Teleportation Circle Installation
+**Cost: 10,000 GP for assessment, contributes to your final payment.**
+- **Estimate: 300,000 - 500,000 GP, 3-5 years *(rush options available)***
+
+#### Quote for Translocation Ward Infrastructure
+**Cost: 4,000 GP for assessment, contributes to your final payment.**
+- **Estimate: 50,000 - 300,000 GP, depending on planar orientation.**
+- **Highly recommended.** This is the equivalent to keeping a lock on the front door of your home. Opening a Teleportation Circle without Wards invites *any* planar being to visit, at their convenience.
+
+#### Planautic Communication Channel
+**Cost: 100,000 GP, 6-12 months.
+- **Highly recommended.** Without this, communication with inbound travellers is unreliable, or impossible. Teleporting without checking the status of the destination Circle can have disastrous consequences.
+
+#### Teleportation Glyph Registration
+**Cost: 16,000 GP, contributes to your final payment.**
+- Assessment and registration by the **[[Phandalin Schola Legio Arcana (PSLA)|Phandalin Schola Legio Arcana]]**.
+- **Highly recommended.** This connects your Teleportation Circle to the Torian Network, and grants access to their Teleportation Glyphs in exchange for yours. Also grants access to their PCC when travelling within the Network.
 ___
 <!--*See also:* 
 *References:*
