@@ -32,7 +32,7 @@ A large ship that's near-permanently moored to the Port. The Martels mostly stay
 ## The *Crimson Coin - Tavern* 
 There aren't a lot of options, so everybody spends a lot of time here.
 
-The trainers live here, usually 8-10 combat instructors, and 3-5 magic teachers. There's also a rat-trainer.
+The trainers live here, usually 8-10 combat instructors, and 3-5 magic teachers. There's also a rat-trainer, and a veteran with an eyepatch.
 
 ## A well
 Near the Crimson Coin. Central, and fairly inland. The water is crisp.
