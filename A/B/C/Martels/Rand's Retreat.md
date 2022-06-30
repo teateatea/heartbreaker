@@ -60,7 +60,7 @@ There aren't any animals yet.
 ## A cleared field
 A lot of physical training happens here.
 
-Some gymnastics equipment has been set up: beams, wooden horses, and trapeze bars.
+Some gymnastics equipment has been set up: balance beams, hurdles, wooden horses, and trapeze bars.
 
 ## The Carpenter
 This is a smaller barn that's been kitted out with a workshop to process tropical lumber for building construction and ship repair. In a pinch, the Carpenter is also the Surgeon.
