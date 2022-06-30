@@ -20,7 +20,7 @@ ___
 > 
 > **OR DESCRIBE YOUR INTENT.**
 > 
-> **[[Leon Tannen of the Rathcairn Dwarf Assembly|LEON ETH]], REPRESENTING [[Rathcairn Dwarvish Assembly|BÙTH-OBRACH TROICH RATH CÀRN]].**
+> **[[Leon Tannen of the Rathcairn Dwarf Assembly|LEON ETH]], REPRESENTING [[Rathcairn (Dwarvish) Assembly|BÙTH-OBRACH RATH CÀRN]].**
 > 
 > **HAIL [[Saint Acobi|ACOBI]]**.
 
