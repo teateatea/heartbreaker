@@ -21,11 +21,11 @@ ___
 
 **"Ha, and one those little guard-bees even got uppity with me before I sat his skinny ass back down. Kid hasn't been taught enough lessons in his life, thinking he can stomp around like that."**
 
-**"Yeah, and then his bitch-ass captain tried to give me a talking to, as if *she* was any more threatening than a gopher. With her stupid little *'épée.'*"**
+**"Yeah, and then his bitch-ass captain tried to give me a talking to, as if *she* was any more threatening than a gopher. With her stupid little *épée.*"**
 
 > [Lassie spits on the floor.]
 
-**"Yeah, something about 'deportation,'" as if I really wanted to be here in the first place. Like, fuck, just threaten to kill me you sweaty pig, do you think I'm scared of going home?"**
+**"Yeah, something about 'deportation,' as if I really wanted to be here in the first place. Like, fuck, just threaten to kill me you sweaty pig, do you think I'm scared of going home?"**
 
 **"So how the hell did you land yourself in this shit-hole?"**
 
@@ -33,7 +33,7 @@ ___
 
 **"Does anybody here even have active combat experience? Or you all just wave knives around like a bunch of kids?"**
 
-**"What the fuck did you just say? 'Adventure' my ass, you'll just get yourself killed. You know what, I've made up my mind. I'm going to whip you into shape."**
+**"What the fuck did you just say? 'Adventurer' my ass, you'll just get yourself killed. Or worse. You know what, I've made up my mind. I'm going to whip you into shape. Get up."**
 
 > *No, an actual shape you lumpy pile of shit. Gods I have so much work to do.*
 ___
