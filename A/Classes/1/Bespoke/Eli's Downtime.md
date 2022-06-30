@@ -110,7 +110,7 @@ Teleportation Circles require other Teleportation Glyphs in order to function as
 **Highly recommended.** This is the equivalent to keeping a lock on the front door of your home. Opening a Teleportation Circle without Wards invites *any* planar being to visit, at their convenience.
 
 #### Planautic Communication Channel
-**Cost: 100,000 GP, 6-12 months.**
+**Cost: 100,000 GP, +6-12 months.**
 
 **Highly recommended.** Without this, communication with inbound travellers is unreliable, or impossible. Teleporting without checking the status of the destination Circle can have disastrous consequences.
 
