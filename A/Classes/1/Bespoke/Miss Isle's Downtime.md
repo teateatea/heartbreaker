@@ -10,7 +10,7 @@ creation_date: [2022-06-30]
 [[home|Home]] | [[Open Table]] | [[Downtime Activities]] | **Miss Isle's Downtime**
 ___
 **Note from Jo: Very Under Construction.**
-# Training with an Old Pal
+# Meeting an Old Pal
 *Someone you know joins you at the tavern.*
 ___
 **"Haha! Long time no see, old friend!"**
@@ -38,28 +38,28 @@ ___
 > *No, an actual shape you lumpy pile of shit. Gods I have so much work to do.*
 ___
 # Training Regimen
-Six weeks training from [[2022-05-15|June 15th]] to [[2022-06-30|July 20th]]:
-#### Improve Fat Situation
+Six weeks training from [[2022-05-15|June 15th]] to [[2022-06-30|July 20th]].
+### Improve Fat Situation
 Choose one:
 - **Flabby -> Stout**
 - **Flabby -> Brawny**
+
+___
+### [[Specialist]]: Stealth
+Lemme get back to you on the stealth, that's a probably yes, I just don't know the details lol.
+
+### Healing Items
+Healing.. Mundane medicine is gonna be slow for the pace of adventuring. Want healing items?
+___
 
 
 Train with an old pal that lost an eye during the great war. And have an insane regime that requires me to parkcore
 
 My old pal is gonna be called Lassie and shes retired and angry at the world for being so weak. Shes training me cause she see potential underneath my flabby body
 
-
-___
-### [[Specialist]]
-Lemme get back to you on the stealth, that's a probably yes, I just don't know the details lol.
-
 ### Discipline?
 Fighting... Yeah you're already getting that by training as a Fighter, so indirectly yes? I'm happy to workshop a new discipline for you if you have something specific in mind!
 
-### Healing
-Healing.. Mundane medicine is gonna be slow for the pace of adventuring. Want healing items?
-___
 ### **Ring of Fire Resistance**
 **Cost: 2,000 GP**
 Grants the wearer protection against fire.
