@@ -101,21 +101,24 @@ Teleportation Circles require other Teleportation Glyphs in order to function as
 
 #### Quote for Teleportation Circle Installation
 **Cost: 10,000 GP for assessment, contributes to your final payment.**
-- **Estimate: 300,000 - 500,000 GP, 3-5 years *(rush options available)***
+**Estimate: 300,000 - 500,000 GP, 3-5 years *(rush options available)***
 
 #### Quote for Translocation Ward Infrastructure
 **Cost: 4,000 GP for assessment, contributes to your final payment.**
-- **Estimate: 50,000 - 300,000 GP, depending on planar orientation.**
-- **Highly recommended.** This is the equivalent to keeping a lock on the front door of your home. Opening a Teleportation Circle without Wards invites *any* planar being to visit, at their convenience.
+**Estimate: 50,000 - 300,000 GP, depending on planar orientation.**
+
+**Highly recommended.** This is the equivalent to keeping a lock on the front door of your home. Opening a Teleportation Circle without Wards invites *any* planar being to visit, at their convenience.
 
 #### Planautic Communication Channel
-**Cost: 100,000 GP, 6-12 months.
-- **Highly recommended.** Without this, communication with inbound travellers is unreliable, or impossible. Teleporting without checking the status of the destination Circle can have disastrous consequences.
+**Cost: 100,000 GP, 6-12 months.**
+
+**Highly recommended.** Without this, communication with inbound travellers is unreliable, or impossible. Teleporting without checking the status of the destination Circle can have disastrous consequences.
 
 #### Teleportation Glyph Registration
 **Cost: 16,000 GP, contributes to your final payment.**
-- Assessment and registration by the **[[Phandalin Schola Legio Arcana (PSLA)|Phandalin Schola Legio Arcana]]**.
-- **Highly recommended.** This connects your Teleportation Circle to the Torian Network, and grants access to their Teleportation Glyphs in exchange for yours. Also grants access to their PCC when travelling within the Network.
+Assessment and registration by the **[[Phandalin Schola Legio Arcana (PSLA)|Phandalin Schola Legio Arcana]]**.
+
+**Highly recommended.** This connects your Teleportation Circle to the Torian Network, and grants access to their Teleportation Glyphs in exchange for yours. Also grants access to their PCC when travelling within the Network.
 ___
 <!--*See also:* 
 *References:*
