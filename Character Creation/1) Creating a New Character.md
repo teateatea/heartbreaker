@@ -27,7 +27,7 @@ Choose or roll a **d20** on each of the ***[[OSE - 01-01 - Background & Appearan
 ![[1) Creating a New Character image 1.png]]
 
 ### 2. Roll Ability Scores
-Roll **3d6** for each of your Character’s **[[Ability Scores|Ability Scores:]]*** **Constitution**, **Strength**, **Dexterity**, **Intelligence**, **Wisdom**, and **Charisma**.
+Roll **3d6** for each of your Character’s **[[Ability Scores|Ability Scores:]]*** **Constitution,** **Strength,** **Dexterity,** **Intelligence,** **Wisdom,** and **Charisma.**
 
 ![[1) Creating a New Character image 2.png]]
 
