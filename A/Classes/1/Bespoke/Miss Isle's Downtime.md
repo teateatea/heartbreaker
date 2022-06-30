@@ -11,57 +11,43 @@ creation_date: [2022-06-30]
 ___
 **Note from Jo: Very Under Construction.**
 # Training with an Old Pal
-*A letter comes from Phandalin, in Tor.*
-
-> Mr. Broja,
-> 
-> We are most encouraged by a request from a man of your stature, and we sincerely believe that you will be more than satisfied with the pieces we provide. Please find the descriptions of several items from our catalogue that fit your specific needs below.
-> 
-> If you require immediate protection, please choose a Ring as they do not require bespoke assembly, and can be sent immediately.
-> 
-> Yours,
-> [[Modestia of House Revere]]
-> 
-
+*Someone you know joins you at the tavern.*
 ___
-"Haha! Long time no see, old friend!"
+**"Haha! Long time no see, old friend!"**
 
 > Holy shit, you got fat.
 
-"Six weeks on a tub and I figured there'd be more of reception for me. Not just this... disappointing bucket of slop."
+**"Six weeks on a tub and I figured there'd be more of reception for me. Not this... disappointing bucket of slop."**
 
-"Ha, and one those guard-bees even got uppity with me before I sat his skinny ass back down."
+**"Ha, and one those little guard-bees even got uppity with me before I sat his skinny ass back down. Kid hasn't been taught enough lessons in his life, thinking he can stomp around like that."**
 
-"Yeah, and then his bitch-ass captain tried to give me a talking to, as if *she* was any more threatening than a gopher. With her little *'épée.'*"
+**"Yeah, and then his bitch-ass captain tried to give me a talking to, as if *she* was any more threatening than a gopher. With her stupid little *'épée.'*"**
 
 > [Lassie spits on the floor.]
 
-"Yeah, something about 'deportation,'" as if I really wanted to be here in the first place. Like, fuck, just threaten to kill me you sweaty pig, do you think I'm scared of going home?"
+**"Yeah, something about 'deportation,'" as if I really wanted to be here in the first place. Like, fuck, just threaten to kill me you sweaty pig, do you think I'm scared of going home?"**
 
-"So how the hell did you land yourself in this shit-hole?"
+**"So how the hell did you land yourself in this shit-hole?"**
 
 > *Fuck we trained so much did you just forget how to run?*
 
-"Does anybody here even have active combat experience? Or you all just wave knives around like a bunch of kids?"
+**"Does anybody here even have active combat experience? Or you all just wave knives around like a bunch of kids?"**
 
-"What the fuck did you just say? 'Adventure' my ass, you'll just get yourself killed. You know what, I've made up my mind. I'm going to whip you into shape."
+**"What the fuck did you just say? 'Adventure' my ass, you'll just get yourself killed. You know what, I've made up my mind. I'm going to whip you into shape."**
 
 > *No, an actual shape you lumpy pile of shit. Gods I have so much work to do.*
 ___
+# Training Regimen
+Six weeks training from [[2022-05-15|June 15th]] to [[2022-06-30|July 20th]]:
+#### Improve Fat Situation
+Choose one:
+- **Flabby -> Stout**
+- **Flabby -> Brawny**
 
 
 Train with an old pal that lost an eye during the great war. And have an insane regime that requires me to parkcore
 
 My old pal is gonna be called Lassie and shes retired and angry at the world for being so weak. Shes training me cause she see potential underneath my flabby body
-
-
-### Physique Change
-Six weeks training from [[2022-05-15|June 15th]] to [[2022-06-30|July 20th]]:
-#### Improve Fat Situation
-- **Flabby -> Stout**
-- **Flabby -> Brawny**
-
-
 
 
 ___
