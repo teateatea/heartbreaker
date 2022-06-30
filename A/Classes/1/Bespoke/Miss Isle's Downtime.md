@@ -38,15 +38,15 @@ ___
 > *No, an actual shape you lumpy pile of shit. Gods I have so much work to do.*
 ___
 # Training Regimen
-Training with Lassie for six weeks, from [[2022-05-15|June 15th]] to [[2022-06-30|July 20th]].
+Training with Lassie for six weeks, from [[2022-05-15|June 15th]] to [[2022-06-30|July 30th]].
 ### Improve Fat Situation
 Choose one:
-- **Flabby -> Stout**
-- **Flabby -> Brawny**
+- **Flabby -> Stout.**
+- **Flabby -> Brawny.**
 
 ___
 # Smithing
-### Silver-Glass (Brittle 2)
+### Silver-Glass (Sword 1d8, Brittle 2)
 **800 GP - Mithril Base:** Cuts any metal softer than iron.
 **200 GP - Silver:** +1d6 damage against magical creatures
 **600 GP - Mindglass:** The souls of those killed are trapped within the weapon.
