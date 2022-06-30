@@ -31,22 +31,25 @@ Roll **3d6** for each of your Character’s **[[Ability Scores|Ability Scores:]]
 
 ![[1) Creating a New Character image 2.png]]
 
-##### ***a) Sub-Par Characters***
-If you roll a Character with very poor Ability scores (either 8 or less in every score, or 6 or less in one score) you may reroll the lowest score.
+##### ***a) Note Ability Modifiers & Bonuses***
+Note the associated bonuses for each Ability score, based on the tables below.
 
-##### ***b) Adjust Ability Scores***
+- ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]*** 
+
+![[1) Creating a New Character image 3.png]]
+
+##### ***b) Sub-Par Characters***
+If the sum of your Character's Ability Modifiers is -2 or less, you may reroll one Ability Score.
+
+<!-- If you roll a Character with very poor Ability scores (either 8 or less in every score, or 6 or less in one score) you may reroll the lowest score.-->
+
+##### ***c) Adjust Ability Scores***
 If you wish, choose any two Ability scores, and swap their scores.
 
 *For example, you could switch your scores for Strength and Intelligence.*
 
-##### ***c) Note Ability Modifiers & Bonuses***
-Note the associated bonuses for each Ability score, based on the tables overleaf. 
 
-- ***[[OSE - 01-02 - Ability Scores - 2020-07-20.pdf|Ability Score Bonuses PDF]]*** 
-
-![[Ability Modifier Example Images 2022-04-26.png]]
-
-
+##### d) Attribute Bonuses
 Modifiers affect other attributes on your Character sheet too, such as Constitution providing a Bonus to your HP. Note those now.
 
 *Each Ability score gives a Bonus to other attributes, such as CON improving your Max HP. Use the second boxes to note your Bonuses now, as well as all the relevant attributes affected by those Bonuses.*
