@@ -46,8 +46,8 @@ Choose one:
 
 ___
 # Smithing
-### Silver-Glass (Brittle 2, 1,300 GP)
-**500 GP - Mithril Base:** Cuts any metal softer than iron.
+### Silver-Glass (Brittle 2)
+**800 GP - Mithril Base:** Cuts any metal softer than iron.
 **200 GP - Silver:** +1d6 damage against magical creatures
 **600 GP - Mindglass:** The souls of those killed are trapped within the weapon.
 
