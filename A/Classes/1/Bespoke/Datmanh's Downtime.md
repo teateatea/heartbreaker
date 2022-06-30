@@ -12,15 +12,13 @@ ___
 # A Sword That Comes Back
 *A letter comes from [[Rathcairn (City)|Raithcairn]], on the [[The Redridge Mountains|Redridge Mountains]].*
 
-> **MR DATMANH, REPRESENTING THE MARTEL COMPANY.**
+> **TO MR DATMANH, REPRESENTING THE MARTEL COMPANY.**
 >
-> **YOU HAVE COME TO THE CORRECT PLACE.**
+> **YOU HAVE COME TO THE CORRECT PLACE. OUR WEAPONS WILL BRING YOU GLORY.**
 > 
-> **PLEASE SPECIFY YOUR PREFERENCE,**
+> **WE MAKE SEVERAL WEAPONS MATCHING YOUR DESCRIPTION. PLEASE SPECIFY YOUR PREFERENCE, OR DESCRIBE YOUR INTENT IN GREATER DETAIL.**
 > 
-> **OR DESCRIBE YOUR INTENT.**
-> 
-> **[[Leon Tannen of the Rathcairn Dwarf Assembly|LEON ETH]], REPRESENTING [[Rathcairn (Dwarvish) Assembly|BÙTH-OBRACH RATH CÀRN]].**
+> **FROM [[Leon Tannen of the Rathcairn Dwarf Assembly|LEON ETH]], REPRESENTING [[Rathcairn (Dwarvish) Assembly|BÙTH-OBRACH RATH CÀRN]].**
 > 
 > **HAIL [[Saint Acobi|ACOBI]]**.
 
