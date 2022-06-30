@@ -46,7 +46,7 @@ Melee, Missile (5'-10' / **11'-20'** / 21'-30').
 - **Retribution:** As a reaction, you may recall your sword. Treat this as a **Drive,** starting from the blade's current location, targeting your hand. If the blade would come to a rest within 5' feet of you, it instead returns to your hand.
 
 ___
-### Wrathful Sword (1d10)
+### Wrathful Sword (1d10, 2 slots)
 **Cost: 16,500 GP**
 
 Melee, Missile (5'-10' / **11'-20'** / 21'-30'), slow, two-handed.
