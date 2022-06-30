@@ -38,7 +38,7 @@ ___
 > *No, an actual shape you lumpy pile of shit. Gods I have so much work to do.*
 ___
 # Training Regimen
-Six weeks training from [[2022-05-15|June 15th]] to [[2022-06-30|July 20th]].
+Training with Lassie for six weeks, from [[2022-05-15|June 15th]] to [[2022-06-30|July 20th]].
 ### Improve Fat Situation
 Choose one:
 - **Flabby -> Stout**
