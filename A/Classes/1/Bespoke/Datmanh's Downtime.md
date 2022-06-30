@@ -24,34 +24,35 @@ ___
 
 ___
 ### **Returning Blade (1d8)**
-**Cost: 4,000 GP**
+**Cost: 2,000 GP**
 
 Melee, Missile (5'-10' / **11'-20'** / 21'-30').
 - **Returning:** As a reaction, you may recall your sword. It reappears in your hand.
 
 ___
 ### Scornful Blade (1d8)
-**Cost: 8,000 GP**
+**Cost: 5,000 GP**
 
 Melee, Missile (5'-10' / **11'-20'** / 21'-30').
-- **Scornful Drive:** When thrown, draw a line to a target location within range. Roll to attack each creatures in that line, in order from closest to furthest. After the first hit *(and after dealing damage),* the blade comes to a rest behind the hit creature. If another creature is immediately behind the first, it takes 1d6 damage.
-- **Retribution:** As a reaction, you may recall your sword. Treat this as a **Drive,** starting from the blade's current location, targeting your hand. If the blade would come to a rest within 5' feet of you, it instead returns to your hand.
+- **Scornful Drive (1d8):** When thrown, draw a line to a visible location within range. Roll to attack each creature in that line, in order from closest to furthest. After the first hit *(and after dealing damage),* the blade comes to a rest behind the hit creature. If another creature is immediately behind the first, it takes 1d6 damage.
+- **Retribution:** As a reaction, you may recall your sword. Treat this as a **Drive (1d6),** starting from the blade's current location, targeting your hand. If the blade would come to a rest within 5' feet of you, it instead returns to your hand.
 
 ___
 ### Vengeful Blade (1d8)
-**Cost: 11,000 GP**
+**Cost: 9,500 GP**
 
 Melee, Missile (5'-10' / **11'-20'** / 21'-30').
-- **Vengeful Drive:** When thrown, draw a line to a target location within range. Roll to attack each creature in that line, in order from closest to furthest. The first creature hit receives full damage (1d8), then for all further hits the die steps down by one (1d6, then 1d4, then 1d3). The sword comes to a rest at the target location, or stops at the fourth creature (who received 1d3 damage).
-- **Retribution:** As a reaction, you may recall your sword. Treat this as a **Drive,** starting from the blade's current location, targeting your hand. If the blade would come to a rest within 5' feet of you, it instead returns to your hand.
+- **Vengeful Drive (1d8):** When thrown, draw a line to a visible location within range. Roll to attack each creature in that line, in order from closest to furthest. The first creature hit receives full damage (1d8), then step the damage die down once for each additional hit (1d6, then 1d4, then 1d3). The sword stops at the fourth creature (who received 1d3 damage), or else lands at the target location.
+- **Retribution:** As a reaction, you may recall your sword. Treat this as a **Drive (1d6),** starting from the blade's current location, targeting your hand. If the blade would come to a rest within 5' feet of you, it instead returns to your hand.
 
 ___
 ### Wrathful Sword (1d10, 2 slots)
-**Cost: 16,500 GP**
+**Cost: 15,000 GP**
 
 Melee, Missile (5'-10' / **11'-20'** / 21'-30'), slow, two-handed.
-- **Wrathful Drive:** When thrown, draw a line to a target location within range. Roll to attack each creature in that line, in order from closest to furthest. The first creature hit receives full damage (1d10), then for all further hits the die steps down by one (1d8, then 1d6, then 1d4, then 1d3). The sword comes to a rest at the target location, or stops at the fifth creature (who received 1d3 damage).
-- **Retribution:** As a reaction, you may recall your sword. Treat this as a **Drive,** starting from the blade's current location, targeting your hand. If the blade would come to a rest within 5' feet of you, it instead returns to your hand.
+- **Wrathful Drive (1d10):** When thrown, draw a line to a visible location within range. Roll to attack each creature in that line, in order from closest to furthest. The first creature hit receives full damage (1d10), step the damage die down once for each additional hit (1d8, then 1d6, then 1d4, then 1d3).The sword stops at the fifth creature (who received 1d3 damage), or else lands at the target location.
+- **Retribution:** As a reaction, you may recall your sword. Treat this as a **Drive (1d8),** starting from the blade's current location, targeting your hands. If the blade would come to a rest within 5' feet of you, it instead returns to your hands.
+
 
 
 ___
