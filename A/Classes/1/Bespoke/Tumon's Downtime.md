@@ -14,13 +14,12 @@ ___
 
 > Mr. Tumon,
 > 
-> We are most encouraged by a request from a man of your stature, and we sincerely believe that you will be more than satisfied with the pieces we provide. Please find the descriptions of several items from our catalogue that fit your specific needs below.
+> We would be delighted to explore the options available to a man of your stature, and sincerely believe that you will be more than satisfied with the pieces we can provide. Please find the descriptions of several items that may fit your needs below.
 > 
 > If you require immediate protection, please choose a Ring as they do not require bespoke assembly, and can be sent immediately.
 > 
 > Yours,
-> [[Modestia of House Revere]]
-> 
+> [[Melina of House Revere]]
 
 ___
 ### **Ring of Fire Resistance**
