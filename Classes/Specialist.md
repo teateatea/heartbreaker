@@ -9,6 +9,8 @@ creation_date: [2022-06-22]
 <!-- Home | Character Creation | -->
 [[home|Home]] | **Specialist**
 ___
+# Under Construction
+
 *Fighters are adventurers because they are so inured to death that they cannot settle down to a normal life. Magic-Users are those that have pursued the dark arts and are no longer welcome in society. Clerics are charged by their god to go forth and perform their special duties.*
 
 ***Specialists**? They do it because they want to. Whether inspired by greed, boredom, or idle curiosity, Specialists are professional explorers risking life and limb simply because a less active life is distasteful to them. In some ways this makes them the only sane and normal adventuring characters, but in other ways it makes them the most unusual.*
