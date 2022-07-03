@@ -22,4 +22,4 @@ Melee (1d6), Missile (5'-10' / **11'-20'** / 21'-30').
 - **Catch!** If the blade would come within 5' feet of you, it instead returns to your hands.
 
 ___
-
+***See also: Weapons for Jess***
