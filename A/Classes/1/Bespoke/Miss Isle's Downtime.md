@@ -9,7 +9,6 @@ creation_date: [2022-06-30]
 <!-- Home | Character Creation | -->
 [[home|Home]] | [[Open Table]] | [[Downtime Activities]] | **Miss Isle's Downtime**
 ___
-**Note from Jo: Very Under Construction.**
 # Meeting an Old Pal
 *Someone you know joins you at the tavern.*
 ___
@@ -36,13 +35,23 @@ ___
 **"What the fuck did you just say? 'Adventurer' my ass, you'll just get yourself killed. Or worse. You know what, I've made up my mind. I'm going to whip you into shape. Get up."**
 
 > *No, an actual shape you lumpy pile of shit. Gods I have so much work to do.*
+
+
 ___
 # Training Regimen
 Training with Lassie for six weeks, from [[2022-05-15|June 15th]] to [[2022-06-30|July 30th]].
-### Improve Fat Situation
+### Improve Fat Situation (2,000 GP)
 Choose one:
 - **Flabby -> Stout.**
 - **Flabby -> Brawny.**
+
+### Training a Skill: Stealth
+***Current Skill Level:* Stealth 1-in-6 chance of success.**
+
+For each +1 Skill Point:
+1. **1,200 GP** & 1 month: Stealth 2-in-6.
+2. **2,400 GP** & 2 months: Stealth 3-in-6.
+3. **4,800 GP** & 3 months: Stealth 4-in-6.
 
 ___
 # Smithing
@@ -57,26 +66,14 @@ ___
 - **600 GP - Mindglass:** The souls of those killed are trapped within the weapon.
 
 ___
-# To Do Work In Progress
+# Healing Item
+### Potion of Healing
+**Cost: 1,000 GP**
 
-### [[Specialist]]: Stealth
-Lemme get back to you on the stealth, that's a probably yes, I just don't know the details lol.
-
-### Healing Items
-Healing.. Mundane medicine is gonna be slow for the pace of adventuring. Want healing items?
-___
-
-
-Train with an old pal that lost an eye during the great war. And have an insane regime that requires me to parkcore
-
-My old pal is gonna be called Lassie and shes retired and angry at the world for being so weak. Shes training me cause she see potential underneath my flabby body
-
-### Discipline?
-Fighting... Yeah you're already getting that by training as a Fighter, so indirectly yes? I'm happy to workshop a new discipline for you if you have something specific in mind!
-
-### **Ring of Fire Resistance**
-**Cost: 2,000 GP**
-Grants the wearer protection against fire.
+Has one of two effects on the character who drinks it:
+1. **Healing a living subject:** Restores 1d6+1 hit points of damage. This cannot grant more hit points than the subject’s normal maximum.
+	- **Accelerated healing:** Healing this way always results in a scar. Note the location and appearance of the scar on your character sheet.
+2. **Curing paralysis:** Paralysing effects are negated.
 
 ___
 <!--*See also:* 
