@@ -57,7 +57,7 @@ ___
 - **600 GP - Mindglass:** The souls of those killed are trapped within the weapon.
 
 ___
-# To Do
+# To Do Work In Progress
 
 ### [[Specialist]]: Stealth
 Lemme get back to you on the stealth, that's a probably yes, I just don't know the details lol.
