@@ -29,9 +29,11 @@ ___
 
 **[[Holy-Man]]** ([[Mystic of Vymjir|Mystics]])
 
+**[[Specialist]]**
+
 **[[Bespoke]]**
 
-<!--**~~Specialist~~** (*not yet!*)-->
+<!--**~~~~** (*not yet!*)-->
 
 ___
 ## [[Open Table]]
