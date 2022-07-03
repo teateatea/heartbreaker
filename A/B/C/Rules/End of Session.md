@@ -24,7 +24,7 @@ If PCs are still on the island when the Session ends, they each must roll on the
 |                                                     |           |
 | You have a clear and unhindered path of escape.     | DC -25    |
 | You are in a coastal hex.                           | DC -10    |
-| You can hear ocean waves.                               | DC -10          |
+| You have smoke bags to signal the ship.             | DC -10    |
 
 <!-- 15% chance you're fail to escape, - 1.5% = 13.5% -->
 On a success, you escape the island unharmed. On a failure, roll on the **Failed Escapes** table.
