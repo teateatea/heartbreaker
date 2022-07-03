@@ -46,10 +46,15 @@ Choose one:
 
 ___
 # Smithing
+### Basic Infrastructure
+- **500 GP - Anvil**
+- **400 GP - Small Crucible**
+- **600 GP - Basic Forge**
+- **200 GP - Basic Smithing Equipment:** heavy leather gloves, smithing apron, tongs, hammers, molds, etc.
 ### Silver-Glass (Sword 1d8, Brittle 2)
-**800 GP - Mithril Base:** Cuts any metal softer than iron.
-**200 GP - Silver:** +1d6 damage against magical creatures
-**600 GP - Mindglass:** The souls of those killed are trapped within the weapon.
+- **800 GP - Mithril Base:** Cuts any metal softer than iron.
+- **200 GP - Silver:** +1d6 damage against magical creatures
+- **600 GP - Mindglass:** The souls of those killed are trapped within the weapon.
 
 ___
 # To Do

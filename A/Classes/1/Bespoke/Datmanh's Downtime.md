@@ -32,7 +32,7 @@ Melee (1d6), Missile (5'-10' / **11'-20'** / 21'-30').
 	- **Consistent Direction:** Each turn must be made to the same side as the first turn.
 	- **Irregular Distances:** The blade may travel 15', 20' or 25' before or after turning, but cannot travel the same distance twice in a row.
 - **Retribution:** As a reaction on the same round you throw the blade, you may recall the blade. Draw a **$1$-Arc Path** starting from the blade's current location, then roll to hit each creature as if this were a continuation of **Spiteful Arc.**
-- **Catch!** If the blade would come within 5' feet of you, it instead returns to your hands.
+- **Catch!** If the blade would come within 5' feet of you, it returns to your hands instead.
 
 ___
 > **TO MR DATMANH, REPRESENTING THE MARTEL COMPANY.**
