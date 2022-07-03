@@ -67,6 +67,17 @@ ___
 
 ___
 # Healing Item
+*A letter comes from Phandalin, in Tor.*
+
+> Miss Isle of the Martel Company
+> 
+> You will find the cost and details of the relevant items below. As you do not wield Magic, the options within our standard catologue are somewhat limited.
+> 
+> If you are interested in a bespoke piece, please provide further details on your needs and preferences.
+> 
+> Yours,
+> [[Modestia of House Revere]]
+> 
 ### Potion of Healing
 **Cost: 1,000 GP**
 
